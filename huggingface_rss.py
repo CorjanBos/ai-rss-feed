@@ -3,12 +3,15 @@ from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 import aiohttp
 from dateutil import parser as date_parser
+import os
 
 
 class HuggingFaceBlogRSSGenerator:
     def __init__(self):
         self.base_url = "https://huggingface.co/blog"
         self.api_url = "https://huggingface.co/api/blog"
+        self.rss_dir = "rss"
+        self.rss_file = os.path.join(self.rss_dir, "huggingface_blog_rss.xml")
 
     def parse_date(self, date_text):
         try:
@@ -85,7 +88,7 @@ class HuggingFaceBlogRSSGenerator:
         feed.link(href=self.base_url, rel='alternate')
         feed.description('Latest posts from HuggingFace Blog')
         feed.language('en')
-        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/huggingface_blog_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/huggingface_blog_rss.xml', rel='self')
         
         return feed
 
@@ -108,6 +111,8 @@ class HuggingFacePapersRSSGenerator:
     def __init__(self):
         self.base_url = "https://huggingface.co/papers/trending"
         self.api_url = "https://huggingface.co/api/daily_papers"
+        self.rss_dir = "rss"
+        self.rss_file = os.path.join(self.rss_dir, "huggingface_papers_rss.xml")
 
     def parse_date(self, date_text):
         try:
@@ -186,7 +191,7 @@ class HuggingFacePapersRSSGenerator:
         feed.link(href=self.base_url, rel='alternate')
         feed.description('Trending AI papers on HuggingFace')
         feed.language('en')
-        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/huggingface_papers_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/huggingface_papers_rss.xml', rel='self')
         
         return feed
 
@@ -210,7 +215,9 @@ async def main():
     blog_data = await blog_generator.fetch_posts()
     blog_rss = blog_generator.generate_rss(blog_data)
     
-    with open('huggingface_blog_rss.xml', 'wb') as f:
+    os.makedirs(blog_generator.rss_dir, exist_ok=True)
+    
+    with open(blog_generator.rss_file, 'wb') as f:
         f.write(blog_rss)
     
     print("\nHuggingFace Blog RSS feed generated successfully!")
@@ -220,7 +227,7 @@ async def main():
     papers_data = await papers_generator.fetch_papers()
     papers_rss = papers_generator.generate_rss(papers_data)
     
-    with open('huggingface_papers_rss.xml', 'wb') as f:
+    with open(papers_generator.rss_file, 'wb') as f:
         f.write(papers_rss)
     
     print("\nHuggingFace Papers RSS feed generated successfully!")

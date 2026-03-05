@@ -5,11 +5,14 @@ import aiohttp
 from dateutil import parser as date_parser
 import re
 import json
+import os
 
 
 class DeepLearningRSSGenerator:
     def __init__(self):
         self.base_url = "https://www.deeplearning.ai/the-batch"
+        self.rss_dir = "rss"
+        self.rss_file = os.path.join(self.rss_dir, "deeplearning_the_batch_rss.xml")
 
     def parse_date(self, date_text):
         try:
@@ -77,7 +80,7 @@ class DeepLearningRSSGenerator:
         feed.link(href=self.base_url, rel='alternate')
         feed.description('Weekly AI News and Insights from DeepLearning.AI')
         feed.language('en')
-        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/deeplearning_the_batch_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/deeplearning_the_batch_rss.xml', rel='self')
         
         return feed
 
@@ -101,7 +104,9 @@ async def main():
     articles_data = await generator.fetch_posts()
     rss_content = generator.generate_rss(articles_data)
     
-    with open('deeplearning_the_batch_rss.xml', 'wb') as f:
+    os.makedirs(generator.rss_dir, exist_ok=True)
+    
+    with open(generator.rss_file, 'wb') as f:
         f.write(rss_content)
     
     print("RSS feed generated successfully!")

@@ -5,10 +5,13 @@ import aiohttp
 from bs4 import BeautifulSoup
 import re
 from dateutil import parser as date_parser
+import os
 
 class AnthropicRSSGenerator:
     def __init__(self):
         self.base_url = "https://www.anthropic.com/engineering"
+        self.rss_dir = "rss"
+        self.rss_file = os.path.join(self.rss_dir, "anthropic_engineering_rss.xml")
 
     def parse_date(self, date_text):
         """Parse date text and return a datetime object with timezone"""
@@ -89,7 +92,7 @@ class AnthropicRSSGenerator:
         
         # Add atom:link with rel="self" for better interoperability
         # This should be updated to match your actual GitHub Pages URL
-        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/anthropic_engineering_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/anthropic_engineering_rss.xml', rel='self')
         
         return feed
 
@@ -116,8 +119,9 @@ async def main():
     articles_data = await generator.fetch_posts()
     rss_content = generator.generate_rss(articles_data)
     
-    # Write to file
-    with open('anthropic_engineering_rss.xml', 'wb') as f:
+    os.makedirs(generator.rss_dir, exist_ok=True)
+    
+    with open(generator.rss_file, 'wb') as f:
         f.write(rss_content)
     
     print("RSS feed generated successfully!")

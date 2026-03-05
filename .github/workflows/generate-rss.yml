@@ -41,5 +41,5 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add *.xml github_trending_data/
+        git add rss/ github_trending_data/
         git diff --staged --quiet || (git commit -m "Update RSS feeds - $(date -u)" && git push "https://${{ secrets.ANTHROPIC_RSS_GH_TOKEN || github.token }}@github.com/${{ github.repository }}.git" HEAD:main)

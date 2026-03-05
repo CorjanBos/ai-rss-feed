@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 10:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:37:39 +0000</lastBuildDate>
     <item>
       <title>AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation</title>
       <link>https://huggingface.co/papers/2602.17100</link>
@@ -134,15 +134,6 @@ Recent advances in large language models (LLMs) have enabled increasingly capabl
 Test-time policy adaptation for multi-turn interactions (T2PAM) is essential for aligning Large Language Models (LLMs) with dynamic user needs during inference time. However, existing paradigms commonly treat test-time adaptation as a single-axis problem, either purely refining instructions (Prompt ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01375</guid>
       <pubDate>Mon, 02 Mar 2026 02:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models</title>
-      <link>https://huggingface.co/papers/2603.01400</link>
-      <description>By Jinlong Li, Liyuan Jiang, Haonan Zhang, Nicu Sebe
-
-Video Large Language Models (VLLMs) demonstrate strong video understanding but suffer from inefficiency due to redundant visual tokens. Existing pruning primary targets intra-frame spatial redundancy or prunes inside the LLM with shallow-layer overhead, yielding suboptimal spatiotemporal reduction a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01400</guid>
-      <pubDate>Mon, 02 Mar 2026 03:06:40 +0000</pubDate>
     </item>
     <item>
       <title>SciDER: Scientific Data-centric End-to-end Researcher</title>
@@ -298,6 +289,15 @@ Vision-Language-Action (VLA) models are a promising path toward embodied intelli
       <pubDate>Tue, 03 Mar 2026 17:52:06 +0000</pubDate>
     </item>
     <item>
+      <title>Specificity-aware reinforcement learning for fine-grained open-world classification</title>
+      <link>https://huggingface.co/papers/2603.03197</link>
+      <description>By Samuele Angheben, Davide Berasi, Alessandro Conti, Elisa Ricci, Yiming Wang
+
+Classifying fine-grained visual concepts under open-world settings, i.e., without a predefined label set, demands models to be both accurate and specific. Recent reasoning Large Multimodal Models (LMMs) exhibit strong visual understanding capability but tend to produce overly generic predictions whe...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.03197</guid>
+      <pubDate>Tue, 03 Mar 2026 17:52:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?</title>
       <link>https://huggingface.co/papers/2603.03202</link>
       <description>By Dadi Guo, Yuejin Xie, Qingyu Liu, Jiayu Liu, Zhiyuan Fan, et al.
@@ -316,15 +316,6 @@ Agentic language models operate in a fundamentally different safety regime than 
       <pubDate>Tue, 03 Mar 2026 17:59:35 +0000</pubDate>
     </item>
     <item>
-      <title>UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?</title>
-      <link>https://huggingface.co/papers/2603.03241</link>
-      <description>By Zimo Wen, Boxiu Li, Wanbo Zhang, Junxiang Lei, Xiaoyu Chen, et al.
-
-Unified multimodal models have recently demonstrated strong generative capabilities, yet whether and when generation improves understanding remains unclear. Existing benchmarks lack a systematic exploration of the specific tasks where generation facilitates understanding. To this end, we introduce U...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03241</guid>
-      <pubDate>Tue, 03 Mar 2026 18:36:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Beyond Language Modeling: An Exploration of Multimodal Pretraining</title>
       <link>https://huggingface.co/papers/2603.03276</link>
       <description>By Shengbang Tong, David Fan, John Nguyen, Ellis Brown, Gaoyue Zhou, et al.
@@ -341,6 +332,15 @@ The visual world offers a critical axis for advancing foundation models beyond l
 Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the c...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03281</guid>
       <pubDate>Tue, 03 Mar 2026 18:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIBURI: Towards Expressive Interactive Gesture Synthesis</title>
+      <link>https://huggingface.co/papers/2603.03282</link>
+      <description>By M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt
+
+Embodied Conversational Agents (ECAs) aim to emulate human face-to-face interaction through speech, gestures, and facial expressions. Current large language model (LLM)-based conversational agents lack embodiment and the expressive gestures essential for natural interaction. Existing solutions for E...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.03282</guid>
+      <pubDate>Tue, 03 Mar 2026 18:59:51 +0000</pubDate>
     </item>
     <item>
       <title>Utonia: Toward One Encoder for All Point Clouds</title>

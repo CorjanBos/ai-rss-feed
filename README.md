@@ -5,19 +5,19 @@ This project generates RSS feeds for multiple AI-related blogs using HTTP reques
 ## Available Feeds
 
 ### Anthropic Engineering Blog
-Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/anthropic_engineering_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/anthropic_engineering_rss.xml
 
 ### DeepLearning.AI The Batch
-Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/deeplearning_the_batch_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/deeplearning_the_batch_rss.xml
 
 ### HuggingFace Blog
-Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/huggingface_blog_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/huggingface_blog_rss.xml
 
 ### HuggingFace Trending Papers
-Feed URL: https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/huggingface_papers_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/huggingface_papers_rss.xml
 
 ### GitHub Trending Changes
-Feed URL: https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/github_trending_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/github_trending_rss.xml
 
 ## Features
 
@@ -87,11 +87,11 @@ python github_trending_rss.py
 
 Once set up, your RSS feeds will be available at:
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/anthropic_engineering_rss.xml
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/deeplearning_the_batch_rss.xml
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/huggingface_blog_rss.xml
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/huggingface_papers_rss.xml
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github_trending_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rss/anthropic_engineering_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rss/deeplearning_the_batch_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rss/huggingface_blog_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rss/huggingface_papers_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rss/github_trending_rss.xml
 ```
 
 You can subscribe to these URLs in any RSS reader.

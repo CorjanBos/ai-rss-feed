@@ -12,7 +12,8 @@ class GitHubTrendingRSSGenerator:
     def __init__(self):
         self.base_url = "https://github.com/trending"
         self.data_dir = "github_trending_data"
-        self.rss_file = "github_trending_rss.xml"
+        self.rss_dir = "rss"
+        self.rss_file = os.path.join(self.rss_dir, "github_trending_rss.xml")
 
     def parse_date(self, date_text):
         try:
@@ -199,7 +200,7 @@ class GitHubTrendingRSSGenerator:
         feed.link(href=self.base_url, rel='alternate')
         feed.description('Track changes in GitHub trending repositories')
         feed.language('en')
-        feed.link(href='https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/github_trending_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/github_trending_rss.xml', rel='self')
         
         return feed
 
@@ -248,6 +249,8 @@ async def main():
     if updates:
         print("\nGenerating RSS feed...")
         rss_content = generator.generate_rss(updates)
+        
+        os.makedirs(generator.rss_dir, exist_ok=True)
         
         with open(generator.rss_file, 'wb') as f:
             f.write(rss_content)
