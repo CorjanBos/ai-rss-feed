@@ -1,8 +1,8 @@
 import asyncio
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
-from playwright.async_api import async_playwright
-import os
+import aiohttp
+from bs4 import BeautifulSoup
 import re
 from dateutil import parser as date_parser
 
@@ -30,54 +30,54 @@ class AnthropicRSSGenerator:
             return datetime.now(timezone.utc)
 
     async def fetch_posts(self):
-        async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
-            page = await browser.new_page()
-            await page.goto(self.base_url)
-            
-            # Wait for articles to be loaded using wildcard selector
-            await page.wait_for_selector("div[class*='ArticleList_articles__']")
-            
-            # Get all article elements using wildcard selector
-            articles = await page.query_selector_all("div[class*='ArticleList_articles__'] > div > article")
-            
-            # Store articles data for sorting
-            articles_data = []
-            
-            for article in articles:
-                try:
-                    # Get title using wildcard selector
-                    title_element = await article.query_selector("a > div[class*='ArticleList_content__'] > h3")
-                    title = await title_element.text_content()
-                    
-                    # Get URL
-                    link_element = await article.query_selector("a")
-                    url = await link_element.get_attribute("href")
-                    if not url.startswith('http'):
-                        url = f"https://www.anthropic.com{url}"
-                    
-                    # Get date using wildcard selector
-                    date_element = await article.query_selector("a > div[class*='ArticleList_content__'] > div")
-                    date_text = await date_element.text_content()
-                    parsed_date = self.parse_date(date_text)
-                    
-                    articles_data.append({
-                        'title': title,
-                        'url': url,
-                        'date': parsed_date,
-                        'date_text': date_text
-                    })
-                    
-                    print(f"Found: {title} - {date_text}")
-                    
-                except Exception as e:
-                    print(f"Error processing article: {e}")
-            
-            # Sort articles by date (newest first)
-            articles_data.sort(key=lambda x: x['date'], reverse=True)
-            
-            await browser.close()
-            return articles_data
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+        }
+        
+        async with aiohttp.ClientSession() as session:
+            async with session.get(self.base_url, headers=headers) as response:
+                html_content = await response.text()
+        
+        soup = BeautifulSoup(html_content, 'html.parser')
+        
+        articles_data = []
+        articles = soup.select("article")
+        
+        for article in articles:
+            try:
+                title_element = article.select_one("h3")
+                if not title_element:
+                    continue
+                title = title_element.get_text(strip=True)
+                
+                link_element = article.select_one("a")
+                if not link_element:
+                    continue
+                url = link_element.get('href', '')
+                if not url.startswith('http'):
+                    url = f"https://www.anthropic.com{url}"
+                
+                date_element = article.select_one("div[class*='content'] > div, div[class*='date'], time")
+                date_text = date_element.get_text(strip=True) if date_element else ""
+                parsed_date = self.parse_date(date_text) if date_text else datetime.now(timezone.utc)
+                
+                articles_data.append({
+                    'title': title,
+                    'url': url,
+                    'date': parsed_date,
+                    'date_text': date_text
+                })
+                
+                print(f"Found: {title} - {date_text}")
+                
+            except Exception as e:
+                print(f"Error processing article: {e}")
+        
+        articles_data.sort(key=lambda x: x['date'], reverse=True)
+        
+        return articles_data
 
     def create_feed(self):
         """Create a fresh feed instance"""
@@ -89,7 +89,7 @@ class AnthropicRSSGenerator:
         
         # Add atom:link with rel="self" for better interoperability
         # This should be updated to match your actual GitHub Pages URL
-        feed.link(href='https://raw.githubusercontent.com/conoro/anthropic-engineering-rss-feed/main/anthropic_engineering_rss.xml', rel='self')
+        feed.link(href='https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/anthropic_engineering_rss.xml', rel='self')
         
         return feed
 
