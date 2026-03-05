@@ -37,6 +37,7 @@ jobs:
       run: |
         python anthropic_rss.py
         python deeplearning_rss.py
+        python huggingface_rss.py
       
     - name: Commit and push RSS feed
       run: |
