@@ -2,70 +2,70 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>GitHub Trending Changes</title>
-    <link>https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/github_trending_rss.xml</link>
+    <link>https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/github_trending_rss.xml</link>
     <description>Track changes in GitHub trending repositories</description>
-    <atom:link href="https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/github_trending_rss.xml" rel="self"/>
+    <atom:link href="https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/rss/github_trending_rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:40:19 +0000</lastBuildDate>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 6,074 → 6,078 (+4) | Ranked #1
+      <description>⭐ Stars: 6,074 → 6,080 (+6) | Ranked #1
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 1,469 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>TheCraigHewitt / seomachine</title>
       <link>https://github.com/TheCraigHewitt/seomachine</link>
-      <description>⭐ Stars: 1,257 → 1,261 (+4) | Ranked #2
+      <description>⭐ Stars: 1,257 → 1,265 (+8) | Ranked #2
 
 A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
 Language: Python
 379 stars today</description>
       <guid isPermaLink="true">https://github.com/TheCraigHewitt/seomachine</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>KeygraphHQ / shannon</title>
       <link>https://github.com/KeygraphHQ/shannon</link>
-      <description>⭐ Stars: 31,396 → 31,400 (+4) | Ranked #3
+      <description>⭐ Stars: 31,396 → 31,402 (+6) | Ranked #3
 
 Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 
 Language: TypeScript
 2,926 stars today</description>
       <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>aquasecurity / trivy</title>
       <link>https://github.com/aquasecurity/trivy</link>
-      <description>⭐ Stars: 32,771 → 32,772 (+1) | Ranked #4
+      <description>⭐ Stars: 32,771 → 32,773 (+2) | Ranked #4
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 Language: Go
 297 stars today</description>
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>moeru-ai / airi</title>
       <link>https://github.com/moeru-ai/airi</link>
-      <description>⭐ Stars: 26,232 → 26,254 (+22) | Ranked #5
+      <description>⭐ Stars: 26,232 → 26,258 (+26) | Ranked #5
 
 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 Language: TypeScript
 3,003 stars today</description>
       <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>inclusionAI / AReaL</title>
@@ -77,7 +77,7 @@ Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.
 Language: Python
 161 stars today</description>
       <guid isPermaLink="true">https://github.com/inclusionAI/AReaL</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / mcp-for-beginners</title>
@@ -89,7 +89,19 @@ This open-source curriculum introduces the fundamentals of Model Context Protoco
 Language: Jupyter Notebook
 122 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/mcp-for-beginners</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CodebuffAI / codebuff</title>
+      <link>https://github.com/CodebuffAI/codebuff</link>
+      <description>⭐ Stars: 3,708 → 3,709 (+1) | Ranked #8
+
+Generate code from the terminal!
+
+Language: TypeScript
+275 stars today</description>
+      <guid isPermaLink="true">https://github.com/CodebuffAI/codebuff</guid>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
@@ -101,7 +113,7 @@ Automate the process of making money online.
 Language: Python
 511 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / hve-core</title>
@@ -113,7 +125,7 @@ A refined collection of Hypervelocity Engineering components (instructions, prom
 Language: PowerShell
 6 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/hve-core</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:41 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 11:40:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
