@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending Changes</title>
+    <link>https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/github_trending_rss.xml</link>
+    <description>Track changes in GitHub trending repositories</description>
+    <atom:link href="https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/github_trending_rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 11:33:52 +0000</lastBuildDate>
+    <item>
+      <title>msitarzewski / agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <description>⭐ Stars: 6,074 → 6,075 (+1) | Ranked #1
+
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+2,209 stars today</description>
+      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>TheCraigHewitt / seomachine</title>
+      <link>https://github.com/TheCraigHewitt/seomachine</link>
+      <description>⭐ Stars: 1,257 → 1,259 (+2) | Ranked #2
+
+A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+
+Language: Python
+379 stars today</description>
+      <guid isPermaLink="true">https://github.com/TheCraigHewitt/seomachine</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>KeygraphHQ / shannon</title>
+      <link>https://github.com/KeygraphHQ/shannon</link>
+      <description>⭐ Stars: 31,396 → 31,399 (+3) | Ranked #3
+
+Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+
+Language: TypeScript
+1,854 stars today</description>
+      <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>aquasecurity / trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>⭐ Stars: 32,771 → 32,772 (+1) | Ranked #4
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+Language: Go
+380 stars today</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>moeru-ai / airi</title>
+      <link>https://github.com/moeru-ai/airi</link>
+      <description>⭐ Stars: 26,232 → 26,243 (+11) | Ranked #5
+
+💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+
+Language: TypeScript
+1,454 stars today</description>
+      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>inclusionAI / AReaL</title>
+      <link>https://github.com/inclusionAI/AReaL</link>
+      <description>⭐ Stars: 3,921 → 3,922 (+1) | Ranked #6
+
+Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.
+
+Language: Python
+161 stars today</description>
+      <guid isPermaLink="true">https://github.com/inclusionAI/AReaL</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>FujiwaraChoki / MoneyPrinterV2</title>
+      <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
+      <description>⭐ Stars: 14,468 → 14,469 (+1) | Ranked #9
+
+Automate the process of making money online.
+
+Language: Python
+143 stars today</description>
+      <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>microsoft / hve-core</title>
+      <link>https://github.com/microsoft/hve-core</link>
+      <description>⭐ Stars: 160 → 161 (+1) | Ranked #10
+
+A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+
+Language: PowerShell
+6 stars today</description>
+      <guid isPermaLink="true">https://github.com/microsoft/hve-core</guid>
+      <pubDate>Thu, 05 Mar 2026 11:33:52 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

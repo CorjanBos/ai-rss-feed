@@ -14,7 +14,10 @@ Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/deeplearni
 Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/huggingface_blog_rss.xml
 
 ### HuggingFace Trending Papers
-Feed URL: https://raw.githubusercontent.com/cnzhujie/ai-rss-feed/main/huggingface_papers_rss.xml
+Feed URL: https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/huggingface_papers_rss.xml
+
+### GitHub Trending Changes
+Feed URL: https://raw.githubusercontent.com/cnzhujie/anthropic-engineering-rss-feed/main/github_trending_rss.xml
 
 ## Features
 
@@ -45,6 +48,9 @@ python deeplearning_rss.py
 
 # Generate HuggingFace Blog RSS
 python huggingface_rss.py
+
+# Generate GitHub Trending RSS
+python github_trending_rss.py
 ```
 
 ### GitHub Action Setup
@@ -85,6 +91,7 @@ https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/anthropic_enginee
 https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/deeplearning_the_batch_rss.xml
 https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/huggingface_blog_rss.xml
 https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/huggingface_papers_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github_trending_rss.xml
 ```
 
 You can subscribe to these URLs in any RSS reader.
