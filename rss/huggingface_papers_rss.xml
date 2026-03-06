@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 21:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:37:06 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -55,13 +55,13 @@ Which multimodal model should we use for classification? Previous studies sugges
       <pubDate>Thu, 26 Feb 2026 17:08:18 +0000</pubDate>
     </item>
     <item>
-      <title>Humans and LLMs Diverge on Probabilistic Inferences</title>
-      <link>https://huggingface.co/papers/2602.23546</link>
-      <description>By Gaurav Kamath, Sreenath Madathil, Sebastian Schuster, Marie-Catherine de Marneffe, Siva Reddy
+      <title>Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning</title>
+      <link>https://huggingface.co/papers/2602.23440</link>
+      <description>By Chris Samarinas, Haw-Shiuan Chang, Hamed Zamani
 
-Human reasoning often involves working over limited information to arrive at probabilistic conclusions. In its simplest form, this involves making an inference that is not strictly entailed by a premise, but rather only likely given the premise. While reasoning LLMs have demonstrated strong performa...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2602.23546</guid>
-      <pubDate>Thu, 26 Feb 2026 23:00:41 +0000</pubDate>
+Training large language models to reason with search engines via reinforcement learning is hindered by a fundamental credit assignment problem: existing methods such as Search-R1 provide only a sparse outcome reward after an entire multi-step trajectory, making it infeasible to attribute success or ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2602.23440</guid>
+      <pubDate>Thu, 26 Feb 2026 19:05:40 +0000</pubDate>
     </item>
     <item>
       <title>DreamWorld: Unified World Modeling in Video Generation</title>
