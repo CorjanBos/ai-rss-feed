@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 08:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 09:50:54 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -199,15 +199,6 @@ We introduce Heterogeneous Agent Collaborative Reinforcement Learning (HACRL), a
       <pubDate>Tue, 03 Mar 2026 05:09:49 +0000</pubDate>
     </item>
     <item>
-      <title>Next Embedding Prediction Makes World Models Stronger</title>
-      <link>https://huggingface.co/papers/2603.02765</link>
-      <description>By George Bredis, Nikita Balagansky, Daniil Gavrilov, Ruslan Rakhimov
-
-Capturing temporal dependencies is critical for model-based reinforcement learning (MBRL) in partially observable, high-dimensional domains. We introduce NE-Dreamer, a decoder-free MBRL agent that leverages a temporal transformer to predict next-step encoder embeddings from latent state sequences, d...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.02765</guid>
-      <pubDate>Tue, 03 Mar 2026 09:04:28 +0000</pubDate>
-    </item>
-    <item>
       <title>HDINO: A Concise and Efficient Open-Vocabulary Detector</title>
       <link>https://huggingface.co/papers/2603.02924</link>
       <description>By Hao Zhang, Yiqun Wang, Qinran Lin, Runze Fan, Yong Li
@@ -395,6 +386,15 @@ Large Language Model (LLM) agents can automate data-science workflows, but many 
 We introduce Timer-S1, a strong Mixture-of-Experts (MoE) time series foundation model with 8.3B total parameters, 0.75B activated parameters for each token, and a context length of 11.5K. To overcome the scalability bottleneck in existing pre-trained time series foundation models, we perform Serial ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04791</guid>
       <pubDate>Thu, 05 Mar 2026 04:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.04800</link>
+      <description>By Lulu Hu, Wenhu Xiao, Xin Chen, Xinhua Xu, Bowen Xu, et al.
+
+Post-training quantization (PTQ) with computational invariance for Large Language Models~(LLMs) have demonstrated remarkable advances, however, their application to Multimodal Large Language Models~(MLLMs) presents substantial challenges. In this paper, we analyze SmoothQuant as a case study and ide...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04800</guid>
+      <pubDate>Thu, 05 Mar 2026 04:41:32 +0000</pubDate>
     </item>
     <item>
       <title>Locality-Attending Vision Transformer</title>

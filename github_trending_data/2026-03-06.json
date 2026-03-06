@@ -4,78 +4,78 @@
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 8589,
-    "stars_text": "8,589",
-    "forks": 1314,
+    "stars": 8732,
+    "stars_text": "8,732",
+    "forks": 1335,
     "language": "",
     "today_stars": "1,468 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-06T08:50:09.067976+00:00"
+    "fetched_at": "2026-03-06T09:50:55.945194+00:00"
   },
   "TheCraigHewitt/seomachine": {
     "repo_path": "TheCraigHewitt/seomachine",
     "repo_name": "TheCraigHewitt / seomachine",
     "repo_url": "https://github.com/TheCraigHewitt/seomachine",
     "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "stars": 1861,
-    "stars_text": "1,861",
-    "forks": 336,
+    "stars": 1901,
+    "stars_text": "1,901",
+    "forks": 339,
     "language": "Python",
     "today_stars": "310 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-06T08:50:09.068590+00:00"
+    "fetched_at": "2026-03-06T09:50:55.945716+00:00"
   },
   "KeygraphHQ/shannon": {
     "repo_path": "KeygraphHQ/shannon",
     "repo_name": "KeygraphHQ / shannon",
     "repo_url": "https://github.com/KeygraphHQ/shannon",
     "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-    "stars": 32052,
-    "stars_text": "32,052",
-    "forks": 3191,
+    "stars": 32092,
+    "stars_text": "32,092",
+    "forks": 3193,
     "language": "TypeScript",
     "today_stars": "2,930 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-06T08:50:09.069111+00:00"
+    "fetched_at": "2026-03-06T09:50:55.946162+00:00"
   },
   "aquasecurity/trivy": {
     "repo_path": "aquasecurity/trivy",
     "repo_name": "aquasecurity / trivy",
     "repo_url": "https://github.com/aquasecurity/trivy",
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "stars": 32948,
-    "stars_text": "32,948",
-    "forks": 71,
+    "stars": 32962,
+    "stars_text": "32,962",
+    "forks": 70,
     "language": "Go",
     "today_stars": "298 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-06T08:50:09.069651+00:00"
+    "fetched_at": "2026-03-06T09:50:55.946584+00:00"
   },
   "moeru-ai/airi": {
     "repo_path": "moeru-ai/airi",
     "repo_name": "moeru-ai / airi",
     "repo_url": "https://github.com/moeru-ai/airi",
     "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "stars": 28488,
-    "stars_text": "28,488",
-    "forks": 2689,
+    "stars": 28590,
+    "stars_text": "28,590",
+    "forks": 2702,
     "language": "TypeScript",
     "today_stars": "3,006 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-06T08:50:09.070172+00:00"
+    "fetched_at": "2026-03-06T09:50:55.947022+00:00"
   },
   "inclusionAI/AReaL": {
     "repo_path": "inclusionAI/AReaL",
     "repo_name": "inclusionAI / AReaL",
     "repo_url": "https://github.com/inclusionAI/AReaL",
     "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-    "stars": 4217,
-    "stars_text": "4,217",
-    "forks": 345,
+    "stars": 4238,
+    "stars_text": "4,238",
+    "forks": 346,
     "language": "Python",
     "today_stars": "173 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-06T08:50:09.070701+00:00"
+    "fetched_at": "2026-03-06T09:50:55.947445+00:00"
   },
   "microsoft/mcp-for-beginners": {
     "repo_path": "microsoft/mcp-for-beginners",
@@ -95,26 +95,26 @@
     "repo_name": "CodebuffAI / codebuff",
     "repo_url": "https://github.com/CodebuffAI/codebuff",
     "description": "Generate code from the terminal!",
-    "stars": 3952,
-    "stars_text": "3,952",
+    "stars": 3972,
+    "stars_text": "3,972",
     "forks": 461,
     "language": "TypeScript",
     "today_stars": "275 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-06T08:50:09.071219+00:00"
+    "fetched_at": "2026-03-06T09:50:55.947857+00:00"
   },
   "FujiwaraChoki/MoneyPrinterV2": {
     "repo_path": "FujiwaraChoki/MoneyPrinterV2",
     "repo_name": "FujiwaraChoki / MoneyPrinterV2",
     "repo_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "description": "Automate the process of making money online.",
-    "stars": 14832,
-    "stars_text": "14,832",
-    "forks": 1485,
+    "stars": 14856,
+    "stars_text": "14,856",
+    "forks": 1489,
     "language": "Python",
     "today_stars": "511 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-06T08:50:09.071879+00:00"
+    "fetched_at": "2026-03-06T09:50:55.948389+00:00"
   },
   "agentscope-ai/ReMe": {
     "repo_path": "agentscope-ai/ReMe",
@@ -134,12 +134,12 @@
     "repo_name": "microsoft / hve-core",
     "repo_url": "https://github.com/microsoft/hve-core",
     "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-    "stars": 392,
-    "stars_text": "392",
-    "forks": 82,
+    "stars": 409,
+    "stars_text": "409",
+    "forks": 84,
     "language": "PowerShell",
     "today_stars": "11 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-06T08:50:09.072400+00:00"
+    "fetched_at": "2026-03-06T09:50:55.948815+00:00"
   }
 }
