@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 09:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 10:46:12 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -44,6 +44,15 @@ Machine unlearning, which enables a model to forget specific data, is crucial fo
 Large language models exhibit sophisticated capabilities, yet understanding how they work internally remains a central challenge. A fundamental obstacle is that training selects for behavior, not circuitry, so many weight configurations can implement the same function. Which internal structures refl...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2602.22600</guid>
       <pubDate>Thu, 26 Feb 2026 04:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>SkillNet: Create, Evaluate, and Connect AI Skills</title>
+      <link>https://huggingface.co/papers/2603.04448</link>
+      <description>By Yuan Liang, Ruobin Zhong, Haoming Xu, Chen Jiang, Yi Zhong, et al.
+
+Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04448</guid>
+      <pubDate>Thu, 26 Feb 2026 14:24:02 +0000</pubDate>
     </item>
     <item>
       <title>AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios</title>
@@ -125,15 +134,6 @@ Automated scientific discovery with large language models is transforming the re
 Reinforcement Learning with Verifiable Rewards (RLVR) has achieved remarkable success in improving autoregressive models, especially in domains requiring correctness like mathematical reasoning and code generation. However, directly applying such paradigms to Diffusion Large Language Models (dLLMs) ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01563</guid>
       <pubDate>Mon, 02 Mar 2026 07:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks</title>
-      <link>https://huggingface.co/papers/2603.01697</link>
-      <description>By Gökdeniz Gülmez
-
-Mixture-of-Experts (MoE) architectures have emerged as a powerful paradigm for scaling neural networks while maintaining computational efficiency. However, standard MoE implementations rely on two rigid design assumptions: (1) fixed Top-K routing where exactly K experts are activated per token, and ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01697</guid>
-      <pubDate>Mon, 02 Mar 2026 10:25:56 +0000</pubDate>
     </item>
     <item>
       <title>GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection</title>

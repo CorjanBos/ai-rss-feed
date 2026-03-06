@@ -8,112 +8,136 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 09:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 10:46:13 +0000</lastBuildDate>
     <item>
-      <title>msitarzewski / agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 7,188 → 8,732 (+1544) | Ranked #1
+      <title>QwenLM / Qwen-Agent</title>
+      <link>https://github.com/QwenLM/Qwen-Agent</link>
+      <description>🆕 NEW ENTRY - Ranked #2
 
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-1,468 stars today</description>
-      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheCraigHewitt / seomachine</title>
-      <link>https://github.com/TheCraigHewitt/seomachine</link>
-      <description>⭐ Stars: 1,584 → 1,901 (+317) | Ranked #2
-
-A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 
 Language: Python
-310 stars today</description>
-      <guid isPermaLink="true">https://github.com/TheCraigHewitt/seomachine</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
+684 stars today</description>
+      <guid isPermaLink="true">https://github.com/QwenLM/Qwen-Agent</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
     </item>
     <item>
-      <title>KeygraphHQ / shannon</title>
-      <link>https://github.com/KeygraphHQ/shannon</link>
-      <description>⭐ Stars: 31,769 → 32,092 (+323) | Ranked #3
+      <title>Ed1s0nZ / CyberStrikeAI</title>
+      <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
+      <description>🆕 NEW ENTRY - Ranked #4
 
-Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
-
-Language: TypeScript
-2,930 stars today</description>
-      <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>aquasecurity / trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>⭐ Stars: 32,872 → 32,962 (+90) | Ranked #4
-
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 
 Language: Go
-298 stars today</description>
-      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
+138 stars today</description>
+      <guid isPermaLink="true">https://github.com/Ed1s0nZ/CyberStrikeAI</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>lingfengQAQ / webnovel-writer</title>
+      <link>https://github.com/lingfengQAQ/webnovel-writer</link>
+      <description>🆕 NEW ENTRY - Ranked #6
+
+基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+
+Language: Python
+84 stars today</description>
+      <guid isPermaLink="true">https://github.com/lingfengQAQ/webnovel-writer</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>openai / skills</title>
+      <link>https://github.com/openai/skills</link>
+      <description>🆕 NEW ENTRY - Ranked #7
+
+Skills Catalog for Codex
+
+Language: Python
+582 stars today</description>
+      <guid isPermaLink="true">https://github.com/openai/skills</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>virattt / ai-hedge-fund</title>
+      <link>https://github.com/virattt/ai-hedge-fund</link>
+      <description>🆕 NEW ENTRY - Ranked #9
+
+An AI Hedge Fund Team
+
+Language: Python
+82 stars today</description>
+      <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>aidenybai / react-grab</title>
+      <link>https://github.com/aidenybai/react-grab</link>
+      <description>🆕 NEW ENTRY - Ranked #10
+
+Select context for coding agents directly from your website
+
+Language: TypeScript
+442 stars today</description>
+      <guid isPermaLink="true">https://github.com/aidenybai/react-grab</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
     </item>
     <item>
       <title>moeru-ai / airi</title>
       <link>https://github.com/moeru-ai/airi</link>
-      <description>⭐ Stars: 27,283 → 28,590 (+1307) | Ranked #5
+      <description>📈 Rank: #5 → #1 (↑4) | ⭐ Stars: 27,283 → 28,679 (+1396)
 
 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 Language: TypeScript
 3,006 stars today</description>
       <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>inclusionAI / AReaL</title>
-      <link>https://github.com/inclusionAI/AReaL</link>
-      <description>⭐ Stars: 4,060 → 4,238 (+178) | Ranked #6
-
-Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.
-
-Language: Python
-173 stars today</description>
-      <guid isPermaLink="true">https://github.com/inclusionAI/AReaL</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CodebuffAI / codebuff</title>
-      <link>https://github.com/CodebuffAI/codebuff</link>
-      <description>📈 Rank: #8 → #7 (↑1) | ⭐ Stars: 3,843 → 3,972 (+129)
-
-Generate code from the terminal!
-
-Language: TypeScript
-275 stars today</description>
-      <guid isPermaLink="true">https://github.com/CodebuffAI/codebuff</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>FujiwaraChoki / MoneyPrinterV2</title>
-      <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>📈 Rank: #9 → #8 (↑1) | ⭐ Stars: 14,669 → 14,856 (+187)
-
-Automate the process of making money online.
-
-Language: Python
-511 stars today</description>
-      <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / hve-core</title>
       <link>https://github.com/microsoft/hve-core</link>
-      <description>📈 Rank: #11 → #9 (↑2) | ⭐ Stars: 280 → 409 (+129)
+      <description>📈 Rank: #11 → #3 (↑8) | ⭐ Stars: 280 → 423 (+143)
 
 A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 
 Language: PowerShell
 11 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/hve-core</guid>
-      <pubDate>Fri, 06 Mar 2026 09:50:55 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>inclusionAI / AReaL</title>
+      <link>https://github.com/inclusionAI/AReaL</link>
+      <description>📈 Rank: #6 → #5 (↑1) | ⭐ Stars: 4,060 → 4,252 (+192)
+
+Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.
+
+Language: Python
+173 stars today</description>
+      <guid isPermaLink="true">https://github.com/inclusionAI/AReaL</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>TheCraigHewitt / seomachine</title>
+      <link>https://github.com/TheCraigHewitt/seomachine</link>
+      <description>📉 Rank: #2 → #8 (↓6) | ⭐ Stars: 1,584 → 1,922 (+338)
+
+A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+
+Language: Python
+310 stars today</description>
+      <guid isPermaLink="true">https://github.com/TheCraigHewitt/seomachine</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>msitarzewski / agency-agents</title>
+      <link>https://github.com/msitarzewski/agency-agents</link>
+      <description>📉 Rank: #1 → #11 (↓10) | ⭐ Stars: 7,188 → 8,847 (+1659)
+
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+1,468 stars today</description>
+      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
+      <pubDate>Fri, 06 Mar 2026 10:46:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
