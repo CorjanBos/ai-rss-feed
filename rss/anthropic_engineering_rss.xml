@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 18:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 19:40:17 +0000</lastBuildDate>
     <item>
       <title>Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -129,11 +129,18 @@
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Building a C compiler with a team of parallel Claudes</title>
+      <title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
       <link>https://platform.claude.com/</link>
-      <description>Building a C compiler with a team of parallel Claudes</description>
+      <description>Eval awareness in Claude Opus 4.6’s BrowseComp performance</description>
       <guid isPermaLink="true">https://platform.claude.com/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
+      <link>https://www.anthropic.com/engineering/eval-awareness-browsecomp</link>
+      <description>Eval awareness in Claude Opus 4.6’s BrowseComp performance</description>
+      <guid isPermaLink="true">https://www.anthropic.com/engineering/eval-awareness-browsecomp</guid>
+      <pubDate>Fri, 06 Mar 2026 19:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
