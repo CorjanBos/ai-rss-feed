@@ -4,26 +4,26 @@
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 9667,
-    "stars_text": "9,667",
-    "forks": 1446,
+    "stars": 9698,
+    "stars_text": "9,698",
+    "forks": 1452,
     "language": "",
     "today_stars": "2,857 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-06T20:40:32.088509+00:00"
+    "fetched_at": "2026-03-06T21:36:48.567127+00:00"
   },
   "TheCraigHewitt/seomachine": {
     "repo_path": "TheCraigHewitt/seomachine",
     "repo_name": "TheCraigHewitt / seomachine",
     "repo_url": "https://github.com/TheCraigHewitt/seomachine",
     "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "stars": 2083,
-    "stars_text": "2,083",
-    "forks": 357,
+    "stars": 2093,
+    "stars_text": "2,093",
+    "forks": 359,
     "language": "Python",
     "today_stars": "675 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-06T20:40:32.086812+00:00"
+    "fetched_at": "2026-03-06T21:36:48.565435+00:00"
   },
   "KeygraphHQ/shannon": {
     "repo_path": "KeygraphHQ/shannon",
@@ -56,26 +56,26 @@
     "repo_name": "moeru-ai / airi",
     "repo_url": "https://github.com/moeru-ai/airi",
     "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "stars": 29396,
-    "stars_text": "29,396",
-    "forks": 2805,
+    "stars": 29421,
+    "stars_text": "29,421",
+    "forks": 2806,
     "language": "TypeScript",
     "today_stars": "2,544 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-06T20:40:32.083304+00:00"
+    "fetched_at": "2026-03-06T21:36:48.561912+00:00"
   },
   "inclusionAI/AReaL": {
     "repo_path": "inclusionAI/AReaL",
     "repo_name": "inclusionAI / AReaL",
     "repo_url": "https://github.com/inclusionAI/AReaL",
     "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-    "stars": 4367,
-    "stars_text": "4,367",
+    "stars": 4375,
+    "stars_text": "4,375",
     "forks": 362,
     "language": "Python",
     "today_stars": "348 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-06T20:40:32.085376+00:00"
+    "fetched_at": "2026-03-06T21:36:48.563982+00:00"
   },
   "microsoft/mcp-for-beginners": {
     "repo_path": "microsoft/mcp-for-beginners",
@@ -134,90 +134,90 @@
     "repo_name": "microsoft / hve-core",
     "repo_url": "https://github.com/microsoft/hve-core",
     "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-    "stars": 521,
-    "stars_text": "521",
-    "forks": 90,
+    "stars": 530,
+    "stars_text": "530",
+    "forks": 91,
     "language": "PowerShell",
     "today_stars": "275 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-06T20:40:32.084381+00:00"
+    "fetched_at": "2026-03-06T21:36:48.562979+00:00"
   },
   "QwenLM/Qwen-Agent": {
     "repo_path": "QwenLM/Qwen-Agent",
     "repo_name": "QwenLM / Qwen-Agent",
     "repo_url": "https://github.com/QwenLM/Qwen-Agent",
     "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-    "stars": 14548,
-    "stars_text": "14,548",
-    "forks": 1384,
+    "stars": 14567,
+    "stars_text": "14,567",
+    "forks": 1385,
     "language": "Python",
     "today_stars": "684 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-06T20:40:32.083862+00:00"
+    "fetched_at": "2026-03-06T21:36:48.562487+00:00"
   },
   "Ed1s0nZ/CyberStrikeAI": {
     "repo_path": "Ed1s0nZ/CyberStrikeAI",
     "repo_name": "Ed1s0nZ / CyberStrikeAI",
     "repo_url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
     "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-    "stars": 1560,
-    "stars_text": "1,560",
-    "forks": 305,
+    "stars": 1575,
+    "stars_text": "1,575",
+    "forks": 306,
     "language": "Go",
     "today_stars": "138 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-06T20:40:32.084873+00:00"
+    "fetched_at": "2026-03-06T21:36:48.563499+00:00"
   },
   "lingfengQAQ/webnovel-writer": {
     "repo_path": "lingfengQAQ/webnovel-writer",
     "repo_name": "lingfengQAQ / webnovel-writer",
     "repo_url": "https://github.com/lingfengQAQ/webnovel-writer",
     "description": "\u57fa\u4e8e Claude Code \u7684\u957f\u7bc7\u7f51\u6587\u8f85\u52a9\u521b\u4f5c\u7cfb\u7edf\uff0c\u89e3\u51b3 AI \u5199\u4f5c\u4e2d\u7684\u300c\u9057\u5fd8\u300d\u548c\u300c\u5e7b\u89c9\u300d\u95ee\u9898\uff0c\u652f\u6301 200 \u4e07\u5b57\u91cf\u7ea7 \u8fde\u8f7d\u521b\u4f5c\u3002",
-    "stars": 750,
-    "stars_text": "750",
+    "stars": 754,
+    "stars_text": "754",
     "forks": 187,
     "language": "Python",
     "today_stars": "84 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-06T20:40:32.085844+00:00"
+    "fetched_at": "2026-03-06T21:36:48.564477+00:00"
   },
   "openai/skills": {
     "repo_path": "openai/skills",
     "repo_name": "openai / skills",
     "repo_url": "https://github.com/openai/skills",
     "description": "Skills Catalog for Codex",
-    "stars": 11831,
-    "stars_text": "11,831",
-    "forks": 662,
+    "stars": 11858,
+    "stars_text": "11,858",
+    "forks": 666,
     "language": "Python",
     "today_stars": "582 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-06T20:40:32.086340+00:00"
+    "fetched_at": "2026-03-06T21:36:48.564956+00:00"
   },
   "virattt/ai-hedge-fund": {
     "repo_path": "virattt/ai-hedge-fund",
     "repo_name": "virattt / ai-hedge-fund",
     "repo_url": "https://github.com/virattt/ai-hedge-fund",
     "description": "An AI Hedge Fund Team",
-    "stars": 46305,
-    "stars_text": "46,305",
-    "forks": 8088,
+    "stars": 46310,
+    "stars_text": "46,310",
+    "forks": 8090,
     "language": "Python",
     "today_stars": "82 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-06T20:40:32.087303+00:00"
+    "fetched_at": "2026-03-06T21:36:48.565912+00:00"
   },
   "aidenybai/react-grab": {
     "repo_path": "aidenybai/react-grab",
     "repo_name": "aidenybai / react-grab",
     "repo_url": "https://github.com/aidenybai/react-grab",
     "description": "Select context for coding agents directly from your website",
-    "stars": 5948,
-    "stars_text": "5,948",
+    "stars": 5956,
+    "stars_text": "5,956",
     "forks": 271,
     "language": "TypeScript",
     "today_stars": "442 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-06T20:40:32.087892+00:00"
+    "fetched_at": "2026-03-06T21:36:48.566531+00:00"
   }
 }

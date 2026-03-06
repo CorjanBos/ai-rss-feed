@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 20:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 21:36:47 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -26,15 +26,6 @@ As Large Language Models (LLMs) saturate elementary benchmarks, the research fro
 Machine unlearning, which enables a model to forget specific data, is crucial for ensuring data privacy and model reliability. However, its effectiveness can be severely undermined in real-world scenarios where models learn unintended biases from spurious correlations within the data. This paper inv...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2602.21773</guid>
       <pubDate>Wed, 25 Feb 2026 10:48:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformers converge to invariant algorithmic cores</title>
-      <link>https://huggingface.co/papers/2602.22600</link>
-      <description>By Joshua S. Schiffman
-
-Large language models exhibit sophisticated capabilities, yet understanding how they work internally remains a central challenge. A fundamental obstacle is that training selects for behavior, not circuitry, so many weight configurations can implement the same function. Which internal structures refl...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2602.22600</guid>
-      <pubDate>Thu, 26 Feb 2026 04:09:11 +0000</pubDate>
     </item>
     <item>
       <title>SkillNet: Create, Evaluate, and Connect AI Skills</title>
@@ -350,6 +341,15 @@ Synthesizing physically plausible articulated human-object interactions (HOI) wi
 We introduce Helios, the first 14B video generation model that runs at 19.5 FPS on a single NVIDIA H100 GPU and supports minute-scale generation while matching the quality of a strong baseline. We make breakthroughs along three key dimensions: (1) robustness to long-video drifting without commonly u...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04379</guid>
       <pubDate>Wed, 04 Mar 2026 18:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling</title>
+      <link>https://huggingface.co/papers/2603.04553</link>
+      <description>By Tal Daniel, Carl Qi, Dan Haramati, Amir Zadeh, Chuan Li, et al.
+
+We introduce Latent Particle World Model (LPWM), a self-supervised object-centric world model scaled to real-world multi-object datasets and applicable in decision-making. LPWM autonomously discovers keypoints, bounding boxes, and object masks directly from video data, enabling it to learn rich scen...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04553</guid>
+      <pubDate>Wed, 04 Mar 2026 19:36:08 +0000</pubDate>
     </item>
     <item>
       <title>Distribution-Conditioned Transport</title>
