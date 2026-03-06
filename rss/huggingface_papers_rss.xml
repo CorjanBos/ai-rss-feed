@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 07:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 08:50:07 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -226,15 +226,6 @@ Classifying fine-grained visual concepts under open-world settings, i.e., withou
       <pubDate>Tue, 03 Mar 2026 17:52:39 +0000</pubDate>
     </item>
     <item>
-      <title>CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance</title>
-      <link>https://huggingface.co/papers/2603.03281</link>
-      <description>By Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, et al.
-
-Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the c...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03281</guid>
-      <pubDate>Tue, 03 Mar 2026 18:59:48 +0000</pubDate>
-    </item>
-    <item>
       <title>MIBURI: Towards Expressive Interactive Gesture Synthesis</title>
       <link>https://huggingface.co/papers/2603.03282</link>
       <description>By M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt
@@ -260,6 +251,15 @@ Proactive and real-time interactive experiences are essential for human-like AI 
 Generating long-form storytelling videos with consistent visual narratives remains a significant challenge in video synthesis. We present a novel framework, dataset, and a model that address three critical limitations: background consistency across shots, seamless multi-subject shot-to-shot transiti...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03646</guid>
       <pubDate>Wed, 04 Mar 2026 02:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozi: Governed Autonomy for Drug Discovery LLM Agents</title>
+      <link>https://huggingface.co/papers/2603.03655</link>
+      <description>By He Cao, Siyu Liu, Fan Zhang, Zijing Liu, Hao Li, et al.
+
+Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.03655</guid>
+      <pubDate>Wed, 04 Mar 2026 02:22:21 +0000</pubDate>
     </item>
     <item>
       <title>MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier</title>
