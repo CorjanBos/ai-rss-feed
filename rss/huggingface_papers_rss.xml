@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 10:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:36:45 +0000</lastBuildDate>
     <item>
       <title>QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs</title>
       <link>https://huggingface.co/papers/2602.20629</link>
@@ -91,6 +91,15 @@ Despite impressive progress in video generation, existing models remain limited 
       <pubDate>Sat, 28 Feb 2026 05:02:39 +0000</pubDate>
     </item>
     <item>
+      <title>STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification</title>
+      <link>https://huggingface.co/papers/2603.00695</link>
+      <description>By Xingguo Xu, Zhanyu Liu, Weixiang Zhou, Yuansheng Gao, Junjie Cao, et al.
+
+Multi-modal object Re-Identification (ReID) aims to exploit complementary information from different modalities to retrieve specific objects. However, existing methods often rely on hard token filtering or simple fusion strategies, which can lead to the loss of discriminative cues and increased back...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.00695</guid>
+      <pubDate>Sat, 28 Feb 2026 15:07:10 +0000</pubDate>
+    </item>
+    <item>
       <title>GroupGPT: A Token-efficient and Privacy-preserving Agentic Framework for Multi-User Chat Assistant</title>
       <link>https://huggingface.co/papers/2603.01059</link>
       <description>By Zhuokang Shen, Yifan Wang, Hanyu Chen, Wenxuan Huang, Shaohui Lin
@@ -116,15 +125,6 @@ Large Vision-Language Models (LVLMs) have adopted visual token pruning strategie
 Test-time policy adaptation for multi-turn interactions (T2PAM) is essential for aligning Large Language Models (LLMs) with dynamic user needs during inference time. However, existing paradigms commonly treat test-time adaptation as a single-axis problem, either purely refining instructions (Prompt ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01375</guid>
       <pubDate>Mon, 02 Mar 2026 02:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>SciDER: Scientific Data-centric End-to-end Researcher</title>
-      <link>https://huggingface.co/papers/2603.01421</link>
-      <description>By Ke Lin, Yilin Lu, Shreyas Bhat, Xuehang Guo, Junier Oliva, et al.
-
-Automated scientific discovery with large language models is transforming the research lifecycle from ideation to experimentation, yet existing agents struggle to autonomously process raw data collected from scientific experiments. We introduce SciDER, a data-centric end-to-end system that automates...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01421</guid>
-      <pubDate>Mon, 02 Mar 2026 03:53:20 +0000</pubDate>
     </item>
     <item>
       <title>LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models</title>
