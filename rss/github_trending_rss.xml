@@ -8,136 +8,136 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 04:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 05:42:15 +0000</lastBuildDate>
     <item>
       <title>moeru-ai / airi</title>
       <link>https://github.com/moeru-ai/airi</link>
-      <description>⭐ Stars: 29,474 → 29,716 (+242) | Ranked #1
+      <description>⭐ Stars: 29,474 → 29,789 (+315) | Ranked #1
 
 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 Language: TypeScript
 2,562 stars today</description>
       <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>QwenLM / Qwen-Agent</title>
       <link>https://github.com/QwenLM/Qwen-Agent</link>
-      <description>⭐ Stars: 14,606 → 14,717 (+111) | Ranked #2
+      <description>⭐ Stars: 14,606 → 14,741 (+135) | Ranked #2
 
 Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 
 Language: Python
 696 stars today</description>
       <guid isPermaLink="true">https://github.com/QwenLM/Qwen-Agent</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / hve-core</title>
       <link>https://github.com/microsoft/hve-core</link>
-      <description>⭐ Stars: 542 → 578 (+36) | Ranked #3
+      <description>⭐ Stars: 542 → 590 (+48) | Ranked #3
 
 A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 
 Language: PowerShell
 273 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/hve-core</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>Ed1s0nZ / CyberStrikeAI</title>
       <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
-      <description>⭐ Stars: 1,592 → 1,680 (+88) | Ranked #4
+      <description>⭐ Stars: 1,592 → 1,700 (+108) | Ranked #4
 
 CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 
 Language: Go
 106 stars today</description>
       <guid isPermaLink="true">https://github.com/Ed1s0nZ/CyberStrikeAI</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>inclusionAI / AReaL</title>
       <link>https://github.com/inclusionAI/AReaL</link>
-      <description>⭐ Stars: 4,386 → 4,430 (+44) | Ranked #5
+      <description>⭐ Stars: 4,386 → 4,441 (+55) | Ranked #5
 
 Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.
 
 Language: Python
 347 stars today</description>
       <guid isPermaLink="true">https://github.com/inclusionAI/AReaL</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>lingfengQAQ / webnovel-writer</title>
       <link>https://github.com/lingfengQAQ/webnovel-writer</link>
-      <description>⭐ Stars: 763 → 827 (+64) | Ranked #6
+      <description>⭐ Stars: 763 → 851 (+88) | Ranked #6
 
 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 
 Language: Python
 90 stars today</description>
       <guid isPermaLink="true">https://github.com/lingfengQAQ/webnovel-writer</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>openai / skills</title>
       <link>https://github.com/openai/skills</link>
-      <description>⭐ Stars: 11,931 → 12,113 (+182) | Ranked #7
+      <description>⭐ Stars: 11,931 → 12,148 (+217) | Ranked #7
 
 Skills Catalog for Codex
 
 Language: Python
 595 stars today</description>
       <guid isPermaLink="true">https://github.com/openai/skills</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>TheCraigHewitt / seomachine</title>
       <link>https://github.com/TheCraigHewitt/seomachine</link>
-      <description>⭐ Stars: 2,126 → 2,208 (+82) | Ranked #8
+      <description>⭐ Stars: 2,126 → 2,224 (+98) | Ranked #8
 
 A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
 Language: Python
 690 stars today</description>
       <guid isPermaLink="true">https://github.com/TheCraigHewitt/seomachine</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>virattt / ai-hedge-fund</title>
       <link>https://github.com/virattt/ai-hedge-fund</link>
-      <description>⭐ Stars: 46,320 → 46,367 (+47) | Ranked #9
+      <description>⭐ Stars: 46,320 → 46,383 (+63) | Ranked #9
 
 An AI Hedge Fund Team
 
 Language: Python
 81 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>aidenybai / react-grab</title>
       <link>https://github.com/aidenybai/react-grab</link>
-      <description>⭐ Stars: 5,985 → 6,060 (+75) | Ranked #10
+      <description>⭐ Stars: 5,985 → 6,078 (+93) | Ranked #10
 
 Select context for coding agents directly from your website
 
 Language: TypeScript
 450 stars today</description>
       <guid isPermaLink="true">https://github.com/aidenybai/react-grab</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 9,777 → 10,014 (+237) | Ranked #11
+      <description>⭐ Stars: 9,777 → 10,086 (+309) | Ranked #11
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 2,846 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Sat, 07 Mar 2026 04:26:25 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 05:42:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
