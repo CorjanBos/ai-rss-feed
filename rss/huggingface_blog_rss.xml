@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 02:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 04:26:24 +0000</lastBuildDate>
+    <item>
+      <title>H Company's new Holo2 model takes the lead in UI Localization</title>
+      <link>https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b</link>
+      <description>By H company - H Company's new Holo2 model takes the lead in UI Localization</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b</guid>
+      <pubDate>Tue, 03 Feb 2026 17:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>Community Evals: Because we're done trusting black-box leaderboards over the community</title>
       <link>https://huggingface.co/blog/community-evals</link>
@@ -99,13 +106,6 @@
       <description>By NXP - Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations</description>
       <guid isPermaLink="true">https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms</guid>
       <pubDate>Thu, 05 Mar 2026 14:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills </title>
-      <link>https://huggingface.co/blog/nvidia/model-evaluation-skill</link>
-      <description>By NVIDIA - Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills </description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/model-evaluation-skill</guid>
-      <pubDate>Fri, 06 Mar 2026 18:56:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
