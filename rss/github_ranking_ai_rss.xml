@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 16:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 17:28:42 +0000</lastBuildDate>
     <item>
       <title>[MoE] xtuner</title>
       <link>https://github.com/InternLM/xtuner</link>
@@ -21,7 +21,7 @@ Language: Python
 Category: MoE
 Stars: 5,092 | Forks: 404</description>
       <guid isPermaLink="true">https://github.com/InternLM/xtuner</guid>
-      <pubDate>Sat, 07 Mar 2026 16:37:13 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 17:28:42 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] flashinfer</title>
@@ -35,7 +35,7 @@ Language: Python
 Category: MoE
 Stars: 5,093 | Forks: 762</description>
       <guid isPermaLink="true">https://github.com/flashinfer-ai/flashinfer</guid>
-      <pubDate>Sat, 07 Mar 2026 16:37:13 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 17:28:42 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -49,7 +49,7 @@ Language: JavaScript
 Category: Claude
 Stars: 63,236 | Forks: 7,826</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 07 Mar 2026 16:37:13 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 17:28:42 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -63,7 +63,7 @@ Language: TypeScript
 Category: AI
 Stars: 271,907 | Forks: 51,964</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sat, 07 Mar 2026 16:37:13 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 17:28:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
