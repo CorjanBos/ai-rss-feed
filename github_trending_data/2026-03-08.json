@@ -4,26 +4,26 @@
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 6594,
-    "stars_text": "6,594",
-    "forks": 731,
+    "stars": 6663,
+    "stars_text": "6,663",
+    "forks": 739,
     "language": "Python",
     "today_stars": "1,168 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-08T15:31:37.322873+00:00"
+    "fetched_at": "2026-03-08T16:38:46.904400+00:00"
   },
   "openai/skills": {
     "repo_path": "openai/skills",
     "repo_name": "openai / skills",
     "repo_url": "https://github.com/openai/skills",
     "description": "Skills Catalog for Codex",
-    "stars": 13055,
-    "stars_text": "13,055",
+    "stars": 13085,
+    "stars_text": "13,085",
     "forks": 735,
     "language": "Python",
     "today_stars": "613 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-08T15:31:37.326248+00:00"
+    "fetched_at": "2026-03-08T16:38:46.907751+00:00"
   },
   "msitarzewski/agency-agents": {
     "repo_path": "msitarzewski/agency-agents",
@@ -43,13 +43,13 @@
     "repo_name": "GoogleCloudPlatform / generative-ai",
     "repo_url": "https://github.com/GoogleCloudPlatform/generative-ai",
     "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-    "stars": 13948,
-    "stars_text": "13,948",
-    "forks": 3861,
+    "stars": 13994,
+    "stars_text": "13,994",
+    "forks": 3869,
     "language": "Jupyter Notebook",
     "today_stars": "563 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-08T15:31:37.322298+00:00"
+    "fetched_at": "2026-03-08T16:38:46.903809+00:00"
   },
   "agentjido/jido": {
     "repo_path": "agentjido/jido",
@@ -82,13 +82,13 @@
     "repo_name": "virattt / ai-hedge-fund",
     "repo_url": "https://github.com/virattt/ai-hedge-fund",
     "description": "An AI Hedge Fund Team",
-    "stars": 46731,
-    "stars_text": "46,731",
-    "forks": 8135,
+    "stars": 46744,
+    "stars_text": "46,744",
+    "forks": 8138,
     "language": "Python",
     "today_stars": "275 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-08T15:31:37.326722+00:00"
+    "fetched_at": "2026-03-08T16:38:46.908272+00:00"
   },
   "microsoft/hve-core": {
     "repo_path": "microsoft/hve-core",
@@ -108,26 +108,26 @@
     "repo_name": "toeverything / AFFiNE",
     "repo_url": "https://github.com/toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-    "stars": 64997,
-    "stars_text": "64,997",
-    "forks": 4543,
+    "stars": 65023,
+    "stars_text": "65,023",
+    "forks": 4545,
     "language": "TypeScript",
     "today_stars": "529 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-08T15:31:37.324757+00:00"
+    "fetched_at": "2026-03-08T16:38:46.906205+00:00"
   },
   "shadcn-ui/ui": {
     "repo_path": "shadcn-ui/ui",
     "repo_name": "shadcn-ui / ui",
     "repo_url": "https://github.com/shadcn-ui/ui",
     "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-    "stars": 108474,
-    "stars_text": "108,474",
-    "forks": 8062,
+    "stars": 108495,
+    "stars_text": "108,495",
+    "forks": 8064,
     "language": "TypeScript",
     "today_stars": "498 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-08T15:31:37.323417+00:00"
+    "fetched_at": "2026-03-08T16:38:46.904930+00:00"
   },
   "alibaba/page-agent": {
     "repo_path": "alibaba/page-agent",
@@ -147,77 +147,77 @@
     "repo_name": "openclaw / openclaw",
     "repo_url": "https://github.com/openclaw/openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
-    "stars": 279407,
-    "stars_text": "279,407",
-    "forks": 53314,
+    "stars": 279658,
+    "stars_text": "279,658",
+    "forks": 53363,
     "language": "TypeScript",
     "today_stars": "4,777 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-08T15:31:37.324111+00:00"
+    "fetched_at": "2026-03-08T16:38:46.905570+00:00"
   },
   "Ed1s0nZ/CyberStrikeAI": {
     "repo_path": "Ed1s0nZ/CyberStrikeAI",
     "repo_name": "Ed1s0nZ / CyberStrikeAI",
     "repo_url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
     "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-    "stars": 2115,
-    "stars_text": "2,115",
-    "forks": 378,
+    "stars": 2133,
+    "stars_text": "2,133",
+    "forks": 382,
     "language": "Go",
     "today_stars": "242 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-08T15:31:37.325259+00:00"
+    "fetched_at": "2026-03-08T16:38:46.906699+00:00"
   },
   "shareAI-lab/learn-claude-code": {
     "repo_path": "shareAI-lab/learn-claude-code",
     "repo_name": "shareAI-lab / learn-claude-code",
     "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano Claude Code\u2013like agent, built from 0 to 1",
-    "stars": 23670,
-    "stars_text": "23,670",
-    "forks": 4397,
+    "stars": 23709,
+    "stars_text": "23,709",
+    "forks": 4399,
     "language": "TypeScript",
     "today_stars": "953 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-08T15:31:37.325747+00:00"
+    "fetched_at": "2026-03-08T16:38:46.907251+00:00"
   },
   "is-a-dev/register": {
     "repo_path": "is-a-dev/register",
     "repo_name": "is-a-dev / register",
     "repo_url": "https://github.com/is-a-dev/register",
     "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-    "stars": 9686,
-    "stars_text": "9,686",
-    "forks": 18741,
+    "stars": 9698,
+    "stars_text": "9,698",
+    "forks": 18742,
     "language": "JavaScript",
     "today_stars": "8 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-08T15:31:37.327217+00:00"
+    "fetched_at": "2026-03-08T16:38:46.908768+00:00"
   },
   "teng-lin/notebooklm-py": {
     "repo_path": "teng-lin/notebooklm-py",
     "repo_name": "teng-lin / notebooklm-py",
     "repo_url": "https://github.com/teng-lin/notebooklm-py",
     "description": "Unofficial Python API for Google NotebookLM",
-    "stars": 3568,
-    "stars_text": "3,568",
-    "forks": 461,
+    "stars": 3588,
+    "stars_text": "3,588",
+    "forks": 465,
     "language": "Python",
-    "today_stars": "190 stars today",
+    "today_stars": "217 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-08T15:31:37.327699+00:00"
+    "fetched_at": "2026-03-08T16:38:46.909290+00:00"
   },
   "pbakaus/impeccable": {
     "repo_path": "pbakaus/impeccable",
     "repo_name": "pbakaus / impeccable",
     "repo_url": "https://github.com/pbakaus/impeccable",
     "description": "The design language that makes your AI harness better at design.",
-    "stars": 1417,
-    "stars_text": "1,417",
-    "forks": 62,
+    "stars": 1487,
+    "stars_text": "1,487",
+    "forks": 64,
     "language": "JavaScript",
-    "today_stars": "262 stars today",
+    "today_stars": "640 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-08T15:31:37.328184+00:00"
+    "fetched_at": "2026-03-08T16:38:46.909769+00:00"
   }
 }
