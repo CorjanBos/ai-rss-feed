@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 21:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 22:32:37 +0000</lastBuildDate>
     <item>
       <title>[Generative AI] generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
@@ -21,7 +21,7 @@ Language: Jupyter Notebook
 Category: Generative AI
 Stars: 13,609 | Forks: 3,833</description>
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Sun, 08 Mar 2026 21:31:11 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 22:32:37 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -35,7 +35,7 @@ Language: JavaScript
 Category: Claude
 Stars: 65,305 | Forks: 8,109</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sun, 08 Mar 2026 21:31:11 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 22:32:37 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -49,7 +49,7 @@ Language: TypeScript
 Category: AI
 Stars: 276,465 | Forks: 52,776</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sun, 08 Mar 2026 21:31:11 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 22:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
