@@ -8,62 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 23:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:50:53 +0000</lastBuildDate>
     <item>
-      <title>[MoE] xtuner</title>
-      <link>https://github.com/InternLM/xtuner</link>
-      <description>📉 Rank: #8 → #9 (↓1)
+      <title>[Generative AI] generative-ai</title>
+      <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
+      <description>🆕 NEW ENTRY - Ranked #10 in Generative AI
 
-A Next-Generation Training Engine Built for Ultra-Large MoE Models
+Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 
-Language: Python
+Language: Jupyter Notebook
 
-Category: MoE
-Stars: 5,092 | Forks: 404</description>
-      <guid isPermaLink="true">https://github.com/InternLM/xtuner</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[MoE] flashinfer</title>
-      <link>https://github.com/flashinfer-ai/flashinfer</link>
-      <description>📈 Rank: #9 → #8 (↑1)
-
-FlashInfer: Kernel Library for LLM Serving
-
-Language: Python
-
-Category: MoE
-Stars: 5,093 | Forks: 762</description>
-      <guid isPermaLink="true">https://github.com/flashinfer-ai/flashinfer</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+Category: Generative AI
+Stars: 13,609 | Forks: 3,833</description>
+      <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
+      <pubDate>Sun, 08 Mar 2026 05:50:53 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 62,056 → 63,236 (+1,180)
+      <description>⭐ Stars: 63,236 → 65,305 (+2,069)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 63,236 | Forks: 7,826</description>
+Stars: 65,305 | Forks: 8,109</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 05:50:53 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 266,602 → 271,907 (+5,305)
+      <description>⭐ Stars: 271,907 → 276,465 (+4,558)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 271,907 | Forks: 51,964</description>
+Stars: 276,465 | Forks: 52,776</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 05:50:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
