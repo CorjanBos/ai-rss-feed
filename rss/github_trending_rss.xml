@@ -8,138 +8,138 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 23:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:47:18 +0000</lastBuildDate>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>🆕 NEW ENTRY - Ranked #1
+      <description>⭐ Stars: 5,610 → 5,733 (+123) | Ranked #1
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
-345 stars today</description>
+399 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>GoogleCloudPlatform / generative-ai</title>
-      <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>🆕 NEW ENTRY - Ranked #4
-
-Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-
-Language: Jupyter Notebook
-348 stars today</description>
-      <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>agentjido / jido</title>
-      <link>https://github.com/agentjido/jido</link>
-      <description>🆕 NEW ENTRY - Ranked #5
-
-🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
-
-Language: Elixir
-138 stars today</description>
-      <guid isPermaLink="true">https://github.com/agentjido/jido</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>toeverything / AFFiNE</title>
-      <link>https://github.com/toeverything/AFFiNE</link>
-      <description>🆕 NEW ENTRY - Ranked #9
-
-There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-
-Language: TypeScript
-264 stars today</description>
-      <guid isPermaLink="true">https://github.com/toeverything/AFFiNE</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>shadcn-ui / ui</title>
-      <link>https://github.com/shadcn-ui/ui</link>
-      <description>🆕 NEW ENTRY - Ranked #10
-
-A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-Language: TypeScript
-102 stars today</description>
-      <guid isPermaLink="true">https://github.com/shadcn-ui/ui</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>alibaba / page-agent</title>
-      <link>https://github.com/alibaba/page-agent</link>
-      <description>🆕 NEW ENTRY - Ranked #11
-
-JavaScript in-page GUI agent. Control web interfaces with natural language.
-
-Language: TypeScript
-104 stars today</description>
-      <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
     <item>
       <title>openai / skills</title>
       <link>https://github.com/openai/skills</link>
-      <description>📈 Rank: #7 → #2 (↑5) | ⭐ Stars: 11,931 → 12,686 (+755)
+      <description>⭐ Stars: 12,686 → 12,754 (+68) | Ranked #2
 
 Skills Catalog for Codex
 
 Language: Python
-947 stars today</description>
+948 stars today</description>
       <guid isPermaLink="true">https://github.com/openai/skills</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>📈 Rank: #11 → #3 (↑8) | ⭐ Stars: 9,777 → 10,735 (+958)
+      <description>⭐ Stars: 10,735 → 10,826 (+91) | Ranked #3
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
 1,468 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleCloudPlatform / generative-ai</title>
+      <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
+      <description>⭐ Stars: 13,501 → 13,574 (+73) | Ranked #4
+
+Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+
+Language: Jupyter Notebook
+384 stars today</description>
+      <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>agentjido / jido</title>
+      <link>https://github.com/agentjido/jido</link>
+      <description>⭐ Stars: 1,414 → 1,433 (+19) | Ranked #5
+
+🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+
+Language: Elixir
+115 stars today</description>
+      <guid isPermaLink="true">https://github.com/agentjido/jido</guid>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
     <item>
       <title>QwenLM / Qwen-Agent</title>
       <link>https://github.com/QwenLM/Qwen-Agent</link>
-      <description>📉 Rank: #2 → #6 (↓4) | ⭐ Stars: 14,606 → 15,005 (+399)
+      <description>⭐ Stars: 15,005 → 15,047 (+42) | Ranked #6
 
 Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 
 Language: Python
 586 stars today</description>
       <guid isPermaLink="true">https://github.com/QwenLM/Qwen-Agent</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
     <item>
       <title>virattt / ai-hedge-fund</title>
       <link>https://github.com/virattt/ai-hedge-fund</link>
-      <description>📈 Rank: #9 → #7 (↑2) | ⭐ Stars: 46,320 → 46,564 (+244)
+      <description>⭐ Stars: 46,564 → 46,595 (+31) | Ranked #7
 
 An AI Hedge Fund Team
 
 Language: Python
 248 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / hve-core</title>
       <link>https://github.com/microsoft/hve-core</link>
-      <description>📉 Rank: #3 → #8 (↓5) | ⭐ Stars: 542 → 743 (+201)
+      <description>⭐ Stars: 743 → 757 (+14) | Ranked #8
 
 A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 
 Language: PowerShell
 217 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/hve-core</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:36 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>toeverything / AFFiNE</title>
+      <link>https://github.com/toeverything/AFFiNE</link>
+      <description>⭐ Stars: 64,666 → 64,726 (+60) | Ranked #9
+
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+Language: TypeScript
+281 stars today</description>
+      <guid isPermaLink="true">https://github.com/toeverything/AFFiNE</guid>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>shadcn-ui / ui</title>
+      <link>https://github.com/shadcn-ui/ui</link>
+      <description>⭐ Stars: 108,155 → 108,213 (+58) | Ranked #10
+
+A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+Language: TypeScript
+129 stars today</description>
+      <guid isPermaLink="true">https://github.com/shadcn-ui/ui</guid>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>alibaba / page-agent</title>
+      <link>https://github.com/alibaba/page-agent</link>
+      <description>⭐ Stars: 1,322 → 1,425 (+103) | Ranked #11
+
+JavaScript in-page GUI agent. Control web interfaces with natural language.
+
+Language: TypeScript
+137 stars today</description>
+      <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
+      <pubDate>Sun, 08 Mar 2026 02:47:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
