@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:55:23 +0000</lastBuildDate>
+    <item>
+      <title>Demystifying Action Space Design for Robotic Manipulation Policies</title>
+      <link>https://huggingface.co/papers/2602.23408</link>
+      <description>By Yuchun Feng, Jinliang Zheng, Zhihao Wang, Dongxiu Liu, Jianxiong Li, et al.
+
+The specification of the action space plays a pivotal role in imitation-based robotic manipulation policy learning, fundamentally shaping the optimization landscape of policy learning. While recent advances have focused heavily on scaling training data and model capacity, the choice of action space ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2602.23408</guid>
+      <pubDate>Thu, 26 Feb 2026 13:32:41 +0000</pubDate>
+    </item>
     <item>
       <title>SkillNet: Create, Evaluate, and Connect AI Skills</title>
       <link>https://huggingface.co/papers/2603.04448</link>
@@ -55,6 +64,15 @@ Despite impressive progress in video generation, existing models remain limited 
       <pubDate>Sat, 28 Feb 2026 05:02:39 +0000</pubDate>
     </item>
     <item>
+      <title>WildActor: Unconstrained Identity-Preserving Video Generation</title>
+      <link>https://huggingface.co/papers/2603.00586</link>
+      <description>By Qin Guo, Tianyu Yang, Xuanhua He, Fei Shen, Yong Zhang, et al.
+
+Production-ready human video generation requires digital actors to maintain strictly consistent full-body identities across dynamic shots, viewpoints and motions, a setting that remains challenging for existing methods. Prior methods often suffer from face-centric behavior that neglects body-level c...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.00586</guid>
+      <pubDate>Sat, 28 Feb 2026 10:34:39 +0000</pubDate>
+    </item>
+    <item>
       <title>STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification</title>
       <link>https://huggingface.co/papers/2603.00695</link>
       <description>By Xingguo Xu, Zhanyu Liu, Weixiang Zhou, Yuansheng Gao, Junjie Cao, et al.
@@ -71,6 +89,15 @@ Multi-modal object Re-Identification (ReID) aims to exploit complementary inform
 Large Vision-Language Models (LVLMs) have adopted visual token pruning strategies to mitigate substantial computational overhead incurred by extensive visual token sequences. While prior works primarily focus on either attention-based or diversity-based pruning methods, in-depth analysis of these ap...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01236</guid>
       <pubDate>Sun, 01 Mar 2026 19:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Grid: Layout-Informed Multi-Vector Retrieval with Parsed Visual Document Representations</title>
+      <link>https://huggingface.co/papers/2603.01666</link>
+      <description>By Yibo Yan, Mingdong Ou, Yi Cao, Xin Zou, Shuliang Liu, et al.
+
+Harnessing the full potential of visually-rich documents requires retrieval systems that understand not just text, but intricate layouts, a core challenge in Visual Document Retrieval (VDR). The prevailing multi-vector architectures, while powerful, face a crucial storage bottleneck that current opt...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.01666</guid>
+      <pubDate>Mon, 02 Mar 2026 09:55:00 +0000</pubDate>
     </item>
     <item>
       <title>GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection</title>
@@ -107,15 +134,6 @@ Low-bit attention, such as SageAttention, has emerged as an effective approach f
 Human-product images, which showcase the integration of humans and products, play a vital role in advertising, e-commerce, and digital marketing. The essential challenge of generating such images lies in ensuring the high-fidelity preservation of product details. Among existing paradigms, reference-...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.02210</guid>
       <pubDate>Mon, 02 Mar 2026 18:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models</title>
-      <link>https://huggingface.co/papers/2603.02482</link>
-      <description>By Zhongxi Wang, Yueqian Lin, Jingyang Zhang, Hai Helen Li, Yiran Chen
-
-Safety evaluation and red-teaming of large language models remain predominantly text-centric, and existing frameworks lack the infrastructure to systematically test whether alignment generalizes to audio, image, and video inputs. We present MUSE (Multimodal Unified Safety Evaluation), an open-source...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.02482</guid>
-      <pubDate>Tue, 03 Mar 2026 00:10:23 +0000</pubDate>
     </item>
     <item>
       <title>HDINO: A Concise and Efficient Open-Vocabulary Detector</title>
@@ -172,24 +190,6 @@ While large language models (LLMs) show promise in scientific discovery, existin
       <pubDate>Wed, 04 Mar 2026 06:11:18 +0000</pubDate>
     </item>
     <item>
-      <title>T2S-Bench &amp; Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning</title>
-      <link>https://huggingface.co/papers/2603.03790</link>
-      <description>By Qinsi Wang, Hancheng Ye, Jinhee Kim, Jinghan Ke, Yifei Wang, et al.
-
-Think about how human handles complex reading tasks: marking key points, inferring their relationships, and structuring information to guide understanding and responses. Likewise, can a large language model benefit from text structure to enhance text-processing performance? To explore it, in this wo...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03790</guid>
-      <pubDate>Wed, 04 Mar 2026 07:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration</title>
-      <link>https://huggingface.co/papers/2603.03823</link>
-      <description>By Jialong Chen, Xander Xu, Hu Wei, Chuan Chen, Bing Zhao
-
-Large language model (LLM)-powered agents have demonstrated strong capabilities in automating software engineering tasks such as static bug fixing, as evidenced by benchmarks like SWE-bench. However, in the real world, the development of mature software is typically predicated on complex requirement...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03823</guid>
-      <pubDate>Wed, 04 Mar 2026 08:20:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Lightweight Visual Reasoning for Socially-Aware Robots</title>
       <link>https://huggingface.co/papers/2603.03942</link>
       <description>By Alessio Galatolo, Ronald Cumbal, Alexandros Rouchitsas, Katie Winkle, Didem Gürdür Broo, et al.
@@ -197,15 +197,6 @@ Large language model (LLM)-powered agents have demonstrated strong capabilities 
 Robots operating in shared human environments must not only navigate, interact, and detect their surroundings, they must also interpret and respond to dynamic, and often unpredictable, human behaviours. Although recent advances have shown promise in enhancing robotic perception and instruction-follo...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03942</guid>
       <pubDate>Wed, 04 Mar 2026 11:08:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>RIVER: A Real-Time Interaction Benchmark for Video LLMs</title>
-      <link>https://huggingface.co/papers/2603.03985</link>
-      <description>By Yansong Shi, Qingsong Zhao, Tianxiang Jiang, Xiangyu Zeng, Yi Wang, et al.
-
-The rapid advancement of multimodal large language models has demonstrated impressive capabilities, yet nearly all operate in an offline paradigm, hindering real-time interactivity. Addressing this gap, we introduce the Real-tIme Video intERaction Bench (RIVER Bench), designed for evaluating online ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03985</guid>
-      <pubDate>Wed, 04 Mar 2026 12:29:34 +0000</pubDate>
     </item>
     <item>
       <title>BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning</title>
@@ -224,15 +215,6 @@ Can reinforcement learning with hard, verifiable rewards teach a compact languag
 Understanding a 3D scene immediately with its exploration is essential for embodied tasks, where an agent must construct and comprehend the 3D scene in an online and nearly real-time manner. In this study, we propose EmbodiedSplat, an online feed-forward 3DGS for open-vocabulary scene understanding ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04254</guid>
       <pubDate>Wed, 04 Mar 2026 16:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video</title>
-      <link>https://huggingface.co/papers/2603.04291</link>
-      <description>By Lingen Li, Guangzhi Wang, Xiaoyu Li, Zhaoyang Zhang, Qi Dou, et al.
-
-Generating high-quality 360° panoramic videos from perspective input is one of the crucial applications for virtual reality (VR), whereby high-resolution videos are especially important for immersive experience. Existing methods are constrained by computational limitations of vanilla diffusion model...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04291</guid>
-      <pubDate>Wed, 04 Mar 2026 17:06:56 +0000</pubDate>
     </item>
     <item>
       <title>V_1: Unifying Generation and Self-Verification for Parallel Reasoners</title>
@@ -371,6 +353,15 @@ Reasoning models think out loud, but much of what they say is noise. We introduc
       <pubDate>Thu, 05 Mar 2026 17:54:40 +0000</pubDate>
     </item>
     <item>
+      <title>Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model</title>
+      <link>https://huggingface.co/papers/2603.05438</link>
+      <description>By Dongwon Kim, Gawon Seo, Jinsung Lee, Minsu Cho, Suha Kwak
+
+World models provide a powerful framework for simulating environment dynamics conditioned on actions or instructions, enabling downstream tasks such as action planning or policy learning. Recent approaches leverage world models as learned simulators, but its application to decision-time planning rem...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05438</guid>
+      <pubDate>Thu, 05 Mar 2026 18:00:02 +0000</pubDate>
+    </item>
+    <item>
       <title>RealWonder: Real-Time Physical Action-Conditioned Video Generation</title>
       <link>https://huggingface.co/papers/2603.05449</link>
       <description>By Wei Liu, Ziyu Chen, Zizhang Li, Yue Wang, Hong-Xing Yu, et al.
@@ -396,6 +387,15 @@ While datasets for video understanding have scaled to hour-long durations, they 
 Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05504</guid>
       <pubDate>Thu, 05 Mar 2026 18:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Reconstruction FID Predictive of Diffusion Generation FID</title>
+      <link>https://huggingface.co/papers/2603.05630</link>
+      <description>By Tongda Xu, Mingwei He, Shady Abu-Hussein, Jose Miguel Hernandez-Lobato, Haotian Zhang, et al.
+
+It is well known that the reconstruction FID (rFID) of a VAE is poorly correlated with the generation FID (gFID) of a latent diffusion model. We propose interpolated FID (iFID), a simple variant of rFID that exhibits a strong correlation with gFID. Specifically, for each element in the dataset, we r...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05630</guid>
+      <pubDate>Thu, 05 Mar 2026 19:39:01 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Models Struggle to Control their Chains of Thought</title>
