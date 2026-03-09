@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 14:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:08:36 +0000</lastBuildDate>
     <item>
       <title>karpathy / nanochat</title>
       <link>https://github.com/karpathy/nanochat</link>
@@ -19,7 +19,7 @@ The best ChatGPT that $100 can buy.
 Language: Python
 332 stars today</description>
       <guid isPermaLink="true">https://github.com/karpathy/nanochat</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / BettaFish</title>
@@ -31,7 +31,7 @@ Language: Python
 Language: Python
 509 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/BettaFish</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
@@ -43,7 +43,7 @@ The agent that grows with you
 Language: Python
 358 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>alirezarezvani / claude-skills</title>
@@ -55,7 +55,7 @@ Language: Python
 Language: Python
 228 stars today</description>
       <guid isPermaLink="true">https://github.com/alirezarezvani/claude-skills</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>Raphire / Win11Debloat</title>
@@ -67,91 +67,91 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 Language: PowerShell
 104 stars today</description>
       <guid isPermaLink="true">https://github.com/Raphire/Win11Debloat</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>GoogleCloudPlatform / generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>⭐ Stars: 14,319 → 15,090 (+771) | Ranked #1
+      <description>⭐ Stars: 14,319 → 15,130 (+811) | Ranked #1
 
 Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 
 Language: Jupyter Notebook
 1,291 stars today</description>
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>openclaw / openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>📈 Rank: #4 → #2 (↑2) | ⭐ Stars: 280,278 → 288,516 (+8238)
+      <description>📈 Rank: #4 → #2 (↑2) | ⭐ Stars: 280,278 → 288,944 (+8666)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 Language: TypeScript
 9,123 stars today</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 6,896 → 9,597 (+2701)
+      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 6,896 → 9,931 (+3035)
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
 2,222 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>pbakaus / impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
-      <description>📈 Rank: #12 → #7 (↑5) | ⭐ Stars: 1,708 → 2,646 (+938)
+      <description>📈 Rank: #12 → #7 (↑5) | ⭐ Stars: 1,708 → 2,701 (+993)
 
 The design language that makes your AI harness better at design.
 
 Language: JavaScript
 1,291 stars today</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>📉 Rank: #3 → #8 (↓5) | ⭐ Stars: 11,092 → 16,209 (+5117)
+      <description>📉 Rank: #3 → #8 (↓5) | ⭐ Stars: 11,092 → 16,513 (+5421)
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
 4,297 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>alibaba / page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>📈 Rank: #11 → #9 (↑2) | ⭐ Stars: 1,664 → 2,294 (+630)
+      <description>📈 Rank: #11 → #9 (↑2) | ⭐ Stars: 1,664 → 2,341 (+677)
 
 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 Language: TypeScript
 715 stars today</description>
       <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
     <item>
       <title>teng-lin / notebooklm-py</title>
       <link>https://github.com/teng-lin/notebooklm-py</link>
-      <description>📉 Rank: #11 → #12 (↓1) | ⭐ Stars: 3,707 → 4,036 (+329)
+      <description>📉 Rank: #11 → #12 (↓1) | ⭐ Stars: 3,707 → 4,060 (+353)
 
 Unofficial Python API for Google NotebookLM
 
 Language: Python
 457 stars today</description>
       <guid isPermaLink="true">https://github.com/teng-lin/notebooklm-py</guid>
-      <pubDate>Mon, 09 Mar 2026 14:59:27 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
