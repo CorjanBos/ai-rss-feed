@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 02:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 04:59:17 +0000</lastBuildDate>
     <item>
       <title>SkillNet: Create, Evaluate, and Connect AI Skills</title>
       <link>https://huggingface.co/papers/2603.04448</link>
@@ -80,6 +80,15 @@ Large Vision-Language Models (LVLMs) have adopted visual token pruning strategie
 Detection Transformer (DETR) and its variants show strong performance on object detection, a key task for autonomous systems. However, a critical limitation of these models is that their confidence scores only reflect semantic uncertainty, failing to capture the equally important spatial uncertainty...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01847</guid>
       <pubDate>Mon, 02 Mar 2026 13:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs</title>
+      <link>https://huggingface.co/papers/2603.02083</link>
+      <description>By Siting Wang, Xiaofeng Wang, Zheng Zhu, Minnan Pei, Xinyu Cui, et al.
+
+Flow-based vision-language-action (VLA) models excel in embodied control but suffer from intractable likelihoods during multi-step sampling, hindering online reinforcement learning. We propose \textit{boldsymbolπ-StepNFT} (Step-wise Negative-aware Fine-Tuning), a critic-and-likelihood-free framework...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.02083</guid>
+      <pubDate>Mon, 02 Mar 2026 17:04:49 +0000</pubDate>
     </item>
     <item>
       <title>SageBwd: A Trainable Low-bit Attention</title>
@@ -217,15 +226,6 @@ Robots operating in shared human environments must not only navigate, interact, 
       <pubDate>Wed, 04 Mar 2026 11:08:44 +0000</pubDate>
     </item>
     <item>
-      <title>Phi-4-reasoning-vision-15B Technical Report</title>
-      <link>https://huggingface.co/papers/2603.03975</link>
-      <description>By Jyoti Aneja, Michael Harrison, Neel Joshi, Tyler LaBonte, John Langford, et al.
-
-We present Phi-4-reasoning-vision-15B, a compact open-weight multimodal reasoning model, and share the motivations, design choices, experiments, and learnings that informed its development. Our goal is to contribute practical insight to the research community on building smaller, efficient multimoda...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03975</guid>
-      <pubDate>Wed, 04 Mar 2026 12:16:53 +0000</pubDate>
-    </item>
-    <item>
       <title>RIVER: A Real-Time Interaction Benchmark for Video LLMs</title>
       <link>https://huggingface.co/papers/2603.03985</link>
       <description>By Yansong Shi, Qingsong Zhao, Tianxiang Jiang, Xiangyu Zeng, Yi Wang, et al.
@@ -278,15 +278,6 @@ Generating high-quality 360° panoramic videos from perspective input is one of 
 Test-time scaling for complex reasoning tasks shows that leveraging inference-time compute, by methods such as independently sampling and aggregating multiple solutions, results in significantly better task outcomes. However, a critical bottleneck is verification: sampling is only effective if corre...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04304</guid>
       <pubDate>Wed, 04 Mar 2026 17:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors</title>
-      <link>https://huggingface.co/papers/2603.04338</link>
-      <description>By Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, Saining Zhang, et al.
-
-Synthesizing physically plausible articulated human-object interactions (HOI) without 3D/4D supervision remains a fundamental challenge. While recent zero-shot approaches leverage video diffusion models to synthesize human-object interactions, they are largely confined to rigid-object manipulation a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04338</guid>
-      <pubDate>Wed, 04 Mar 2026 17:58:04 +0000</pubDate>
     </item>
     <item>
       <title>Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling</title>
@@ -459,6 +450,15 @@ Diffusion Transformers process images as fixed-length sequences of tokens produc
 Recent advances in diffusion-based video generation have achieved remarkable visual realism but still struggle to obey basic physical laws such as gravity, inertia, and collision. Generated objects often move inconsistently across frames, exhibit implausible dynamics, or violate physical constraints...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06408</guid>
       <pubDate>Fri, 06 Mar 2026 15:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders</title>
+      <link>https://huggingface.co/papers/2603.06569</link>
+      <description>By Boqiang Zhang, Lei Ke, Ruihan Yang, Qi Gao, Tianyuan Qu, et al.
+
+Vision Language Model (VLM) development has largely relied on scaling model size, which hinders deployment on compute-constrained mobile and edge devices such as smartphones and robots. In this work, we explore the performance limits of compact (e.g., 2B and 8B) VLMs. We challenge the prevailing pra...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06569</guid>
+      <pubDate>Fri, 06 Mar 2026 18:58:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
