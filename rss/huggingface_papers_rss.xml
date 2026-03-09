@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 13:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 14:59:26 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -98,15 +98,6 @@ Production-ready human video generation requires digital actors to maintain stri
 Multi-modal object Re-Identification (ReID) aims to exploit complementary information from different modalities to retrieve specific objects. However, existing methods often rely on hard token filtering or simple fusion strategies, which can lead to the loss of discriminative cues and increased back...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.00695</guid>
       <pubDate>Sat, 28 Feb 2026 15:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models</title>
-      <link>https://huggingface.co/papers/2603.01236</link>
-      <description>By Changwoo Baek, Jouwon Song, Sohyeon Kim, Kyeongbo Kong
-
-Large Vision-Language Models (LVLMs) have adopted visual token pruning strategies to mitigate substantial computational overhead incurred by extensive visual token sequences. While prior works primarily focus on either attention-based or diversity-based pruning methods, in-depth analysis of these ap...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01236</guid>
-      <pubDate>Sun, 01 Mar 2026 19:14:39 +0000</pubDate>
     </item>
     <item>
       <title>Beyond the Grid: Layout-Informed Multi-Vector Retrieval with Parsed Visual Document Representations</title>
@@ -215,6 +206,15 @@ Learning a transport model that maps a source distribution to a target distribut
 Standard benchmarks have become increasingly unreliable due to saturation, subjectivity, and poor generalization. We argue that evaluating model's ability to acquire information actively is important to assess model's intelligence. We propose Interactive Benchmarks, a unified evaluation paradigm tha...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04737</guid>
       <pubDate>Thu, 05 Mar 2026 02:18:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>IF-RewardBench: Benchmarking Judge Models for Instruction-Following Evaluation</title>
+      <link>https://huggingface.co/papers/2603.04738</link>
+      <description>By Bosi Wen, Yilin Niu, Cunxiang Wang, Xiaoying Ling, Ying Zhang, et al.
+
+Instruction-following is a foundational capability of large language models (LLMs), with its improvement hinging on scalable and accurate feedback from judge models. However, the reliability of current judge models in instruction-following remains underexplored due to several deficiencies of existin...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04738</guid>
+      <pubDate>Thu, 05 Mar 2026 02:21:17 +0000</pubDate>
     </item>
     <item>
       <title>DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval</title>
