@@ -8,150 +8,150 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 10:01:41 +0000</lastBuildDate>
     <item>
       <title>GoogleCloudPlatform / generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>⭐ Stars: 14,319 → 14,868 (+549) | Ranked #1
+      <description>⭐ Stars: 14,319 → 14,942 (+623) | Ranked #1
 
 Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 
 Language: Jupyter Notebook
 522 stars today</description>
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>⭐ Stars: 6,896 → 8,160 (+1264) | Ranked #2
+      <description>⭐ Stars: 6,896 → 8,322 (+1426) | Ranked #2
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
 1,104 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>shadcn-ui / ui</title>
       <link>https://github.com/shadcn-ui/ui</link>
-      <description>⭐ Stars: 108,651 → 108,923 (+272) | Ranked #3
+      <description>⭐ Stars: 108,651 → 108,962 (+311) | Ranked #3
 
 A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 Language: TypeScript
 488 stars today</description>
       <guid isPermaLink="true">https://github.com/shadcn-ui/ui</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>openclaw / openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 280,278 → 285,745 (+5467) | Ranked #4
+      <description>⭐ Stars: 280,278 → 286,423 (+6145) | Ranked #4
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 Language: TypeScript
 4,603 stars today</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>toeverything / AFFiNE</title>
       <link>https://github.com/toeverything/AFFiNE</link>
-      <description>⭐ Stars: 65,201 → 65,445 (+244) | Ranked #5
+      <description>⭐ Stars: 65,201 → 65,473 (+272) | Ranked #5
 
 There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
 Language: TypeScript
 533 stars today</description>
       <guid isPermaLink="true">https://github.com/toeverything/AFFiNE</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>Ed1s0nZ / CyberStrikeAI</title>
       <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
-      <description>⭐ Stars: 2,236 → 2,470 (+234) | Ranked #6
+      <description>⭐ Stars: 2,236 → 2,507 (+271) | Ranked #6
 
 CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 
 Language: Go
 244 stars today</description>
       <guid isPermaLink="true">https://github.com/Ed1s0nZ/CyberStrikeAI</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>shareAI-lab / learn-claude-code</title>
       <link>https://github.com/shareAI-lab/learn-claude-code</link>
-      <description>⭐ Stars: 23,829 → 24,267 (+438) | Ranked #7
+      <description>⭐ Stars: 23,829 → 24,312 (+483) | Ranked #7
 
 Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
 Language: TypeScript
 566 stars today</description>
       <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>openai / skills</title>
       <link>https://github.com/openai/skills</link>
-      <description>⭐ Stars: 13,196 → 13,479 (+283) | Ranked #8
+      <description>⭐ Stars: 13,196 → 13,506 (+310) | Ranked #8
 
 Skills Catalog for Codex
 
 Language: Python
 612 stars today</description>
       <guid isPermaLink="true">https://github.com/openai/skills</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>virattt / ai-hedge-fund</title>
       <link>https://github.com/virattt/ai-hedge-fund</link>
-      <description>⭐ Stars: 46,815 → 46,957 (+142) | Ranked #9
+      <description>⭐ Stars: 46,815 → 46,969 (+154) | Ranked #9
 
 An AI Hedge Fund Team
 
 Language: Python
 275 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>is-a-dev / register</title>
       <link>https://github.com/is-a-dev/register</link>
-      <description>⭐ Stars: 9,774 → 9,901 (+127) | Ranked #10
+      <description>⭐ Stars: 9,774 → 9,912 (+138) | Ranked #10
 
 Grab your own sweet-looking '.is-a.dev' subdomain.
 
 Language: JavaScript
 10 stars today</description>
       <guid isPermaLink="true">https://github.com/is-a-dev/register</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>teng-lin / notebooklm-py</title>
       <link>https://github.com/teng-lin/notebooklm-py</link>
-      <description>⭐ Stars: 3,707 → 3,910 (+203) | Ranked #11
+      <description>⭐ Stars: 3,707 → 3,932 (+225) | Ranked #11
 
 Unofficial Python API for Google NotebookLM
 
 Language: Python
 196 stars today</description>
       <guid isPermaLink="true">https://github.com/teng-lin/notebooklm-py</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
     <item>
       <title>pbakaus / impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
-      <description>⭐ Stars: 1,708 → 2,319 (+611) | Ranked #12
+      <description>⭐ Stars: 1,708 → 2,387 (+679) | Ranked #12
 
 The design language that makes your AI harness better at design.
 
 Language: JavaScript
 443 stars today</description>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Mon, 09 Mar 2026 08:55:25 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 10:01:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

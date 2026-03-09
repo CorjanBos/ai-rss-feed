@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 10:01:39 +0000</lastBuildDate>
     <item>
       <title>Demystifying Action Space Design for Robotic Manipulation Policies</title>
       <link>https://huggingface.co/papers/2602.23408</link>
@@ -208,15 +208,6 @@ Can reinforcement learning with hard, verifiable rewards teach a compact languag
       <pubDate>Wed, 04 Mar 2026 14:42:43 +0000</pubDate>
     </item>
     <item>
-      <title>EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding</title>
-      <link>https://huggingface.co/papers/2603.04254</link>
-      <description>By Seungjun Lee, Zihan Wang, Yunsong Wang, Gim Hee Lee
-
-Understanding a 3D scene immediately with its exploration is essential for embodied tasks, where an agent must construct and comprehend the 3D scene in an online and nearly real-time manner. In this study, we propose EmbodiedSplat, an online feed-forward 3DGS for open-vocabulary scene understanding ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04254</guid>
-      <pubDate>Wed, 04 Mar 2026 16:40:41 +0000</pubDate>
-    </item>
-    <item>
       <title>V_1: Unifying Generation and Self-Verification for Parallel Reasoners</title>
       <link>https://huggingface.co/papers/2603.04304</link>
       <description>By Harman Singh, Xiuyu Li, Kusha Sareen, Monishwaran Maheswaran, Sijun Tan, et al.
@@ -314,6 +305,15 @@ Vision transformers have demonstrated remarkable success in classification by le
 Proximal constraints are fundamental to the stability of the Large Language Model reinforcement learning. While the canonical clipping mechanism in PPO serves as an efficient surrogate for trust regions, we identify a critical bottleneck: fixed bounds strictly constrain the upward update margin of l...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04918</guid>
       <pubDate>Thu, 05 Mar 2026 08:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mario: Multimodal Graph Reasoning with Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.05181</link>
+      <description>By Yuanfu Sun, Kang Li, Pengkang Guo, Jiajin Liu, Qiaoyu Tan
+
+Recent advances in large language models (LLMs) have opened new avenues for multimodal reasoning. Yet, most existing methods still rely on pretrained vision-language models (VLMs) to encode image-text pairs in isolation, ignoring the relational structure that real-world multimodal data naturally for...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05181</guid>
+      <pubDate>Thu, 05 Mar 2026 13:49:41 +0000</pubDate>
     </item>
     <item>
       <title>KARL: Knowledge Agents via Reinforcement Learning</title>
