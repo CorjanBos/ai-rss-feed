@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 17:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 19:02:53 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -64,6 +64,15 @@ Which multimodal model should we use for classification? Previous studies sugges
       <pubDate>Thu, 26 Feb 2026 17:08:18 +0000</pubDate>
     </item>
     <item>
+      <title>Physics Informed Viscous Value Representations</title>
+      <link>https://huggingface.co/papers/2602.23280</link>
+      <description>By Hrishikesh Viswanath, Juanwu Lu, S. Talha Bukhari, Damon Conover, Ziran Wang, et al.
+
+Offline goal-conditioned reinforcement learning (GCRL) learns goal-conditioned policies from static pre-collected datasets. However, accurate value estimation remains a challenge due to the limited coverage of the state-action space. Recent physics-informed approaches have sought to address this by ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2602.23280</guid>
+      <pubDate>Thu, 26 Feb 2026 17:53:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning</title>
       <link>https://huggingface.co/papers/2602.23440</link>
       <description>By Chris Samarinas, Haw-Shiuan Chang, Hamed Zamani
@@ -98,6 +107,15 @@ Production-ready human video generation requires digital actors to maintain stri
 Multi-modal object Re-Identification (ReID) aims to exploit complementary information from different modalities to retrieve specific objects. However, existing methods often rely on hard token filtering or simple fusion strategies, which can lead to the loss of discriminative cues and increased back...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.00695</guid>
       <pubDate>Sat, 28 Feb 2026 15:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operator Learning Using Weak Supervision from Walk-on-Spheres</title>
+      <link>https://huggingface.co/papers/2603.01193</link>
+      <description>By Hrishikesh Viswanath, Hong Chul Nam, Xi Deng, Julius Berner, Anima Anandkumar, et al.
+
+Training neural PDE solvers is often bottlenecked by expensive data generation or unstable physics-informed neural network (PINN) involving challenging optimization landscapes due to higher-order derivatives. To tackle this issue, we propose an alternative approach using Monte Carlo approaches to es...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.01193</guid>
+      <pubDate>Sun, 01 Mar 2026 17:23:39 +0000</pubDate>
     </item>
     <item>
       <title>Beyond the Grid: Layout-Informed Multi-Vector Retrieval with Parsed Visual Document Representations</title>
@@ -235,15 +253,6 @@ Sequential LLM agents fail on long-horizon planning with hard constraints like b
       <pubDate>Thu, 05 Mar 2026 02:55:53 +0000</pubDate>
     </item>
     <item>
-      <title>Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling</title>
-      <link>https://huggingface.co/papers/2603.04791</link>
-      <description>By Yong Liu, Xingjian Su, Shiyu Wang, Haoran Zhang, Haixuan Liu, et al.
-
-We introduce Timer-S1, a strong Mixture-of-Experts (MoE) time series foundation model with 8.3B total parameters, 0.75B activated parameters for each token, and a context length of 11.5K. To overcome the scalability bottleneck in existing pre-trained time series foundation models, we perform Serial ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04791</guid>
-      <pubDate>Thu, 05 Mar 2026 04:13:57 +0000</pubDate>
-    </item>
-    <item>
       <title>MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models</title>
       <link>https://huggingface.co/papers/2603.04800</link>
       <description>By Lulu Hu, Wenhu Xiao, Xin Chen, Xinhua Xu, Bowen Xu, et al.
@@ -278,15 +287,6 @@ Proximal constraints are fundamental to the stability of the Large Language Mode
 Recent advances in large language models (LLMs) have opened new avenues for multimodal reasoning. Yet, most existing methods still rely on pretrained vision-language models (VLMs) to encode image-text pairs in isolation, ignoring the relational structure that real-world multimodal data naturally for...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05181</guid>
       <pubDate>Thu, 05 Mar 2026 13:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>KARL: Knowledge Agents via Reinforcement Learning</title>
-      <link>https://huggingface.co/papers/2603.05218</link>
-      <description>By Jonathan D. Chang, Andrew Drozdov, Shubham Toshniwal, Owen Oertell, Alexander Trott, et al.
-
-We present a system for training enterprise search agents via reinforcement learning that achieves state-of-the-art performance across a diverse suite of hard-to-verify agentic search tasks. Our work makes four core contributions. First, we introduce KARLBench, a multi-capability evaluation suite sp...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05218</guid>
-      <pubDate>Thu, 05 Mar 2026 14:30:25 +0000</pubDate>
     </item>
     <item>
       <title>Layer by layer, module by module: Choose both for optimal OOD probing of ViT</title>

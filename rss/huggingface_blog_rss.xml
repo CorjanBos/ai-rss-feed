@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 17:52:30 +0000</lastBuildDate>
-    <item>
-      <title>H Company's new Holo2 model takes the lead in UI Localization</title>
-      <link>https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b</link>
-      <description>By H company - H Company's new Holo2 model takes the lead in UI Localization</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b</guid>
-      <pubDate>Tue, 03 Feb 2026 17:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Community Evals: Because we're done trusting black-box leaderboards over the community</title>
-      <link>https://huggingface.co/blog/community-evals</link>
-      <description>By ben burtenshaw, Nathan Habib, Bertrand Chevrier, merve, Daniel van Strien, Niels Rogge, Julien Chaumond - Community Evals: Because we're done trusting black-box leaderboards over the community</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/community-evals</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing SyGra Studio</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/sygra-studio</link>
-      <description>By ServiceNow-AI - Introducing SyGra Studio</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/sygra-studio</guid>
-      <pubDate>Thu, 05 Feb 2026 16:52:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 19:02:53 +0000</lastBuildDate>
     <item>
       <title>Transformers.js v4 Preview: Now Available on NPM!</title>
       <link>https://huggingface.co/blog/transformersjs-v4</link>
@@ -106,6 +85,27 @@
       <description>By NXP - Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations</description>
       <guid isPermaLink="true">https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms</guid>
       <pubDate>Thu, 05 Mar 2026 14:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>LeRobot v0.5.0: Scaling Every Dimension</title>
+      <link>https://huggingface.co/blog/lerobot-release-v050</link>
+      <description>By Steven Palma, Pepijn Kooijmans, Jade Choghari, Caroline Pascal, Khalil Meftah, Martino Russi, Nicolas Rabault, Michel Aractingi, Virgile BATTO, Thomas Wolf - LeRobot v0.5.0: Scaling Every Dimension</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/lerobot-release-v050</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ulysses Sequence Parallelism: Training with Million-Token Contexts</title>
+      <link>https://huggingface.co/blog/ulysses-sp</link>
+      <description>By Kashif Rasul, Stas Bekman - Ulysses Sequence Parallelism: Training with Million-Token Contexts</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ulysses-sp</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-4-speech</link>
+      <description>By IBM Granite - Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-4-speech</guid>
+      <pubDate>Mon, 09 Mar 2026 18:36:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

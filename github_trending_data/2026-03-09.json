@@ -4,26 +4,26 @@
     "repo_name": "GoogleCloudPlatform / generative-ai",
     "repo_url": "https://github.com/GoogleCloudPlatform/generative-ai",
     "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-    "stars": 15169,
-    "stars_text": "15,169",
-    "forks": 3952,
+    "stars": 15182,
+    "stars_text": "15,182",
+    "forks": 3954,
     "language": "Jupyter Notebook",
     "today_stars": "1,291 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-09T17:52:32.166350+00:00"
+    "fetched_at": "2026-03-09T19:02:54.630548+00:00"
   },
   "666ghj/MiroFish": {
     "repo_path": "666ghj/MiroFish",
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 10209,
-    "stars_text": "10,209",
-    "forks": 1069,
+    "stars": 10344,
+    "stars_text": "10,344",
+    "forks": 1079,
     "language": "Python",
     "today_stars": "2,222 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-09T17:52:32.167557+00:00"
+    "fetched_at": "2026-03-09T19:02:54.631722+00:00"
   },
   "shadcn-ui/ui": {
     "repo_path": "shadcn-ui/ui",
@@ -43,13 +43,13 @@
     "repo_name": "openclaw / openclaw",
     "repo_url": "https://github.com/openclaw/openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
-    "stars": 289268,
-    "stars_text": "289,268",
-    "forks": 54857,
+    "stars": 289392,
+    "stars_text": "289,392",
+    "forks": 54886,
     "language": "TypeScript",
     "today_stars": "9,123 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-09T17:52:32.167052+00:00"
+    "fetched_at": "2026-03-09T19:02:54.631236+00:00"
   },
   "toeverything/AFFiNE": {
     "repo_path": "toeverything/AFFiNE",
@@ -134,116 +134,116 @@
     "repo_name": "teng-lin / notebooklm-py",
     "repo_url": "https://github.com/teng-lin/notebooklm-py",
     "description": "Unofficial Python API for Google NotebookLM",
-    "stars": 4089,
-    "stars_text": "4,089",
-    "forks": 505,
+    "stars": 4104,
+    "stars_text": "4,104",
+    "forks": 508,
     "language": "Python",
     "today_stars": "457 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-09T17:52:32.172243+00:00"
+    "fetched_at": "2026-03-09T19:02:54.636311+00:00"
   },
   "pbakaus/impeccable": {
     "repo_path": "pbakaus/impeccable",
     "repo_name": "pbakaus / impeccable",
     "repo_url": "https://github.com/pbakaus/impeccable",
     "description": "The design language that makes your AI harness better at design.",
-    "stars": 2772,
-    "stars_text": "2,772",
+    "stars": 2805,
+    "stars_text": "2,805",
     "forks": 105,
     "language": "JavaScript",
     "today_stars": "1,291 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-09T17:52:32.169537+00:00"
+    "fetched_at": "2026-03-09T19:02:54.633660+00:00"
   },
   "karpathy/nanochat": {
     "repo_path": "karpathy/nanochat",
     "repo_name": "karpathy / nanochat",
     "repo_url": "https://github.com/karpathy/nanochat",
     "description": "The best ChatGPT that $100 can buy.",
-    "stars": 45343,
-    "stars_text": "45,343",
-    "forks": 6005,
+    "stars": 45370,
+    "stars_text": "45,370",
+    "forks": 6009,
     "language": "Python",
     "today_stars": "332 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-09T17:52:32.168078+00:00"
+    "fetched_at": "2026-03-09T19:02:54.632200+00:00"
   },
   "666ghj/BettaFish": {
     "repo_path": "666ghj/BettaFish",
     "repo_name": "666ghj / BettaFish",
     "repo_url": "https://github.com/666ghj/BettaFish",
     "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
-    "stars": 37255,
-    "stars_text": "37,255",
+    "stars": 37269,
+    "stars_text": "37,269",
     "forks": 7025,
     "language": "Python",
     "today_stars": "509 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-09T17:52:32.168564+00:00"
+    "fetched_at": "2026-03-09T19:02:54.632701+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 2753,
-    "stars_text": "2,753",
-    "forks": 385,
+    "stars": 2783,
+    "stars_text": "2,783",
+    "forks": 388,
     "language": "Python",
     "today_stars": "358 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-09T17:52:32.169070+00:00"
+    "fetched_at": "2026-03-09T19:02:54.633182+00:00"
   },
   "msitarzewski/agency-agents": {
     "repo_path": "msitarzewski/agency-agents",
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 17012,
-    "stars_text": "17,012",
-    "forks": 2599,
+    "stars": 17412,
+    "stars_text": "17,412",
+    "forks": 2675,
     "language": "Shell",
     "today_stars": "4,297 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-09T17:52:32.170150+00:00"
+    "fetched_at": "2026-03-09T19:02:54.634262+00:00"
   },
   "alibaba/page-agent": {
     "repo_path": "alibaba/page-agent",
     "repo_name": "alibaba / page-agent",
     "repo_url": "https://github.com/alibaba/page-agent",
     "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "stars": 2398,
-    "stars_text": "2,398",
-    "forks": 194,
+    "stars": 2429,
+    "stars_text": "2,429",
+    "forks": 196,
     "language": "TypeScript",
     "today_stars": "532 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-09T17:52:32.170643+00:00"
+    "fetched_at": "2026-03-09T19:02:54.634740+00:00"
   },
   "alirezarezvani/claude-skills": {
     "repo_path": "alirezarezvani/claude-skills",
     "repo_name": "alirezarezvani / claude-skills",
     "repo_url": "https://github.com/alirezarezvani/claude-skills",
     "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw \u2014 engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-    "stars": 3164,
-    "stars_text": "3,164",
-    "forks": 392,
+    "stars": 3202,
+    "stars_text": "3,202",
+    "forks": 394,
     "language": "Python",
     "today_stars": "228 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-09T17:52:32.171142+00:00"
+    "fetched_at": "2026-03-09T19:02:54.635232+00:00"
   },
   "Raphire/Win11Debloat": {
     "repo_path": "Raphire/Win11Debloat",
     "repo_name": "Raphire / Win11Debloat",
     "repo_url": "https://github.com/Raphire/Win11Debloat",
     "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-    "stars": 41067,
-    "stars_text": "41,067",
-    "forks": 1594,
+    "stars": 41103,
+    "stars_text": "41,103",
+    "forks": 1596,
     "language": "PowerShell",
     "today_stars": "104 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-09T17:52:32.171759+00:00"
+    "fetched_at": "2026-03-09T19:02:54.635824+00:00"
   }
 }
