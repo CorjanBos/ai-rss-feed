@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 11:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:21:28 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -143,24 +143,6 @@ Low-bit attention, such as SageAttention, has emerged as an effective approach f
 Human-product images, which showcase the integration of humans and products, play a vital role in advertising, e-commerce, and digital marketing. The essential challenge of generating such images lies in ensuring the high-fidelity preservation of product details. Among existing paradigms, reference-...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.02210</guid>
       <pubDate>Mon, 02 Mar 2026 18:59:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>HDINO: A Concise and Efficient Open-Vocabulary Detector</title>
-      <link>https://huggingface.co/papers/2603.02924</link>
-      <description>By Hao Zhang, Yiqun Wang, Qinran Lin, Runze Fan, Yong Li
-
-Despite the growing interest in open-vocabulary object detection in recent years, most existing methods rely heavily on manually curated fine-grained training datasets as well as resource-intensive layer-wise cross-modal feature extraction. In this paper, we propose HDINO, a concise yet efficient op...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.02924</guid>
-      <pubDate>Tue, 03 Mar 2026 12:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>MIBURI: Towards Expressive Interactive Gesture Synthesis</title>
-      <link>https://huggingface.co/papers/2603.03282</link>
-      <description>By M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt
-
-Embodied Conversational Agents (ECAs) aim to emulate human face-to-face interaction through speech, gestures, and facial expressions. Current large language model (LLM)-based conversational agents lack embodiment and the expressive gestures essential for natural interaction. Existing solutions for E...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03282</guid>
-      <pubDate>Tue, 03 Mar 2026 18:59:51 +0000</pubDate>
     </item>
     <item>
       <title>Mozi: Governed Autonomy for Drug Discovery LLM Agents</title>
@@ -371,6 +353,15 @@ While datasets for video understanding have scaled to hour-long durations, they 
       <pubDate>Thu, 05 Mar 2026 18:52:12 +0000</pubDate>
     </item>
     <item>
+      <title>Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation</title>
+      <link>https://huggingface.co/papers/2603.05494</link>
+      <description>By Helena Casademunt, Bartosz Cywiński, Khoi Tran, Arya Jakkli, Samuel Marks, et al.
+
+Large language models sometimes produce false or misleading responses. Two approaches to this problem are honesty elicitation -- modifying prompts or weights so that the model answers truthfully -- and lie detection -- classifying whether a given response is false. Prior work evaluates such methods ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05494</guid>
+      <pubDate>Thu, 05 Mar 2026 18:58:14 +0000</pubDate>
+    </item>
+    <item>
       <title>RoboPocket: Improve Robot Policies Instantly with Your Phone</title>
       <link>https://huggingface.co/papers/2603.05504</link>
       <description>By Junjie Fang, Wendi Chen, Han Xue, Fangyuan Zhou, Tian Le, et al.
@@ -414,6 +405,15 @@ We introduce PixARMesh, a method to autoregressively reconstruct complete 3D ind
 Image restoration under diverse degradations remains challenging for unified all-in-one frameworks due to feature interference and insufficient expert specialization. We propose SLER-IR, a spherical layer-wise expert routing framework that dynamically activates specialized experts across network lay...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05940</guid>
       <pubDate>Fri, 06 Mar 2026 06:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>EffectMaker: Unifying Reasoning and Generation for Customized Visual Effect Creation</title>
+      <link>https://huggingface.co/papers/2603.06014</link>
+      <description>By Shiyuan Yang, Ruihuang Li, Jiale Tao, Shuai Shao, Qinglin Lu, et al.
+
+Visual effects (VFX) are essential for enhancing the expressiveness and creativity of video content, yet producing high-quality effects typically requires expert knowledge and costly production pipelines. Existing AIGC systems face significant challenges in VFX generation due to the scarcity of effe...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06014</guid>
+      <pubDate>Fri, 06 Mar 2026 08:09:14 +0000</pubDate>
     </item>
     <item>
       <title>FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling</title>
