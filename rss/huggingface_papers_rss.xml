@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 10:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 11:38:42 +0000</lastBuildDate>
+    <item>
+      <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
+      <link>https://huggingface.co/papers/2603.04445</link>
+      <description>By Yasmin Moslem, John D. Kelleher
+
+The rapid growth of large language models (LLMs) with diverse capabilities, costs, and domains has created a critical need for intelligent model selection at inference time. While smaller models suffice for routine queries, complex tasks demand more capable models. However, static model deployment d...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04445</guid>
+      <pubDate>Mon, 23 Feb 2026 21:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation</title>
+      <link>https://huggingface.co/papers/2602.22839</link>
+      <description>By Hao Zheng, Guozhao Mo, Xinru Yan, Qianhao Yuan, Wenkai Zhang, et al.
+
+Presentation generation requires deep content research, coherent visual design, and iterative refinement based on observation. However, existing presentation agents often rely on predefined workflows and fixed templates. To address this, we present DeepPresenter, an agentic framework that adapts to ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2602.22839</guid>
+      <pubDate>Thu, 26 Feb 2026 10:26:48 +0000</pubDate>
+    </item>
     <item>
       <title>Demystifying Action Space Design for Robotic Manipulation Policies</title>
       <link>https://huggingface.co/papers/2602.23408</link>
@@ -100,15 +118,6 @@ Harnessing the full potential of visually-rich documents requires retrieval syst
       <pubDate>Mon, 02 Mar 2026 09:55:00 +0000</pubDate>
     </item>
     <item>
-      <title>GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection</title>
-      <link>https://huggingface.co/papers/2603.01847</link>
-      <description>By Yutong Yang, Katarina Popović, Julian Wiederer, Markus Braun, Vasileios Belagiannis, et al.
-
-Detection Transformer (DETR) and its variants show strong performance on object detection, a key task for autonomous systems. However, a critical limitation of these models is that their confidence scores only reflect semantic uncertainty, failing to capture the equally important spatial uncertainty...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01847</guid>
-      <pubDate>Mon, 02 Mar 2026 13:26:40 +0000</pubDate>
-    </item>
-    <item>
       <title>π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs</title>
       <link>https://huggingface.co/papers/2603.02083</link>
       <description>By Siting Wang, Xiaofeng Wang, Zheng Zhu, Minnan Pei, Xinyu Cui, et al.
@@ -145,15 +154,6 @@ Despite the growing interest in open-vocabulary object detection in recent years
       <pubDate>Tue, 03 Mar 2026 12:29:19 +0000</pubDate>
     </item>
     <item>
-      <title>Specificity-aware reinforcement learning for fine-grained open-world classification</title>
-      <link>https://huggingface.co/papers/2603.03197</link>
-      <description>By Samuele Angheben, Davide Berasi, Alessandro Conti, Elisa Ricci, Yiming Wang
-
-Classifying fine-grained visual concepts under open-world settings, i.e., without a predefined label set, demands models to be both accurate and specific. Recent reasoning Large Multimodal Models (LMMs) exhibit strong visual understanding capability but tend to produce overly generic predictions whe...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03197</guid>
-      <pubDate>Tue, 03 Mar 2026 17:52:39 +0000</pubDate>
-    </item>
-    <item>
       <title>MIBURI: Towards Expressive Interactive Gesture Synthesis</title>
       <link>https://huggingface.co/papers/2603.03282</link>
       <description>By M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt
@@ -161,15 +161,6 @@ Classifying fine-grained visual concepts under open-world settings, i.e., withou
 Embodied Conversational Agents (ECAs) aim to emulate human face-to-face interaction through speech, gestures, and facial expressions. Current large language model (LLM)-based conversational agents lack embodiment and the expressive gestures essential for natural interaction. Existing solutions for E...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03282</guid>
       <pubDate>Tue, 03 Mar 2026 18:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions</title>
-      <link>https://huggingface.co/papers/2603.03646</link>
-      <description>By Mohamed Elmoghany, Liangbing Zhao, Xiaoqian Shen, Subhojyoti Mukherjee, Yang Zhou, et al.
-
-Generating long-form storytelling videos with consistent visual narratives remains a significant challenge in video synthesis. We present a novel framework, dataset, and a model that address three critical limitations: background consistency across shots, seamless multi-subject shot-to-shot transiti...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03646</guid>
-      <pubDate>Wed, 04 Mar 2026 02:10:32 +0000</pubDate>
     </item>
     <item>
       <title>Mozi: Governed Autonomy for Drug Discovery LLM Agents</title>
@@ -197,15 +188,6 @@ While large language models (LLMs) show promise in scientific discovery, existin
 Robots operating in shared human environments must not only navigate, interact, and detect their surroundings, they must also interpret and respond to dynamic, and often unpredictable, human behaviours. Although recent advances have shown promise in enhancing robotic perception and instruction-follo...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03942</guid>
       <pubDate>Wed, 04 Mar 2026 11:08:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning</title>
-      <link>https://huggingface.co/papers/2603.04124</link>
-      <description>By Tarjei Paule Hage, Markus J. Buehler
-
-Can reinforcement learning with hard, verifiable rewards teach a compact language model to reason about physics, or does it primarily learn to pattern-match toward correct answers? We study this question by training a 1.5B-parameter reasoning model on beam statics, a classic engineering problem, usi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04124</guid>
-      <pubDate>Wed, 04 Mar 2026 14:42:43 +0000</pubDate>
     </item>
     <item>
       <title>V_1: Unifying Generation and Self-Verification for Parallel Reasoners</title>
@@ -325,6 +307,15 @@ We present a system for training enterprise search agents via reinforcement lear
       <pubDate>Thu, 05 Mar 2026 14:30:25 +0000</pubDate>
     </item>
     <item>
+      <title>Layer by layer, module by module: Choose both for optimal OOD probing of ViT</title>
+      <link>https://huggingface.co/papers/2603.05280</link>
+      <description>By Ambroise Odonnat, Vasilii Feofanov, Laetitia Chapel, Romain Tavenard, Ievgen Redko
+
+Recent studies have observed that intermediate layers of foundation models often yield more discriminative representations than the final layer. While initially attributed to autoregressive pretraining, this phenomenon has also been identified in models trained via supervised and discriminative self...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05280</guid>
+      <pubDate>Thu, 05 Mar 2026 15:23:41 +0000</pubDate>
+    </item>
+    <item>
       <title>UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data</title>
       <link>https://huggingface.co/papers/2603.05312</link>
       <description>By Sizhe Yang, Yiman Xie, Zhixuan Liang, Yang Tian, Jia Zeng, et al.
@@ -432,6 +423,15 @@ Image restoration under diverse degradations remains challenging for unified all
 Long-context modeling is a pivotal capability for Large Language Models, yet the quadratic complexity of attention remains a critical bottleneck, particularly during the compute-intensive prefilling phase. While various sparse attention mechanisms have been explored, they typically suffer from eithe...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06199</guid>
       <pubDate>Fri, 06 Mar 2026 12:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching</title>
+      <link>https://huggingface.co/papers/2603.06331</link>
+      <description>By Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang, Mingqiang Wu, et al.
+
+Diffusion-based world models have shown strong potential for unified world simulation, but the iterative denoising remains too costly for interactive use and long-horizon rollouts. While feature caching can accelerate inference without training, we find that policies designed for single-modal diffus...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06331</guid>
+      <pubDate>Fri, 06 Mar 2026 14:43:47 +0000</pubDate>
     </item>
     <item>
       <title>Dynamic Chunking Diffusion Transformer</title>
