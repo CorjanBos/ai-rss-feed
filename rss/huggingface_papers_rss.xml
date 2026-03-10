@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 23:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 02:39:48 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -145,6 +145,15 @@ Low-bit attention, such as SageAttention, has emerged as an effective approach f
       <pubDate>Mon, 02 Mar 2026 18:39:49 +0000</pubDate>
     </item>
     <item>
+      <title>Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation</title>
+      <link>https://huggingface.co/papers/2603.02554</link>
+      <description>By Chonghua Lv, Dong Zhao, Shuang Wang, Dou Quan, Ning Huyan, et al.
+
+Knowledge distillation (KD) has been widely applied in semantic segmentation to compress large models, but conventional approaches primarily preserve in-domain accuracy while neglecting out-of-domain generalization, which is essential under distribution shifts. This limitation becomes more severe wi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.02554</guid>
+      <pubDate>Tue, 03 Mar 2026 03:18:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Mozi: Governed Autonomy for Drug Discovery LLM Agents</title>
       <link>https://huggingface.co/papers/2603.03655</link>
       <description>By He Cao, Siyu Liu, Fan Zhang, Zijing Liu, Hao Li, et al.
@@ -154,13 +163,13 @@ Tool-augmented large language model (LLM) agents promise to unify scientific rea
       <pubDate>Wed, 04 Mar 2026 02:22:21 +0000</pubDate>
     </item>
     <item>
-      <title>MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier</title>
-      <link>https://huggingface.co/papers/2603.03756</link>
-      <description>By Zonglin Yang, Lidong Bing
+      <title>From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning</title>
+      <link>https://huggingface.co/papers/2603.03825</link>
+      <description>By Ruilin Luo, Chufan Shi, Yizhen Zhang, Cheng Yang, Songtao Jiang, et al.
 
-While large language models (LLMs) show promise in scientific discovery, existing research focuses on inference or feedback-driven training, leaving the direct modeling of the generative reasoning process, P(hypothesis|background) (P(h|b)), unexplored. We demonstrate that directly training P(h|b) is...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03756</guid>
-      <pubDate>Wed, 04 Mar 2026 06:11:18 +0000</pubDate>
+The cold-start initialization stage plays a pivotal role in training Multimodal Large Reasoning Models (MLRMs), yet its mechanisms remain insufficiently understood. To analyze this stage, we introduce the Visual Attention Score (VAS), an attention-based metric that quantifies how much a model attend...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.03825</guid>
+      <pubDate>Wed, 04 Mar 2026 08:22:27 +0000</pubDate>
     </item>
     <item>
       <title>Lightweight Visual Reasoning for Socially-Aware Robots</title>
@@ -244,15 +253,6 @@ Post-training quantization (PTQ) with computational invariance for Large Languag
       <pubDate>Thu, 05 Mar 2026 04:41:32 +0000</pubDate>
     </item>
     <item>
-      <title>Locality-Attending Vision Transformer</title>
-      <link>https://huggingface.co/papers/2603.04892</link>
-      <description>By Sina Hajimiri, Farzad Beizaee, Fereshteh Shakeri, Christian Desrosiers, Ismail Ben Ayed, et al.
-
-Vision transformers have demonstrated remarkable success in classification by leveraging global self-attention to capture long-range dependencies. However, this same mechanism can obscure fine-grained spatial details crucial for tasks such as segmentation. In this work, we seek to enhance segmentati...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04892</guid>
-      <pubDate>Thu, 05 Mar 2026 07:31:49 +0000</pubDate>
-    </item>
-    <item>
       <title>BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.04918</link>
       <description>By Yuan Li, Bo Wang, Yufei Gao, Yuqian Yao, Xinyuan Wang, et al.
@@ -289,15 +289,6 @@ Recent studies have observed that intermediate layers of foundation models often
       <pubDate>Thu, 05 Mar 2026 15:23:41 +0000</pubDate>
     </item>
     <item>
-      <title>UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data</title>
-      <link>https://huggingface.co/papers/2603.05312</link>
-      <description>By Sizhe Yang, Yiman Xie, Zhixuan Liang, Yang Tian, Jia Zeng, et al.
-
-Grasping is a fundamental capability for robots to interact with the physical world. Humans, equipped with two hands, autonomously select appropriate grasp strategies based on the shape, size, and weight of objects, enabling robust grasping and subsequent manipulation. In contrast, current robotic g...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05312</guid>
-      <pubDate>Thu, 05 Mar 2026 15:54:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Progressive Residual Warmup for Language Model Pretraining</title>
       <link>https://huggingface.co/papers/2603.05369</link>
       <description>By Tianhao Chen, Xin Xu, Lu Yin, Hao Chen, Yang Wang, et al.
@@ -324,24 +315,6 @@ Reasoning models think out loud, but much of what they say is noise. We introduc
 World models provide a powerful framework for simulating environment dynamics conditioned on actions or instructions, enabling downstream tasks such as action planning or policy learning. Recent approaches leverage world models as learned simulators, but its application to decision-time planning rem...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05438</guid>
       <pubDate>Thu, 05 Mar 2026 18:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>RealWonder: Real-Time Physical Action-Conditioned Video Generation</title>
-      <link>https://huggingface.co/papers/2603.05449</link>
-      <description>By Wei Liu, Ziyu Chen, Zizhang Li, Yue Wang, Hong-Xing Yu, et al.
-
-Current video generation models cannot simulate physical consequences of 3D actions like forces and robotic manipulations, as they lack structural understanding of how actions affect 3D scenes. We present RealWonder, the first real-time system for action-conditioned video generation from a single im...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05449</guid>
-      <pubDate>Thu, 05 Mar 2026 18:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline</title>
-      <link>https://huggingface.co/papers/2603.05484</link>
-      <description>By Guo Chen, Lidong Lu, Yicheng Liu, Liangrui Dong, Lidong Zou, et al.
-
-While datasets for video understanding have scaled to hour-long durations, they typically consist of densely concatenated clips that differ from natural, unscripted daily life. To bridge this gap, we introduce MM-Lifelong, a dataset designed for Multimodal Lifelong Understanding. Comprising 181.1 ho...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05484</guid>
-      <pubDate>Thu, 05 Mar 2026 18:52:12 +0000</pubDate>
     </item>
     <item>
       <title>Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation</title>
@@ -416,6 +389,15 @@ Visual effects (VFX) are essential for enhancing the expressiveness and creativi
       <pubDate>Fri, 06 Mar 2026 08:09:14 +0000</pubDate>
     </item>
     <item>
+      <title>Stabilizing Reinforcement Learning for Diffusion Language Models</title>
+      <link>https://huggingface.co/papers/2603.06743</link>
+      <description>By Jianyuan Zhong, Kaibo Wang, Ding Ding, Zijin Feng, Haoli Bai, et al.
+
+Group Relative Policy Optimization (GRPO) is highly effective for post-training autoregressive (AR) language models, yet its direct application to diffusion large language models (dLLMs) often triggers reward collapse. We identify two sources of incompatibility. First, GRPO relies on importance rati...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06743</guid>
+      <pubDate>Fri, 06 Mar 2026 08:55:37 +0000</pubDate>
+    </item>
+    <item>
       <title>FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling</title>
       <link>https://huggingface.co/papers/2603.06199</link>
       <description>By Qihang Fan, Huaibo Huang, Zhiying Wu, Juqiu Wang, Bingning Wang, et al.
@@ -459,6 +441,24 @@ Recent advances in diffusion-based video generation have achieved remarkable vis
 Vision Language Model (VLM) development has largely relied on scaling model size, which hinders deployment on compute-constrained mobile and edge devices such as smartphones and robots. In this work, we explore the performance limits of compact (e.g., 2B and 8B) VLMs. We challenge the prevailing pra...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06569</guid>
       <pubDate>Fri, 06 Mar 2026 18:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>PureCC: Pure Learning for Text-to-Image Concept Customization</title>
+      <link>https://huggingface.co/papers/2603.07561</link>
+      <description>By Zhichao Liao, Xiaole Xian, Qingyu Li, Wenyu Qin, Meng Wang, et al.
+
+Existing concept customization methods have achieved remarkable outcomes in high-fidelity and multi-concept customization. However, they often neglect the influence on the original model's behavior and capabilities when learning new personalized concepts. To address this issue, we propose PureCC. Pu...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07561</guid>
+      <pubDate>Sun, 08 Mar 2026 09:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents</title>
+      <link>https://huggingface.co/papers/2603.08013</link>
+      <description>By Yuxiang Chai, Shunye Tang, Han Xiao, Rui Liu, Hongsheng Li
+
+Current Graphical User Interface (GUI) agents operate primarily under a reactive paradigm: a user must provide an explicit instruction for the agent to execute a task. However, an intelligent AI assistant should be proactive, which is capable of anticipating user intentions directly from continuous ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08013</guid>
+      <pubDate>Mon, 09 Mar 2026 06:41:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
