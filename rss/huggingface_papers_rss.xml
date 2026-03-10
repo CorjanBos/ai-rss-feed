@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 22:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:35:12 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -73,13 +73,13 @@ Large Reasoning Models have demonstrated remarkable performance with the advance
       <pubDate>Wed, 04 Mar 2026 09:25:36 +0000</pubDate>
     </item>
     <item>
-      <title>nabla-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space</title>
-      <link>https://huggingface.co/papers/2603.04948</link>
-      <description>By Peihao Wang, Ruisi Cai, Zhen Wang, Hongyuan Mei, Qiang Liu, et al.
+      <title>Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models</title>
+      <link>https://huggingface.co/papers/2603.04893</link>
+      <description>By Sean Lamont, Christian Walder, Paul Montague, Amir Dezfouli, Michael Norrish
 
-Scaling inference-time compute for Large Language Models (LLMs) has unlocked unprecedented reasoning capabilities. However, existing inference-time scaling methods typically rely on inefficient and suboptimal discrete search algorithms or trial-and-error prompting to improve the online policy. In th...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04948</guid>
-      <pubDate>Thu, 05 Mar 2026 08:42:54 +0000</pubDate>
+Diverse outputs in text generation are necessary for effective exploration in complex reasoning tasks, such as code generation and mathematical problem solving. Such Pass@k problems benefit from distinct candidates covering the solution space. However, traditional sampling approaches often waste com...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04893</guid>
+      <pubDate>Thu, 05 Mar 2026 07:35:07 +0000</pubDate>
     </item>
     <item>
       <title>TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events</title>
@@ -125,15 +125,6 @@ The landscape of AI coding assistance is undergoing a fundamental shift from com
 Urban traffic flow is governed by the complex, nonlinear interaction between land use configuration and spatiotemporally heterogeneous mobility demand. Conventional global regression and time-series models cannot simultaneously capture these multi-scale dynamics across multiple travel modes. This st...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05581</guid>
       <pubDate>Thu, 05 Mar 2026 18:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces</title>
-      <link>https://huggingface.co/papers/2603.05607</link>
-      <description>By Mohammad Sadil Khan, Muhammad Usama, Rolandos Alexandros Potamias, Didier Stricker, Muhammad Zeshan Afzal, et al.
-
-Computer-Aided Design (CAD) relies on structured and editable geometric representations, yet existing generative methods are constrained by small annotated datasets with explicit design histories or boundary representation (BRep) labels. Meanwhile, millions of unannotated 3D meshes remain untapped, ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05607</guid>
-      <pubDate>Thu, 05 Mar 2026 19:04:07 +0000</pubDate>
     </item>
     <item>
       <title>Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces</title>
@@ -395,6 +386,15 @@ While autoregressive (AR) LLM-based ASR systems achieve strong accuracy, their s
 Unified diffusion editors often rely on a fixed, shared backbone for diverse tasks, suffering from task interference and poor adaptation to heterogeneous demands (e.g., local vs global, semantic vs photometric). In particular, prevalent ControlNet and OmniControl variants combine multiple conditioni...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08589</guid>
       <pubDate>Mon, 09 Mar 2026 16:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>CAST: Modeling Visual State Transitions for Consistent Video Retrieval</title>
+      <link>https://huggingface.co/papers/2603.08648</link>
+      <description>By Yanqing Liu, Yingcheng Liu, Fanghong Dong, Budianto Budianto, Cihang Xie, et al.
+
+As video content creation shifts toward long-form narratives, composing short clips into coherent storylines becomes increasingly important. However, prevailing retrieval formulations remain context-agnostic at inference time, prioritizing local semantic alignment while neglecting state and identity...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08648</guid>
+      <pubDate>Mon, 09 Mar 2026 17:26:26 +0000</pubDate>
     </item>
     <item>
       <title>CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation</title>
