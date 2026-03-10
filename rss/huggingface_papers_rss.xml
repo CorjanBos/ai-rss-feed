@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:01:51 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -262,13 +262,13 @@ Agentic systems operating over large tool ecosystems must plan and execute long-
       <pubDate>Thu, 05 Mar 2026 20:29:12 +0000</pubDate>
     </item>
     <item>
-      <title>Reasoning Models Struggle to Control their Chains of Thought</title>
-      <link>https://huggingface.co/papers/2603.05706</link>
-      <description>By Chen Yueh-Han, Robert McCarthy, Bruce W. Lee, He He, Ian Kivlichan, et al.
+      <title>Lost in Stories: Consistency Bugs in Long Story Generation by LLMs</title>
+      <link>https://huggingface.co/papers/2603.05890</link>
+      <description>By Junjie Li, Xinrui Guo, Yuhao Wu, Roy Ka-Wei Lee, Hongzhi Li, et al.
 
-Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To measure this undesirable capability -- CoT control...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05706</guid>
-      <pubDate>Thu, 05 Mar 2026 22:03:48 +0000</pubDate>
+What happens when a storyteller forgets its own story? Large Language Models (LLMs) can now generate narratives spanning tens of thousands of words, but they often fail to maintain consistency throughout. When generating long-form narratives, these models can contradict their own established facts, ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05890</guid>
+      <pubDate>Fri, 06 Mar 2026 04:16:46 +0000</pubDate>
     </item>
     <item>
       <title>SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration</title>
@@ -307,15 +307,6 @@ Diffusion-based world models have shown strong potential for unified world simul
       <pubDate>Fri, 06 Mar 2026 14:43:47 +0000</pubDate>
     </item>
     <item>
-      <title>Physical Simulator In-the-Loop Video Generation</title>
-      <link>https://huggingface.co/papers/2603.06408</link>
-      <description>By Lin Geng Foo, Mark He Huang, Alexandros Lattas, Stylianos Moschoglou, Thabo Beeler, et al.
-
-Recent advances in diffusion-based video generation have achieved remarkable visual realism but still struggle to obey basic physical laws such as gravity, inertia, and collision. Generated objects often move inconsistently across frames, exhibit implausible dynamics, or violate physical constraints...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.06408</guid>
-      <pubDate>Fri, 06 Mar 2026 15:48:25 +0000</pubDate>
-    </item>
-    <item>
       <title>CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization</title>
       <link>https://huggingface.co/papers/2603.06449</link>
       <description>By Yitong Chen, Zuxuan Wu, Xipeng Qiu, Yu-Gang Jiang
@@ -323,15 +314,6 @@ Recent advances in diffusion-based video generation have achieved remarkable vis
 Autoregressive (AR) language models rely on causal tokenization, but extending this paradigm to vision remains non-trivial. Current visual tokenizers either flatten 2D patches into non-causal sequences or enforce heuristic orderings that misalign with the "next-token prediction" pattern. Recent diff...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06449</guid>
       <pubDate>Fri, 06 Mar 2026 16:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders</title>
-      <link>https://huggingface.co/papers/2603.06569</link>
-      <description>By Boqiang Zhang, Lei Ke, Ruihan Yang, Qi Gao, Tianyuan Qu, et al.
-
-Vision Language Model (VLM) development has largely relied on scaling model size, which hinders deployment on compute-constrained mobile and edge devices such as smartphones and robots. In this work, we explore the performance limits of compact (e.g., 2B and 8B) VLMs. We challenge the prevailing pra...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.06569</guid>
-      <pubDate>Fri, 06 Mar 2026 18:58:04 +0000</pubDate>
     </item>
     <item>
       <title>AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery</title>
@@ -397,6 +379,15 @@ Current Graphical User Interface (GUI) agents operate primarily under a reactive
       <pubDate>Mon, 09 Mar 2026 06:41:32 +0000</pubDate>
     </item>
     <item>
+      <title>Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness</title>
+      <link>https://huggingface.co/papers/2603.08309</link>
+      <description>By Yehonatan Elisha, Oren Barkan, Noam Koenigstein
+
+Vision Transformers (ViTs) often degrade under distribution shifts because they rely on spurious correlations, such as background cues, rather than semantically meaningful features. Existing regularization methods, typically relying on simple foreground-background masks, which fail to capture the fi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08309</guid>
+      <pubDate>Mon, 09 Mar 2026 12:31:14 +0000</pubDate>
+    </item>
+    <item>
       <title>CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</title>
       <link>https://huggingface.co/papers/2603.08589</link>
       <description>By Yucheng Wang, Zedong Wang, Yuetong Wu, Yue Ma, Dan Xu
@@ -404,6 +395,15 @@ Current Graphical User Interface (GUI) agents operate primarily under a reactive
 Unified diffusion editors often rely on a fixed, shared backbone for diverse tasks, suffering from task interference and poor adaptation to heterogeneous demands (e.g., local vs global, semantic vs photometric). In particular, prevalent ControlNet and OmniControl variants combine multiple conditioni...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08589</guid>
       <pubDate>Mon, 09 Mar 2026 16:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation</title>
+      <link>https://huggingface.co/papers/2603.08652</link>
+      <description>By Haodong Li, Chunmei Qing, Huanyu Zhang, Dongzhi Jiang, Yihang Zou, et al.
+
+Recent advancements in Unified Multimodal Models (UMMs) have significantly advanced text-to-image (T2I) generation, particularly through the integration of Chain-of-Thought (CoT) reasoning. However, existing CoT-based T2I methods largely rely on abstract natural-language planning, which lacks the pr...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08652</guid>
+      <pubDate>Mon, 09 Mar 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
       <title>OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning</title>
