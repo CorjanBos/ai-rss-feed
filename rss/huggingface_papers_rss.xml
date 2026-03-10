@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 10:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 11:39:12 +0000</lastBuildDate>
     <item>
       <title>Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey</title>
       <link>https://huggingface.co/papers/2603.04445</link>
@@ -145,13 +145,13 @@ Imitation Learning (IL) enables robots to acquire manipulation skills from exper
       <pubDate>Thu, 05 Mar 2026 12:42:53 +0000</pubDate>
     </item>
     <item>
-      <title>Layer by layer, module by module: Choose both for optimal OOD probing of ViT</title>
-      <link>https://huggingface.co/papers/2603.05280</link>
-      <description>By Ambroise Odonnat, Vasilii Feofanov, Laetitia Chapel, Romain Tavenard, Ievgen Redko
+      <title>Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity</title>
+      <link>https://huggingface.co/papers/2603.05168</link>
+      <description>By Di Zhang, Xun Wu, Shaohan Huang, Yudong Wang, Hanyong Shao, et al.
 
-Recent studies have observed that intermediate layers of foundation models often yield more discriminative representations than the final layer. While initially attributed to autoregressive pretraining, this phenomenon has also been identified in models trained via supervised and discriminative self...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05280</guid>
-      <pubDate>Thu, 05 Mar 2026 15:23:41 +0000</pubDate>
+Semi-structured N:M sparsity and low-bit quantization (e.g., 1.58-bit BitNet) are two promising approaches for improving the efficiency of large language models (LLMs), yet they have largely been studied in isolation. In this work, we investigate their interaction and show that 1.58-bit BitNet is na...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05168</guid>
+      <pubDate>Thu, 05 Mar 2026 13:37:50 +0000</pubDate>
     </item>
     <item>
       <title>Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned</title>
@@ -226,15 +226,6 @@ Group Relative Policy Optimization (GRPO) is highly effective for post-training 
       <pubDate>Fri, 06 Mar 2026 08:55:37 +0000</pubDate>
     </item>
     <item>
-      <title>WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching</title>
-      <link>https://huggingface.co/papers/2603.06331</link>
-      <description>By Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang, Mingqiang Wu, et al.
-
-Diffusion-based world models have shown strong potential for unified world simulation, but the iterative denoising remains too costly for interactive use and long-horizon rollouts. While feature caching can accelerate inference without training, we find that policies designed for single-modal diffus...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.06331</guid>
-      <pubDate>Fri, 06 Mar 2026 14:43:47 +0000</pubDate>
-    </item>
-    <item>
       <title>CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization</title>
       <link>https://huggingface.co/papers/2603.06449</link>
       <description>By Yitong Chen, Zuxuan Wu, Xipeng Qiu, Yu-Gang Jiang
@@ -242,6 +233,15 @@ Diffusion-based world models have shown strong potential for unified world simul
 Autoregressive (AR) language models rely on causal tokenization, but extending this paradigm to vision remains non-trivial. Current visual tokenizers either flatten 2D patches into non-causal sequences or enforce heuristic orderings that misalign with the "next-token prediction" pattern. Recent diff...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06449</guid>
       <pubDate>Fri, 06 Mar 2026 16:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Planning with Reasoning for Image Styling via Offline RL</title>
+      <link>https://huggingface.co/papers/2603.07148</link>
+      <description>By Subhojyoti Mukherjee, Stefano Petrangeli, Branislav Kveton, Trung Bui, Franck Dernoncourt, et al.
+
+Direct prompt-based editing often fails on complex transformations because vague and subjective prompts often require nuanced understanding of what should be changed in the image. Our core intuition is that leveraging compositional image editing tools rather than direct prompting profits from struct...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07148</guid>
+      <pubDate>Sat, 07 Mar 2026 11:14:37 +0000</pubDate>
     </item>
     <item>
       <title>Making LLMs Optimize Multi-Scenario CUDA Kernels Like Experts</title>
