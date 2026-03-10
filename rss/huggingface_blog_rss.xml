@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 19:00:37 +0000</lastBuildDate>
-    <item>
-      <title>Custom Kernels for All from Codex and Claude</title>
-      <link>https://huggingface.co/blog/custom-cuda-kernels-agent-skills</link>
-      <description>By ben burtenshaw, Sayak Paul, Aritra Roy Gosthipaty, shaun smith - Custom Kernels for All from Codex and Claude</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/custom-cuda-kernels-agent-skills</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 20:42:03 +0000</lastBuildDate>
     <item>
       <title>One-Shot Any Web App with Gradio's gr.HTML</title>
       <link>https://huggingface.co/blog/gradio-html-one-shot-apps</link>
@@ -106,6 +99,13 @@
       <description>By Lucain Pouget, Eliott Coyac, Adrien Carreira, Victor Mustar, Julien Chaumond, Quentin Lhoest, Pierric Cistac, Sylvestre Bcht, Hugo Larcher, Rajat Arya, Di Xiao, Assaf Vayner - Introducing Storage Buckets on the Hugging Face Hub</description>
       <guid isPermaLink="true">https://huggingface.co/blog/storage-buckets</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How NVIDIA Builds Open Data for AI</title>
+      <link>https://huggingface.co/blog/nvidia/open-data-for-ai</link>
+      <description>By NVIDIA - How NVIDIA Builds Open Data for AI</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/open-data-for-ai</guid>
+      <pubDate>Tue, 10 Mar 2026 19:49:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

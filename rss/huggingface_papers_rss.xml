@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 19:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 20:42:03 +0000</lastBuildDate>
     <item>
       <title>Physics Informed Viscous Value Representations</title>
       <link>https://huggingface.co/papers/2602.23280</link>
@@ -80,24 +80,6 @@ The cold-start initialization stage plays a pivotal role in training Multimodal 
 Large Reasoning Models have demonstrated remarkable performance with the advancement of test-time scaling techniques, which enhances prediction accuracy by generating multiple candidate responses and selecting the most reliable answer. While prior work has analyzed that internal model signals like c...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03872</guid>
       <pubDate>Wed, 04 Mar 2026 09:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>τ-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge</title>
-      <link>https://huggingface.co/papers/2603.04370</link>
-      <description>By Quan Shi, Alexandra Zytek, Pedram Razavi, Karthik Narasimhan, Victor Barres
-
-Conversational agents are increasingly deployed in knowledge-intensive settings, where correct behavior depends on retrieving and applying domain-specific knowledge from large, proprietary, and unstructured corpora during live interactions with users. Yet most existing benchmarks evaluate retrieval ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04370</guid>
-      <pubDate>Wed, 04 Mar 2026 18:34:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>IF-RewardBench: Benchmarking Judge Models for Instruction-Following Evaluation</title>
-      <link>https://huggingface.co/papers/2603.04738</link>
-      <description>By Bosi Wen, Yilin Niu, Cunxiang Wang, Xiaoying Ling, Ying Zhang, et al.
-
-Instruction-following is a foundational capability of large language models (LLMs), with its improvement hinging on scalable and accurate feedback from judge models. However, the reliability of current judge models in instruction-following remains underexplored due to several deficiencies of existin...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04738</guid>
-      <pubDate>Thu, 05 Mar 2026 02:21:17 +0000</pubDate>
     </item>
     <item>
       <title>nabla-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space</title>
@@ -172,6 +154,15 @@ Agentic systems operating over large tool ecosystems must plan and execute long-
       <pubDate>Thu, 05 Mar 2026 20:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Training-free Latent Inter-Frame Pruning with Attention Recovery</title>
+      <link>https://huggingface.co/papers/2603.05811</link>
+      <description>By Dennis Menn, Yuedong Yang, Bokun Wang, Xiwen Wei, Mustafa Munir, et al.
+
+Current video generation models suffer from high computational latency, making real-time applications prohibitively costly. In this paper, we address this limitation by exploiting the temporal redundancy inherent in video latent patches. To this end, we propose the Latent Inter-frame Pruning with At...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05811</guid>
+      <pubDate>Fri, 06 Mar 2026 01:49:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Lost in Stories: Consistency Bugs in Long Story Generation by LLMs</title>
       <link>https://huggingface.co/papers/2603.05890</link>
       <description>By Junjie Li, Xinrui Guo, Yuhao Wu, Roy Ka-Wei Lee, Hongzhi Li, et al.
@@ -206,6 +197,15 @@ Autoregressive (AR) language models rely on causal tokenization, but extending t
 Generative diffusion models are increasingly used for medical imaging data augmentation, but text prompting cannot produce causal training data. Re-prompting rerolls the entire generation trajectory, altering anatomy, texture, and background. Inversion-based editing methods introduce reconstruction ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07066</guid>
       <pubDate>Sat, 07 Mar 2026 06:52:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</title>
+      <link>https://huggingface.co/papers/2603.07145</link>
+      <description>By Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, et al.
+
+Recent generative video world models aim to simulate visual environment evolution, allowing an observer to interactively explore the scene via camera control. However, they implicitly assume that the world only evolves within the observer's field of view. Once an object leaves the observer's view, i...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07145</guid>
+      <pubDate>Sat, 07 Mar 2026 10:31:39 +0000</pubDate>
     </item>
     <item>
       <title>Agentic Planning with Reasoning for Image Styling via Offline RL</title>
