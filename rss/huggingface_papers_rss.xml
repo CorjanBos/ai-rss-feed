@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:06:31 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -17,15 +17,6 @@
 In this paper, we address the problem of tactile sim-to-real policy transfer for contact-rich tasks. Existing methods primarily focus on vision-based sensors and emphasize image rendering quality while providing overly simplistic models of force and shear. Consequently, these models exhibit a large ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.00446</guid>
       <pubDate>Sat, 28 Feb 2026 03:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autophoresis of a Janus particle near a planar wall: a lubrication limit</title>
-      <link>https://huggingface.co/papers/2603.00791</link>
-      <description>By Tachin Ruangkriengsin, Günther Turk, Howard A. Stone
-
-We study the self-diffusiophoresis of a spherical chemically active particle near a planar, impermeable wall, with a focus on the influence of particle orientation on propulsion. We analyze a Janus particle with asymmetric surface chemical activity, consisting of a small inert region within a cataly...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.00791</guid>
-      <pubDate>Sat, 28 Feb 2026 19:22:45 +0000</pubDate>
     </item>
     <item>
       <title>Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</title>
@@ -289,15 +280,6 @@ The ability to distinguish subtle differences between visually similar images is
       <pubDate>Mon, 09 Mar 2026 02:01:02 +0000</pubDate>
     </item>
     <item>
-      <title>NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving</title>
-      <link>https://huggingface.co/papers/2603.07901</link>
-      <description>By Ximeng Tao, Pardis Taghavi, Dimitar Filev, Reza Langari, Gaurav Pandey
-
-Vision-language models (VLMs) have emerged as a promising direction for end-to-end autonomous driving (AD) by jointly modeling visual observations, driving context, and language-based reasoning. However, existing VLM-based systems face a trade-off between high-level reasoning and motion planning: la...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07901</guid>
-      <pubDate>Mon, 09 Mar 2026 02:47:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness</title>
       <link>https://huggingface.co/papers/2603.08309</link>
       <description>By Yehonatan Elisha, Oren Barkan, Noam Koenigstein
@@ -361,15 +343,6 @@ Unsupervised reinforcement learning with verifiable rewards (URLVR) offers a pat
       <pubDate>Mon, 09 Mar 2026 17:38:11 +0000</pubDate>
     </item>
     <item>
-      <title>HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising</title>
-      <link>https://huggingface.co/papers/2603.08703</link>
-      <description>By Kai Zou, Dian Zheng, Hongbo Liu, Tiankai Hang, Bin Liu, et al.
-
-Autoregressive (AR) diffusion offers a promising framework for generating videos of theoretically infinite length. However, a major challenge is maintaining temporal continuity while preventing the progressive quality degradation caused by error accumulation. To ensure continuity, existing methods t...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08703</guid>
-      <pubDate>Mon, 09 Mar 2026 17:58:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Fish Audio S2 Technical Report</title>
       <link>https://huggingface.co/papers/2603.08823</link>
       <description>By Shijia Liao, Yuxuan Wang, Songting Liu, Yifan Cheng, Ruoyi Zhang, et al.
@@ -377,6 +350,15 @@ Autoregressive (AR) diffusion offers a promising framework for generating videos
 We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions. To scale training, we develop a multi-stage training recipe together with a staged data pipeline c...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08823</guid>
       <pubDate>Mon, 09 Mar 2026 18:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConFu: Contemplate the Future for Better Speculative Sampling</title>
+      <link>https://huggingface.co/papers/2603.08899</link>
+      <description>By Zongyue Qin, Raghavv Goel, Mukul Gagrani, Risheek Garrepalli, Mingu Lee, et al.
+
+Speculative decoding has emerged as a powerful approach to accelerate large language model (LLM) inference by employing lightweight draft models to propose candidate tokens that are subsequently verified by the target model. The effectiveness of this paradigm critically depends on the quality of the...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08899</guid>
+      <pubDate>Mon, 09 Mar 2026 20:11:06 +0000</pubDate>
     </item>
     <item>
       <title>A Text-Native Interface for Generative Video Authoring</title>
@@ -395,6 +377,15 @@ Everyone can write their stories in freeform text format -- it's something we al
 Multimodal large language models (MLLMs) can process text presented as images, yet they often perform worse than when the same content is provided as textual tokens. We systematically diagnose this "modality gap" by evaluating seven MLLMs across seven benchmarks in five input modes, spanning both sy...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09095</guid>
       <pubDate>Tue, 10 Mar 2026 02:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards</title>
+      <link>https://huggingface.co/papers/2603.09117</link>
+      <description>By Zhengzhao Ma, Xueru Wen, Boxi Cao, Yaojie Lu, Hongyu Lin, et al.
+
+Reinforcement Learning from Verifiable Rewards (RLVR) significantly enhances large language models (LLMs) reasoning but severely suffers from calibration degeneration, where models become excessively over-confident in incorrect answers. Previous studies devote to directly incorporating calibration o...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09117</guid>
+      <pubDate>Tue, 10 Mar 2026 02:47:59 +0000</pubDate>
     </item>
     <item>
       <title>The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness</title>
@@ -449,6 +440,15 @@ Unified multimodal models (UMMs) that integrate understanding, reasoning, genera
 Sports have long attracted broad attention as they push the limits of human physical and cognitive capabilities. Amid growing interest in spatial intelligence for vision-language models (VLMs), sports provide a natural testbed for understanding high-intensity human motion and dynamic object interact...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09896</guid>
       <pubDate>Tue, 10 Mar 2026 16:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs</title>
+      <link>https://huggingface.co/papers/2603.09906</link>
+      <description>By Zorik Gekhman, Roee Aharoni, Eran Ofek, Mor Geva, Roi Reichart, et al.
+
+While reasoning in LLMs plays a natural role in math, code generation, and multi-hop factual questions, its effect on simple, single-hop factual questions remains unclear. Such questions do not require step-by-step logical decomposition, making the utility of reasoning highly counterintuitive. Never...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09906</guid>
+      <pubDate>Tue, 10 Mar 2026 16:59:20 +0000</pubDate>
     </item>
     <item>
       <title>Towards a Neural Debugger for Python</title>
