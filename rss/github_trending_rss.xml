@@ -8,150 +8,150 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 08:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:53:43 +0000</lastBuildDate>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 25,082 → 27,299 (+2217) | Ranked #1
+      <description>⭐ Stars: 25,082 → 27,524 (+2442) | Ranked #1
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
 6,223 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>⭐ Stars: 14,032 → 15,561 (+1529) | Ranked #2
+      <description>⭐ Stars: 14,032 → 15,704 (+1672) | Ranked #2
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
 4,504 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>⭐ Stars: 3,714 → 4,350 (+636) | Ranked #3
+      <description>⭐ Stars: 3,714 → 4,400 (+686) | Ranked #3
 
 The agent that grows with you
 
 Language: Python
 781 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>promptfoo / promptfoo</title>
       <link>https://github.com/promptfoo/promptfoo</link>
-      <description>⭐ Stars: 11,913 → 12,217 (+304) | Ranked #4
+      <description>⭐ Stars: 11,913 → 12,242 (+329) | Ranked #4
 
 Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 Language: TypeScript
 661 stars today</description>
       <guid isPermaLink="true">https://github.com/promptfoo/promptfoo</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>GoogleCloudPlatform / generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>⭐ Stars: 15,710 → 15,895 (+185) | Ranked #5
+      <description>⭐ Stars: 15,710 → 15,913 (+203) | Ranked #5
 
 Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 
 Language: Jupyter Notebook
 530 stars today</description>
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>virattt / ai-hedge-fund</title>
       <link>https://github.com/virattt/ai-hedge-fund</link>
-      <description>⭐ Stars: 47,541 → 47,831 (+290) | Ranked #6
+      <description>⭐ Stars: 47,541 → 47,851 (+310) | Ranked #6
 
 An AI Hedge Fund Team
 
 Language: Python
 300 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>karpathy / nanochat</title>
       <link>https://github.com/karpathy/nanochat</link>
-      <description>⭐ Stars: 46,207 → 46,445 (+238) | Ranked #7
+      <description>⭐ Stars: 46,207 → 46,463 (+256) | Ranked #7
 
 The best ChatGPT that $100 can buy.
 
 Language: Python
 705 stars today</description>
       <guid isPermaLink="true">https://github.com/karpathy/nanochat</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 76,508 → 77,193 (+685) | Ranked #8
+      <description>⭐ Stars: 76,508 → 77,262 (+754) | Ranked #8
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 1,387 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>alibaba / page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>⭐ Stars: 3,553 → 4,095 (+542) | Ranked #9
+      <description>⭐ Stars: 3,553 → 4,160 (+607) | Ranked #9
 
 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 Language: TypeScript
 891 stars today</description>
       <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>sepinf-inc / IPED</title>
       <link>https://github.com/sepinf-inc/IPED</link>
-      <description>⭐ Stars: 2,193 → 2,295 (+102) | Ranked #10
+      <description>⭐ Stars: 2,193 → 2,305 (+112) | Ranked #10
 
 IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
 Language: Java
 273 stars today</description>
       <guid isPermaLink="true">https://github.com/sepinf-inc/IPED</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>openclaw / openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 298,129 → 301,521 (+3392) | Ranked #11
+      <description>⭐ Stars: 298,129 → 301,879 (+3750) | Ranked #11
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 Language: TypeScript
 9,080 stars today</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
     <item>
       <title>bytedance / deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
-      <description>📈 Rank: #13 → #12 (↑1) | ⭐ Stars: 28,498 → 28,964 (+466)
+      <description>📈 Rank: #13 → #12 (↑1) | ⭐ Stars: 28,498 → 29,013 (+515)
 
 An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
 
 Language: Python
 1,413 stars today</description>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Wed, 11 Mar 2026 08:54:12 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 09:53:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
