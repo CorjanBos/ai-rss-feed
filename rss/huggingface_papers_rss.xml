@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 19:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 20:44:48 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -217,15 +217,6 @@ Kashmiri is spoken by around 7 million people but remains critically underserved
       <pubDate>Sun, 08 Mar 2026 07:34:15 +0000</pubDate>
     </item>
     <item>
-      <title>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</title>
-      <link>https://huggingface.co/papers/2603.07700</link>
-      <description>By Yihong Luo, Tianyang Hu, Weijian Luo, Jing Tang
-
-While few-step generative models have enabled powerful image and video generation at significantly lower cost, generic reinforcement learning (RL) paradigms for few-step models remain an unsolved problem. Existing RL approaches for few-step diffusion models strongly rely on back-propagating through ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07700</guid>
-      <pubDate>Sun, 08 Mar 2026 15:57:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models</title>
       <link>https://huggingface.co/papers/2603.07777</link>
       <description>By Zongqian Li, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, et al.
@@ -323,6 +314,15 @@ We introduce Fish Audio S2, an open-sourced text-to-speech system featuring mult
 Speculative decoding has emerged as a powerful approach to accelerate large language model (LLM) inference by employing lightweight draft models to propose candidate tokens that are subsequently verified by the target model. The effectiveness of this paradigm critically depends on the quality of the...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08899</guid>
       <pubDate>Mon, 09 Mar 2026 20:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>BiCLIP: Domain Canonicalization via Structured Geometric Transformation</title>
+      <link>https://huggingface.co/papers/2603.08942</link>
+      <description>By Pranav Mantini, Shishir K. Shah
+
+Recent advances in vision-language models (VLMs) have demonstrated remarkable zero-shot capabilities, yet adapting these models to specialized domains remains a significant challenge. Building on recent theoretical insights suggesting that independently trained VLMs are related by a canonical transf...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08942</guid>
+      <pubDate>Mon, 09 Mar 2026 21:26:15 +0000</pubDate>
     </item>
     <item>
       <title>A Text-Native Interface for Generative Video Authoring</title>
