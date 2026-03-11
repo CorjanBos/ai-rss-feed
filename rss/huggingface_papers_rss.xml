@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 17:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:03:17 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -271,15 +271,6 @@ On-the-fly category discovery (OCD) aims to recognize known categories while sim
       <pubDate>Mon, 09 Mar 2026 08:14:58 +0000</pubDate>
     </item>
     <item>
-      <title>Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness</title>
-      <link>https://huggingface.co/papers/2603.08309</link>
-      <description>By Yehonatan Elisha, Oren Barkan, Noam Koenigstein
-
-Vision Transformers (ViTs) often degrade under distribution shifts because they rely on spurious correlations, such as background cues, rather than semantically meaningful features. Existing regularization methods, typically relying on simple foreground-background masks, which fail to capture the fi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08309</guid>
-      <pubDate>Mon, 09 Mar 2026 12:31:14 +0000</pubDate>
-    </item>
-    <item>
       <title>SlowBA: An efficiency backdoor attack towards VLM-based GUI agents</title>
       <link>https://huggingface.co/papers/2603.08316</link>
       <description>By Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
@@ -377,6 +368,15 @@ Situational awareness, the capacity of an AI system to recognize its own nature,
 Self-evolving has emerged as a key paradigm for improving foundational models such as Large Language Models (LLMs) and Vision Language Models (VLMs) with minimal human intervention. While recent approaches have demonstrated that LLM agents can self-evolve from scratch with little to no data, VLMs in...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09206</guid>
       <pubDate>Tue, 10 Mar 2026 05:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control</title>
+      <link>https://huggingface.co/papers/2603.09221</link>
+      <description>By Peihao Wang, Shan Yang, Xijun Wang, Tesi Xiao, Xin Liu, et al.
+
+Associative memory has long underpinned the design of sequential models. Beyond recall, humans reason by projecting future states and selecting goal-directed actions, a capability that modern language models increasingly require but do not natively encode. While prior work uses reinforcement learnin...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09221</guid>
+      <pubDate>Tue, 10 Mar 2026 05:42:13 +0000</pubDate>
     </item>
     <item>
       <title>Reward Prediction with Factorized World States</title>
