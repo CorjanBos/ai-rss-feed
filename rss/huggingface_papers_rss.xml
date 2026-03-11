@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 11:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:18:32 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -64,15 +64,6 @@ Tracking any point (TAP) is a fundamental yet challenging task in computer visio
       <pubDate>Thu, 05 Mar 2026 09:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation</title>
-      <link>https://huggingface.co/papers/2603.05117</link>
-      <description>By Youqiang Gui, Yuxuan Zhou, Shen Cheng, Xinyang Yuan, Haoqiang Fan, et al.
-
-Imitation Learning (IL) enables robots to acquire manipulation skills from expert demonstrations. Diffusion Policy (DP) models multi-modal expert behaviors but suffers performance degradation as observation horizons increase, limiting long-horizon manipulation. We propose Self-Evolving Gated Attenti...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05117</guid>
-      <pubDate>Thu, 05 Mar 2026 12:42:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity</title>
       <link>https://huggingface.co/papers/2603.05168</link>
       <description>By Di Zhang, Xun Wu, Shaohan Huang, Yudong Wang, Hanyong Shao, et al.
@@ -100,6 +91,15 @@ Current video generation models suffer from high computational latency, making r
       <pubDate>Fri, 06 Mar 2026 01:49:47 +0000</pubDate>
     </item>
     <item>
+      <title>ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning</title>
+      <link>https://huggingface.co/papers/2603.05863</link>
+      <description>By Juyong Jiang, Jiasi Shen, Sunghun Kim, Kang Min Yoo, Jeonghoon Kim, et al.
+
+While Large Language Models (LLMs) have revolutionized code generation, standard "System 1" approaches, generating solutions in a single forward pass, often hit a performance ceiling when faced with complex algorithmic tasks. Existing iterative refinement strategies attempt to bridge this gap at inf...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05863</guid>
+      <pubDate>Fri, 06 Mar 2026 03:38:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Lost in Stories: Consistency Bugs in Long Story Generation by LLMs</title>
       <link>https://huggingface.co/papers/2603.05890</link>
       <description>By Junjie Li, Xinrui Guo, Yuhao Wu, Roy Ka-Wei Lee, Hongzhi Li, et al.
@@ -116,15 +116,6 @@ What happens when a storyteller forgets its own story? Large Language Models (LL
 Recursive self-improvement is moving from theory to practice: modern systems can critique, revise, and evaluate their own outputs, yet iterative self-modification risks subtle alignment drift. We introduce SAHOO, a practical framework to monitor and control drift through three safeguards: (i) the Go...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06333</guid>
       <pubDate>Fri, 06 Mar 2026 14:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization</title>
-      <link>https://huggingface.co/papers/2603.06449</link>
-      <description>By Yitong Chen, Zuxuan Wu, Xipeng Qiu, Yu-Gang Jiang
-
-Autoregressive (AR) language models rely on causal tokenization, but extending this paradigm to vision remains non-trivial. Current visual tokenizers either flatten 2D patches into non-causal sequences or enforce heuristic orderings that misalign with the "next-token prediction" pattern. Recent diff...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.06449</guid>
-      <pubDate>Fri, 06 Mar 2026 16:39:17 +0000</pubDate>
     </item>
     <item>
       <title>Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion</title>
@@ -271,6 +262,15 @@ The ability to distinguish subtle differences between visually similar images is
       <pubDate>Mon, 09 Mar 2026 02:01:02 +0000</pubDate>
     </item>
     <item>
+      <title>TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery</title>
+      <link>https://huggingface.co/papers/2603.08075</link>
+      <description>By Yanan Wu, Yuhan Yan, Tailai Chen, Zhixiang Chi, ZiZhang Wu, et al.
+
+On-the-fly category discovery (OCD) aims to recognize known categories while simultaneously discovering novel ones from an unlabeled online stream, using a model trained only on labeled data. Existing approaches freeze the feature extractor trained offline and employ a hash-based framework that quan...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08075</guid>
+      <pubDate>Mon, 09 Mar 2026 08:14:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness</title>
       <link>https://huggingface.co/papers/2603.08309</link>
       <description>By Yehonatan Elisha, Oren Barkan, Noam Koenigstein
@@ -314,15 +314,6 @@ As video content creation shifts toward long-form narratives, composing short cl
 Recent advancements in Unified Multimodal Models (UMMs) have significantly advanced text-to-image (T2I) generation, particularly through the integration of Chain-of-Thought (CoT) reasoning. However, existing CoT-based T2I methods largely rely on abstract natural-language planning, which lacks the pr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08652</guid>
       <pubDate>Mon, 09 Mar 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Far Can Unsupervised RLVR Scale LLM Training?</title>
-      <link>https://huggingface.co/papers/2603.08660</link>
-      <description>By Bingxiang He, Yuxin Zuo, Zeyuan Liu, Shangziqi Zhao, Zixuan Fu, et al.
-
-Unsupervised reinforcement learning with verifiable rewards (URLVR) offers a pathway to scale LLM training beyond the supervision bottleneck by deriving rewards without ground truth labels. Recent works leverage model intrinsic signals, showing promising early gains, yet their potential and limitati...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08660</guid>
-      <pubDate>Mon, 09 Mar 2026 17:38:11 +0000</pubDate>
     </item>
     <item>
       <title>Fish Audio S2 Technical Report</title>
@@ -404,6 +395,15 @@ Agents must infer action outcomes and select actions that maximize a reward sign
 Large pretrained diffusion models have significantly enhanced the quality of generated videos, and yet their use in real-time streaming remains limited. Autoregressive models offer a natural framework for sequential frame synthesis but require heavy computation to achieve high fidelity. Diffusion di...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09488</guid>
       <pubDate>Tue, 10 Mar 2026 10:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compiler-First State Space Duality and Portable O(1) Autoregressive Caching for Inference</title>
+      <link>https://huggingface.co/papers/2603.09555</link>
+      <description>By Cosmo Santoni
+
+State-space model releases are typically coupled to fused CUDA and Triton kernels, inheriting a hard dependency on NVIDIA hardware. We show that Mamba-2's state space duality algorithm -- diagonal state structure, chunkable recurrence, and einsum-dominated compute with static control flow -- maps cl...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09555</guid>
+      <pubDate>Tue, 10 Mar 2026 12:03:00 +0000</pubDate>
     </item>
     <item>
       <title>MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants</title>

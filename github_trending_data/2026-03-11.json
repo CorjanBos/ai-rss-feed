@@ -4,52 +4,52 @@
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 27852,
-    "stars_text": "27,852",
-    "forks": 4367,
+    "stars": 28225,
+    "stars_text": "28,225",
+    "forks": 4421,
     "language": "Shell",
     "today_stars": "6,205 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-11T11:39:49.893271+00:00"
+    "fetched_at": "2026-03-11T13:18:33.384124+00:00"
   },
   "666ghj/MiroFish": {
     "repo_path": "666ghj/MiroFish",
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 15904,
-    "stars_text": "15,904",
-    "forks": 1673,
+    "stars": 16072,
+    "stars_text": "16,072",
+    "forks": 1696,
     "language": "Python",
     "today_stars": "2,909 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-11T11:39:49.893820+00:00"
+    "fetched_at": "2026-03-11T13:18:33.384677+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 4528,
-    "stars_text": "4,528",
-    "forks": 553,
+    "stars": 4651,
+    "stars_text": "4,651",
+    "forks": 559,
     "language": "Python",
     "today_stars": "1,204 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-11T11:39:49.896900+00:00"
+    "fetched_at": "2026-03-11T13:18:33.387895+00:00"
   },
   "promptfoo/promptfoo": {
     "repo_path": "promptfoo/promptfoo",
     "repo_name": "promptfoo / promptfoo",
     "repo_url": "https://github.com/promptfoo/promptfoo",
     "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-    "stars": 12277,
-    "stars_text": "12,277",
-    "forks": 1137,
+    "stars": 12310,
+    "stars_text": "12,310",
+    "forks": 1142,
     "language": "TypeScript",
     "today_stars": "728 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-11T11:39:49.894314+00:00"
+    "fetched_at": "2026-03-11T13:18:33.385204+00:00"
   },
   "GoogleCloudPlatform/generative-ai": {
     "repo_path": "GoogleCloudPlatform/generative-ai",
@@ -69,13 +69,13 @@
     "repo_name": "virattt / ai-hedge-fund",
     "repo_url": "https://github.com/virattt/ai-hedge-fund",
     "description": "An AI Hedge Fund Team",
-    "stars": 47883,
-    "stars_text": "47,883",
-    "forks": 8336,
+    "stars": 47927,
+    "stars_text": "47,927",
+    "forks": 8341,
     "language": "Python",
     "today_stars": "633 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-11T11:39:49.895924+00:00"
+    "fetched_at": "2026-03-11T13:18:33.386918+00:00"
   },
   "karpathy/nanochat": {
     "repo_path": "karpathy/nanochat",
@@ -95,26 +95,26 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 77357,
-    "stars_text": "77,357",
-    "forks": 5988,
+    "stars": 77464,
+    "stars_text": "77,464",
+    "forks": 5994,
     "language": "Shell",
     "today_stars": "1,477 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-11T11:39:49.894937+00:00"
+    "fetched_at": "2026-03-11T13:18:33.385825+00:00"
   },
   "alibaba/page-agent": {
     "repo_path": "alibaba/page-agent",
     "repo_name": "alibaba / page-agent",
     "repo_url": "https://github.com/alibaba/page-agent",
     "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "stars": 4231,
-    "stars_text": "4,231",
-    "forks": 336,
+    "stars": 4315,
+    "stars_text": "4,315",
+    "forks": 340,
     "language": "TypeScript",
     "today_stars": "1,206 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-11T11:39:49.896416+00:00"
+    "fetched_at": "2026-03-11T13:18:33.387412+00:00"
   },
   "sepinf-inc/IPED": {
     "repo_path": "sepinf-inc/IPED",
@@ -173,25 +173,25 @@
     "repo_name": "fishaudio / fish-speech",
     "repo_url": "https://github.com/fishaudio/fish-speech",
     "description": "SOTA Open Source TTS",
-    "stars": 25483,
-    "stars_text": "25,483",
-    "forks": 2148,
+    "stars": 25537,
+    "stars_text": "25,537",
+    "forks": 2154,
     "language": "Python",
     "today_stars": "277 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-11T11:39:49.895441+00:00"
+    "fetched_at": "2026-03-11T13:18:33.386384+00:00"
   },
   "AstrBotDevs/AstrBot": {
     "repo_path": "AstrBotDevs/AstrBot",
     "repo_name": "AstrBotDevs / AstrBot",
     "repo_url": "https://github.com/AstrBotDevs/AstrBot",
     "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
-    "stars": 20746,
-    "stars_text": "20,746",
-    "forks": 1497,
+    "stars": 20801,
+    "stars_text": "20,801",
+    "forks": 1503,
     "language": "Python",
     "today_stars": "337 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-11T11:39:49.897385+00:00"
+    "fetched_at": "2026-03-11T13:18:33.388397+00:00"
   }
 }
