@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 10:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 11:39:48 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -298,15 +298,6 @@ While autoregressive (AR) LLM-based ASR systems achieve strong accuracy, their s
       <pubDate>Mon, 09 Mar 2026 13:56:52 +0000</pubDate>
     </item>
     <item>
-      <title>CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</title>
-      <link>https://huggingface.co/papers/2603.08589</link>
-      <description>By Yucheng Wang, Zedong Wang, Yuetong Wu, Yue Ma, Dan Xu
-
-Unified diffusion editors often rely on a fixed, shared backbone for diverse tasks, suffering from task interference and poor adaptation to heterogeneous demands (e.g., local vs global, semantic vs photometric). In particular, prevalent ControlNet and OmniControl variants combine multiple conditioni...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08589</guid>
-      <pubDate>Mon, 09 Mar 2026 16:40:47 +0000</pubDate>
-    </item>
-    <item>
       <title>CAST: Modeling Visual State Transitions for Consistent Video Retrieval</title>
       <link>https://huggingface.co/papers/2603.08648</link>
       <description>By Yanqing Liu, Yingcheng Liu, Fanghong Dong, Budianto Budianto, Cihang Xie, et al.
@@ -431,6 +422,15 @@ With the rapid advancement of Large Language Models (LLMs) in code generation, h
 Unified multimodal models (UMMs) that integrate understanding, reasoning, generation, and editing face inherent trade-offs between maintaining strong semantic comprehension and acquiring powerful generation capabilities. In this report, we present InternVL-U, a lightweight 4B-parameter UMM that demo...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09877</guid>
       <pubDate>Tue, 10 Mar 2026 16:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do What I Say: A Spoken Prompt Dataset for Instruction-Following</title>
+      <link>https://huggingface.co/papers/2603.09881</link>
+      <description>By Maike Züfle, Sara Papi, Fabian Retkowski, Szymon Mazurek, Marek Kasztelnik, et al.
+
+Speech Large Language Models (SLLMs) have rapidly expanded, supporting a wide range of tasks. These models are typically evaluated using text prompts, which may not reflect real-world scenarios where users interact with speech. To address this gap, we introduce DoWhatISay (DOWIS), a multilingual dat...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09881</guid>
+      <pubDate>Tue, 10 Mar 2026 16:39:46 +0000</pubDate>
     </item>
     <item>
       <title>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</title>
