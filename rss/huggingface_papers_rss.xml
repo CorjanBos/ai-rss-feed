@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 20:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 21:40:56 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -17,6 +17,15 @@
 In this paper, we address the problem of tactile sim-to-real policy transfer for contact-rich tasks. Existing methods primarily focus on vision-based sensors and emphasize image rendering quality while providing overly simplistic models of force and shear. Consequently, these models exhibit a large ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.00446</guid>
       <pubDate>Sat, 28 Feb 2026 03:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Head Low-Rank Attention</title>
+      <link>https://huggingface.co/papers/2603.02188</link>
+      <description>By Songtao Liu, Hongwu Peng, Zhiwei Zhang, Zhengyu Chen, Yue Guo
+
+Long-context inference in large language models is bottlenecked by Key--Value (KV) cache loading during the decoding stage, where the sequential nature of generation requires repeatedly transferring the KV cache from off-chip High-Bandwidth Memory (HBM) to on-chip Static Random-Access Memory (SRAM) ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.02188</guid>
+      <pubDate>Mon, 02 Mar 2026 18:52:38 +0000</pubDate>
     </item>
     <item>
       <title>BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation</title>
@@ -71,15 +80,6 @@ Tracking any point (TAP) is a fundamental yet challenging task in computer visio
 Semi-structured N:M sparsity and low-bit quantization (e.g., 1.58-bit BitNet) are two promising approaches for improving the efficiency of large language models (LLMs), yet they have largely been studied in isolation. In this work, we investigate their interaction and show that 1.58-bit BitNet is na...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05168</guid>
       <pubDate>Thu, 05 Mar 2026 13:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned</title>
-      <link>https://huggingface.co/papers/2603.05344</link>
-      <description>By Nghi D. Q. Bui
-
-The landscape of AI coding assistance is undergoing a fundamental shift from complex IDE plugins to versatile, terminal-native agents. Operating directly where developers manage source control, execute builds, and deploy environments, CLI-based agents offer unprecedented autonomy for long-horizon de...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05344</guid>
-      <pubDate>Thu, 05 Mar 2026 16:21:08 +0000</pubDate>
     </item>
     <item>
       <title>Training-free Latent Inter-Frame Pruning with Attention Recovery</title>
@@ -262,15 +262,6 @@ On-the-fly category discovery (OCD) aims to recognize known categories while sim
       <pubDate>Mon, 09 Mar 2026 08:14:58 +0000</pubDate>
     </item>
     <item>
-      <title>SlowBA: An efficiency backdoor attack towards VLM-based GUI agents</title>
-      <link>https://huggingface.co/papers/2603.08316</link>
-      <description>By Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
-
-Modern vision-language-model (VLM) based graphical user interface (GUI) agents are expected not only to execute actions accurately but also to respond to user instructions with low latency. While existing research on GUI-agent security mainly focuses on manipulating action correctness, the security ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08316</guid>
-      <pubDate>Mon, 09 Mar 2026 12:38:28 +0000</pubDate>
-    </item>
-    <item>
       <title>NLE: Non-autoregressive LLM-based ASR by Transcript Editing</title>
       <link>https://huggingface.co/papers/2603.08397</link>
       <description>By Avihu Dekel, Samuel Thomas, Takashi Fukada, George Saon
@@ -278,6 +269,15 @@ Modern vision-language-model (VLM) based graphical user interface (GUI) agents a
 While autoregressive (AR) LLM-based ASR systems achieve strong accuracy, their sequential decoding limits parallelism and incurs high latency. We propose NLE, a non-autoregressive (NAR) approach that formulates speech recognition as conditional transcript editing, enabling fully parallel prediction....</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08397</guid>
       <pubDate>Mon, 09 Mar 2026 13:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Micro-Diffusion Compression -- Binary Tree Tweedie Denoising for Online Probability Estimation</title>
+      <link>https://huggingface.co/papers/2603.08771</link>
+      <description>By Roberto Tacconelli
+
+We present Midicoth, a lossless compression system that introduces a micro-diffusion denoising layer for improving probability estimates produced by adaptive statistical models. In compressors such as Prediction by Partial Matching (PPM), probability estimates are smoothed by a prior to handle spars...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08771</guid>
+      <pubDate>Mon, 09 Mar 2026 16:59:24 +0000</pubDate>
     </item>
     <item>
       <title>CAST: Modeling Visual State Transitions for Consistent Video Retrieval</title>
