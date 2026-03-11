@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 23:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:39:15 +0000</lastBuildDate>
     <item>
       <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.00446</link>
@@ -28,15 +28,6 @@ We study the self-diffusiophoresis of a spherical chemically active particle nea
       <pubDate>Sat, 28 Feb 2026 19:22:45 +0000</pubDate>
     </item>
     <item>
-      <title>Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation</title>
-      <link>https://huggingface.co/papers/2603.02554</link>
-      <description>By Chonghua Lv, Dong Zhao, Shuang Wang, Dou Quan, Ning Huyan, et al.
-
-Knowledge distillation (KD) has been widely applied in semantic segmentation to compress large models, but conventional approaches primarily preserve in-domain accuracy while neglecting out-of-domain generalization, which is essential under distribution shifts. This limitation becomes more severe wi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.02554</guid>
-      <pubDate>Tue, 03 Mar 2026 03:18:12 +0000</pubDate>
-    </item>
-    <item>
       <title>LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory</title>
       <link>https://huggingface.co/papers/2603.03269</link>
       <description>By Junyi Zhang, Charles Herrmann, Junhwa Hur, Chen Sun, Ming-Hsuan Yang, et al.
@@ -53,24 +44,6 @@ Feedforward geometric foundation models achieve strong short-window reconstructi
 Modern language models still rely on fixed, pre-defined subword tokenizations. Once a tokenizer is trained, the LM can only operate at this fixed level of granularity, which often leads to brittle and counterintuitive behaviors even in otherwise strong reasoning models. We introduce ByteFlow Net, a ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.03583</guid>
       <pubDate>Tue, 03 Mar 2026 23:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning</title>
-      <link>https://huggingface.co/papers/2603.03825</link>
-      <description>By Ruilin Luo, Chufan Shi, Yizhen Zhang, Cheng Yang, Songtao Jiang, et al.
-
-The cold-start initialization stage plays a pivotal role in training Multimodal Large Reasoning Models (MLRMs), yet its mechanisms remain insufficiently understood. To analyze this stage, we introduce the Visual Attention Score (VAS), an attention-based metric that quantifies how much a model attend...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03825</guid>
-      <pubDate>Wed, 04 Mar 2026 08:22:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Believe Your Model: Distribution-Guided Confidence Calibration</title>
-      <link>https://huggingface.co/papers/2603.03872</link>
-      <description>By Xizhong Yang, Haotian Zhang, Huiming Wang, Mofei Song
-
-Large Reasoning Models have demonstrated remarkable performance with the advancement of test-time scaling techniques, which enhances prediction accuracy by generating multiple candidate responses and selecting the most reliable answer. While prior work has analyzed that internal model signals like c...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03872</guid>
-      <pubDate>Wed, 04 Mar 2026 09:25:36 +0000</pubDate>
     </item>
     <item>
       <title>Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models</title>
@@ -154,13 +127,13 @@ What happens when a storyteller forgets its own story? Large Language Models (LL
       <pubDate>Fri, 06 Mar 2026 04:16:46 +0000</pubDate>
     </item>
     <item>
-      <title>Stabilizing Reinforcement Learning for Diffusion Language Models</title>
-      <link>https://huggingface.co/papers/2603.06743</link>
-      <description>By Jianyuan Zhong, Kaibo Wang, Ding Ding, Zijin Feng, Haoli Bai, et al.
+      <title>SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement</title>
+      <link>https://huggingface.co/papers/2603.06333</link>
+      <description>By Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary
 
-Group Relative Policy Optimization (GRPO) is highly effective for post-training autoregressive (AR) language models, yet its direct application to diffusion large language models (dLLMs) often triggers reward collapse. We identify two sources of incompatibility. First, GRPO relies on importance rati...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.06743</guid>
-      <pubDate>Fri, 06 Mar 2026 08:55:37 +0000</pubDate>
+Recursive self-improvement is moving from theory to practice: modern systems can critique, revise, and evaluate their own outputs, yet iterative self-modification risks subtle alignment drift. We introduce SAHOO, a practical framework to monitor and control drift through three safeguards: (i) the Go...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06333</guid>
+      <pubDate>Fri, 06 Mar 2026 14:44:51 +0000</pubDate>
     </item>
     <item>
       <title>CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization</title>
@@ -170,6 +143,15 @@ Group Relative Policy Optimization (GRPO) is highly effective for post-training 
 Autoregressive (AR) language models rely on causal tokenization, but extending this paradigm to vision remains non-trivial. Current visual tokenizers either flatten 2D patches into non-causal sequences or enforce heuristic orderings that misalign with the "next-token prediction" pattern. Recent diff...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06449</guid>
       <pubDate>Fri, 06 Mar 2026 16:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion</title>
+      <link>https://huggingface.co/papers/2603.06577</link>
+      <description>By Lijiang Li, Zuwei Long, Yunhang Shen, Heting Gao, Haoyu Cao, et al.
+
+While recent multimodal large language models (MLLMs) have made impressive strides, they predominantly employ a conventional autoregressive architecture as their backbone, leaving significant room to explore effective and efficient alternatives in architectural design. Concurrently, recent studies h...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06577</guid>
+      <pubDate>Fri, 06 Mar 2026 18:59:57 +0000</pubDate>
     </item>
     <item>
       <title>MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering</title>
@@ -262,33 +244,6 @@ We present AutoResearch-RL, a framework in which a reinforcement learning agent 
       <pubDate>Sat, 07 Mar 2026 17:49:44 +0000</pubDate>
     </item>
     <item>
-      <title>Skip to the Good Part: Representation Structure &amp; Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs</title>
-      <link>https://huggingface.co/papers/2603.07475</link>
-      <description>By Raghavv Goel, Risheek Garrepalli, Sudhanshu Agrawal, Chris Lott, Mingu Lee, et al.
-
-Autoregressive (AR) language models form representations incrementally through left-to-right prediction, whereas diffusion language models (dLLMs) are trained via full-sequence denoising. Although recent dLLMs match AR performance, it remains unclear whether diffusion objectives fundamentally reshap...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07475</guid>
-      <pubDate>Sun, 08 Mar 2026 05:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>PureCC: Pure Learning for Text-to-Image Concept Customization</title>
-      <link>https://huggingface.co/papers/2603.07561</link>
-      <description>By Zhichao Liao, Xiaole Xian, Qingyu Li, Wenyu Qin, Meng Wang, et al.
-
-Existing concept customization methods have achieved remarkable outcomes in high-fidelity and multi-concept customization. However, they often neglect the influence on the original model's behavior and capabilities when learning new personalized concepts. To address this issue, we propose PureCC. Pu...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07561</guid>
-      <pubDate>Sun, 08 Mar 2026 09:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</title>
-      <link>https://huggingface.co/papers/2603.07660</link>
-      <description>By Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, et al.
-
-The pursuit of spatial intelligence fundamentally relies on access to large-scale, fine-grained 3D data. However, existing approaches predominantly construct spatial understanding benchmarks by generating question-answer (QA) pairs from a limited number of manually annotated datasets, rather than sy...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07660</guid>
-      <pubDate>Sun, 08 Mar 2026 14:49:20 +0000</pubDate>
-    </item>
-    <item>
       <title>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</title>
       <link>https://huggingface.co/papers/2603.07700</link>
       <description>By Yihong Luo, Tianyang Hu, Weijian Luo, Jing Tang
@@ -325,6 +280,15 @@ World models enable planning in imagined future predicted space, offering a prom
       <pubDate>Sun, 08 Mar 2026 20:54:50 +0000</pubDate>
     </item>
     <item>
+      <title>VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?</title>
+      <link>https://huggingface.co/papers/2603.07888</link>
+      <description>By Minkyu Kim, Sangheon Lee, Dongmin Park
+
+The ability to distinguish subtle differences between visually similar images is essential for diverse domains such as industrial anomaly detection, medical imaging, and aerial surveillance. While comparative reasoning benchmarks for vision-language models (VLMs) have recently emerged, they primaril...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07888</guid>
+      <pubDate>Mon, 09 Mar 2026 02:01:02 +0000</pubDate>
+    </item>
+    <item>
       <title>NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving</title>
       <link>https://huggingface.co/papers/2603.07901</link>
       <description>By Ximeng Tao, Pardis Taghavi, Dimitar Filev, Reza Langari, Gaurav Pandey
@@ -332,24 +296,6 @@ World models enable planning in imagined future predicted space, offering a prom
 Vision-language models (VLMs) have emerged as a promising direction for end-to-end autonomous driving (AD) by jointly modeling visual observations, driving context, and language-based reasoning. However, existing VLM-based systems face a trade-off between high-level reasoning and motion planning: la...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07901</guid>
       <pubDate>Mon, 09 Mar 2026 02:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>\$OneMillion-Bench: How Far are Language Agents from Human Experts?</title>
-      <link>https://huggingface.co/papers/2603.07980</link>
-      <description>By Qianyu Yang, Yang Liu, Jiaqi Li, Jun Bai, Hao Chen, et al.
-
-As language models (LMs) evolve from chat assistants to long-horizon agents capable of multi-step reasoning and tool use, existing benchmarks remain largely confined to structured or exam-style tasks that fall short of real-world professional demands. To this end, we introduce \OneMillion-Bench OneM...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07980</guid>
-      <pubDate>Mon, 09 Mar 2026 05:32:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents</title>
-      <link>https://huggingface.co/papers/2603.08013</link>
-      <description>By Yuxiang Chai, Shunye Tang, Han Xiao, Rui Liu, Hongsheng Li
-
-Current Graphical User Interface (GUI) agents operate primarily under a reactive paradigm: a user must provide an explicit instruction for the agent to execute a task. However, an intelligent AI assistant should be proactive, which is capable of anticipating user intentions directly from continuous ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08013</guid>
-      <pubDate>Mon, 09 Mar 2026 06:41:32 +0000</pubDate>
     </item>
     <item>
       <title>Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness</title>
@@ -442,15 +388,6 @@ Training large language models (LLMs) as autonomous agents often begins with imi
       <pubDate>Mon, 09 Mar 2026 17:58:56 +0000</pubDate>
     </item>
     <item>
-      <title>FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models</title>
-      <link>https://huggingface.co/papers/2603.08708</link>
-      <description>By Haoyang Li, Liang Wang, Siyu Zhou, Jiacheng Sun, Jing Jiang, et al.
-
-CLIP-based prompt tuning enables pretrained Vision-Language Models (VLMs) to efficiently adapt to downstream tasks. Although existing studies have made significant progress, they pay limited attention to changes in the internal attention representations of VLMs during the tuning process. In this pap...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08708</guid>
-      <pubDate>Mon, 09 Mar 2026 17:59:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Scale Space Diffusion</title>
       <link>https://huggingface.co/papers/2603.08709</link>
       <description>By Soumik Mukhopadhyay, Prateksha Udhayanan, Abhinav Shrivastava
@@ -458,6 +395,69 @@ CLIP-based prompt tuning enables pretrained Vision-Language Models (VLMs) to eff
 Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibits a similar hierarchy via low-pass filtering. We formalize this connection and show that highly noisy diffusion states contain no more information th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08709</guid>
       <pubDate>Mon, 09 Mar 2026 17:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fish Audio S2 Technical Report</title>
+      <link>https://huggingface.co/papers/2603.08823</link>
+      <description>By Shijia Liao, Yuxuan Wang, Songting Liu, Yifan Cheng, Ruoyi Zhang, et al.
+
+We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions. To scale training, we develop a multi-stage training recipe together with a staged data pipeline c...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08823</guid>
+      <pubDate>Mon, 09 Mar 2026 18:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Text-Native Interface for Generative Video Authoring</title>
+      <link>https://huggingface.co/papers/2603.09072</link>
+      <description>By Xingyu Bruce Liu, Mira Dontcheva, Dingzeyu Li
+
+Everyone can write their stories in freeform text format -- it's something we all learn in school. Yet storytelling via video requires one to learn specialized and complicated tools. In this paper, we introduce Doki, a text-native interface for generative video authoring, aligning video creation wit...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09072</guid>
+      <pubDate>Tue, 10 Mar 2026 01:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</title>
+      <link>https://huggingface.co/papers/2603.09095</link>
+      <description>By Kaiser Sun, Xiaochuang Yuan, Hongjun Liu, Chen Zhao, Cheng Zhang, et al.
+
+Multimodal large language models (MLLMs) can process text presented as images, yet they often perform worse than when the same content is provided as textual tokens. We systematically diagnose this "modality gap" by evaluating seven MLLMs across seven benchmarks in five input modes, spanning both sy...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09095</guid>
+      <pubDate>Tue, 10 Mar 2026 02:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness</title>
+      <link>https://huggingface.co/papers/2603.09200</link>
+      <description>By Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary
+
+Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategically about its circumstances, is widely considered among the most dangerous emergent capabilities in advanced AI systems. Separately, a growing researc...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09200</guid>
+      <pubDate>Tue, 10 Mar 2026 05:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data</title>
+      <link>https://huggingface.co/papers/2603.09206</link>
+      <description>By Zongxia Li, Hongyang Du, Chengsong Huang, Xiyang Wu, Lantao Yu, et al.
+
+Self-evolving has emerged as a key paradigm for improving foundational models such as Large Language Models (LLMs) and Vision Language Models (VLMs) with minimal human intervention. While recent approaches have demonstrated that LLM agents can self-evolve from scratch with little to no data, VLMs in...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09206</guid>
+      <pubDate>Tue, 10 Mar 2026 05:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants</title>
+      <link>https://huggingface.co/papers/2603.09652</link>
+      <description>By Zuhao Zhang, Chengyue Yu, Yuante Li, Chenyi Zhuang, Linjian Mo, et al.
+
+With the rapid advancement of Large Language Models (LLMs) in code generation, human-AI interaction is evolving from static text responses to dynamic, interactive HTML-based applications, which we term MiniApps. These applications require models to not only render visual interfaces but also construc...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09652</guid>
+      <pubDate>Tue, 10 Mar 2026 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards a Neural Debugger for Python</title>
+      <link>https://huggingface.co/papers/2603.09951</link>
+      <description>By Maximilian Beck, Jonas Gehring, Jannik Kossen, Gabriel Synnaeve
+
+Training large language models (LLMs) on Python execution traces grounds them in code execution and enables the line-by-line execution prediction of whole Python programs, effectively turning them into neural interpreters (FAIR CodeGen Team et al., 2025). However, developers rarely execute programs ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09951</guid>
+      <pubDate>Tue, 10 Mar 2026 17:47:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
