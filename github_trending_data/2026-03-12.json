@@ -4,26 +4,26 @@
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 34049,
-    "stars_text": "34,049",
-    "forks": 5223,
+    "stars": 34368,
+    "stars_text": "34,368",
+    "forks": 5263,
     "language": "Shell",
     "today_stars": "4,086 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-12T21:40:53.607880+00:00"
+    "fetched_at": "2026-03-12T22:34:06.696086+00:00"
   },
   "666ghj/MiroFish": {
     "repo_path": "666ghj/MiroFish",
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 18792,
-    "stars_text": "18,792",
-    "forks": 1993,
+    "stars": 18921,
+    "stars_text": "18,921",
+    "forks": 2007,
     "language": "Python",
     "today_stars": "1,809 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-12T21:40:53.606761+00:00"
+    "fetched_at": "2026-03-12T22:34:06.694977+00:00"
   },
   "promptfoo/promptfoo": {
     "repo_path": "promptfoo/promptfoo",
@@ -43,26 +43,26 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 79758,
-    "stars_text": "79,758",
-    "forks": 6173,
+    "stars": 79807,
+    "stars_text": "79,807",
+    "forks": 6177,
     "language": "Shell",
     "today_stars": "1,708 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-12T21:40:53.605781+00:00"
+    "fetched_at": "2026-03-12T22:34:06.693998+00:00"
   },
   "fishaudio/fish-speech": {
     "repo_path": "fishaudio/fish-speech",
     "repo_name": "fishaudio / fish-speech",
     "repo_url": "https://github.com/fishaudio/fish-speech",
     "description": "SOTA Open Source TTS",
-    "stars": 26303,
-    "stars_text": "26,303",
-    "forks": 2212,
+    "stars": 26313,
+    "stars_text": "26,313",
+    "forks": 2213,
     "language": "Python",
     "today_stars": "630 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-12T21:40:53.602993+00:00"
+    "fetched_at": "2026-03-12T22:34:06.691229+00:00"
   },
   "virattt/ai-hedge-fund": {
     "repo_path": "virattt/ai-hedge-fund",
@@ -82,26 +82,26 @@
     "repo_name": "alibaba / page-agent",
     "repo_url": "https://github.com/alibaba/page-agent",
     "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "stars": 5811,
-    "stars_text": "5,811",
-    "forks": 448,
+    "stars": 5833,
+    "stars_text": "5,833",
+    "forks": 449,
     "language": "TypeScript",
     "today_stars": "1,196 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-12T21:40:53.605174+00:00"
+    "fetched_at": "2026-03-12T22:34:06.693373+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 6077,
-    "stars_text": "6,077",
-    "forks": 690,
+    "stars": 6092,
+    "stars_text": "6,092",
+    "forks": 692,
     "language": "Python",
     "today_stars": "1,235 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-12T21:40:53.606283+00:00"
+    "fetched_at": "2026-03-12T22:34:06.694490+00:00"
   },
   "AstrBotDevs/AstrBot": {
     "repo_path": "AstrBotDevs/AstrBot",
@@ -121,90 +121,90 @@
     "repo_name": "microsoft / BitNet",
     "repo_url": "https://github.com/microsoft/BitNet",
     "description": "Official inference framework for 1-bit LLMs",
-    "stars": 32125,
-    "stars_text": "32,125",
-    "forks": 2717,
+    "stars": 32182,
+    "stars_text": "32,182",
+    "forks": 2718,
     "language": "Python",
     "today_stars": "2,149 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-12T21:40:53.602428+00:00"
+    "fetched_at": "2026-03-12T22:34:06.690664+00:00"
   },
   "langflow-ai/openrag": {
     "repo_path": "langflow-ai/openrag",
     "repo_name": "langflow-ai / openrag",
     "repo_url": "https://github.com/langflow-ai/openrag",
     "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-    "stars": 1447,
-    "stars_text": "1,447",
-    "forks": 135,
+    "stars": 1471,
+    "stars_text": "1,471",
+    "forks": 138,
     "language": "Python",
     "today_stars": "491 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-12T21:40:53.603527+00:00"
+    "fetched_at": "2026-03-12T22:34:06.691730+00:00"
   },
   "InsForge/InsForge": {
     "repo_path": "InsForge/InsForge",
     "repo_name": "InsForge / InsForge",
     "repo_url": "https://github.com/InsForge/InsForge",
     "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-    "stars": 3042,
-    "stars_text": "3,042",
-    "forks": 309,
+    "stars": 3053,
+    "stars_text": "3,053",
+    "forks": 310,
     "language": "TypeScript",
     "today_stars": "260 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-12T21:40:53.604166+00:00"
+    "fetched_at": "2026-03-12T22:34:06.692370+00:00"
   },
   "vectorize-io/hindsight": {
     "repo_path": "vectorize-io/hindsight",
     "repo_name": "vectorize-io / hindsight",
     "repo_url": "https://github.com/vectorize-io/hindsight",
     "description": "Hindsight: Agent Memory That Learns",
-    "stars": 3024,
-    "stars_text": "3,024",
+    "stars": 3035,
+    "stars_text": "3,035",
     "forks": 221,
     "language": "Python",
     "today_stars": "300 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-12T21:40:53.604667+00:00"
+    "fetched_at": "2026-03-12T22:34:06.692881+00:00"
   },
   "google-ai-edge/LiteRT": {
     "repo_path": "google-ai-edge/LiteRT",
     "repo_name": "google-ai-edge / LiteRT",
     "repo_url": "https://github.com/google-ai-edge/LiteRT",
     "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-    "stars": 1635,
-    "stars_text": "1,635",
+    "stars": 1645,
+    "stars_text": "1,645",
     "forks": 210,
     "language": "C++",
     "today_stars": "6 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-12T21:40:53.607268+00:00"
+    "fetched_at": "2026-03-12T22:34:06.695465+00:00"
   },
   "google/A2UI": {
     "repo_path": "google/A2UI",
     "repo_name": "google / A2UI",
     "repo_url": "https://github.com/google/A2UI",
     "description": "",
-    "stars": 12523,
-    "stars_text": "12,523",
-    "forks": 946,
+    "stars": 12539,
+    "stars_text": "12,539",
+    "forks": 947,
     "language": "TypeScript",
     "today_stars": "220 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-12T21:40:53.608423+00:00"
+    "fetched_at": "2026-03-12T22:34:06.696602+00:00"
   },
   "anthropics/claude-plugins-official": {
     "repo_path": "anthropics/claude-plugins-official",
     "repo_name": "anthropics / claude-plugins-official",
     "repo_url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": 10175,
-    "stars_text": "10,175",
-    "forks": 1033,
+    "stars": 10195,
+    "stars_text": "10,195",
+    "forks": 1036,
     "language": "Python",
     "today_stars": "144 stars today",
     "rank": 13,
-    "fetched_at": "2026-03-12T21:40:53.608912+00:00"
+    "fetched_at": "2026-03-12T22:34:06.697098+00:00"
   }
 }
