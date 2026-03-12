@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 09:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:50:55 +0000</lastBuildDate>
     <item>
       <title>Multi-Head Low-Rank Attention</title>
       <link>https://huggingface.co/papers/2603.02188</link>
@@ -217,15 +217,6 @@ Everyone can write their stories in freeform text format -- it's something we al
       <pubDate>Tue, 10 Mar 2026 01:33:41 +0000</pubDate>
     </item>
     <item>
-      <title>Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs</title>
-      <link>https://huggingface.co/papers/2603.09095</link>
-      <description>By Kaiser Sun, Xiaochuang Yuan, Hongjun Liu, Chen Zhao, Cheng Zhang, et al.
-
-Multimodal large language models (MLLMs) can process text presented as images, yet they often perform worse than when the same content is provided as textual tokens. We systematically diagnose this "modality gap" by evaluating seven MLLMs across seven benchmarks in five input modes, spanning both sy...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09095</guid>
-      <pubDate>Tue, 10 Mar 2026 02:14:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards</title>
       <link>https://huggingface.co/papers/2603.09117</link>
       <description>By Zhengzhao Ma, Xueru Wen, Boxi Cao, Yaojie Lu, Hongyu Lin, et al.
@@ -404,6 +395,15 @@ Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that in
 Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-s...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10165</guid>
       <pubDate>Tue, 10 Mar 2026 18:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations</title>
+      <link>https://huggingface.co/papers/2603.10702</link>
+      <description>By Yaqi Zhao, Wang Lin, Zijian Zhang, Miles Yang, Jingyuan Chen, et al.
+
+Current unified multimodal models typically rely on discrete visual tokenizers to bridge the modality gap. However, discretization inevitably discards fine-grained semantic information, leading to suboptimal performance in visual understanding tasks. Conversely, directly modeling continuous semantic...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10702</guid>
+      <pubDate>Wed, 11 Mar 2026 12:14:26 +0000</pubDate>
     </item>
     <item>
       <title>Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models</title>
