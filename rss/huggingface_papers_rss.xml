@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 07:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:54:52 +0000</lastBuildDate>
     <item>
       <title>Multi-Head Low-Rank Attention</title>
       <link>https://huggingface.co/papers/2603.02188</link>
@@ -44,15 +44,6 @@ Leveraging the priors of 2D diffusion models for 3D editing has emerged as a pro
 Large language models (LLMs) typically receive diverse natural language (NL) feedback through interaction with the environment. However, current reinforcement learning (RL) algorithms rely solely on scalar rewards, leaving the rich information in NL feedback underutilized and leading to inefficient ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.04597</guid>
       <pubDate>Wed, 04 Mar 2026 20:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models</title>
-      <link>https://huggingface.co/papers/2603.04893</link>
-      <description>By Sean Lamont, Christian Walder, Paul Montague, Amir Dezfouli, Michael Norrish
-
-Diverse outputs in text generation are necessary for effective exploration in complex reasoning tasks, such as code generation and mathematical problem solving. Such Pass@k problems benefit from distinct candidates covering the solution space. However, traditional sampling approaches often waste com...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04893</guid>
-      <pubDate>Thu, 05 Mar 2026 07:35:07 +0000</pubDate>
     </item>
     <item>
       <title>Any to Full: Prompting Depth Anything for Depth Completion in One Stage</title>
@@ -107,6 +98,15 @@ While recent multimodal large language models (MLLMs) have made impressive strid
 Multimodal large language models can exhibit text dominance, over-relying on linguistic priors instead of grounding predictions in non-text inputs. One example is large audio-language models (LALMs) where decisive audio evidence can be under-utilized even when it contains important information. To a...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.06854</guid>
       <pubDate>Fri, 06 Mar 2026 20:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hindsight Credit Assignment for Long-Horizon LLM Agents</title>
+      <link>https://huggingface.co/papers/2603.08754</link>
+      <description>By Hui-Ze Tan, Xiao-Wen Yang, Hao Chen, Jie-Jing Shao, Yi Wen, et al.
+
+Large Language Model (LLM) agents often face significant credit assignment challenges in long-horizon, multi-step tasks due to sparse rewards. Existing value-free methods, such as Group Relative Policy Optimization (GRPO), encounter two fundamental bottlenecks: inaccurate step-level Q-value estimati...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08754</guid>
+      <pubDate>Sat, 07 Mar 2026 06:05:20 +0000</pubDate>
     </item>
     <item>
       <title>Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams</title>
