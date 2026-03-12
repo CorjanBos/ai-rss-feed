@@ -8,114 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:34:04 +0000</lastBuildDate>
-    <item>
-      <title>fishaudio / fish-speech</title>
-      <link>https://github.com/fishaudio/fish-speech</link>
-      <description>🆕 NEW ENTRY - Ranked #5
-
-SOTA Open Source TTS
-
-Language: Python
-277 stars today</description>
-      <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>AstrBotDevs / AstrBot</title>
-      <link>https://github.com/AstrBotDevs/AstrBot</link>
-      <description>🆕 NEW ENTRY - Ranked #9
-
-Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-
-Language: Python
-391 stars today</description>
-      <guid isPermaLink="true">https://github.com/AstrBotDevs/AstrBot</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 02:44:53 +0000</lastBuildDate>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 25,082 → 29,908 (+4826) | Ranked #1
+      <description>⭐ Stars: 29,908 → 30,440 (+532) | Ranked #1
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
-6,205 stars today</description>
+6,167 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>⭐ Stars: 14,032 → 16,698 (+2666) | Ranked #2
+      <description>⭐ Stars: 16,698 → 16,949 (+251) | Ranked #2
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
-2,909 stars today</description>
+2,907 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>promptfoo / promptfoo</title>
       <link>https://github.com/promptfoo/promptfoo</link>
-      <description>📈 Rank: #4 → #3 (↑1) | ⭐ Stars: 11,913 → 12,531 (+618)
+      <description>⭐ Stars: 12,531 → 12,626 (+95) | Ranked #3
 
 Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 Language: TypeScript
-728 stars today</description>
+718 stars today</description>
       <guid isPermaLink="true">https://github.com/promptfoo/promptfoo</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📈 Rank: #8 → #4 (↑4) | ⭐ Stars: 76,508 → 78,000 (+1492)
+      <description>⭐ Stars: 78,000 → 78,216 (+216) | Ranked #4
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
-1,477 stars today</description>
+1,483 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>fishaudio / fish-speech</title>
+      <link>https://github.com/fishaudio/fish-speech</link>
+      <description>⭐ Stars: 25,750 → 25,865 (+115) | Ranked #5
+
+SOTA Open Source TTS
+
+Language: Python
+313 stars today</description>
+      <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>virattt / ai-hedge-fund</title>
       <link>https://github.com/virattt/ai-hedge-fund</link>
-      <description>⭐ Stars: 47,541 → 48,125 (+584) | Ranked #6
+      <description>⭐ Stars: 48,125 → 48,206 (+81) | Ranked #6
 
 An AI Hedge Fund Team
 
 Language: Python
-633 stars today</description>
+636 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/ai-hedge-fund</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>alibaba / page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>📈 Rank: #9 → #7 (↑2) | ⭐ Stars: 3,553 → 4,684 (+1131)
+      <description>⭐ Stars: 4,684 → 4,883 (+199) | Ranked #7
 
 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 Language: TypeScript
-1,206 stars today</description>
+1,215 stars today</description>
       <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>📉 Rank: #3 → #8 (↓5) | ⭐ Stars: 3,714 → 5,179 (+1465)
+      <description>⭐ Stars: 5,179 → 5,352 (+173) | Ranked #8
 
 The agent that grows with you
 
 Language: Python
-1,204 stars today</description>
+1,234 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Wed, 11 Mar 2026 23:34:04 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AstrBotDevs / AstrBot</title>
+      <link>https://github.com/AstrBotDevs/AstrBot</link>
+      <description>⭐ Stars: 21,022 → 21,231 (+209) | Ranked #9
+
+Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+Language: Python
+342 stars today</description>
+      <guid isPermaLink="true">https://github.com/AstrBotDevs/AstrBot</guid>
+      <pubDate>Thu, 12 Mar 2026 02:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

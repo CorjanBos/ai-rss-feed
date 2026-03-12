@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:34:03 +0000</lastBuildDate>
-    <item>
-      <title>HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning</title>
-      <link>https://huggingface.co/papers/2603.00446</link>
-      <description>By An Dang, Jayjun Lee, Mustafa Mukadam, X. Alice Wu, Bernadette Bucher, et al.
-
-In this paper, we address the problem of tactile sim-to-real policy transfer for contact-rich tasks. Existing methods primarily focus on vision-based sensors and emphasize image rendering quality while providing overly simplistic models of force and shear. Consequently, these models exhibit a large ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.00446</guid>
-      <pubDate>Sat, 28 Feb 2026 03:59:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 02:44:51 +0000</lastBuildDate>
     <item>
       <title>Multi-Head Low-Rank Attention</title>
       <link>https://huggingface.co/papers/2603.02188</link>
@@ -55,6 +46,15 @@ Modern language models still rely on fixed, pre-defined subword tokenizations. O
       <pubDate>Tue, 03 Mar 2026 23:20:31 +0000</pubDate>
     </item>
     <item>
+      <title>Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning</title>
+      <link>https://huggingface.co/papers/2603.04597</link>
+      <description>By Lei Huang, Xiang Cheng, Chenxiao Zhao, Guobin Shen, Junjie Yang, et al.
+
+Large language models (LLMs) typically receive diverse natural language (NL) feedback through interaction with the environment. However, current reinforcement learning (RL) algorithms rely solely on scalar rewards, leaving the rich information in NL feedback underutilized and leading to inefficient ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.04597</guid>
+      <pubDate>Wed, 04 Mar 2026 20:53:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models</title>
       <link>https://huggingface.co/papers/2603.04893</link>
       <description>By Sean Lamont, Christian Walder, Paul Montague, Amir Dezfouli, Michael Norrish
@@ -64,22 +64,13 @@ Diverse outputs in text generation are necessary for effective exploration in co
       <pubDate>Thu, 05 Mar 2026 07:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events</title>
-      <link>https://huggingface.co/papers/2603.04989</link>
-      <description>By Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, et al.
+      <title>EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation</title>
+      <link>https://huggingface.co/papers/2603.05757</link>
+      <description>By Gehao Zhang, Zhenyang Ni, Payal Mohapatra, Han Liu, Ruohan Zhang, et al.
 
-Tracking any point (TAP) is a fundamental yet challenging task in computer vision, requiring high precision and long-term motion reasoning. Recent attempts to combine RGB frames and event streams have shown promise, yet they typically rely on synchronous or non-adaptive fusion, leading to temporal m...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.04989</guid>
-      <pubDate>Thu, 05 Mar 2026 09:32:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity</title>
-      <link>https://huggingface.co/papers/2603.05168</link>
-      <description>By Di Zhang, Xun Wu, Shaohan Huang, Yudong Wang, Hanyong Shao, et al.
-
-Semi-structured N:M sparsity and low-bit quantization (e.g., 1.58-bit BitNet) are two promising approaches for improving the efficiency of large language models (LLMs), yet they have largely been studied in isolation. In this work, we investigate their interaction and show that 1.58-bit BitNet is na...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05168</guid>
-      <pubDate>Thu, 05 Mar 2026 13:37:50 +0000</pubDate>
+Video generative models (VGMs) pretrained on large-scale internet data can produce temporally coherent rollout videos that capture rich object dynamics, offering a compelling foundation for zero-shot robotic manipulation. However, VGMs often produce physically implausible rollouts, and converting th...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05757</guid>
+      <pubDate>Thu, 05 Mar 2026 23:31:56 +0000</pubDate>
     </item>
     <item>
       <title>Training-free Latent Inter-Frame Pruning with Attention Recovery</title>
@@ -154,24 +145,6 @@ Direct prompt-based editing often fails on complex transformations because vague
       <pubDate>Sat, 07 Mar 2026 11:14:37 +0000</pubDate>
     </item>
     <item>
-      <title>Making LLMs Optimize Multi-Scenario CUDA Kernels Like Experts</title>
-      <link>https://huggingface.co/papers/2603.07169</link>
-      <description>By Yuxuan Han, Meng-Hao Guo, Zhengning Liu, Wenguang Chen, Shi-Min Hu
-
-Optimizing GPU kernels manually is a challenging and time-consuming task. With the rapid development of LLMs, automated GPU kernel optimization is gradually becoming a tangible reality. However, current LLM-driven automated optimization methods narrowly focus on machine learning applications, such a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07169</guid>
-      <pubDate>Sat, 07 Mar 2026 12:22:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unlocking Data Value in Finance: A Study on Distillation and Difficulty-Aware Training</title>
-      <link>https://huggingface.co/papers/2603.07223</link>
-      <description>By Chuxue Cao, Honglin Lin, Zhanping Zhong, Xin Gao, Mengzhang Cai, et al.
-
-Large Language Models (LLMs) have demonstrated strong general capabilities, yet their deployment in finance remains challenging due to dense domain-specific terminology, stringent numerical reasoning requirements, and low tolerance for factual errors. We conduct a controlled empirical study showing ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07223</guid>
-      <pubDate>Sat, 07 Mar 2026 14:07:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation</title>
       <link>https://huggingface.co/papers/2603.07233</link>
       <description>By Andrea Giuseppe Di Francesco, Andrea Rubbi, Pietro Liò
@@ -179,24 +152,6 @@ Large Language Models (LLMs) have demonstrated strong general capabilities, yet 
 Predicting how cells respond to genetic perturbations is fundamental to understanding gene function, disease mechanisms, and therapeutic development. While recent deep learning approaches have shown promise in modeling single-cell perturbation responses, they struggle to generalize across cell types...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07233</guid>
       <pubDate>Sat, 07 Mar 2026 14:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing</title>
-      <link>https://huggingface.co/papers/2603.07236</link>
-      <description>By Tencent HY Team
-
-Foundation models are transitioning from offline predictors to deployed systems expected to operate over long time horizons. In real deployments, objectives are not fixed: domains drift, user preferences evolve, and new tasks appear after the model has shipped. This elevates continual learning and i...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07236</guid>
-      <pubDate>Sat, 07 Mar 2026 14:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>PresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation</title>
-      <link>https://huggingface.co/papers/2603.07244</link>
-      <description>By Xin-Sheng Chen, Jiayu Zhu, Pei-lin Li, Hanzheng Wang, Shuojin Yang, et al.
-
-Slides serve as a critical medium for conveying information in presentation-oriented scenarios such as academia, education, and business. Despite their importance, creating high-quality slide decks remains time-consuming and cognitively demanding. Recent advances in generative models, such as Nano B...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07244</guid>
-      <pubDate>Sat, 07 Mar 2026 14:54:50 +0000</pubDate>
     </item>
     <item>
       <title>Variational Flow Maps: Make Some Noise for One-Step Conditional Generation</title>
@@ -235,15 +190,6 @@ Training next-generation code generation models requires high-quality datasets, 
       <pubDate>Sun, 08 Mar 2026 19:45:51 +0000</pubDate>
     </item>
     <item>
-      <title>MWM: Mobile World Models for Action-Conditioned Consistent Prediction</title>
-      <link>https://huggingface.co/papers/2603.07799</link>
-      <description>By Han Yan, Zishang Xiang, Zeyu Zhang, Hao Tang
-
-World models enable planning in imagined future predicted space, offering a promising framework for embodied navigation. However, existing navigation world models often lack action-conditioned consistency, so visually plausible predictions can still drift under multi-step rollout and degrade plannin...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07799</guid>
-      <pubDate>Sun, 08 Mar 2026 20:54:50 +0000</pubDate>
-    </item>
-    <item>
       <title>VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?</title>
       <link>https://huggingface.co/papers/2603.07888</link>
       <description>By Minkyu Kim, Sangheon Lee, Dongmin Park
@@ -262,13 +208,13 @@ On-the-fly category discovery (OCD) aims to recognize known categories while sim
       <pubDate>Mon, 09 Mar 2026 08:14:58 +0000</pubDate>
     </item>
     <item>
-      <title>NLE: Non-autoregressive LLM-based ASR by Transcript Editing</title>
-      <link>https://huggingface.co/papers/2603.08397</link>
-      <description>By Avihu Dekel, Samuel Thomas, Takashi Fukada, George Saon
+      <title>RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback</title>
+      <link>https://huggingface.co/papers/2603.08561</link>
+      <description>By Xiaoying Zhang, Zichen Liu, Yipeng Zhang, Xia Hu, Wenqi Shao
 
-While autoregressive (AR) LLM-based ASR systems achieve strong accuracy, their sequential decoding limits parallelism and incurs high latency. We propose NLE, a non-autoregressive (NAR) approach that formulates speech recognition as conditional transcript editing, enabling fully parallel prediction....</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08397</guid>
-      <pubDate>Mon, 09 Mar 2026 13:56:52 +0000</pubDate>
+Large language model (LLM)-based agents trained with reinforcement learning (RL) have shown strong potential on complex interactive tasks. However, standard RL paradigms favor static problem-solving over continuous adaptation: agents often converge to suboptimal strategies due to insufficient explor...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08561</guid>
+      <pubDate>Mon, 09 Mar 2026 16:23:33 +0000</pubDate>
     </item>
     <item>
       <title>Micro-Diffusion Compression -- Binary Tree Tweedie Denoising for Online Probability Estimation</title>
@@ -415,6 +361,15 @@ With the rapid advancement of Large Language Models (LLMs) in code generation, h
       <pubDate>Tue, 10 Mar 2026 13:30:03 +0000</pubDate>
     </item>
     <item>
+      <title>RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation</title>
+      <link>https://huggingface.co/papers/2603.09723</link>
+      <description>By Sihong Wu, Yiling Ma, Yilun Zhao, Tiansheng Hu, Owen Jiang, et al.
+
+Large language models (LLMs) are increasingly used across the scientific workflow, including to draft peer-review reports. However, many AI-generated reviews are superficial and insufficiently actionable, leaving authors without concrete, implementable guidance and motivating the gap this work addre...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09723</guid>
+      <pubDate>Tue, 10 Mar 2026 14:30:55 +0000</pubDate>
+    </item>
+    <item>
       <title>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</title>
       <link>https://huggingface.co/papers/2603.09877</link>
       <description>By Changyao Tian, Danni Yang, Guanzhou Chen, Erfei Cui, Zhaokai Wang, et al.
@@ -451,6 +406,15 @@ While reasoning in LLMs plays a natural role in math, code generation, and multi
       <pubDate>Tue, 10 Mar 2026 16:59:20 +0000</pubDate>
     </item>
     <item>
+      <title>Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.10098</link>
+      <description>By Daniel Hennes, Zun Li, John Schultz, Marc Lanctot
+
+Recent advances in multi-agent reinforcement learning, particularly Policy-Space Response Oracles (PSRO), have enabled the computation of approximate game-theoretic equilibria in increasingly complex domains. However, these methods rely on deep reinforcement learning oracles that produce `black-box'...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10098</guid>
+      <pubDate>Tue, 10 Mar 2026 17:37:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Towards a Neural Debugger for Python</title>
       <link>https://huggingface.co/papers/2603.09951</link>
       <description>By Maximilian Beck, Jonas Gehring, Jannik Kossen, Gabriel Synnaeve
@@ -458,6 +422,42 @@ While reasoning in LLMs plays a natural role in math, code generation, and multi
 Training large language models (LLMs) on Python execution traces grounds them in code execution and enables the line-by-line execution prediction of whole Python programs, effectively turning them into neural interpreters (FAIR CodeGen Team et al., 2025). However, developers rarely execute programs ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09951</guid>
       <pubDate>Tue, 10 Mar 2026 17:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR</title>
+      <link>https://huggingface.co/papers/2603.10101</link>
+      <description>By Sijia Cui, Pengyu Cheng, Jiajun Song, Yongbo Gai, Guojun Zhang, et al.
+
+Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capacity of Large Language Models (LLMs). However, RLVR solely relies on final answers as outcome rewards, neglecting the correctness of intermediate reasoning steps. Training on these process-wrong but ou...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10101</guid>
+      <pubDate>Tue, 10 Mar 2026 17:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw-RL: Train Any Agent Simply by Talking</title>
+      <link>https://huggingface.co/papers/2603.10165</link>
+      <description>By Yinjie Wang, Xuyang Chen, Xiaolong Jin, Mengdi Wang, Ling Yang
+
+Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-s...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10165</guid>
+      <pubDate>Tue, 10 Mar 2026 18:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers</title>
+      <link>https://huggingface.co/papers/2603.10744</link>
+      <description>By Wenhao Sun, Ji Li, Zhaoqiang Liu
+
+Diffusion Transformers have established a new state-of-the-art in image synthesis, but the high computational cost of iterative sampling severely hampers their practical deployment. While existing acceleration methods often focus on the temporal domain, they overlook the substantial spatial redundan...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10744</guid>
+      <pubDate>Wed, 11 Mar 2026 13:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts</title>
+      <link>https://huggingface.co/papers/2603.10848</link>
+      <description>By Yi-Kai Zhang, Yueqing Sun, Hongyan Hao, Qi Gu, Xunliang Cai, et al.
+
+In Reinforcement Learning with Verifiable Rewards (RLVR), constructing a robust advantage baseline is critical for policy gradients, effectively guiding the policy model to reinforce desired behaviors. Recent research has introduced Generalist Value Models (such as V_0), which achieve pre-trained va...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10848</guid>
+      <pubDate>Wed, 11 Mar 2026 14:57:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
