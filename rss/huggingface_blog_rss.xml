@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 02:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 04:53:45 +0000</lastBuildDate>
     <item>
       <title>One-Shot Any Web App with Gradio's gr.HTML</title>
       <link>https://huggingface.co/blog/gradio-html-one-shot-apps</link>
@@ -101,11 +101,11 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds</title>
-      <link>https://huggingface.co/blog/nvidia/synthetic-code-concepts</link>
-      <description>By NVIDIA - Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/synthetic-code-concepts</guid>
-      <pubDate>Wed, 11 Mar 2026 15:50:15 +0000</pubDate>
+      <title>How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II </title>
+      <link>https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench</link>
+      <description>By NVIDIA - How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II </description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench</guid>
+      <pubDate>Thu, 12 Mar 2026 03:53:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

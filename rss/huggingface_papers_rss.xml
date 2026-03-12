@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 02:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 04:53:45 +0000</lastBuildDate>
     <item>
       <title>Multi-Head Low-Rank Attention</title>
       <link>https://huggingface.co/papers/2603.02188</link>
@@ -37,15 +37,6 @@ Leveraging the priors of 2D diffusion models for 3D editing has emerged as a pro
       <pubDate>Tue, 03 Mar 2026 16:31:10 +0000</pubDate>
     </item>
     <item>
-      <title>ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer</title>
-      <link>https://huggingface.co/papers/2603.03583</link>
-      <description>By Chunyuan Deng, Sanket Lokegaonkar, Colin Lockard, Besnik Fetahu, Nasser Zalmout, et al.
-
-Modern language models still rely on fixed, pre-defined subword tokenizations. Once a tokenizer is trained, the LM can only operate at this fixed level of granularity, which often leads to brittle and counterintuitive behaviors even in otherwise strong reasoning models. We introduce ByteFlow Net, a ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.03583</guid>
-      <pubDate>Tue, 03 Mar 2026 23:20:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.04597</link>
       <description>By Lei Huang, Xiang Cheng, Chenxiao Zhao, Guobin Shen, Junjie Yang, et al.
@@ -64,6 +55,15 @@ Diverse outputs in text generation are necessary for effective exploration in co
       <pubDate>Thu, 05 Mar 2026 07:35:07 +0000</pubDate>
     </item>
     <item>
+      <title>Any to Full: Prompting Depth Anything for Depth Completion in One Stage</title>
+      <link>https://huggingface.co/papers/2603.05711</link>
+      <description>By Zhiyuan Zhou, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, et al.
+
+Accurate, dense depth estimation is crucial for robotic perception, but commodity sensors often yield sparse or incomplete measurements due to hardware limitations. Existing RGBD-fused depth completion methods learn priors jointly conditioned on training RGB distribution and specific depth patterns,...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05711</guid>
+      <pubDate>Thu, 05 Mar 2026 22:08:40 +0000</pubDate>
+    </item>
+    <item>
       <title>EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation</title>
       <link>https://huggingface.co/papers/2603.05757</link>
       <description>By Gehao Zhang, Zhenyang Ni, Payal Mohapatra, Han Liu, Ruohan Zhang, et al.
@@ -71,15 +71,6 @@ Diverse outputs in text generation are necessary for effective exploration in co
 Video generative models (VGMs) pretrained on large-scale internet data can produce temporally coherent rollout videos that capture rich object dynamics, offering a compelling foundation for zero-shot robotic manipulation. However, VGMs often produce physically implausible rollouts, and converting th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.05757</guid>
       <pubDate>Thu, 05 Mar 2026 23:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Training-free Latent Inter-Frame Pruning with Attention Recovery</title>
-      <link>https://huggingface.co/papers/2603.05811</link>
-      <description>By Dennis Menn, Yuedong Yang, Bokun Wang, Xiwen Wei, Mustafa Munir, et al.
-
-Current video generation models suffer from high computational latency, making real-time applications prohibitively costly. In this paper, we address this limitation by exploiting the temporal redundancy inherent in video latent patches. To this end, we propose the Latent Inter-frame Pruning with At...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05811</guid>
-      <pubDate>Fri, 06 Mar 2026 01:49:47 +0000</pubDate>
     </item>
     <item>
       <title>ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning</title>
@@ -118,49 +109,13 @@ Multimodal large language models can exhibit text dominance, over-relying on lin
       <pubDate>Fri, 06 Mar 2026 20:18:30 +0000</pubDate>
     </item>
     <item>
-      <title>MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering</title>
-      <link>https://huggingface.co/papers/2603.07066</link>
-      <description>By Trong-Thang Pham, Loc Nguyen, Anh Nguyen, Hien Nguyen, Ngan Le
+      <title>Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams</title>
+      <link>https://huggingface.co/papers/2603.07392</link>
+      <description>By Jiyeon Kim, Hyunji Lee, Dylan Zhou, Sue Hyun Park, Seunghyun Yoon, et al.
 
-Generative diffusion models are increasingly used for medical imaging data augmentation, but text prompting cannot produce causal training data. Re-prompting rerolls the entire generation trajectory, altering anatomy, texture, and background. Inversion-based editing methods introduce reconstruction ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07066</guid>
-      <pubDate>Sat, 07 Mar 2026 06:52:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models</title>
-      <link>https://huggingface.co/papers/2603.07145</link>
-      <description>By Zicheng Duan, Jiatong Xia, Zeyu Zhang, Wenbo Zhang, Gengze Zhou, et al.
-
-Recent generative video world models aim to simulate visual environment evolution, allowing an observer to interactively explore the scene via camera control. However, they implicitly assume that the world only evolves within the observer's field of view. Once an object leaves the observer's view, i...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07145</guid>
-      <pubDate>Sat, 07 Mar 2026 10:31:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic Planning with Reasoning for Image Styling via Offline RL</title>
-      <link>https://huggingface.co/papers/2603.07148</link>
-      <description>By Subhojyoti Mukherjee, Stefano Petrangeli, Branislav Kveton, Trung Bui, Franck Dernoncourt, et al.
-
-Direct prompt-based editing often fails on complex transformations because vague and subjective prompts often require nuanced understanding of what should be changed in the image. Our core intuition is that leveraging compositional image editing tools rather than direct prompting profits from struct...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07148</guid>
-      <pubDate>Sat, 07 Mar 2026 11:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation</title>
-      <link>https://huggingface.co/papers/2603.07233</link>
-      <description>By Andrea Giuseppe Di Francesco, Andrea Rubbi, Pietro Liò
-
-Predicting how cells respond to genetic perturbations is fundamental to understanding gene function, disease mechanisms, and therapeutic development. While recent deep learning approaches have shown promise in modeling single-cell perturbation responses, they struggle to generalize across cell types...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07233</guid>
-      <pubDate>Sat, 07 Mar 2026 14:31:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Variational Flow Maps: Make Some Noise for One-Step Conditional Generation</title>
-      <link>https://huggingface.co/papers/2603.07276</link>
-      <description>By Abbas Mammadov, So Takao, Bohan Chen, Ricardo Baptista, Morteza Mardani, et al.
-
-Flow maps enable high-quality image generation in a single forward pass. However, unlike iterative diffusion models, their lack of an explicit sampling trajectory impedes incorporating external constraints for conditional generation and solving inverse problems. We put forth Variational Flow Maps, a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07276</guid>
-      <pubDate>Sat, 07 Mar 2026 16:32:30 +0000</pubDate>
+LLMs operating in dynamic real-world contexts often encounter knowledge that evolves continuously or emerges incrementally. To remain accurate and effective, models must adapt to newly arriving information on the fly. We introduce Online Adaptation to Continual Knowledge Streams(OAKS) to evaluate th...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07392</guid>
+      <pubDate>Sun, 08 Mar 2026 00:38:39 +0000</pubDate>
     </item>
     <item>
       <title>Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech</title>
@@ -170,24 +125,6 @@ Flow maps enable high-quality image generation in a single forward pass. However
 Kashmiri is spoken by around 7 million people but remains critically underserved in speech technology, despite its official status and rich linguistic heritage. The lack of robust Text-to-Speech (TTS) systems limits digital accessibility and inclusive human-computer interaction for native speakers. ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07513</guid>
       <pubDate>Sun, 08 Mar 2026 07:34:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models</title>
-      <link>https://huggingface.co/papers/2603.07777</link>
-      <description>By Zongqian Li, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, et al.
-
-Modern code generation models exhibit longer outputs, accelerated capability growth, and changed training dynamics, rendering traditional training methodologies, algorithms, and datasets ineffective for improving their performance. To address these training bottlenecks, we propose MicroCoder-GRPO, a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07777</guid>
-      <pubDate>Sun, 08 Mar 2026 19:40:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems</title>
-      <link>https://huggingface.co/papers/2603.07779</link>
-      <description>By Zongqian Li, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, et al.
-
-Training next-generation code generation models requires high-quality datasets, yet existing datasets face difficulty imbalance, format inconsistency, and data quality problems. We address these challenges through systematic data processing and difficulty scaling. We introduce a four-stage Data Proc...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07779</guid>
-      <pubDate>Sun, 08 Mar 2026 19:45:51 +0000</pubDate>
     </item>
     <item>
       <title>VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?</title>
@@ -325,6 +262,15 @@ Associative memory has long underpinned the design of sequential models. Beyond 
       <pubDate>Tue, 10 Mar 2026 05:42:13 +0000</pubDate>
     </item>
     <item>
+      <title>Flash-KMeans: Fast and Memory-Efficient Exact K-Means</title>
+      <link>https://huggingface.co/papers/2603.09229</link>
+      <description>By Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, Xiaoze Fan, et al.
+
+k-means has historically been positioned primarily as an offline processing primitive, typically used for dataset organization or embedding preprocessing rather than as a first-class component in online systems. In this work, we revisit this classical algorithm under the lens of modern AI system des...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09229</guid>
+      <pubDate>Tue, 10 Mar 2026 05:54:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Reward Prediction with Factorized World States</title>
       <link>https://huggingface.co/papers/2603.09400</link>
       <description>By Yijun Shen, Delong Chen, Xianming Hu, Jiaming Mi, Hongbo Zhao, et al.
@@ -368,6 +314,15 @@ With the rapid advancement of Large Language Models (LLMs) in code generation, h
 Large language models (LLMs) are increasingly used across the scientific workflow, including to draft peer-review reports. However, many AI-generated reviews are superficial and insufficiently actionable, leaving authors without concrete, implementable guidance and motivating the gap this work addre...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09723</guid>
       <pubDate>Tue, 10 Mar 2026 14:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</title>
+      <link>https://huggingface.co/papers/2603.09827</link>
+      <description>By Kangsan Kim, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, et al.
+
+As embodied models become powerful, humans will collaborate with multiple embodied AI agents at their workplace or home in the future. To ensure better communication between human users and the multi-agent system, it is crucial to interpret incoming information from agents in parallel and refer to t...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09827</guid>
+      <pubDate>Tue, 10 Mar 2026 15:48:35 +0000</pubDate>
     </item>
     <item>
       <title>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</title>
@@ -433,6 +388,15 @@ Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced
       <pubDate>Tue, 10 Mar 2026 17:59:54 +0000</pubDate>
     </item>
     <item>
+      <title>ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning</title>
+      <link>https://huggingface.co/papers/2603.10160</link>
+      <description>By Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, et al.
+
+Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that injects trainable low-rank matrices into pretrained models to adapt them to new tasks. Mixture-of-LoRAs models expand neural networks efficiently by routing each layer input to a small subset of specialized LoRAs of the la...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10160</guid>
+      <pubDate>Tue, 10 Mar 2026 18:51:27 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenClaw-RL: Train Any Agent Simply by Talking</title>
       <link>https://huggingface.co/papers/2603.10165</link>
       <description>By Yinjie Wang, Xuyang Chen, Xiaolong Jin, Mengdi Wang, Ling Yang
@@ -440,6 +404,15 @@ Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced
 Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-s...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10165</guid>
       <pubDate>Tue, 10 Mar 2026 18:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.10705</link>
+      <description>By Yuyao Ge, Shenghua Liu, Yiwei Wang, Tianyu Liu, Baolong Bi, et al.
+
+Prompt highlighting steers a large language model to prioritize user-specified text spans during generation. A key challenge is extracting steering directions that capture the difference between relevant and irrelevant contexts, rather than shared structural patterns common to both. We propose PRISM...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10705</guid>
+      <pubDate>Wed, 11 Mar 2026 12:24:45 +0000</pubDate>
     </item>
     <item>
       <title>Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers</title>
@@ -451,6 +424,15 @@ Diffusion Transformers have established a new state-of-the-art in image synthesi
       <pubDate>Wed, 11 Mar 2026 13:16:41 +0000</pubDate>
     </item>
     <item>
+      <title>CodePercept: Code-Grounded Visual STEM Perception for MLLMs</title>
+      <link>https://huggingface.co/papers/2603.10757</link>
+      <description>By Tongkun Guan, Zhibo Yang, Jianqiang Wan, Mingkun Yang, Zhengtao Guo, et al.
+
+When MLLMs fail at Science, Technology, Engineering, and Mathematics (STEM) visual reasoning, a fundamental question arises: is it due to perceptual deficiencies or reasoning limitations? Through systematic scaling analysis that independently scales perception and reasoning components, we uncover a ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10757</guid>
+      <pubDate>Wed, 11 Mar 2026 13:32:58 +0000</pubDate>
+    </item>
+    <item>
       <title>V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts</title>
       <link>https://huggingface.co/papers/2603.10848</link>
       <description>By Yi-Kai Zhang, Yueqing Sun, Hongyan Hao, Qi Gu, Xunliang Cai, et al.
@@ -458,6 +440,24 @@ Diffusion Transformers have established a new state-of-the-art in image synthesi
 In Reinforcement Learning with Verifiable Rewards (RLVR), constructing a robust advantage baseline is critical for policy gradients, effectively guiding the policy model to reinforce desired behaviors. Recent research has introduced Generalist Value Models (such as V_0), which achieve pre-trained va...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10848</guid>
       <pubDate>Wed, 11 Mar 2026 14:57:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM2Vec-Gen: Generative Embeddings from Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.10913</link>
+      <description>By Parishad BehnamGhader, Vaibhav Adlakha, Fabian David Schmidt, Nicolas Chapados, Marius Mosbach, et al.
+
+LLM-based text embedders typically encode the semantic content of their input. However, embedding tasks require mapping diverse inputs to similar outputs. Typically, this input-output is addressed by training embedding models with paired data using contrastive learning. In this work, we propose a no...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10913</guid>
+      <pubDate>Wed, 11 Mar 2026 15:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation</title>
+      <link>https://huggingface.co/papers/2603.11042</link>
+      <description>By Yan-Bo Lin, Jonah Casebeer, Long Mai, Aniruddha Mahapatra, Gedas Bertasius, et al.
+
+Generating music that temporally aligns with video events is challenging for existing text-to-music models, which lack fine-grained temporal control. We introduce V2M-Zero, a zero-pair video-to-music generation approach that outputs time-aligned music for video. Our method is motivated by a key obse...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11042</guid>
+      <pubDate>Wed, 11 Mar 2026 17:59:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
