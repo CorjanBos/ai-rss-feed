@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 16:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:54:08 +0000</lastBuildDate>
     <item>
       <title>microsoft / BitNet</title>
       <link>https://github.com/microsoft/BitNet</link>
@@ -19,7 +19,7 @@ Official inference framework for 1-bit LLMs
 Language: Python
 2,149 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/BitNet</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>langflow-ai / openrag</title>
@@ -31,7 +31,7 @@ OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo
 Language: Python
 491 stars today</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/openrag</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>InsForge / InsForge</title>
@@ -43,7 +43,7 @@ Give agents everything they need to ship fullstack apps. The backend built for a
 Language: TypeScript
 260 stars today</description>
       <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>vectorize-io / hindsight</title>
@@ -55,7 +55,7 @@ Hindsight: Agent Memory That Learns
 Language: Python
 300 stars today</description>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>google-ai-edge / LiteRT</title>
@@ -67,7 +67,7 @@ LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-p
 Language: C++
 6 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/LiteRT</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>google / A2UI</title>
@@ -79,7 +79,7 @@ Language: C++
 Language: TypeScript
 220 stars today</description>
       <guid isPermaLink="true">https://github.com/google/A2UI</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>anthropics / claude-plugins-official</title>
@@ -91,79 +91,79 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 Language: Python
 144 stars today</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>fishaudio / fish-speech</title>
       <link>https://github.com/fishaudio/fish-speech</link>
-      <description>📈 Rank: #5 → #2 (↑3) | ⭐ Stars: 25,750 → 26,212 (+462)
+      <description>📈 Rank: #5 → #2 (↑3) | ⭐ Stars: 25,750 → 26,243 (+493)
 
 SOTA Open Source TTS
 
 Language: Python
 630 stars today</description>
       <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>alibaba / page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>📈 Rank: #7 → #6 (↑1) | ⭐ Stars: 4,684 → 5,636 (+952)
+      <description>📈 Rank: #7 → #6 (↑1) | ⭐ Stars: 4,684 → 5,711 (+1027)
 
 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 Language: TypeScript
 1,196 stars today</description>
       <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 78,000 → 79,426 (+1426)
+      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 78,000 → 79,556 (+1556)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 1,708 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>⭐ Stars: 5,179 → 5,916 (+737) | Ranked #8
+      <description>⭐ Stars: 5,179 → 5,975 (+796) | Ranked #8
 
 The agent that grows with you
 
 Language: Python
 1,235 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>📉 Rank: #2 → #9 (↓7) | ⭐ Stars: 16,698 → 18,029 (+1331)
+      <description>📉 Rank: #2 → #9 (↓7) | ⭐ Stars: 16,698 → 18,151 (+1453)
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
 1,809 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>📉 Rank: #1 → #11 (↓10) | ⭐ Stars: 29,908 → 32,397 (+2489)
+      <description>📉 Rank: #1 → #11 (↓10) | ⭐ Stars: 29,908 → 32,603 (+2695)
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
 4,086 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Thu, 12 Mar 2026 16:09:24 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:54:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

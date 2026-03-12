@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 16:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:54:06 +0000</lastBuildDate>
+    <item>
+      <title>According to Me: Long-Term Personalized Referential Memory QA</title>
+      <link>https://huggingface.co/papers/2603.01990</link>
+      <description>By Jingbiao Mei, Jinghong Chen, Guangyu Yang, Xinyu Hou, Margaret Li, et al.
+
+Personalized AI assistants must recall and reason over long-term user memory, which naturally spans multiple modalities and sources such as images, videos, and emails. However, existing Long-term Memory benchmarks focus primarily on dialogue history, failing to capture realistic personalized referen...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.01990</guid>
+      <pubDate>Mon, 02 Mar 2026 15:42:29 +0000</pubDate>
+    </item>
     <item>
       <title>Multi-Head Low-Rank Attention</title>
       <link>https://huggingface.co/papers/2603.02188</link>
@@ -163,15 +172,6 @@ We present Test-Driven AI Agent Definition (TDAD), a methodology that treats age
       <pubDate>Mon, 09 Mar 2026 18:04:54 +0000</pubDate>
     </item>
     <item>
-      <title>Fish Audio S2 Technical Report</title>
-      <link>https://huggingface.co/papers/2603.08823</link>
-      <description>By Shijia Liao, Yuxuan Wang, Songting Liu, Yifan Cheng, Ruoyi Zhang, et al.
-
-We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions. To scale training, we develop a multi-stage training recipe together with a staged data pipeline c...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08823</guid>
-      <pubDate>Mon, 09 Mar 2026 18:34:33 +0000</pubDate>
-    </item>
-    <item>
       <title>ConFu: Contemplate the Future for Better Speculative Sampling</title>
       <link>https://huggingface.co/papers/2603.08899</link>
       <description>By Zongyue Qin, Raghavv Goel, Mukul Gagrani, Risheek Garrepalli, Mingu Lee, et al.
@@ -271,15 +271,6 @@ State-space model releases are typically coupled to fused CUDA and Triton kernel
       <pubDate>Tue, 10 Mar 2026 12:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants</title>
-      <link>https://huggingface.co/papers/2603.09652</link>
-      <description>By Zuhao Zhang, Chengyue Yu, Yuante Li, Chenyi Zhuang, Linjian Mo, et al.
-
-With the rapid advancement of Large Language Models (LLMs) in code generation, human-AI interaction is evolving from static text responses to dynamic, interactive HTML-based applications, which we term MiniApps. These applications require models to not only render visual interfaces but also construc...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09652</guid>
-      <pubDate>Tue, 10 Mar 2026 13:30:03 +0000</pubDate>
-    </item>
-    <item>
       <title>RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation</title>
       <link>https://huggingface.co/papers/2603.09723</link>
       <description>By Sihong Wu, Yiling Ma, Yilun Zhao, Tiansheng Hu, Owen Jiang, et al.
@@ -343,15 +334,6 @@ Recent advances in multi-agent reinforcement learning, particularly Policy-Space
       <pubDate>Tue, 10 Mar 2026 17:37:06 +0000</pubDate>
     </item>
     <item>
-      <title>Towards a Neural Debugger for Python</title>
-      <link>https://huggingface.co/papers/2603.09951</link>
-      <description>By Maximilian Beck, Jonas Gehring, Jannik Kossen, Gabriel Synnaeve
-
-Training large language models (LLMs) on Python execution traces grounds them in code execution and enables the line-by-line execution prediction of whole Python programs, effectively turning them into neural interpreters (FAIR CodeGen Team et al., 2025). However, developers rarely execute programs ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09951</guid>
-      <pubDate>Tue, 10 Mar 2026 17:47:05 +0000</pubDate>
-    </item>
-    <item>
       <title>CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR</title>
       <link>https://huggingface.co/papers/2603.10101</link>
       <description>By Sijia Cui, Pengyu Cheng, Jiajun Song, Yongbo Gai, Guojun Zhang, et al.
@@ -386,6 +368,15 @@ Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that in
 Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a live, online learning source. We present OpenClaw-RL, a framework built on a simple observation: next-s...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10165</guid>
       <pubDate>Tue, 10 Mar 2026 18:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA</title>
+      <link>https://huggingface.co/papers/2603.10256</link>
+      <description>By Aviad Dahan, Moran Yanuka, Noa Kraicer, Lior Wolf, Raja Giryes
+
+Existing video personalization methods preserve visual likeness but treat video and audio separately. Without access to the visual scene, audio models cannot synchronize sounds with on-screen actions; and because classical voice-cloning models condition only on a reference recording, a text prompt c...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10256</guid>
+      <pubDate>Tue, 10 Mar 2026 22:23:36 +0000</pubDate>
     </item>
     <item>
       <title>Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning</title>
@@ -458,6 +449,15 @@ LLM-based text embedders typically encode the semantic content of their input. H
 Generating music that temporally aligns with video events is challenging for existing text-to-music models, which lack fine-grained temporal control. We introduce V2M-Zero, a zero-pair video-to-music generation approach that outputs time-aligned music for video. Our method is motivated by a key obse...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11042</guid>
       <pubDate>Wed, 11 Mar 2026 17:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>COMIC: Agentic Sketch Comedy Generation</title>
+      <link>https://huggingface.co/papers/2603.11048</link>
+      <description>By Susung Hong, Brian Curless, Ira Kemelmacher-Shlizerman, Steve Seitz
+
+We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of agents loosely based on real production studio roles, structured to optimize the quality and diversity...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11048</guid>
+      <pubDate>Wed, 11 Mar 2026 17:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
