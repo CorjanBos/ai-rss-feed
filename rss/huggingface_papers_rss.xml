@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 22:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:35:19 +0000</lastBuildDate>
     <item>
       <title>According to Me: Long-Term Personalized Referential Memory QA</title>
       <link>https://huggingface.co/papers/2603.01990</link>
@@ -181,6 +181,15 @@ Recent advances in vision-language models (VLMs) have demonstrated remarkable ze
       <pubDate>Mon, 09 Mar 2026 21:26:15 +0000</pubDate>
     </item>
     <item>
+      <title>SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing</title>
+      <link>https://huggingface.co/papers/2603.08982</link>
+      <description>By Xuanyi Zhou, Qiuyang Mang, Shuo Yang, Haocheng Xi, Jintao Zhang, et al.
+
+Diffusion Transformers (DiTs) have become a leading backbone for video generation, yet their quadratic attention cost remains a major bottleneck. Sparse attention reduces this cost by computing only a subset of attention blocks. However, prior methods often either drop the remaining blocks, which in...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08982</guid>
+      <pubDate>Mon, 09 Mar 2026 22:15:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Meissa: Multi-modal Medical Agentic Intelligence</title>
       <link>https://huggingface.co/papers/2603.09018</link>
       <description>By Yixiong Chen, Xinyi Bai, Yue Pan, Zongwei Zhou, Alan Yuille
@@ -206,15 +215,6 @@ Everyone can write their stories in freeform text format -- it's something we al
 Reinforcement Learning from Verifiable Rewards (RLVR) significantly enhances large language models (LLMs) reasoning but severely suffers from calibration degeneration, where models become excessively over-confident in incorrect answers. Previous studies devote to directly incorporating calibration o...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09117</guid>
       <pubDate>Tue, 10 Mar 2026 02:47:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data</title>
-      <link>https://huggingface.co/papers/2603.09206</link>
-      <description>By Zongxia Li, Hongyang Du, Chengsong Huang, Xiyang Wu, Lantao Yu, et al.
-
-Self-evolving has emerged as a key paradigm for improving foundational models such as Large Language Models (LLMs) and Vision Language Models (VLMs) with minimal human intervention. While recent approaches have demonstrated that LLM agents can self-evolve from scratch with little to no data, VLMs in...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09206</guid>
-      <pubDate>Tue, 10 Mar 2026 05:23:26 +0000</pubDate>
     </item>
     <item>
       <title>Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control</title>
