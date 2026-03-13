@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 07:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:52:32 +0000</lastBuildDate>
     <item>
       <title>According to Me: Long-Term Personalized Referential Memory QA</title>
       <link>https://huggingface.co/papers/2603.01990</link>
@@ -17,15 +17,6 @@
 Personalized AI assistants must recall and reason over long-term user memory, which naturally spans multiple modalities and sources such as images, videos, and emails. However, existing Long-term Memory benchmarks focus primarily on dialogue history, failing to capture realistic personalized referen...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01990</guid>
       <pubDate>Mon, 02 Mar 2026 15:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Any to Full: Prompting Depth Anything for Depth Completion in One Stage</title>
-      <link>https://huggingface.co/papers/2603.05711</link>
-      <description>By Zhiyuan Zhou, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, et al.
-
-Accurate, dense depth estimation is crucial for robotic perception, but commodity sensors often yield sparse or incomplete measurements due to hardware limitations. Existing RGBD-fused depth completion methods learn priors jointly conditioned on training RGB distribution and specific depth patterns,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.05711</guid>
-      <pubDate>Thu, 05 Mar 2026 22:08:40 +0000</pubDate>
     </item>
     <item>
       <title>NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks</title>
@@ -82,6 +73,15 @@ While large language models (LLMs) exhibit strong reasoning abilities, their per
       <pubDate>Mon, 09 Mar 2026 08:06:18 +0000</pubDate>
     </item>
     <item>
+      <title>Training Language Models via Neural Cellular Automata</title>
+      <link>https://huggingface.co/papers/2603.10055</link>
+      <description>By Dan Lee, Seungwook Han, Akarsh Kumar, Pulkit Agrawal
+
+Pre-training is crucial for large language models (LLMs), as it is when most representations and capabilities are acquired. However, natural language pre-training has problems: high-quality text is finite, it contains human biases, and it entangles knowledge with reasoning. This raises a fundamental...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10055</guid>
+      <pubDate>Mon, 09 Mar 2026 18:14:26 +0000</pubDate>
+    </item>
+    <item>
       <title>SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing</title>
       <link>https://huggingface.co/papers/2603.08982</link>
       <description>By Xuanyi Zhou, Qiuyang Mang, Shuo Yang, Haocheng Xi, Jintao Zhang, et al.
@@ -118,13 +118,13 @@ Vision Language Models (VLMs) bridge visual perception and linguistic reasoning.
       <pubDate>Tue, 10 Mar 2026 10:33:58 +0000</pubDate>
     </item>
     <item>
-      <title>MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents</title>
-      <link>https://huggingface.co/papers/2603.09827</link>
-      <description>By Kangsan Kim, Yanlai Yang, Suji Kim, Woongyeong Yeo, Youngwan Lee, et al.
+      <title>4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video</title>
+      <link>https://huggingface.co/papers/2603.10125</link>
+      <description>By Jin Lyu, Liang An, Pujin Cheng, Yebin Liu, Xiaoying Tang
 
-As embodied models become powerful, humans will collaborate with multiple embodied AI agents at their workplace or home in the future. To ensure better communication between human users and the multi-agent system, it is crucial to interpret incoming information from agents in parallel and refer to t...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09827</guid>
-      <pubDate>Tue, 10 Mar 2026 15:48:35 +0000</pubDate>
+4D reconstruction of equine family (e.g. horses) from monocular video is important for animal welfare. Previous mainstream 4D animal reconstruction methods require joint optimization of motion and appearance over a whole video, which is time-consuming and sensitive to incomplete observation. In this...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10125</guid>
+      <pubDate>Tue, 10 Mar 2026 18:01:10 +0000</pubDate>
     </item>
     <item>
       <title>Lost in Backpropagation: The LM Head is a Gradient Bottleneck</title>
@@ -244,22 +244,13 @@ Prompt highlighting steers a large language model to prioritize user-specified t
       <pubDate>Wed, 11 Mar 2026 12:24:45 +0000</pubDate>
     </item>
     <item>
-      <title>CodePercept: Code-Grounded Visual STEM Perception for MLLMs</title>
-      <link>https://huggingface.co/papers/2603.10757</link>
-      <description>By Tongkun Guan, Zhibo Yang, Jianqiang Wan, Mingkun Yang, Zhengtao Guo, et al.
+      <title>Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation</title>
+      <link>https://huggingface.co/papers/2603.11045</link>
+      <description>By Tao Zhong, Yixun Hu, Dongzhe Zheng, Aditya Sood, Christine Allen-Blanchette
 
-When MLLMs fail at Science, Technology, Engineering, and Mathematics (STEM) visual reasoning, a fundamental question arises: is it due to perceptual deficiencies or reasoning limitations? Through systematic scaling analysis that independently scales perception and reasoning components, we uncover a ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10757</guid>
-      <pubDate>Wed, 11 Mar 2026 13:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM2Vec-Gen: Generative Embeddings from Large Language Models</title>
-      <link>https://huggingface.co/papers/2603.10913</link>
-      <description>By Parishad BehnamGhader, Vaibhav Adlakha, Fabian David Schmidt, Nicolas Chapados, Marius Mosbach, et al.
-
-LLM-based text embedders typically encode the semantic content of their input. However, embedding tasks require mapping diverse inputs to similar outputs. Typically, this input-output is addressed by training embedding models with paired data using contrastive learning. In this work, we propose a no...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10913</guid>
-      <pubDate>Wed, 11 Mar 2026 15:58:47 +0000</pubDate>
+We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusion, ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11045</guid>
+      <pubDate>Wed, 11 Mar 2026 17:59:42 +0000</pubDate>
     </item>
     <item>
       <title>COMIC: Agentic Sketch Comedy Generation</title>
@@ -323,6 +314,15 @@ Instruction-based image editing aims to modify specific content within existing 
 Multimodal Large Language Models (MLLMs) have been widely adopted as MLLM-as-a-Judges due to their strong alignment with human judgment across various visual tasks. However, most existing judge models are optimized for single-task scenarios and struggle to generalize to diverse contexts, which is a ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11665</guid>
       <pubDate>Thu, 12 Mar 2026 08:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>XSkill: Continual Learning from Experience and Skills in Multimodal Agents</title>
+      <link>https://huggingface.co/papers/2603.12056</link>
+      <description>By Guanyu Jiang, Zhaochen Su, Xiaoye Qu, Yi R., Fung
+
+Multimodal agents can now tackle complex reasoning tasks with diverse tools, yet they still suffer from inefficient tool use and inflexible orchestration in open-ended settings. A central challenge is enabling such agents to continually improve without parameter updates by learning from past traject...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12056</guid>
+      <pubDate>Thu, 12 Mar 2026 15:25:57 +0000</pubDate>
     </item>
     <item>
       <title>Coarse-Guided Visual Generation via Weighted h-Transform Sampling</title>
