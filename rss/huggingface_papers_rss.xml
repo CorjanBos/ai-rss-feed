@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:16:32 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -26,6 +26,15 @@ Pre-trained vision encoders like DINOv2 have demonstrated exceptional performanc
 Personalized AI assistants must recall and reason over long-term user memory, which naturally spans multiple modalities and sources such as images, videos, and emails. However, existing Long-term Memory benchmarks focus primarily on dialogue history, failing to capture realistic personalized referen...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.01990</guid>
       <pubDate>Mon, 02 Mar 2026 15:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis</title>
+      <link>https://huggingface.co/papers/2603.05483</link>
+      <description>By Shahriar Noroozizadeh, Xiaobin Shen, Jeremy C. Weiss, George H. Chen
+
+Estimating heterogeneous treatment effects (HTEs) from right-censored survival data is critical in high-stakes applications such as precision medicine and individualized policy-making. Yet, the survival analysis setting poses unique challenges for HTE estimation due to censoring, unobserved counterf...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.05483</guid>
+      <pubDate>Thu, 05 Mar 2026 18:52:02 +0000</pubDate>
     </item>
     <item>
       <title>NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks</title>
@@ -98,15 +107,6 @@ Diffusion Transformers (DiTs) have become a leading backbone for video generatio
 Multi-modal large language models (MM-LLMs) have shown strong performance in medical image understanding and clinical reasoning. Recent medical agent systems extend them with tool use and multi-agent collaboration, enabling complex decision-making. However, these systems rely almost entirely on fron...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09018</guid>
       <pubDate>Mon, 09 Mar 2026 23:22:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving</title>
-      <link>https://huggingface.co/papers/2603.09482</link>
-      <description>By Yuan Gao, Dengyuan Hua, Mattia Piccinini, Finn Rasmus Schäfer, Korbinian Moller, et al.
-
-Vision Language Models (VLMs) bridge visual perception and linguistic reasoning. In Autonomous Driving (AD), this synergy has enabled Vision Language Action (VLA) models, which translate high-level multimodal understanding into driving behaviors, typically represented as future trajectories. However...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09482</guid>
-      <pubDate>Tue, 10 Mar 2026 10:33:58 +0000</pubDate>
     </item>
     <item>
       <title>4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video</title>
@@ -217,15 +217,6 @@ In real-world deployment, vision-language models often encounter disturbances su
       <pubDate>Wed, 11 Mar 2026 11:10:52 +0000</pubDate>
     </item>
     <item>
-      <title>UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations</title>
-      <link>https://huggingface.co/papers/2603.10702</link>
-      <description>By Yaqi Zhao, Wang Lin, Zijian Zhang, Miles Yang, Jingyuan Chen, et al.
-
-Current unified multimodal models typically rely on discrete visual tokenizers to bridge the modality gap. However, discretization inevitably discards fine-grained semantic information, leading to suboptimal performance in visual understanding tasks. Conversely, directly modeling continuous semantic...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10702</guid>
-      <pubDate>Wed, 11 Mar 2026 12:14:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation</title>
       <link>https://huggingface.co/papers/2603.11045</link>
       <description>By Tao Zhong, Yixun Hu, Dongzhe Zheng, Aditya Sood, Christine Allen-Blanchette
@@ -242,6 +233,15 @@ We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics fra
 We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of agents loosely based on real production studio roles, structured to optimize the quality and diversity...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11048</guid>
       <pubDate>Wed, 11 Mar 2026 17:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PACED: Distillation at the Frontier of Student Competence</title>
+      <link>https://huggingface.co/papers/2603.11178</link>
+      <description>By Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang
+
+Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its reach (incoherent gradients that erode existing capabilities). We show that this waste is not merely intuitive but structurally inevitable: the gradient...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11178</guid>
+      <pubDate>Wed, 11 Mar 2026 18:00:05 +0000</pubDate>
     </item>
     <item>
       <title>ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation</title>
