@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 08:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:50:45 +0000</lastBuildDate>
+    <item>
+      <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
+      <link>https://huggingface.co/papers/2602.24181</link>
+      <description>By Rishabh Kabra, Maks Ovsjanikov, Drew A. Hudson, Ye Xia, Skanda Koppula, et al.
+
+Pre-trained vision encoders like DINOv2 have demonstrated exceptional performance on unimodal tasks. However, we observe that their feature representations are poorly aligned across different modalities. For instance, the feature embedding for an RGB image and its corresponding depth map of the same...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2602.24181</guid>
+      <pubDate>Fri, 27 Feb 2026 17:03:45 +0000</pubDate>
+    </item>
     <item>
       <title>According to Me: Long-Term Personalized Referential Memory QA</title>
       <link>https://huggingface.co/papers/2603.01990</link>
@@ -35,6 +44,15 @@ We introduce NerVE, a unified eigenspectral framework for understanding how feed
 Large Language Model (LLM) agents often face significant credit assignment challenges in long-horizon, multi-step tasks due to sparse rewards. Existing value-free methods, such as Group Relative Policy Optimization (GRPO), encounter two fundamental bottlenecks: inaccurate step-level Q-value estimati...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08754</guid>
       <pubDate>Sat, 07 Mar 2026 06:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi</title>
+      <link>https://huggingface.co/papers/2603.07331</link>
+      <description>By Sandy Hardian Susanto Herho, Alfita Puspa Handayani, Iwan Pramesti Anwar, Faruq Khadami, Karina Aprilia Sujatmiko, et al.
+
+Indonesia's nickel ore export ban has driven rapid expansion of smelting and hydrometallurgical processing capacity at the Indonesia Morowali Industrial Park (IMIP), now the world's largest integrated nickel processing complex, on the coast of Central Sulawesi. Whether this industrialization has deg...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.07331</guid>
+      <pubDate>Sat, 07 Mar 2026 20:22:27 +0000</pubDate>
     </item>
     <item>
       <title>Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data</title>
@@ -100,15 +118,6 @@ Multi-modal large language models (MM-LLMs) have shown strong performance in med
       <pubDate>Mon, 09 Mar 2026 23:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>Flash-KMeans: Fast and Memory-Efficient Exact K-Means</title>
-      <link>https://huggingface.co/papers/2603.09229</link>
-      <description>By Shuo Yang, Haocheng Xi, Yilong Zhao, Muyang Li, Xiaoze Fan, et al.
-
-k-means has historically been positioned primarily as an offline processing primitive, typically used for dataset organization or embedding preprocessing rather than as a first-class component in online systems. In this work, we revisit this classical algorithm under the lens of modern AI system des...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09229</guid>
-      <pubDate>Tue, 10 Mar 2026 05:54:52 +0000</pubDate>
-    </item>
-    <item>
       <title>StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving</title>
       <link>https://huggingface.co/papers/2603.09482</link>
       <description>By Yuan Gao, Dengyuan Hua, Mattia Piccinini, Finn Rasmus Schäfer, Korbinian Moller, et al.
@@ -134,15 +143,6 @@ Vision Language Models (VLMs) bridge visual perception and linguistic reasoning.
 The last layer of neural language models (LMs) projects output features of dimension D to logits in dimension V, the size of the vocabulary, where usually D ll V. This mismatch is known to raise risks of limited expressivity in neural LMs, creating a so-called softmax bottleneck. We show the softmax...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10145</guid>
       <pubDate>Tue, 10 Mar 2026 18:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning</title>
-      <link>https://huggingface.co/papers/2603.10160</link>
-      <description>By Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, et al.
-
-Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that injects trainable low-rank matrices into pretrained models to adapt them to new tasks. Mixture-of-LoRAs models expand neural networks efficiently by routing each layer input to a small subset of specialized LoRAs of the la...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10160</guid>
-      <pubDate>Tue, 10 Mar 2026 18:51:27 +0000</pubDate>
     </item>
     <item>
       <title>Video-Based Reward Modeling for Computer-Use Agents</title>

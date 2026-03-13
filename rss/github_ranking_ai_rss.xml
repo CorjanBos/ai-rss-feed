@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 08:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:50:46 +0000</lastBuildDate>
     <item>
       <title>[Transformer] sglang</title>
       <link>https://github.com/sgl-project/sglang</link>
@@ -21,7 +21,7 @@ Language: Python
 Category: Transformer
 Stars: 24,394 | Forks: 4,788</description>
       <guid isPermaLink="true">https://github.com/sgl-project/sglang</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] fish-speech</title>
@@ -35,7 +35,7 @@ Language: Python
 Category: Transformer
 Stars: 26,493 | Forks: 2,230</description>
       <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] mmdetection</title>
@@ -49,7 +49,7 @@ Language: Python
 Category: Transformer
 Stars: 32,482 | Forks: 9,848</description>
       <guid isPermaLink="true">https://github.com/open-mmlab/mmdetection</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] pytorch-image-models</title>
@@ -63,7 +63,7 @@ Language: Python
 Category: Transformer
 Stars: 36,490 | Forks: 5,136</description>
       <guid isPermaLink="true">https://github.com/huggingface/pytorch-image-models</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] LocalAI</title>
@@ -77,7 +77,7 @@ Language: Go
 Category: Transformer
 Stars: 43,526 | Forks: 3,678</description>
       <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] whisper.cpp</title>
@@ -91,7 +91,7 @@ Language: C++
 Category: Transformer
 Stars: 47,473 | Forks: 5,285</description>
       <guid isPermaLink="true">https://github.com/ggml-org/whisper.cpp</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] annotated_deep_learning_paper_implementations</title>
@@ -105,7 +105,7 @@ Language: Python
 Category: Transformer
 Stars: 65,913 | Forks: 6,622</description>
       <guid isPermaLink="true">https://github.com/labmlai/annotated_deep_learning_paper_implementations</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] vllm</title>
@@ -119,7 +119,7 @@ Language: Python
 Category: Transformer
 Stars: 72,977 | Forks: 14,298</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] funNLP</title>
@@ -133,7 +133,7 @@ Language: Python
 Category: Transformer
 Stars: 79,359 | Forks: 15,151</description>
       <guid isPermaLink="true">https://github.com/fighting41love/funNLP</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Transformer] transformers</title>
@@ -147,7 +147,7 @@ Language: Python
 Category: Transformer
 Stars: 157,803 | Forks: 32,435</description>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] anything-llm</title>
@@ -161,7 +161,7 @@ Language: JavaScript
 Category: RAG
 Stars: 56,144 | Forks: 6,070</description>
       <guid isPermaLink="true">https://github.com/Mintplex-Labs/anything-llm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] llm-app</title>
@@ -175,7 +175,7 @@ Language: Jupyter Notebook
 Category: RAG
 Stars: 56,150 | Forks: 1,375</description>
       <guid isPermaLink="true">https://github.com/pathwaycom/llm-app</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] pathway</title>
@@ -189,7 +189,7 @@ Language: Python
 Category: RAG
 Stars: 59,416 | Forks: 1,609</description>
       <guid isPermaLink="true">https://github.com/pathwaycom/pathway</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] Prompt-Engineering-Guide</title>
@@ -203,7 +203,7 @@ Language: MDX
 Category: RAG
 Stars: 71,507 | Forks: 7,637</description>
       <guid isPermaLink="true">https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] PaddleOCR</title>
@@ -217,7 +217,7 @@ Language: Python
 Category: RAG
 Stars: 72,148 | Forks: 9,952</description>
       <guid isPermaLink="true">https://github.com/PaddlePaddle/PaddleOCR</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] ragflow</title>
@@ -231,7 +231,7 @@ Language: Python
 Category: RAG
 Stars: 74,898 | Forks: 8,365</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] awesome-llm-apps</title>
@@ -245,7 +245,7 @@ Language: Python
 Category: RAG
 Stars: 101,855 | Forks: 14,812</description>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] open-webui</title>
@@ -259,7 +259,7 @@ Language: Python
 Category: RAG
 Stars: 126,969 | Forks: 17,955</description>
       <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] langchain</title>
@@ -273,7 +273,7 @@ Language: Python
 Category: RAG
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[RAG] dify</title>
@@ -287,7 +287,7 @@ Language: TypeScript
 Category: RAG
 Stars: 132,574 | Forks: 20,666</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] lobehub</title>
@@ -301,7 +301,7 @@ Language: TypeScript
 Category: OpenAI
 Stars: 73,544 | Forks: 14,781</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] ragflow</title>
@@ -315,7 +315,7 @@ Language: Python
 Category: OpenAI
 Stars: 74,898 | Forks: 8,365</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] markitdown</title>
@@ -329,7 +329,7 @@ Language: Python
 Category: OpenAI
 Stars: 90,663 | Forks: 5,353</description>
       <guid isPermaLink="true">https://github.com/microsoft/markitdown</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] awesome-llm-apps</title>
@@ -343,7 +343,7 @@ Language: Python
 Category: OpenAI
 Stars: 101,855 | Forks: 14,812</description>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] generative-ai-for-beginners</title>
@@ -357,7 +357,7 @@ Language: Jupyter Notebook
 Category: OpenAI
 Stars: 107,893 | Forks: 57,873</description>
       <guid isPermaLink="true">https://github.com/microsoft/generative-ai-for-beginners</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] open-webui</title>
@@ -371,7 +371,7 @@ Language: Python
 Category: OpenAI
 Stars: 126,969 | Forks: 17,955</description>
       <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] langchain</title>
@@ -385,7 +385,7 @@ Language: Python
 Category: OpenAI
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] dify</title>
@@ -399,7 +399,7 @@ Language: TypeScript
 Category: OpenAI
 Stars: 132,573 | Forks: 20,666</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] prompts.chat</title>
@@ -413,7 +413,7 @@ Language: HTML
 Category: OpenAI
 Stars: 151,697 | Forks: 19,929</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[OpenAI] AutoGPT</title>
@@ -427,7 +427,7 @@ Language: Python
 Category: OpenAI
 Stars: 182,410 | Forks: 46,224</description>
       <guid isPermaLink="true">https://github.com/Significant-Gravitas/AutoGPT</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] trace.moe</title>
@@ -439,7 +439,7 @@ Trace back an anime scene with a screenshot
 Category: MoE
 Stars: 4,958 | Forks: 260</description>
       <guid isPermaLink="true">https://github.com/soruly/trace.moe</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] xtuner</title>
@@ -453,7 +453,7 @@ Language: Python
 Category: MoE
 Stars: 5,096 | Forks: 405</description>
       <guid isPermaLink="true">https://github.com/InternLM/xtuner</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] flashinfer</title>
@@ -467,7 +467,7 @@ Language: Python
 Category: MoE
 Stars: 5,132 | Forks: 790</description>
       <guid isPermaLink="true">https://github.com/flashinfer-ai/flashinfer</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] MoeKoeMusic</title>
@@ -481,7 +481,7 @@ Language: Vue
 Category: MoE
 Stars: 5,208 | Forks: 344</description>
       <guid isPermaLink="true">https://github.com/MoeKoeMusic/MoeKoeMusic</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] Bangumi</title>
@@ -495,7 +495,7 @@ Language: TypeScript
 Category: MoE
 Stars: 5,300 | Forks: 157</description>
       <guid isPermaLink="true">https://github.com/czy0729/Bangumi</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] TensorRT-LLM</title>
@@ -509,7 +509,7 @@ Language: Python
 Category: MoE
 Stars: 13,079 | Forks: 2,174</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/TensorRT-LLM</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] ms-swift</title>
@@ -523,7 +523,7 @@ Language: Python
 Category: MoE
 Stars: 13,089 | Forks: 1,254</description>
       <guid isPermaLink="true">https://github.com/modelscope/ms-swift</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] sglang</title>
@@ -537,7 +537,7 @@ Language: Python
 Category: MoE
 Stars: 24,394 | Forks: 4,788</description>
       <guid isPermaLink="true">https://github.com/sgl-project/sglang</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] LlamaFactory</title>
@@ -551,7 +551,7 @@ Language: Python
 Category: MoE
 Stars: 68,329 | Forks: 8,347</description>
       <guid isPermaLink="true">https://github.com/hiyouga/LlamaFactory</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[MoE] vllm</title>
@@ -565,7 +565,7 @@ Language: Python
 Category: MoE
 Stars: 72,977 | Forks: 14,298</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] ipex-llm</title>
@@ -579,7 +579,7 @@ Language: Python
 Category: Mistral
 Stars: 8,722 | Forks: 1,406</description>
       <guid isPermaLink="true">https://github.com/intel/ipex-llm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] inference</title>
@@ -593,7 +593,7 @@ Language: Python
 Category: Mistral
 Stars: 9,128 | Forks: 804</description>
       <guid isPermaLink="true">https://github.com/xorbitsai/inference</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] mistral-inference</title>
@@ -607,7 +607,7 @@ Language: Jupyter Notebook
 Category: Mistral
 Stars: 10,705 | Forks: 1,024</description>
       <guid isPermaLink="true">https://github.com/mistralai/mistral-inference</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] ludwig</title>
@@ -621,7 +621,7 @@ Language: Python
 Category: Mistral
 Stars: 11,657 | Forks: 1,212</description>
       <guid isPermaLink="true">https://github.com/ludwig-ai/ludwig</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] OpenLLM</title>
@@ -635,7 +635,7 @@ Language: Python
 Category: Mistral
 Stars: 12,161 | Forks: 803</description>
       <guid isPermaLink="true">https://github.com/bentoml/OpenLLM</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] khoj</title>
@@ -649,7 +649,7 @@ Language: Python
 Category: Mistral
 Stars: 33,371 | Forks: 2,055</description>
       <guid isPermaLink="true">https://github.com/khoj-ai/khoj</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] LibreChat</title>
@@ -663,7 +663,7 @@ Language: TypeScript
 Category: Mistral
 Stars: 34,589 | Forks: 6,993</description>
       <guid isPermaLink="true">https://github.com/danny-avila/LibreChat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] LocalAI</title>
@@ -677,7 +677,7 @@ Language: Go
 Category: Mistral
 Stars: 43,526 | Forks: 3,678</description>
       <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] unsloth</title>
@@ -691,7 +691,7 @@ Language: Python
 Category: Mistral
 Stars: 53,866 | Forks: 4,503</description>
       <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] ollama</title>
@@ -705,7 +705,7 @@ Language: Go
 Category: Mistral
 Stars: 164,965 | Forks: 14,938</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] quivr</title>
@@ -719,7 +719,7 @@ Language: Python
 Category: LLaMA
 Stars: 38,996 | Forks: 3,727</description>
       <guid isPermaLink="true">https://github.com/QuivrHQ/quivr</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] aider</title>
@@ -733,7 +733,7 @@ Language: Python
 Category: LLaMA
 Stars: 41,890 | Forks: 4,007</description>
       <guid isPermaLink="true">https://github.com/Aider-AI/aider</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] LocalAI</title>
@@ -747,7 +747,7 @@ Language: Go
 Category: LLaMA
 Stars: 43,526 | Forks: 3,678</description>
       <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] llama_index</title>
@@ -761,7 +761,7 @@ Language: Python
 Category: LLaMA
 Stars: 47,628 | Forks: 6,999</description>
       <guid isPermaLink="true">https://github.com/run-llama/llama_index</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] unsloth</title>
@@ -775,7 +775,7 @@ Language: Python
 Category: LLaMA
 Stars: 53,866 | Forks: 4,503</description>
       <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] llama</title>
@@ -789,7 +789,7 @@ Language: Python
 Category: LLaMA
 Stars: 59,216 | Forks: 9,824</description>
       <guid isPermaLink="true">https://github.com/meta-llama/llama</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] LlamaFactory</title>
@@ -803,7 +803,7 @@ Language: Python
 Category: LLaMA
 Stars: 68,329 | Forks: 8,347</description>
       <guid isPermaLink="true">https://github.com/hiyouga/LlamaFactory</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] vllm</title>
@@ -817,7 +817,7 @@ Language: Python
 Category: LLaMA
 Stars: 72,977 | Forks: 14,298</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] llama.cpp</title>
@@ -831,7 +831,7 @@ Language: C++
 Category: LLaMA
 Stars: 97,819 | Forks: 15,447</description>
       <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] ollama</title>
@@ -845,7 +845,7 @@ Language: Go
 Category: LLaMA
 Stars: 164,965 | Forks: 14,938</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] LLMs-from-scratch</title>
@@ -859,7 +859,7 @@ Language: Jupyter Notebook
 Category: LLM
 Stars: 87,872 | Forks: 13,402</description>
       <guid isPermaLink="true">https://github.com/rasbt/LLMs-from-scratch</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] firecrawl</title>
@@ -873,7 +873,7 @@ Language: TypeScript
 Category: LLM
 Stars: 92,182 | Forks: 6,390</description>
       <guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] llama.cpp</title>
@@ -887,7 +887,7 @@ Language: C++
 Category: LLM
 Stars: 97,819 | Forks: 15,447</description>
       <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] awesome-llm-apps</title>
@@ -901,7 +901,7 @@ Language: Python
 Category: LLM
 Stars: 101,855 | Forks: 14,812</description>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] open-webui</title>
@@ -915,7 +915,7 @@ Language: Python
 Category: LLM
 Stars: 126,969 | Forks: 17,955</description>
       <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] langchain</title>
@@ -929,7 +929,7 @@ Language: Python
 Category: LLM
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] dify</title>
@@ -943,7 +943,7 @@ Language: TypeScript
 Category: LLM
 Stars: 132,573 | Forks: 20,666</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] prompts.chat</title>
@@ -957,7 +957,7 @@ Language: HTML
 Category: LLM
 Stars: 151,697 | Forks: 19,929</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] transformers</title>
@@ -971,7 +971,7 @@ Language: Python
 Category: LLM
 Stars: 157,803 | Forks: 32,435</description>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] ollama</title>
@@ -985,7 +985,7 @@ Language: Go
 Category: LLM
 Stars: 164,966 | Forks: 14,938</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] WrenAI</title>
@@ -999,7 +999,7 @@ Language: TypeScript
 Category: Generative AI
 Stars: 14,598 | Forks: 1,571</description>
       <guid isPermaLink="true">https://github.com/Canner/WrenAI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] generative-ai</title>
@@ -1013,7 +1013,7 @@ Language: Jupyter Notebook
 Category: Generative AI
 Stars: 16,093 | Forks: 4,039</description>
       <guid isPermaLink="true">https://github.com/GoogleCloudPlatform/generative-ai</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] NeMo</title>
@@ -1027,7 +1027,7 @@ Language: Python
 Category: Generative AI
 Stars: 16,888 | Forks: 3,362</description>
       <guid isPermaLink="true">https://github.com/NVIDIA-NeMo/NeMo</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] GenAI_Agents</title>
@@ -1041,7 +1041,7 @@ Language: Jupyter Notebook
 Category: Generative AI
 Stars: 20,452 | Forks: 3,382</description>
       <guid isPermaLink="true">https://github.com/NirDiamant/GenAI_Agents</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] awesome-generative-ai-guide</title>
@@ -1055,7 +1055,7 @@ Language: HTML
 Category: Generative AI
 Stars: 25,282 | Forks: 5,345</description>
       <guid isPermaLink="true">https://github.com/aishwaryanr/awesome-generative-ai-guide</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] RAG_Techniques</title>
@@ -1069,7 +1069,7 @@ Language: Jupyter Notebook
 Category: Generative AI
 Stars: 25,885 | Forks: 3,038</description>
       <guid isPermaLink="true">https://github.com/NirDiamant/RAG_Techniques</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] generative-models</title>
@@ -1083,7 +1083,7 @@ Language: Python
 Category: Generative AI
 Stars: 26,995 | Forks: 3,056</description>
       <guid isPermaLink="true">https://github.com/Stability-AI/generative-models</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] Genesis</title>
@@ -1097,7 +1097,7 @@ Language: Python
 Category: Generative AI
 Stars: 28,270 | Forks: 2,623</description>
       <guid isPermaLink="true">https://github.com/Genesis-Embodied-AI/Genesis</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] CopilotKit</title>
@@ -1111,7 +1111,7 @@ Language: TypeScript
 Category: Generative AI
 Stars: 29,321 | Forks: 3,814</description>
       <guid isPermaLink="true">https://github.com/CopilotKit/CopilotKit</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Generative AI] generative-ai-for-beginners</title>
@@ -1125,7 +1125,7 @@ Language: Jupyter Notebook
 Category: Generative AI
 Stars: 107,893 | Forks: 57,873</description>
       <guid isPermaLink="true">https://github.com/microsoft/generative-ai-for-beginners</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] anything-llm</title>
@@ -1139,7 +1139,7 @@ Language: JavaScript
 Category: Deepseek
 Stars: 56,144 | Forks: 6,070</description>
       <guid isPermaLink="true">https://github.com/Mintplex-Labs/anything-llm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] gpt4free</title>
@@ -1153,7 +1153,7 @@ Language: Python
 Category: Deepseek
 Stars: 65,748 | Forks: 13,653</description>
       <guid isPermaLink="true">https://github.com/xtekky/gpt4free</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] LlamaFactory</title>
@@ -1167,7 +1167,7 @@ Language: Python
 Category: Deepseek
 Stars: 68,329 | Forks: 8,347</description>
       <guid isPermaLink="true">https://github.com/hiyouga/LlamaFactory</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] vllm</title>
@@ -1181,7 +1181,7 @@ Language: Python
 Category: Deepseek
 Stars: 72,977 | Forks: 14,298</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] lobehub</title>
@@ -1195,7 +1195,7 @@ Language: TypeScript
 Category: Deepseek
 Stars: 73,544 | Forks: 14,781</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] ragflow</title>
@@ -1209,7 +1209,7 @@ Language: Python
 Category: Deepseek
 Stars: 74,898 | Forks: 8,365</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] DeepSeek-R1</title>
@@ -1221,7 +1221,7 @@ Stars: 74,898 | Forks: 8,365</description>
 Category: Deepseek
 Stars: 91,967 | Forks: 11,758</description>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-R1</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] DeepSeek-V3</title>
@@ -1235,7 +1235,7 @@ Language: Python
 Category: Deepseek
 Stars: 102,110 | Forks: 16,566</description>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSeek-V3</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] transformers</title>
@@ -1249,7 +1249,7 @@ Language: Python
 Category: Deepseek
 Stars: 157,803 | Forks: 32,435</description>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Deepseek] ollama</title>
@@ -1263,7 +1263,7 @@ Language: Go
 Category: Deepseek
 Stars: 164,965 | Forks: 14,938</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] chatgpt-on-wechat</title>
@@ -1277,7 +1277,7 @@ Language: Python
 Category: Claude
 Stars: 42,164 | Forks: 9,820</description>
       <guid isPermaLink="true">https://github.com/zhayujie/chatgpt-on-wechat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] awesome-claude-skills</title>
@@ -1291,7 +1291,7 @@ Language: Python
 Category: Claude
 Stars: 43,514 | Forks: 4,373</description>
       <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] LocalAI</title>
@@ -1305,7 +1305,7 @@ Language: Go
 Category: Claude
 Stars: 43,526 | Forks: 3,678</description>
       <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] Pake</title>
@@ -1319,7 +1319,7 @@ Language: Rust
 Category: Claude
 Stars: 46,615 | Forks: 9,116</description>
       <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] lobehub</title>
@@ -1333,7 +1333,7 @@ Language: TypeScript
 Category: Claude
 Stars: 73,544 | Forks: 14,781</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -1347,7 +1347,7 @@ Language: JavaScript
 Category: Claude
 Stars: 73,769 | Forks: 9,229</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] claude-code</title>
@@ -1361,7 +1361,7 @@ Language: Shell
 Category: Claude
 Stars: 77,294 | Forks: 6,291</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] NextChat</title>
@@ -1375,7 +1375,7 @@ Language: TypeScript
 Category: Claude
 Stars: 87,473 | Forks: 60,216</description>
       <guid isPermaLink="true">https://github.com/ChatGPTNextWeb/NextChat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] system-prompts-and-models-of-ai-tools</title>
@@ -1387,7 +1387,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 Category: Claude
 Stars: 130,554 | Forks: 33,193</description>
       <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] prompts.chat</title>
@@ -1401,7 +1401,7 @@ Language: HTML
 Category: Claude
 Stars: 151,697 | Forks: 19,929</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] system_prompts_leaks</title>
@@ -1415,7 +1415,7 @@ Language: HTML
 Category: Chatbot
 Stars: 34,235 | Forks: 5,494</description>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] Langchain-Chatchat</title>
@@ -1429,7 +1429,7 @@ Language: Python
 Category: Chatbot
 Stars: 37,488 | Forks: 6,170</description>
       <guid isPermaLink="true">https://github.com/chatchat-space/Langchain-Chatchat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] chatbox</title>
@@ -1443,7 +1443,7 @@ Language: TypeScript
 Category: Chatbot
 Stars: 38,913 | Forks: 3,935</description>
       <guid isPermaLink="true">https://github.com/chatboxai/chatbox</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] quivr</title>
@@ -1457,7 +1457,7 @@ Language: Python
 Category: Chatbot
 Stars: 38,996 | Forks: 3,727</description>
       <guid isPermaLink="true">https://github.com/QuivrHQ/quivr</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] FastChat</title>
@@ -1471,7 +1471,7 @@ Language: Python
 Category: Chatbot
 Stars: 39,423 | Forks: 4,783</description>
       <guid isPermaLink="true">https://github.com/lm-sys/FastChat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] Flowise</title>
@@ -1485,7 +1485,7 @@ Language: TypeScript
 Category: Chatbot
 Stars: 50,680 | Forks: 23,939</description>
       <guid isPermaLink="true">https://github.com/FlowiseAI/Flowise</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] llm-app</title>
@@ -1499,7 +1499,7 @@ Language: Jupyter Notebook
 Category: Chatbot
 Stars: 56,150 | Forks: 1,375</description>
       <guid isPermaLink="true">https://github.com/pathwaycom/llm-app</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] gpt4free</title>
@@ -1513,7 +1513,7 @@ Language: Python
 Category: Chatbot
 Stars: 65,748 | Forks: 13,653</description>
       <guid isPermaLink="true">https://github.com/xtekky/gpt4free</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] funNLP</title>
@@ -1527,7 +1527,7 @@ Language: Python
 Category: Chatbot
 Stars: 79,359 | Forks: 15,151</description>
       <guid isPermaLink="true">https://github.com/fighting41love/funNLP</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] LLMs-from-scratch</title>
@@ -1541,7 +1541,7 @@ Language: Jupyter Notebook
 Category: Chatbot
 Stars: 87,872 | Forks: 13,402</description>
       <guid isPermaLink="true">https://github.com/rasbt/LLMs-from-scratch</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] gpt_academic</title>
@@ -1555,7 +1555,7 @@ Language: Python
 Category: ChatGPT
 Stars: 70,215 | Forks: 8,401</description>
       <guid isPermaLink="true">https://github.com/binary-husky/gpt_academic</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] Prompt-Engineering-Guide</title>
@@ -1569,7 +1569,7 @@ Language: MDX
 Category: ChatGPT
 Stars: 71,507 | Forks: 7,637</description>
       <guid isPermaLink="true">https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] openai-cookbook</title>
@@ -1583,7 +1583,7 @@ Language: Jupyter Notebook
 Category: ChatGPT
 Stars: 72,076 | Forks: 12,144</description>
       <guid isPermaLink="true">https://github.com/openai/openai-cookbook</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] lobehub</title>
@@ -1597,7 +1597,7 @@ Language: TypeScript
 Category: ChatGPT
 Stars: 73,544 | Forks: 14,781</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] NextChat</title>
@@ -1611,7 +1611,7 @@ Language: TypeScript
 Category: ChatGPT
 Stars: 87,473 | Forks: 60,216</description>
       <guid isPermaLink="true">https://github.com/ChatGPTNextWeb/NextChat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] LLMs-from-scratch</title>
@@ -1625,7 +1625,7 @@ Language: Jupyter Notebook
 Category: ChatGPT
 Stars: 87,872 | Forks: 13,402</description>
       <guid isPermaLink="true">https://github.com/rasbt/LLMs-from-scratch</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] generative-ai-for-beginners</title>
@@ -1639,7 +1639,7 @@ Language: Jupyter Notebook
 Category: ChatGPT
 Stars: 107,893 | Forks: 57,873</description>
       <guid isPermaLink="true">https://github.com/microsoft/generative-ai-for-beginners</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] langchain</title>
@@ -1653,7 +1653,7 @@ Language: Python
 Category: ChatGPT
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] langflow</title>
@@ -1667,7 +1667,7 @@ Language: Python
 Category: ChatGPT
 Stars: 145,595 | Forks: 8,571</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/langflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] prompts.chat</title>
@@ -1681,7 +1681,7 @@ Language: HTML
 Category: ChatGPT
 Stars: 151,697 | Forks: 19,929</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] Prompt-Engineering-Guide</title>
@@ -1695,7 +1695,7 @@ Language: MDX
 Category: AI Agents
 Stars: 71,507 | Forks: 7,637</description>
       <guid isPermaLink="true">https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] lobehub</title>
@@ -1709,7 +1709,7 @@ Language: TypeScript
 Category: AI Agents
 Stars: 73,544 | Forks: 14,781</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] ragflow</title>
@@ -1723,7 +1723,7 @@ Language: Python
 Category: AI Agents
 Stars: 74,898 | Forks: 8,365</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] browser-use</title>
@@ -1737,7 +1737,7 @@ Language: Python
 Category: AI Agents
 Stars: 80,572 | Forks: 9,519</description>
       <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] gemini-cli</title>
@@ -1751,7 +1751,7 @@ Language: TypeScript
 Category: AI Agents
 Stars: 97,471 | Forks: 12,195</description>
       <guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] awesome-llm-apps</title>
@@ -1765,7 +1765,7 @@ Language: Python
 Category: AI Agents
 Stars: 101,855 | Forks: 14,812</description>
       <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] langchain</title>
@@ -1779,7 +1779,7 @@ Language: Python
 Category: AI Agents
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] system-prompts-and-models-of-ai-tools</title>
@@ -1791,7 +1791,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 Category: AI Agents
 Stars: 130,554 | Forks: 33,193</description>
       <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] dify</title>
@@ -1805,7 +1805,7 @@ Language: TypeScript
 Category: AI Agents
 Stars: 132,574 | Forks: 20,666</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] langflow</title>
@@ -1819,7 +1819,7 @@ Language: Python
 Category: AI Agents
 Stars: 145,595 | Forks: 8,571</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/langflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] open-webui</title>
@@ -1833,7 +1833,7 @@ Language: Python
 Category: AI
 Stars: 126,969 | Forks: 17,955</description>
       <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] langchain</title>
@@ -1847,7 +1847,7 @@ Language: Python
 Category: AI
 Stars: 129,321 | Forks: 21,290</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] system-prompts-and-models-of-ai-tools</title>
@@ -1859,7 +1859,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 Category: AI
 Stars: 130,554 | Forks: 33,193</description>
       <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] dify</title>
@@ -1873,7 +1873,7 @@ Language: TypeScript
 Category: AI
 Stars: 132,574 | Forks: 20,666</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] langflow</title>
@@ -1887,7 +1887,7 @@ Language: Python
 Category: AI
 Stars: 145,595 | Forks: 8,571</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/langflow</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] prompts.chat</title>
@@ -1901,7 +1901,7 @@ Language: HTML
 Category: AI
 Stars: 151,697 | Forks: 19,929</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] stable-diffusion-webui</title>
@@ -1915,7 +1915,7 @@ Language: Python
 Category: AI
 Stars: 161,692 | Forks: 30,152</description>
       <guid isPermaLink="true">https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] n8n</title>
@@ -1929,7 +1929,7 @@ Language: TypeScript
 Category: AI
 Stars: 178,904 | Forks: 55,727</description>
       <guid isPermaLink="true">https://github.com/n8n-io/n8n</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] AutoGPT</title>
@@ -1943,7 +1943,7 @@ Language: Python
 Category: AI
 Stars: 182,410 | Forks: 46,224</description>
       <guid isPermaLink="true">https://github.com/Significant-Gravitas/AutoGPT</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -1957,7 +1957,7 @@ Language: TypeScript
 Category: AI
 Stars: 308,450 | Forks: 58,467</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] casibase</title>
@@ -1971,7 +1971,7 @@ Language: Go
 Category: AGI
 Stars: 4,461 | Forks: 526</description>
       <guid isPermaLink="true">https://github.com/casibase/casibase</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] magic</title>
@@ -1985,7 +1985,7 @@ Language: PHP
 Category: AGI
 Stars: 4,484 | Forks: 467</description>
       <guid isPermaLink="true">https://github.com/dtyq/magic</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] ARC-AGI</title>
@@ -1999,7 +1999,7 @@ Language: JavaScript
 Category: AGI
 Stars: 4,726 | Forks: 704</description>
       <guid isPermaLink="true">https://github.com/fchollet/ARC-AGI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] big-AGI</title>
@@ -2013,7 +2013,7 @@ Language: TypeScript
 Category: AGI
 Stars: 6,885 | Forks: 1,569</description>
       <guid isPermaLink="true">https://github.com/enricoros/big-AGI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] open-infra-index</title>
@@ -2025,7 +2025,7 @@ Production-tested AI infrastructure tools for efficient AGI development and comm
 Category: AGI
 Stars: 7,973 | Forks: 288</description>
       <guid isPermaLink="true">https://github.com/deepseek-ai/open-infra-index</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] BlackFriday-GPTs-Prompts</title>
@@ -2037,7 +2037,7 @@ List of free GPTs that doesn't require plus subscription
 Category: AGI
 Stars: 9,232 | Forks: 1,367</description>
       <guid isPermaLink="true">https://github.com/friuns2/BlackFriday-GPTs-Prompts</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] awesome-chatgpt-zh</title>
@@ -2051,7 +2051,7 @@ Language: Python
 Category: AGI
 Stars: 11,514 | Forks: 944</description>
       <guid isPermaLink="true">https://github.com/EmbraceAGI/awesome-chatgpt-zh</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] screenpipe</title>
@@ -2065,7 +2065,7 @@ Language: Rust
 Category: AGI
 Stars: 17,210 | Forks: 1,457</description>
       <guid isPermaLink="true">https://github.com/screenpipe/screenpipe</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] SuperAGI</title>
@@ -2079,7 +2079,7 @@ Language: Python
 Category: AGI
 Stars: 17,260 | Forks: 2,172</description>
       <guid isPermaLink="true">https://github.com/TransformerOptimus/SuperAGI</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] AgentGPT</title>
@@ -2093,7 +2093,7 @@ Language: TypeScript
 Category: AGI
 Stars: 35,810 | Forks: 9,435</description>
       <guid isPermaLink="true">https://github.com/reworkd/AgentGPT</guid>
-      <pubDate>Fri, 13 Mar 2026 08:52:34 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:50:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
