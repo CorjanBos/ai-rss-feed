@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 04:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:55:48 +0000</lastBuildDate>
     <item>
       <title>According to Me: Long-Term Personalized Referential Memory QA</title>
       <link>https://huggingface.co/papers/2603.01990</link>
@@ -44,15 +44,6 @@ We introduce NerVE, a unified eigenspectral framework for understanding how feed
 Large Language Model (LLM) agents often face significant credit assignment challenges in long-horizon, multi-step tasks due to sparse rewards. Existing value-free methods, such as Group Relative Policy Optimization (GRPO), encounter two fundamental bottlenecks: inaccurate step-level Q-value estimati...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08754</guid>
       <pubDate>Sat, 07 Mar 2026 06:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams</title>
-      <link>https://huggingface.co/papers/2603.07392</link>
-      <description>By Jiyeon Kim, Hyunji Lee, Dylan Zhou, Sue Hyun Park, Seunghyun Yoon, et al.
-
-LLMs operating in dynamic real-world contexts often encounter knowledge that evolves continuously or emerges incrementally. To remain accurate and effective, models must adapt to newly arriving information on the fly. We introduce Online Adaptation to Continual Knowledge Streams(OAKS) to evaluate th...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07392</guid>
-      <pubDate>Sun, 08 Mar 2026 00:38:39 +0000</pubDate>
     </item>
     <item>
       <title>Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data</title>
@@ -206,6 +197,15 @@ Sparse autoencoders can localize where concepts live in language models, but not
 We present FireRedASR2S, a state-of-the-art industrial-grade all-in-one automatic speech recognition (ASR) system. It integrates four modules in a unified pipeline: ASR, Voice Activity Detection (VAD), Spoken Language Identification (LID), and Punctuation Prediction (Punc). All modules achieve SOTA ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10420</guid>
       <pubDate>Wed, 11 Mar 2026 05:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training</title>
+      <link>https://huggingface.co/papers/2603.10444</link>
+      <description>By Hengjie Cao, Zhendong Huang, Mengyi Chen, Yifeng Yang, Fanqi Yu, et al.
+
+Large language models trained on natural language exhibit pronounced anisotropy: a small number of directions concentrate disproportionate energy, while the remaining dimensions form a broad semantic tail. In low-bit training regimes, this geometry becomes numerically unstable. Because blockwise qua...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10444</guid>
+      <pubDate>Wed, 11 Mar 2026 05:59:12 +0000</pubDate>
     </item>
     <item>
       <title>Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining</title>
