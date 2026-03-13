@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 19:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 20:45:05 +0000</lastBuildDate>
     <item>
       <title>One-Shot Any Web App with Gradio's gr.HTML</title>
       <link>https://huggingface.co/blog/gradio-html-one-shot-apps</link>
@@ -101,11 +101,11 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation</title>
-      <link>https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place</link>
-      <description>By NVIDIA - Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place</guid>
-      <pubDate>Fri, 13 Mar 2026 01:02:47 +0000</pubDate>
+      <title>Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</link>
+      <description>By NVIDIA - Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval</guid>
+      <pubDate>Fri, 13 Mar 2026 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

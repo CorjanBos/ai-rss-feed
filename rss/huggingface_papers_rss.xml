@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 19:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 20:45:05 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -17,15 +17,6 @@
 Pre-trained vision encoders like DINOv2 have demonstrated exceptional performance on unimodal tasks. However, we observe that their feature representations are poorly aligned across different modalities. For instance, the feature embedding for an RGB image and its corresponding depth map of the same...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2602.24181</guid>
       <pubDate>Fri, 27 Feb 2026 17:03:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>According to Me: Long-Term Personalized Referential Memory QA</title>
-      <link>https://huggingface.co/papers/2603.01990</link>
-      <description>By Jingbiao Mei, Jinghong Chen, Guangyu Yang, Xinyu Hou, Margaret Li, et al.
-
-Personalized AI assistants must recall and reason over long-term user memory, which naturally spans multiple modalities and sources such as images, videos, and emails. However, existing Long-term Memory benchmarks focus primarily on dialogue history, failing to capture realistic personalized referen...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.01990</guid>
-      <pubDate>Mon, 02 Mar 2026 15:42:29 +0000</pubDate>
     </item>
     <item>
       <title>SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis</title>
@@ -368,6 +359,15 @@ Multimodal agents offer a promising path to automating complex document-intensiv
 Long-context agentic workflows have emerged as a defining use case for large language models, making attention efficiency critical for both inference speed and serving cost. Sparse attention addresses this challenge effectively, and DeepSeek Sparse Attention (DSA) is a representative production-grad...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12201</guid>
       <pubDate>Thu, 12 Mar 2026 17:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights</title>
+      <link>https://huggingface.co/papers/2603.12228</link>
+      <description>By Yulu Gan, Phillip Isola
+
+Pretraining produces a learned parameter vector that is typically treated as a starting point for further iterative adaptation. In this work, we instead view the outcome of pretraining as a distribution over parameter vectors, whose support already contains task-specific experts. We show that in sma...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12228</guid>
+      <pubDate>Thu, 12 Mar 2026 17:49:30 +0000</pubDate>
     </item>
     <item>
       <title>One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers</title>
