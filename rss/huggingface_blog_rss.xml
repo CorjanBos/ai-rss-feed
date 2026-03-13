@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 21:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 22:35:51 +0000</lastBuildDate>
     <item>
       <title>One-Shot Any Web App with Gradio's gr.HTML</title>
       <link>https://huggingface.co/blog/gradio-html-one-shot-apps</link>
