@@ -17,39 +17,39 @@
     "repo_name": "langflow-ai / openrag",
     "repo_url": "https://github.com/langflow-ai/openrag",
     "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-    "stars": 2475,
-    "stars_text": "2,475",
-    "forks": 231,
+    "stars": 2507,
+    "stars_text": "2,507",
+    "forks": 235,
     "language": "Python",
     "today_stars": "568 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-14T11:31:05.609252+00:00"
+    "fetched_at": "2026-03-14T13:08:55.991254+00:00"
   },
   "lightpanda-io/browser": {
     "repo_path": "lightpanda-io/browser",
     "repo_name": "lightpanda-io / browser",
     "repo_url": "https://github.com/lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
-    "stars": 16288,
-    "stars_text": "16,288",
-    "forks": 592,
+    "stars": 16431,
+    "stars_text": "16,431",
+    "forks": 602,
     "language": "Zig",
     "today_stars": "2,100 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-14T11:31:05.609735+00:00"
+    "fetched_at": "2026-03-14T13:08:55.991684+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 82476,
-    "stars_text": "82,476",
-    "forks": 6431,
+    "stars": 82558,
+    "stars_text": "82,558",
+    "forks": 6433,
     "language": "Shell",
     "today_stars": "1,451 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-14T11:31:05.612025+00:00"
+    "fetched_at": "2026-03-14T13:08:55.993688+00:00"
   },
   "public-apis/public-apis": {
     "repo_path": "public-apis/public-apis",
@@ -82,13 +82,13 @@
     "repo_name": "msitarzewski / agency-agents",
     "repo_url": "https://github.com/msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "stars": 41892,
-    "stars_text": "41,892",
-    "forks": 6301,
+    "stars": 42141,
+    "stars_text": "42,141",
+    "forks": 6335,
     "language": "Shell",
     "today_stars": "4,329 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-14T11:31:05.610343+00:00"
+    "fetched_at": "2026-03-14T13:08:55.992216+00:00"
   },
   "dolthub/dolt": {
     "repo_path": "dolthub/dolt",
@@ -121,13 +121,13 @@
     "repo_name": "fishaudio / fish-speech",
     "repo_url": "https://github.com/fishaudio/fish-speech",
     "description": "SOTA Open Source TTS",
-    "stars": 27022,
-    "stars_text": "27,022",
-    "forks": 2259,
+    "stars": 27050,
+    "stars_text": "27,050",
+    "forks": 2260,
     "language": "Python",
     "today_stars": "377 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-14T11:31:05.610817+00:00"
+    "fetched_at": "2026-03-14T13:08:55.992636+00:00"
   },
   "alibaba/page-agent": {
     "repo_path": "alibaba/page-agent",
@@ -147,13 +147,13 @@
     "repo_name": "anthropics / claude-plugins-official",
     "repo_url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": 10972,
-    "stars_text": "10,972",
-    "forks": 1092,
+    "stars": 11009,
+    "stars_text": "11,009",
+    "forks": 1094,
     "language": "Python",
     "today_stars": "411 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-14T11:31:05.607734+00:00"
+    "fetched_at": "2026-03-14T13:08:55.989939+00:00"
   },
   "AstrBotDevs/AstrBot": {
     "repo_path": "AstrBotDevs/AstrBot",
@@ -186,13 +186,13 @@
     "repo_name": "InsForge / InsForge",
     "repo_url": "https://github.com/InsForge/InsForge",
     "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-    "stars": 3860,
-    "stars_text": "3,860",
-    "forks": 359,
+    "stars": 3901,
+    "stars_text": "3,901",
+    "forks": 414,
     "language": "TypeScript",
     "today_stars": "477 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-14T11:31:05.611425+00:00"
+    "fetched_at": "2026-03-14T13:08:55.993171+00:00"
   },
   "google-ai-edge/LiteRT": {
     "repo_path": "google-ai-edge/LiteRT",
@@ -212,38 +212,38 @@
     "repo_name": "volcengine / OpenViking",
     "repo_url": "https://github.com/volcengine/OpenViking",
     "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-    "stars": 9526,
-    "stars_text": "9,526",
-    "forks": 658,
+    "stars": 9638,
+    "stars_text": "9,638",
+    "forks": 664,
     "language": "Python",
     "today_stars": "2,191 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-14T11:31:05.607192+00:00"
+    "fetched_at": "2026-03-14T13:08:55.989455+00:00"
   },
   "dimensionalOS/dimos": {
     "repo_path": "dimensionalOS/dimos",
     "repo_name": "dimensionalOS / dimos",
     "repo_url": "https://github.com/dimensionalOS/dimos",
     "description": "The Dimensional Framework",
-    "stars": 703,
-    "stars_text": "703",
-    "forks": 142,
+    "stars": 720,
+    "stars_text": "720",
+    "forks": 144,
     "language": "Python",
     "today_stars": "64 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-14T11:31:05.608260+00:00"
+    "fetched_at": "2026-03-14T13:08:55.990395+00:00"
   },
   "p-e-w/heretic": {
     "repo_path": "p-e-w/heretic",
     "repo_name": "p-e-w / heretic",
     "repo_url": "https://github.com/p-e-w/heretic",
     "description": "Fully automatic censorship removal for language models",
-    "stars": 13172,
-    "stars_text": "13,172",
-    "forks": 1338,
+    "stars": 13215,
+    "stars_text": "13,215",
+    "forks": 1343,
     "language": "Python",
     "today_stars": "1,283 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-14T11:31:05.608756+00:00"
+    "fetched_at": "2026-03-14T13:08:55.990825+00:00"
   }
 }
