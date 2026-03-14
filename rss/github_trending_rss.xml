@@ -8,198 +8,198 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 23:35:48 +0000</lastBuildDate>
-    <item>
-      <title>lightpanda-io / browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <description>🆕 NEW ENTRY - Ranked #3
-
-Lightpanda: the headless browser designed for AI and automation
-
-Language: Zig
-1,175 stars today</description>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>public-apis / public-apis</title>
-      <link>https://github.com/public-apis/public-apis</link>
-      <description>🆕 NEW ENTRY - Ranked #5
-
-A collective list of free APIs
-
-Language: Python
-895 stars today</description>
-      <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>dolthub / dolt</title>
-      <link>https://github.com/dolthub/dolt</link>
-      <description>🆕 NEW ENTRY - Ranked #8
-
-Dolt – Git for Data
-
-Language: Go
-58 stars today</description>
-      <guid isPermaLink="true">https://github.com/dolthub/dolt</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 02:41:25 +0000</lastBuildDate>
     <item>
       <title>microsoft / BitNet</title>
       <link>https://github.com/microsoft/BitNet</link>
-      <description>⭐ Stars: 32,248 → 33,913 (+1665) | Ranked #1
+      <description>⭐ Stars: 33,913 → 34,049 (+136) | Ranked #1
 
 Official inference framework for 1-bit LLMs
 
 Language: Python
-2,223 stars today</description>
+2,227 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/BitNet</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>langflow-ai / openrag</title>
       <link>https://github.com/langflow-ai/openrag</link>
-      <description>📈 Rank: #3 → #2 (↑1) | ⭐ Stars: 1,492 → 2,225 (+733)
+      <description>⭐ Stars: 2,225 → 2,298 (+73) | Ranked #2
 
 OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 
 Language: Python
 905 stars today</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/openrag</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>lightpanda-io / browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <description>⭐ Stars: 15,343 → 15,571 (+228) | Ranked #3
+
+Lightpanda: the headless browser designed for AI and automation
+
+Language: Zig
+2,093 stars today</description>
+      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📈 Rank: #7 → #4 (↑3) | ⭐ Stars: 79,864 → 81,858 (+1994)
+      <description>⭐ Stars: 81,858 → 81,993 (+135) | Ranked #4
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
-2,096 stars today</description>
+2,106 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>public-apis / public-apis</title>
+      <link>https://github.com/public-apis/public-apis</link>
+      <description>⭐ Stars: 409,400 → 409,546 (+146) | Ranked #5
+
+A collective list of free APIs
+
+Language: Python
+892 stars today</description>
+      <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>promptfoo / promptfoo</title>
       <link>https://github.com/promptfoo/promptfoo</link>
-      <description>📉 Rank: #3 → #6 (↓3) | ⭐ Stars: 12,796 → 15,227 (+2431)
+      <description>⭐ Stars: 15,227 → 15,334 (+107) | Ranked #6
 
 Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 Language: TypeScript
-1,850 stars today</description>
+1,668 stars today</description>
       <guid isPermaLink="true">https://github.com/promptfoo/promptfoo</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>📈 Rank: #11 → #7 (↑4) | ⭐ Stars: 34,629 → 39,881 (+5252)
+      <description>⭐ Stars: 39,881 → 40,404 (+523) | Ranked #7
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
-5,758 stars today</description>
+5,745 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>dolthub / dolt</title>
+      <link>https://github.com/dolthub/dolt</link>
+      <description>⭐ Stars: 21,054 → 21,109 (+55) | Ranked #8
+
+Dolt – Git for Data
+
+Language: Go
+60 stars today</description>
+      <guid isPermaLink="true">https://github.com/dolthub/dolt</guid>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>google / A2UI</title>
       <link>https://github.com/google/A2UI</link>
-      <description>📈 Rank: #12 → #9 (↑3) | ⭐ Stars: 12,571 → 13,033 (+462)
+      <description>⭐ Stars: 13,033 → 13,074 (+41) | Ranked #9
 
 
 
 Language: TypeScript
-629 stars today</description>
+635 stars today</description>
       <guid isPermaLink="true">https://github.com/google/A2UI</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>fishaudio / fish-speech</title>
       <link>https://github.com/fishaudio/fish-speech</link>
-      <description>📉 Rank: #2 → #10 (↓8) | ⭐ Stars: 26,329 → 26,849 (+520)
+      <description>⭐ Stars: 26,849 → 26,894 (+45) | Ranked #10
 
 SOTA Open Source TTS
 
 Language: Python
-556 stars today</description>
+559 stars today</description>
       <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>alibaba / page-agent</title>
       <link>https://github.com/alibaba/page-agent</link>
-      <description>📉 Rank: #6 → #11 (↓5) | ⭐ Stars: 5,873 → 7,451 (+1578)
+      <description>⭐ Stars: 7,451 → 7,615 (+164) | Ranked #11
 
 JavaScript in-page GUI agent. Control web interfaces with natural language.
 
 Language: TypeScript
-1,467 stars today</description>
+1,468 stars today</description>
       <guid isPermaLink="true">https://github.com/alibaba/page-agent</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>anthropics / claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>📈 Rank: #13 → #12 (↑1) | ⭐ Stars: 10,225 → 10,763 (+538)
+      <description>⭐ Stars: 10,763 → 10,819 (+56) | Ranked #12
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 Language: Python
-651 stars today</description>
+654 stars today</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>AstrBotDevs / AstrBot</title>
       <link>https://github.com/AstrBotDevs/AstrBot</link>
-      <description>📉 Rank: #9 → #13 (↓4) | ⭐ Stars: 22,182 → 23,785 (+1603)
+      <description>⭐ Stars: 23,785 → 23,881 (+96) | Ranked #13
 
 Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 Language: Python
-952 stars today</description>
+1,128 stars today</description>
       <guid isPermaLink="true">https://github.com/AstrBotDevs/AstrBot</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>vectorize-io / hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
-      <description>📉 Rank: #5 → #14 (↓9) | ⭐ Stars: 3,052 → 3,604 (+552)
+      <description>⭐ Stars: 3,604 → 3,684 (+80) | Ranked #14
 
 Hindsight: Agent Memory That Learns
 
 Language: Python
-597 stars today</description>
+595 stars today</description>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>InsForge / InsForge</title>
       <link>https://github.com/InsForge/InsForge</link>
-      <description>📉 Rank: #4 → #15 (↓11) | ⭐ Stars: 3,071 → 3,624 (+553)
+      <description>⭐ Stars: 3,624 → 3,660 (+36) | Ranked #15
 
 Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 
 Language: TypeScript
-763 stars today</description>
+766 stars today</description>
       <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
     <item>
       <title>google-ai-edge / LiteRT</title>
       <link>https://github.com/google-ai-edge/LiteRT</link>
-      <description>📉 Rank: #10 → #16 (↓6) | ⭐ Stars: 1,654 → 1,854 (+200)
+      <description>⭐ Stars: 1,854 → 1,871 (+17) | Ranked #16
 
 LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 
 Language: C++
-208 stars today</description>
+211 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/LiteRT</guid>
-      <pubDate>Fri, 13 Mar 2026 23:35:48 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 02:41:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 23:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 02:41:24 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -71,6 +71,15 @@ Text-to-audio diffusion models produce high-fidelity audio but require tens of f
 Physics-based humanoid control has achieved remarkable progress in enabling realistic and high-performing single-agent behaviors, yet extending these capabilities to cooperative human-object interaction (HOI) remains challenging. We present TeamHOI, a framework that enables a single decentralized po...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07988</guid>
       <pubDate>Mon, 09 Mar 2026 05:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>WaDi: Weight Direction-aware Distillation for One-step Image Synthesis</title>
+      <link>https://huggingface.co/papers/2603.08258</link>
+      <description>By Lei Wang, Yang Cheng, Senmao Li, Ge Wu, Yaxing Wang, et al.
+
+Despite the impressive performance of diffusion models such as Stable Diffusion (SD) in image generation, their slow inference limits practical deployment. Recent works accelerate inference by distilling multi-step diffusion into one-step generators. To better understand the distillation mechanism, ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08258</guid>
+      <pubDate>Mon, 09 Mar 2026 11:27:28 +0000</pubDate>
     </item>
     <item>
       <title>Training Language Models via Neural Cellular Automata</title>
@@ -143,15 +152,6 @@ Computer-using agents (CUAs) are becoming increasingly capable; however, it rema
 Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace this brittleness to insufficient diversity in synthesized tasks. Scaling diversity is difficult because training requires tasks to...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11076</guid>
       <pubDate>Tue, 10 Mar 2026 20:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA</title>
-      <link>https://huggingface.co/papers/2603.10256</link>
-      <description>By Aviad Dahan, Moran Yanuka, Noa Kraicer, Lior Wolf, Raja Giryes
-
-Existing video personalization methods preserve visual likeness but treat video and audio separately. Without access to the visual scene, audio models cannot synchronize sounds with on-screen actions; and because classical voice-cloning models condition only on a reference recording, a text prompt c...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10256</guid>
-      <pubDate>Tue, 10 Mar 2026 22:23:36 +0000</pubDate>
     </item>
     <item>
       <title>Geometric Autoencoder for Diffusion Models</title>
