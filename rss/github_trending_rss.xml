@@ -8,138 +8,162 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 11:33:43 +0000</lastBuildDate>
     <item>
-      <title>volcengine / OpenViking</title>
-      <link>https://github.com/volcengine/OpenViking</link>
-      <description>⭐ Stars: 10,481 → 11,322 (+841) | Ranked #1
+      <title>Crosstalk-Solutions / project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <description>🆕 NEW ENTRY - Ranked #2
 
-OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-Language: Python
-1,610 stars today</description>
-      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+Language: TypeScript
+230 stars today</description>
+      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
-      <title>anthropics / claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>⭐ Stars: 11,264 → 11,551 (+287) | Ranked #2
+      <title>shareAI-lab / learn-claude-code</title>
+      <link>https://github.com/shareAI-lab/learn-claude-code</link>
+      <description>🆕 NEW ENTRY - Ranked #4
 
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
+Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
-Language: Python
-411 stars today</description>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+Language: TypeScript
+865 stars today</description>
+      <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
-      <title>dimensionalOS / dimos</title>
-      <link>https://github.com/dimensionalOS/dimos</link>
-      <description>⭐ Stars: 842 → 1,007 (+165) | Ranked #3
+      <title>shanraisshan / claude-code-best-practice</title>
+      <link>https://github.com/shanraisshan/claude-code-best-practice</link>
+      <description>🆕 NEW ENTRY - Ranked #5
 
-Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
+practice made claude perfect
 
-Language: Python
-72 stars today</description>
-      <guid isPermaLink="true">https://github.com/dimensionalOS/dimos</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+Language: HTML
+1,329 stars today</description>
+      <guid isPermaLink="true">https://github.com/shanraisshan/claude-code-best-practice</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
-      <title>p-e-w / heretic</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>⭐ Stars: 13,701 → 14,188 (+487) | Ranked #4
+      <title>666ghj / MiroFish</title>
+      <link>https://github.com/666ghj/MiroFish</link>
+      <description>🆕 NEW ENTRY - Ranked #8
 
-Fully automatic censorship removal for language models
+A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
-694 stars today</description>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+2,045 stars today</description>
+      <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
-      <title>langflow-ai / openrag</title>
-      <link>https://github.com/langflow-ai/openrag</link>
-      <description>⭐ Stars: 2,694 → 2,872 (+178) | Ranked #5
+      <title>abhigyanpatwari / GitNexus</title>
+      <link>https://github.com/abhigyanpatwari/GitNexus</link>
+      <description>🆕 NEW ENTRY - Ranked #9
 
-OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+
+Language: TypeScript
+450 stars today</description>
+      <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>topoteretes / cognee</title>
+      <link>https://github.com/topoteretes/cognee</link>
+      <description>🆕 NEW ENTRY - Ranked #10
+
+Knowledge Engine for AI Agent Memory in 6 lines of code
 
 Language: Python
-564 stars today</description>
-      <guid isPermaLink="true">https://github.com/langflow-ai/openrag</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+168 stars today</description>
+      <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>voidzero-dev / vite-plus</title>
+      <link>https://github.com/voidzero-dev/vite-plus</link>
+      <description>🆕 NEW ENTRY - Ranked #12
+
+Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+
+Language: Rust
+301 stars today</description>
+      <guid isPermaLink="true">https://github.com/voidzero-dev/vite-plus</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
       <title>lightpanda-io / browser</title>
       <link>https://github.com/lightpanda-io/browser</link>
-      <description>⭐ Stars: 17,042 → 17,557 (+515) | Ranked #6
+      <description>📈 Rank: #6 → #1 (↑5) | ⭐ Stars: 17,042 → 17,594 (+552)
 
 Lightpanda: the headless browser designed for AI and automation
 
 Language: Zig
 2,069 stars today</description>
       <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
-      <title>pbakaus / impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>⭐ Stars: 8,131 → 8,400 (+269) | Ranked #7
+      <title>volcengine / OpenViking</title>
+      <link>https://github.com/volcengine/OpenViking</link>
+      <description>📉 Rank: #1 → #3 (↓2) | ⭐ Stars: 10,481 → 11,382 (+901)
 
-The design language that makes your AI harness better at design.
-
-Language: JavaScript
-781 stars today</description>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>msitarzewski / agency-agents</title>
-      <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 43,611 → 44,979 (+1368)
-
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-Language: Shell
-4,280 stars today</description>
-      <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>fishaudio / fish-speech</title>
-      <link>https://github.com/fishaudio/fish-speech</link>
-      <description>📉 Rank: #8 → #9 (↓1) | ⭐ Stars: 27,204 → 27,385 (+181)
-
-SOTA Open Source TTS
+OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 Language: Python
-381 stars today</description>
-      <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>InsForge / InsForge</title>
-      <link>https://github.com/InsForge/InsForge</link>
-      <description>📉 Rank: #9 → #10 (↓1) | ⭐ Stars: 4,139 → 4,359 (+220)
-
-Give agents everything they need to ship fullstack apps. The backend built for agentic development.
-
-Language: TypeScript
-482 stars today</description>
-      <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+1,610 stars today</description>
+      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📉 Rank: #10 → #11 (↓1) | ⭐ Stars: 83,374 → 84,213 (+839)
+      <description>📈 Rank: #10 → #6 (↑4) | ⭐ Stars: 83,374 → 84,323 (+949)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 1,439 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 15 Mar 2026 10:39:18 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>p-e-w / heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 13,701 → 14,220 (+519)
+
+Fully automatic censorship removal for language models
+
+Language: Python
+694 stars today</description>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>InsForge / InsForge</title>
+      <link>https://github.com/InsForge/InsForge</link>
+      <description>📉 Rank: #9 → #11 (↓2) | ⭐ Stars: 4,139 → 4,366 (+227)
+
+Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+
+Language: TypeScript
+482 stars today</description>
+      <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>anthropics / claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <description>📉 Rank: #2 → #13 (↓11) | ⭐ Stars: 11,264 → 11,573 (+309)
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+Language: Python
+411 stars today</description>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Sun, 15 Mar 2026 11:33:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
