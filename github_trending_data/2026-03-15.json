@@ -4,26 +4,26 @@
     "repo_name": "volcengine / OpenViking",
     "repo_url": "https://github.com/volcengine/OpenViking",
     "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-    "stars": 11814,
-    "stars_text": "11,814",
-    "forks": 816,
+    "stars": 11870,
+    "stars_text": "11,870",
+    "forks": 818,
     "language": "Python",
     "today_stars": "1,877 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-15T16:41:35.737786+00:00"
+    "fetched_at": "2026-03-15T17:35:44.977158+00:00"
   },
   "anthropics/claude-plugins-official": {
     "repo_path": "anthropics/claude-plugins-official",
     "repo_name": "anthropics / claude-plugins-official",
     "repo_url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "stars": 11706,
-    "stars_text": "11,706",
-    "forks": 1139,
+    "stars": 11728,
+    "stars_text": "11,728",
+    "forks": 1140,
     "language": "Python",
     "today_stars": "608 stars today",
     "rank": 13,
-    "fetched_at": "2026-03-15T16:41:35.743163+00:00"
+    "fetched_at": "2026-03-15T17:35:44.982529+00:00"
   },
   "dimensionalOS/dimos": {
     "repo_path": "dimensionalOS/dimos",
@@ -43,13 +43,13 @@
     "repo_name": "p-e-w / heretic",
     "repo_url": "https://github.com/p-e-w/heretic",
     "description": "Fully automatic censorship removal for language models",
-    "stars": 14443,
-    "stars_text": "14,443",
-    "forks": 1473,
+    "stars": 14469,
+    "stars_text": "14,469",
+    "forks": 1478,
     "language": "Python",
     "today_stars": "1,066 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-15T16:41:35.739884+00:00"
+    "fetched_at": "2026-03-15T17:35:44.979251+00:00"
   },
   "langflow-ai/openrag": {
     "repo_path": "langflow-ai/openrag",
@@ -69,13 +69,13 @@
     "repo_name": "lightpanda-io / browser",
     "repo_url": "https://github.com/lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
-    "stars": 17982,
-    "stars_text": "17,982",
+    "stars": 18050,
+    "stars_text": "18,050",
     "forks": 671,
     "language": "Zig",
     "today_stars": "1,323 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-15T16:41:35.736717+00:00"
+    "fetched_at": "2026-03-15T17:35:44.976054+00:00"
   },
   "msitarzewski/agency-agents": {
     "repo_path": "msitarzewski/agency-agents",
@@ -108,26 +108,26 @@
     "repo_name": "InsForge / InsForge",
     "repo_url": "https://github.com/InsForge/InsForge",
     "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-    "stars": 4474,
-    "stars_text": "4,474",
-    "forks": 450,
+    "stars": 4489,
+    "stars_text": "4,489",
+    "forks": 452,
     "language": "TypeScript",
     "today_stars": "509 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-15T16:41:35.742183+00:00"
+    "fetched_at": "2026-03-15T17:35:44.981555+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 85149,
-    "stars_text": "85,149",
-    "forks": 6683,
+    "stars": 85254,
+    "stars_text": "85,254",
+    "forks": 6695,
     "language": "Shell",
     "today_stars": "1,893 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-15T16:41:35.739392+00:00"
+    "fetched_at": "2026-03-15T17:35:44.978753+00:00"
   },
   "pbakaus/impeccable": {
     "repo_path": "pbakaus/impeccable",
@@ -147,90 +147,90 @@
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 850,
-    "stars_text": "850",
-    "forks": 96,
+    "stars": 873,
+    "stars_text": "873",
+    "forks": 98,
     "language": "TypeScript",
     "today_stars": "241 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-15T16:41:35.737291+00:00"
+    "fetched_at": "2026-03-15T17:35:44.976637+00:00"
   },
   "shareAI-lab/learn-claude-code": {
     "repo_path": "shareAI-lab/learn-claude-code",
     "repo_name": "shareAI-lab / learn-claude-code",
     "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano Claude Code\u2013like agent, built from 0 to 1",
-    "stars": 27687,
-    "stars_text": "27,687",
-    "forks": 4861,
+    "stars": 27721,
+    "stars_text": "27,721",
+    "forks": 4862,
     "language": "TypeScript",
     "today_stars": "865 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-15T16:41:35.738292+00:00"
+    "fetched_at": "2026-03-15T17:35:44.977649+00:00"
   },
   "shanraisshan/claude-code-best-practice": {
     "repo_path": "shanraisshan/claude-code-best-practice",
     "repo_name": "shanraisshan / claude-code-best-practice",
     "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
     "description": "practice made claude perfect",
-    "stars": 16673,
-    "stars_text": "16,673",
-    "forks": 1489,
+    "stars": 16712,
+    "stars_text": "16,712",
+    "forks": 1490,
     "language": "HTML",
     "today_stars": "852 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-15T16:41:35.738776+00:00"
+    "fetched_at": "2026-03-15T17:35:44.978155+00:00"
   },
   "666ghj/MiroFish": {
     "repo_path": "666ghj/MiroFish",
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 26244,
-    "stars_text": "26,244",
-    "forks": 3119,
+    "stars": 26364,
+    "stars_text": "26,364",
+    "forks": 3140,
     "language": "Python",
     "today_stars": "2,985 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-15T16:41:35.740351+00:00"
+    "fetched_at": "2026-03-15T17:35:44.979718+00:00"
   },
   "abhigyanpatwari/GitNexus": {
     "repo_path": "abhigyanpatwari/GitNexus",
     "repo_name": "abhigyanpatwari / GitNexus",
     "repo_url": "https://github.com/abhigyanpatwari/GitNexus",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "stars": 13615,
-    "stars_text": "13,615",
-    "forks": 1600,
+    "stars": 13719,
+    "stars_text": "13,719",
+    "forks": 1609,
     "language": "TypeScript",
     "today_stars": "450 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-15T16:41:35.740962+00:00"
+    "fetched_at": "2026-03-15T17:35:44.980337+00:00"
   },
   "topoteretes/cognee": {
     "repo_path": "topoteretes/cognee",
     "repo_name": "topoteretes / cognee",
     "repo_url": "https://github.com/topoteretes/cognee",
     "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-    "stars": 13755,
-    "stars_text": "13,755",
+    "stars": 13776,
+    "stars_text": "13,776",
     "forks": 1379,
     "language": "Python",
     "today_stars": "310 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-15T16:41:35.741570+00:00"
+    "fetched_at": "2026-03-15T17:35:44.980958+00:00"
   },
   "voidzero-dev/vite-plus": {
     "repo_path": "voidzero-dev/vite-plus",
     "repo_name": "voidzero-dev / vite-plus",
     "repo_url": "https://github.com/voidzero-dev/vite-plus",
     "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
-    "stars": 1534,
-    "stars_text": "1,534",
+    "stars": 1553,
+    "stars_text": "1,553",
     "forks": 51,
     "language": "Rust",
     "today_stars": "301 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-15T16:41:35.742661+00:00"
+    "fetched_at": "2026-03-15T17:35:44.982048+00:00"
   }
 }

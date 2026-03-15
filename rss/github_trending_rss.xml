@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 16:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:35:44 +0000</lastBuildDate>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
@@ -19,7 +19,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 Language: TypeScript
 241 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>shareAI-lab / learn-claude-code</title>
@@ -31,7 +31,7 @@ Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 Language: TypeScript
 865 stars today</description>
       <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>shanraisshan / claude-code-best-practice</title>
@@ -43,7 +43,7 @@ practice made claude perfect
 Language: HTML
 852 stars today</description>
       <guid isPermaLink="true">https://github.com/shanraisshan/claude-code-best-practice</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
@@ -55,7 +55,7 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 Language: Python
 2,985 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>abhigyanpatwari / GitNexus</title>
@@ -67,7 +67,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 Language: TypeScript
 450 stars today</description>
       <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>topoteretes / cognee</title>
@@ -79,7 +79,7 @@ Knowledge Engine for AI Agent Memory in 6 lines of code
 Language: Python
 310 stars today</description>
       <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>voidzero-dev / vite-plus</title>
@@ -91,79 +91,79 @@ Vite+ is the unified toolchain and entry point for web development. It manages y
 Language: Rust
 301 stars today</description>
       <guid isPermaLink="true">https://github.com/voidzero-dev/vite-plus</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>lightpanda-io / browser</title>
       <link>https://github.com/lightpanda-io/browser</link>
-      <description>📈 Rank: #6 → #1 (↑5) | ⭐ Stars: 17,042 → 17,982 (+940)
+      <description>📈 Rank: #6 → #1 (↑5) | ⭐ Stars: 17,042 → 18,050 (+1008)
 
 Lightpanda: the headless browser designed for AI and automation
 
 Language: Zig
 1,323 stars today</description>
       <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>volcengine / OpenViking</title>
       <link>https://github.com/volcengine/OpenViking</link>
-      <description>📉 Rank: #1 → #3 (↓2) | ⭐ Stars: 10,481 → 11,814 (+1333)
+      <description>📉 Rank: #1 → #3 (↓2) | ⭐ Stars: 10,481 → 11,870 (+1389)
 
 OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 Language: Python
 1,877 stars today</description>
       <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📈 Rank: #10 → #6 (↑4) | ⭐ Stars: 83,374 → 85,149 (+1775)
+      <description>📈 Rank: #10 → #6 (↑4) | ⭐ Stars: 83,374 → 85,254 (+1880)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 1,893 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>p-e-w / heretic</title>
       <link>https://github.com/p-e-w/heretic</link>
-      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 13,701 → 14,443 (+742)
+      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 13,701 → 14,469 (+768)
 
 Fully automatic censorship removal for language models
 
 Language: Python
 1,066 stars today</description>
       <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>InsForge / InsForge</title>
       <link>https://github.com/InsForge/InsForge</link>
-      <description>📉 Rank: #9 → #11 (↓2) | ⭐ Stars: 4,139 → 4,474 (+335)
+      <description>📉 Rank: #9 → #11 (↓2) | ⭐ Stars: 4,139 → 4,489 (+350)
 
 Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 
 Language: TypeScript
 509 stars today</description>
       <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
       <title>anthropics / claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>📉 Rank: #2 → #13 (↓11) | ⭐ Stars: 11,264 → 11,706 (+442)
+      <description>📉 Rank: #2 → #13 (↓11) | ⭐ Stars: 11,264 → 11,728 (+464)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 Language: Python
 608 stars today</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Sun, 15 Mar 2026 16:41:35 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 17:35:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
