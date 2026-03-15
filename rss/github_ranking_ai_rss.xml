@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 20:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 21:34:59 +0000</lastBuildDate>
     <item>
       <title>[Mistral] ipex-llm</title>
       <link>https://github.com/intel/ipex-llm</link>
@@ -21,7 +21,7 @@ Language: Python
 Category: Mistral
 Stars: 8,729 | Forks: 1,407</description>
       <guid isPermaLink="true">https://github.com/intel/ipex-llm</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] inference</title>
@@ -35,7 +35,7 @@ Language: Python
 Category: Mistral
 Stars: 9,131 | Forks: 805</description>
       <guid isPermaLink="true">https://github.com/xorbitsai/inference</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] mistral-inference</title>
@@ -49,7 +49,7 @@ Language: Jupyter Notebook
 Category: Mistral
 Stars: 10,708 | Forks: 1,026</description>
       <guid isPermaLink="true">https://github.com/mistralai/mistral-inference</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] ludwig</title>
@@ -63,7 +63,7 @@ Language: Python
 Category: Mistral
 Stars: 11,656 | Forks: 1,212</description>
       <guid isPermaLink="true">https://github.com/ludwig-ai/ludwig</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] OpenLLM</title>
@@ -77,7 +77,7 @@ Language: Python
 Category: Mistral
 Stars: 12,165 | Forks: 803</description>
       <guid isPermaLink="true">https://github.com/bentoml/OpenLLM</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] khoj</title>
@@ -91,7 +91,7 @@ Language: Python
 Category: Mistral
 Stars: 33,398 | Forks: 2,062</description>
       <guid isPermaLink="true">https://github.com/khoj-ai/khoj</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] LibreChat</title>
@@ -105,7 +105,7 @@ Language: TypeScript
 Category: Mistral
 Stars: 34,647 | Forks: 7,007</description>
       <guid isPermaLink="true">https://github.com/danny-avila/LibreChat</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral] awesome-LLM-resources</title>
@@ -117,7 +117,7 @@ Stars: 34,647 | Forks: 7,007</description>
 Category: Mistral
 Stars: 7,709 | Forks: 749</description>
       <guid isPermaLink="true">https://github.com/WangRongsheng/awesome-LLM-resources</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -131,7 +131,7 @@ Language: JavaScript
 Category: Claude
 Stars: 76,105 | Forks: 9,507</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -145,7 +145,7 @@ Language: TypeScript
 Category: AI
 Stars: 313,424 | Forks: 59,793</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sun, 15 Mar 2026 20:38:45 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 21:34:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
