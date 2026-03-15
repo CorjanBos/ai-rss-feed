@@ -8,126 +8,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 05:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:08:51 +0000</lastBuildDate>
     <item>
       <title>volcengine / OpenViking</title>
       <link>https://github.com/volcengine/OpenViking</link>
-      <description>⭐ Stars: 10,481 → 10,914 (+433) | Ranked #1
+      <description>⭐ Stars: 10,481 → 11,041 (+560) | Ranked #1
 
 OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 Language: Python
 1,610 stars today</description>
       <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>anthropics / claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>⭐ Stars: 11,264 → 11,437 (+173) | Ranked #2
+      <description>⭐ Stars: 11,264 → 11,470 (+206) | Ranked #2
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 Language: Python
 411 stars today</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>dimensionalOS / dimos</title>
       <link>https://github.com/dimensionalOS/dimos</link>
-      <description>⭐ Stars: 842 → 927 (+85) | Ranked #3
+      <description>⭐ Stars: 842 → 946 (+104) | Ranked #3
 
 The Dimensional Framework
 
 Language: Python
 72 stars today</description>
       <guid isPermaLink="true">https://github.com/dimensionalOS/dimos</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>p-e-w / heretic</title>
       <link>https://github.com/p-e-w/heretic</link>
-      <description>⭐ Stars: 13,701 → 13,972 (+271) | Ranked #4
+      <description>⭐ Stars: 13,701 → 14,026 (+325) | Ranked #4
 
 Fully automatic censorship removal for language models
 
 Language: Python
 694 stars today</description>
       <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>langflow-ai / openrag</title>
       <link>https://github.com/langflow-ai/openrag</link>
-      <description>⭐ Stars: 2,694 → 2,797 (+103) | Ranked #5
+      <description>⭐ Stars: 2,694 → 2,819 (+125) | Ranked #5
 
 OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 
 Language: Python
 564 stars today</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/openrag</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>lightpanda-io / browser</title>
       <link>https://github.com/lightpanda-io/browser</link>
-      <description>⭐ Stars: 17,042 → 17,339 (+297) | Ranked #6
+      <description>⭐ Stars: 17,042 → 17,411 (+369) | Ranked #6
 
 Lightpanda: the headless browser designed for AI and automation
 
 Language: Zig
 2,069 stars today</description>
       <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>msitarzewski / agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
-      <description>⭐ Stars: 43,611 → 44,309 (+698) | Ranked #7
+      <description>⭐ Stars: 43,611 → 44,504 (+893) | Ranked #7
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 Language: Shell
 4,280 stars today</description>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>fishaudio / fish-speech</title>
       <link>https://github.com/fishaudio/fish-speech</link>
-      <description>⭐ Stars: 27,204 → 27,305 (+101) | Ranked #8
+      <description>⭐ Stars: 27,204 → 27,326 (+122) | Ranked #8
 
 SOTA Open Source TTS
 
 Language: Python
 381 stars today</description>
       <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>InsForge / InsForge</title>
       <link>https://github.com/InsForge/InsForge</link>
-      <description>⭐ Stars: 4,139 → 4,272 (+133) | Ranked #9
+      <description>⭐ Stars: 4,139 → 4,300 (+161) | Ranked #9
 
 Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 
 Language: TypeScript
 482 stars today</description>
       <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 83,374 → 83,854 (+480) | Ranked #10
+      <description>⭐ Stars: 83,374 → 83,935 (+561) | Ranked #10
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 1,439 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 15 Mar 2026 05:39:38 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 07:08:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
