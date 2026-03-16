@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 15:09:36 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -134,15 +134,6 @@ A key component of creativity is associative reasoning: the ability to draw nove
 4D reconstruction of equine family (e.g. horses) from monocular video is important for animal welfare. Previous mainstream 4D animal reconstruction methods require joint optimization of motion and appearance over a whole video, which is time-consuming and sensitive to incomplete observation. In this...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10125</guid>
       <pubDate>Tue, 10 Mar 2026 18:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use</title>
-      <link>https://huggingface.co/papers/2603.11076</link>
-      <description>By Aili Chen, Chi Zhang, Junteng Liu, Jiangjie Chen, Chengyu Du, et al.
-
-Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace this brittleness to insufficient diversity in synthesized tasks. Scaling diversity is difficult because training requires tasks to...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.11076</guid>
-      <pubDate>Tue, 10 Mar 2026 20:54:23 +0000</pubDate>
     </item>
     <item>
       <title>FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System</title>
@@ -341,6 +332,15 @@ Multimodal Large Language Models (MLLMs) are increasingly used to carry out visu
 Despite rapid advancements in video generation models, aligning their outputs with complex user intent remains challenging. Existing test-time optimization methods are typically either computationally expensive or require white-box access to model internals. To address this, we present VQQA (Video Q...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12310</guid>
       <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering</title>
+      <link>https://huggingface.co/papers/2603.12533</link>
+      <description>By Yura Choi, Roy Miles, Rolandos Alexandros Potamias, Ismail Elezi, Jiankang Deng, et al.
+
+Understanding and answering questions based on a user's pointing gesture is essential for next-generation egocentric AI assistants. However, current Multimodal Large Language Models (MLLMs) struggle with such tasks due to the lack of gesture-rich data and their limited ability to infer fine-grained ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12533</guid>
+      <pubDate>Fri, 13 Mar 2026 00:23:38 +0000</pubDate>
     </item>
     <item>
       <title>LMEB: Long-horizon Memory Embedding Benchmark</title>
