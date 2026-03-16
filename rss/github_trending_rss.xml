@@ -8,150 +8,150 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 09:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 11:02:49 +0000</lastBuildDate>
     <item>
-      <title>lightpanda-io / browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <description>⭐ Stars: 18,450 → 19,483 (+1033) | Ranked #1
+      <title>thedotmack / claude-mem</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <description>🆕 NEW ENTRY - Ranked #2
 
-Lightpanda: the headless browser designed for AI and automation
-
-Language: Zig
-1,335 stars today</description>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crosstalk-Solutions / project-nomad</title>
-      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>⭐ Stars: 1,057 → 1,374 (+317) | Ranked #2
-
-Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 Language: TypeScript
-205 stars today</description>
-      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+1,017 stars today</description>
+      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
-      <title>volcengine / OpenViking</title>
-      <link>https://github.com/volcengine/OpenViking</link>
-      <description>⭐ Stars: 12,276 → 13,208 (+932) | Ranked #3
+      <title>langchain-ai / deepagents</title>
+      <link>https://github.com/langchain-ai/deepagents</link>
+      <description>🆕 NEW ENTRY - Ranked #10
 
-OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
 Language: Python
-1,870 stars today</description>
-      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+444 stars today</description>
+      <guid isPermaLink="true">https://github.com/langchain-ai/deepagents</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
-      <title>shareAI-lab / learn-claude-code</title>
-      <link>https://github.com/shareAI-lab/learn-claude-code</link>
-      <description>⭐ Stars: 27,843 → 28,759 (+916) | Ranked #4
+      <title>YishenTu / claudian</title>
+      <link>https://github.com/YishenTu/claudian</link>
+      <description>🆕 NEW ENTRY - Ranked #11
 
-Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
 Language: TypeScript
-872 stars today</description>
-      <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>obra / superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>📈 Rank: #6 → #5 (↑1) | ⭐ Stars: 85,703 → 87,115 (+1412)
-
-An agentic skills framework &amp; software development methodology that works.
-
-Language: Shell
-1,867 stars today</description>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>p-e-w / heretic</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>📈 Rank: #7 → #6 (↑1) | ⭐ Stars: 14,657 → 14,939 (+282)
-
-Fully automatic censorship removal for language models
-
-Language: Python
-1,062 stars today</description>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+109 stars today</description>
+      <guid isPermaLink="true">https://github.com/YishenTu/claudian</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
       <title>666ghj / MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
-      <description>📈 Rank: #8 → #7 (↑1) | ⭐ Stars: 27,041 → 28,389 (+1348)
+      <description>📈 Rank: #8 → #1 (↑7) | ⭐ Stars: 27,041 → 28,631 (+1590)
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 Language: Python
 2,782 stars today</description>
       <guid isPermaLink="true">https://github.com/666ghj/MiroFish</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crosstalk-Solutions / project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 1,057 → 1,432 (+375)
+
+Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+
+Language: TypeScript
+205 stars today</description>
+      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>obra / superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>📈 Rank: #6 → #4 (↑2) | ⭐ Stars: 85,703 → 87,340 (+1637)
+
+An agentic skills framework &amp; software development methodology that works.
+
+Language: Shell
+1,867 stars today</description>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
       <title>abhigyanpatwari / GitNexus</title>
       <link>https://github.com/abhigyanpatwari/GitNexus</link>
-      <description>📈 Rank: #9 → #8 (↑1) | ⭐ Stars: 14,192 → 14,887 (+695)
+      <description>📈 Rank: #9 → #5 (↑4) | ⭐ Stars: 14,192 → 14,992 (+800)
 
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 Language: TypeScript
 451 stars today</description>
       <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
-      <title>topoteretes / cognee</title>
-      <link>https://github.com/topoteretes/cognee</link>
-      <description>📈 Rank: #10 → #9 (↑1) | ⭐ Stars: 13,876 → 14,093 (+217)
+      <title>lightpanda-io / browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <description>📉 Rank: #1 → #6 (↓5) | ⭐ Stars: 18,450 → 19,639 (+1189)
 
-Knowledge Engine for AI Agent Memory in 6 lines of code
+Lightpanda: the headless browser designed for AI and automation
+
+Language: Zig
+1,335 stars today</description>
+      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>volcengine / OpenViking</title>
+      <link>https://github.com/volcengine/OpenViking</link>
+      <description>📉 Rank: #3 → #7 (↓4) | ⭐ Stars: 12,276 → 13,356 (+1080)
+
+OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 Language: Python
-270 stars today</description>
-      <guid isPermaLink="true">https://github.com/topoteretes/cognee</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+1,870 stars today</description>
+      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
-      <title>InsForge / InsForge</title>
-      <link>https://github.com/InsForge/InsForge</link>
-      <description>📈 Rank: #11 → #10 (↑1) | ⭐ Stars: 4,563 → 4,707 (+144)
+      <title>shareAI-lab / learn-claude-code</title>
+      <link>https://github.com/shareAI-lab/learn-claude-code</link>
+      <description>📉 Rank: #4 → #8 (↓4) | ⭐ Stars: 27,843 → 28,875 (+1032)
 
-Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
 Language: TypeScript
-515 stars today</description>
-      <guid isPermaLink="true">https://github.com/InsForge/InsForge</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+872 stars today</description>
+      <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>p-e-w / heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>📉 Rank: #7 → #9 (↓2) | ⭐ Stars: 14,657 → 14,988 (+331)
+
+Fully automatic censorship removal for language models
+
+Language: Python
+1,062 stars today</description>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
     <item>
       <title>voidzero-dev / vite-plus</title>
       <link>https://github.com/voidzero-dev/vite-plus</link>
-      <description>📈 Rank: #12 → #11 (↑1) | ⭐ Stars: 1,665 → 1,958 (+293)
+      <description>⭐ Stars: 1,665 → 1,998 (+333) | Ranked #12
 
 Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 
 Language: Rust
 300 stars today</description>
       <guid isPermaLink="true">https://github.com/voidzero-dev/vite-plus</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>anthropics / claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <description>📈 Rank: #13 → #12 (↑1) | ⭐ Stars: 11,889 → 12,204 (+315)
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-Language: Python
-604 stars today</description>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Mon, 16 Mar 2026 09:07:27 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 11:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
