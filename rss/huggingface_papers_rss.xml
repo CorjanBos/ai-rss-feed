@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 15:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 17:11:48 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -136,15 +136,6 @@ A key component of creativity is associative reasoning: the ability to draw nove
       <pubDate>Tue, 10 Mar 2026 18:01:10 +0000</pubDate>
     </item>
     <item>
-      <title>FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System</title>
-      <link>https://huggingface.co/papers/2603.10420</link>
-      <description>By Kaituo Xu, Yan Jia, Kai Huang, Junjie Chen, Wenpeng Li, et al.
-
-We present FireRedASR2S, a state-of-the-art industrial-grade all-in-one automatic speech recognition (ASR) system. It integrates four modules in a unified pipeline: ASR, Voice Activity Detection (VAD), Spoken Language Identification (LID), and Punctuation Prediction (Punc). All modules achieve SOTA ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10420</guid>
-      <pubDate>Wed, 11 Mar 2026 05:11:06 +0000</pubDate>
-    </item>
-    <item>
       <title>The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training</title>
       <link>https://huggingface.co/papers/2603.10444</link>
       <description>By Hengjie Cao, Zhendong Huang, Mengyi Chen, Yifeng Yang, Fanqi Yu, et al.
@@ -233,6 +224,15 @@ Recent joint audio-visual diffusion models achieve remarkable generation quality
 Continual Reinforcement Learning (CRL) for Vision-Language-Action (VLA) models is a promising direction toward self-improving embodied agents that can adapt in openended, evolving environments. However, conventional wisdom from continual learning suggests that naive Sequential Fine-Tuning (Seq. FT) ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11653</guid>
       <pubDate>Thu, 12 Mar 2026 08:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compression Favors Consistency, Not Truth: When and Why Language Models Prefer Correct Information</title>
+      <link>https://huggingface.co/papers/2603.11749</link>
+      <description>By Konstantin Krestnikov
+
+Why do language models sometimes prefer correct statements even when trained on mixed-quality data? We introduce the Compression--Consistency Principle: next-token prediction favors hypotheses that allow shorter and more internally consistent descriptions of the training data. Truth bias emerges onl...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11749</guid>
+      <pubDate>Thu, 12 Mar 2026 09:52:38 +0000</pubDate>
     </item>
     <item>
       <title>CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges</title>
