@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 05:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:42:11 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -71,15 +71,6 @@ Diffusion models have demonstrated a remarkable ability in Text-to-Image (T2I) g
 Text-to-audio diffusion models produce high-fidelity audio but require tens of function evaluations (NFEs), incurring multi-second latency and limited throughput. We present SoundWeaver, the first training-free, model-agnostic serving system that accelerates text-to-audio diffusion by warm-starting ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.07865</guid>
       <pubDate>Mon, 09 Mar 2026 00:38:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size</title>
-      <link>https://huggingface.co/papers/2603.07988</link>
-      <description>By Stefan Lionar, Gim Hee Lee
-
-Physics-based humanoid control has achieved remarkable progress in enabling realistic and high-performing single-agent behaviors, yet extending these capabilities to cooperative human-object interaction (HOI) remains challenging. We present TeamHOI, a framework that enables a single decentralized po...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.07988</guid>
-      <pubDate>Mon, 09 Mar 2026 05:52:13 +0000</pubDate>
     </item>
     <item>
       <title>WaDi: Weight Direction-aware Distillation for One-step Image Synthesis</title>
@@ -172,15 +163,6 @@ Generative models are widely employed to enhance the photorealism of synthetic d
       <pubDate>Wed, 11 Mar 2026 10:05:32 +0000</pubDate>
     </item>
     <item>
-      <title>Are Video Reasoning Models Ready to Go Outside?</title>
-      <link>https://huggingface.co/papers/2603.10652</link>
-      <description>By Yangfan He, Changgyu Boo, Jaehong Yoon
-
-In real-world deployment, vision-language models often encounter disturbances such as weather, occlusion, and camera motion. Under such conditions, their understanding and reasoning degrade substantially, revealing a gap between clean, controlled (i.e., unperturbed) evaluation settings and real-worl...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10652</guid>
-      <pubDate>Wed, 11 Mar 2026 11:10:52 +0000</pubDate>
-    </item>
-    <item>
       <title>LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation</title>
       <link>https://huggingface.co/papers/2603.10899</link>
       <description>By Jinwoo Ahn, Ingyu Seong, Akhil Kedia, Junhan Kim, Hyemi Jang, et al.
@@ -251,6 +233,15 @@ Recent joint audio-visual diffusion models achieve remarkable generation quality
 Continual Reinforcement Learning (CRL) for Vision-Language-Action (VLA) models is a promising direction toward self-improving embodied agents that can adapt in openended, evolving environments. However, conventional wisdom from continual learning suggests that naive Sequential Fine-Tuning (Seq. FT) ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.11653</guid>
       <pubDate>Thu, 12 Mar 2026 08:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios</title>
+      <link>https://huggingface.co/papers/2603.11975</link>
+      <description>By Jiayue Pu, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
+
+The rapid evolution of embodied agents has accelerated the deployment of household robots in real-world environments. However, unlike structured industrial settings, household spaces introduce unpredictable safety risks, where system limitations such as perception latency and lack of common sense kn...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.11975</guid>
+      <pubDate>Thu, 12 Mar 2026 14:25:44 +0000</pubDate>
     </item>
     <item>
       <title>Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition</title>
@@ -413,6 +404,15 @@ Group Relative Policy Optimization (GRPO) has emerged as a powerful framework fo
 A recent cutting-edge topic in multimodal modeling is to unify visual comprehension and generation within a single model. However, the two tasks demand mismatched decoding regimes and visual representations, making it non-trivial to jointly optimize within a shared feature space. In this work, we pr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12793</guid>
       <pubDate>Fri, 13 Mar 2026 08:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval</title>
+      <link>https://huggingface.co/papers/2603.12824</link>
+      <description>By Zhuchenyang Liu, Yao Zhang, Yu Xiao
+
+Vision-Language Model (VLM) based retrievers have advanced visual document retrieval (VDR) to impressive quality. They require the same multi-billion parameter encoder for both document indexing and query encoding, incurring high latency and GPU dependence even for plain-text queries. We observe tha...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12824</guid>
+      <pubDate>Fri, 13 Mar 2026 09:24:23 +0000</pubDate>
     </item>
     <item>
       <title>daVinci-Env: Open SWE Environment Synthesis at Scale</title>
