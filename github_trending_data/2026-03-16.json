@@ -4,52 +4,52 @@
     "repo_name": "lightpanda-io / browser",
     "repo_url": "https://github.com/lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
-    "stars": 20047,
-    "stars_text": "20,047",
-    "forks": 763,
+    "stars": 20101,
+    "stars_text": "20,101",
+    "forks": 767,
     "language": "Zig",
     "today_stars": "2,089 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-16T19:15:00.432210+00:00"
+    "fetched_at": "2026-03-16T20:49:17.565762+00:00"
   },
   "Crosstalk-Solutions/project-nomad": {
     "repo_path": "Crosstalk-Solutions/project-nomad",
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 1676,
-    "stars_text": "1,676",
-    "forks": 156,
+    "stars": 1716,
+    "stars_text": "1,716",
+    "forks": 160,
     "language": "TypeScript",
     "today_stars": "773 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-16T19:15:00.430414+00:00"
+    "fetched_at": "2026-03-16T20:49:17.563845+00:00"
   },
   "volcengine/OpenViking": {
     "repo_path": "volcengine/OpenViking",
     "repo_name": "volcengine / OpenViking",
     "repo_url": "https://github.com/volcengine/OpenViking",
     "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-    "stars": 13911,
-    "stars_text": "13,911",
-    "forks": 954,
+    "stars": 13977,
+    "stars_text": "13,977",
+    "forks": 958,
     "language": "Python",
     "today_stars": "2,014 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-16T19:15:00.432686+00:00"
+    "fetched_at": "2026-03-16T20:49:17.566268+00:00"
   },
   "shareAI-lab/learn-claude-code": {
     "repo_path": "shareAI-lab/learn-claude-code",
     "repo_name": "shareAI-lab / learn-claude-code",
     "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano Claude Code\u2013like agent, built from 0 to 1",
-    "stars": 29197,
-    "stars_text": "29,197",
-    "forks": 4995,
+    "stars": 29220,
+    "stars_text": "29,220",
+    "forks": 4994,
     "language": "TypeScript",
     "today_stars": "1,542 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-16T19:15:00.433180+00:00"
+    "fetched_at": "2026-03-16T20:49:17.566786+00:00"
   },
   "shanraisshan/claude-code-best-practice": {
     "repo_path": "shanraisshan/claude-code-best-practice",
@@ -69,52 +69,52 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 88225,
-    "stars_text": "88,225",
-    "forks": 6969,
+    "stars": 88312,
+    "stars_text": "88,312",
+    "forks": 6974,
     "language": "Shell",
     "today_stars": "3,142 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-16T19:15:00.431052+00:00"
+    "fetched_at": "2026-03-16T20:49:17.564501+00:00"
   },
   "p-e-w/heretic": {
     "repo_path": "p-e-w/heretic",
     "repo_name": "p-e-w / heretic",
     "repo_url": "https://github.com/p-e-w/heretic",
     "description": "Fully automatic censorship removal for language models",
-    "stars": 15190,
-    "stars_text": "15,190",
-    "forks": 1533,
+    "stars": 15219,
+    "stars_text": "15,219",
+    "forks": 1537,
     "language": "Python",
     "today_stars": "787 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-16T19:15:00.433654+00:00"
+    "fetched_at": "2026-03-16T20:49:17.567293+00:00"
   },
   "666ghj/MiroFish": {
     "repo_path": "666ghj/MiroFish",
     "repo_name": "666ghj / MiroFish",
     "repo_url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-    "stars": 29594,
-    "stars_text": "29,594",
-    "forks": 3595,
+    "stars": 29698,
+    "stars_text": "29,698",
+    "forks": 3615,
     "language": "Python",
     "today_stars": "3,257 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-16T19:15:00.429209+00:00"
+    "fetched_at": "2026-03-16T20:49:17.562537+00:00"
   },
   "abhigyanpatwari/GitNexus": {
     "repo_path": "abhigyanpatwari/GitNexus",
     "repo_name": "abhigyanpatwari / GitNexus",
     "repo_url": "https://github.com/abhigyanpatwari/GitNexus",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "stars": 15410,
-    "stars_text": "15,410",
-    "forks": 1773,
+    "stars": 15472,
+    "stars_text": "15,472",
+    "forks": 1777,
     "language": "TypeScript",
     "today_stars": "1,867 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-16T19:15:00.431656+00:00"
+    "fetched_at": "2026-03-16T20:49:17.565166+00:00"
   },
   "topoteretes/cognee": {
     "repo_path": "topoteretes/cognee",
@@ -147,13 +147,13 @@
     "repo_name": "voidzero-dev / vite-plus",
     "repo_url": "https://github.com/voidzero-dev/vite-plus",
     "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
-    "stars": 2157,
-    "stars_text": "2,157",
-    "forks": 73,
+    "stars": 2187,
+    "stars_text": "2,187",
+    "forks": 75,
     "language": "Rust",
     "today_stars": "622 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-16T19:15:00.435130+00:00"
+    "fetched_at": "2026-03-16T20:49:17.568861+00:00"
   },
   "anthropics/claude-plugins-official": {
     "repo_path": "anthropics/claude-plugins-official",
@@ -173,38 +173,38 @@
     "repo_name": "thedotmack / claude-mem",
     "repo_url": "https://github.com/thedotmack/claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "stars": 36570,
-    "stars_text": "36,570",
-    "forks": 2623,
+    "stars": 36638,
+    "stars_text": "36,638",
+    "forks": 2630,
     "language": "TypeScript",
     "today_stars": "1,017 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-16T19:15:00.429913+00:00"
+    "fetched_at": "2026-03-16T20:49:17.563277+00:00"
   },
   "langchain-ai/deepagents": {
     "repo_path": "langchain-ai/deepagents",
     "repo_name": "langchain-ai / deepagents",
     "repo_url": "https://github.com/langchain-ai/deepagents",
     "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-    "stars": 12640,
-    "stars_text": "12,640",
-    "forks": 1981,
+    "stars": 12720,
+    "stars_text": "12,720",
+    "forks": 1989,
     "language": "Python",
     "today_stars": "1,238 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-16T19:15:00.434145+00:00"
+    "fetched_at": "2026-03-16T20:49:17.567823+00:00"
   },
   "YishenTu/claudian": {
     "repo_path": "YishenTu/claudian",
     "repo_name": "YishenTu / claudian",
     "repo_url": "https://github.com/YishenTu/claudian",
     "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-    "stars": 4086,
-    "stars_text": "4,086",
-    "forks": 235,
+    "stars": 4106,
+    "stars_text": "4,106",
+    "forks": 236,
     "language": "TypeScript",
     "today_stars": "109 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-16T19:15:00.434631+00:00"
+    "fetched_at": "2026-03-16T20:49:17.568335+00:00"
   }
 }
