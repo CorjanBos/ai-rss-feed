@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 23:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:45:00 +0000</lastBuildDate>
     <item>
       <title>A Mixed Diet Makes DINO An Omnivorous Vision Encoder</title>
       <link>https://huggingface.co/papers/2602.24181</link>
@@ -73,6 +73,15 @@ Despite the impressive performance of diffusion models such as Stable Diffusion 
       <pubDate>Mon, 09 Mar 2026 11:27:28 +0000</pubDate>
     </item>
     <item>
+      <title>FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach</title>
+      <link>https://huggingface.co/papers/2603.13364</link>
+      <description>By Ning Liao, Xiaoxing Wang, Xiaohan Qin, Junchi Yan
+
+As revealed by the scaling law of fine-grained MoE, model performance ceases to be improved once the granularity of the intermediate dimension exceeds the optimal threshold, limiting further gains from single-dimension fine-grained design. To address this bottleneck, we propose FineRMoE (FineR-Grain...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13364</guid>
+      <pubDate>Mon, 09 Mar 2026 12:00:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Can Vision-Language Models Solve the Shell Game?</title>
       <link>https://huggingface.co/papers/2603.08436</link>
       <description>By Tiedong Liu, Wee Sun Lee
@@ -118,22 +127,13 @@ A key component of creativity is associative reasoning: the ability to draw nove
       <pubDate>Tue, 10 Mar 2026 17:58:44 +0000</pubDate>
     </item>
     <item>
-      <title>4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video</title>
-      <link>https://huggingface.co/papers/2603.10125</link>
-      <description>By Jin Lyu, Liang An, Pujin Cheng, Yebin Liu, Xiaoying Tang
+      <title>Safe and Scalable Web Agent Learning via Recreated Websites</title>
+      <link>https://huggingface.co/papers/2603.10505</link>
+      <description>By Hyungjoo Chae, Jungsoo Park, Alan Ritter
 
-4D reconstruction of equine family (e.g. horses) from monocular video is important for animal welfare. Previous mainstream 4D animal reconstruction methods require joint optimization of motion and appearance over a whole video, which is time-consuming and sensitive to incomplete observation. In this...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10125</guid>
-      <pubDate>Tue, 10 Mar 2026 18:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training</title>
-      <link>https://huggingface.co/papers/2603.10444</link>
-      <description>By Hengjie Cao, Zhendong Huang, Mengyi Chen, Yifeng Yang, Fanqi Yu, et al.
-
-Large language models trained on natural language exhibit pronounced anisotropy: a small number of directions concentrate disproportionate energy, while the remaining dimensions form a broad semantic tail. In low-bit training regimes, this geometry becomes numerically unstable. Because blockwise qua...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10444</guid>
-      <pubDate>Wed, 11 Mar 2026 05:59:12 +0000</pubDate>
+Training autonomous web agents is fundamentally limited by the environments they learn from: real-world websites are unsafe to explore, hard to reset, and rarely provide verifiable feedback. We propose VeriEnv, a framework that treats language models as environment creators, automatically cloning re...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.10505</guid>
+      <pubDate>Wed, 11 Mar 2026 07:58:53 +0000</pubDate>
     </item>
     <item>
       <title>HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement</title>
@@ -280,13 +280,13 @@ Multimodal agents can now tackle complex reasoning tasks with diverse tools, yet
       <pubDate>Thu, 12 Mar 2026 15:25:57 +0000</pubDate>
     </item>
     <item>
-      <title>Automatic Generation of High-Performance RL Environments</title>
-      <link>https://huggingface.co/papers/2603.12145</link>
-      <description>By Seth Karten, Rahul Dev Appapogu, Chi Jin
+      <title>FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance</title>
+      <link>https://huggingface.co/papers/2603.12146</link>
+      <description>By Quanhao Li, Zhen Xing, Rui Wang, Haidong Cao, Qi Dai, et al.
 
-Translating complex reinforcement learning (RL) environments into high-performance implementations has traditionally required months of specialized engineering. We present a reusable recipe - a generic prompt template, hierarchical verification, and iterative agent-assisted repair - that produces se...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12145</guid>
-      <pubDate>Thu, 12 Mar 2026 16:45:47 +0000</pubDate>
+Recent advances in trajectory-controllable video generation have achieved remarkable progress. Previous methods mainly use adapter-based architectures for precise motion control along predefined trajectories. However, all these methods rely on a multi-step denoising process, leading to substantial t...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12146</guid>
+      <pubDate>Thu, 12 Mar 2026 16:45:53 +0000</pubDate>
     </item>
     <item>
       <title>Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights</title>
@@ -296,15 +296,6 @@ Translating complex reinforcement learning (RL) environments into high-performan
 Pretraining produces a learned parameter vector that is typically treated as a starting point for further iterative adaptation. In this work, we instead view the outcome of pretraining as a distribution over parameter vectors, whose support already contains task-specific experts. We show that in sma...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12228</guid>
       <pubDate>Thu, 12 Mar 2026 17:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>DVD: Deterministic Video Depth Estimation with Generative Priors</title>
-      <link>https://huggingface.co/papers/2603.12250</link>
-      <description>By Hongfei Zhang, Harold Haodong Chen, Chenfei Liao, Jing He, Zixin Zhang, et al.
-
-Existing video depth estimation faces a fundamental trade-off: generative models suffer from stochastic geometric hallucinations and scale drift, while discriminative models demand massive labeled datasets to resolve semantic ambiguities. To break this impasse, we present DVD, the first framework to...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12250</guid>
-      <pubDate>Thu, 12 Mar 2026 17:58:06 +0000</pubDate>
     </item>
     <item>
       <title>Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously</title>
@@ -458,6 +449,15 @@ Open-world embodied agents must solve long-horizon tasks where the main bottlene
 Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13224</guid>
       <pubDate>Fri, 13 Mar 2026 17:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Can Learn Scientific Taste</title>
+      <link>https://huggingface.co/papers/2603.14473</link>
+      <description>By Jingqi Tong, Mingzhe Li, Hangcheng Li, Yongzhuo Yang, Yurong Mou, et al.
+
+Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capabil...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14473</guid>
+      <pubDate>Sun, 15 Mar 2026 16:31:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
