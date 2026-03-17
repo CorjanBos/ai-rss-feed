@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 15:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 17:12:21 +0000</lastBuildDate>
     <item>
       <title>EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery</title>
       <link>https://huggingface.co/papers/2603.08127</link>
@@ -53,15 +53,6 @@ Training autonomous web agents is fundamentally limited by the environments they
 Sparse Attention Vectors (SAVs) have emerged as an excellent training-free alternative to supervised finetuning or low-rank adaptation to improve the performance of Vision Language Models (VLMs). At their heart, SAVs select a few accurate attention heads for a task of interest and use them as classi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10781</guid>
       <pubDate>Wed, 11 Mar 2026 13:54:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection</title>
-      <link>https://huggingface.co/papers/2603.10926</link>
-      <description>By Kadir-Kaan Özer, René Ebeling, Markus Enzweiler
-
-Time-series anomaly detectors are commonly compared on workstation-class hardware under unconstrained execution. In-vehicle monitoring, however, requires predictable latency and stable behavior under limited CPU parallelism. Accuracy-only leaderboards can therefore misrepresent which methods remain ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10926</guid>
-      <pubDate>Wed, 11 Mar 2026 16:08:56 +0000</pubDate>
     </item>
     <item>
       <title>Compression Favors Consistency, Not Truth: When and Why Language Models Prefer Correct Information</title>
@@ -125,24 +116,6 @@ With AI agents increasingly deployed as long-running systems, it becomes essenti
 Concept customization typically binds rare tokens to a target concept. Unfortunately, these approaches often suffer from unstable performance as the pretraining data seldom contains these rare tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept. Consequen...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12743</guid>
       <pubDate>Fri, 13 Mar 2026 07:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection</title>
-      <link>https://huggingface.co/papers/2603.12916</link>
-      <description>By Kadir-Kaan Özer, René Ebeling, Markus Enzweiler
-
-Multivariate time series anomalies often manifest as shifts in cross-channel dependencies rather than simple amplitude excursions. In autonomous driving, for instance, a steering command might be internally consistent but decouple from the resulting lateral acceleration. Residual-based detectors can...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12916</guid>
-      <pubDate>Fri, 13 Mar 2026 11:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations</title>
-      <link>https://huggingface.co/papers/2603.12935</link>
-      <description>By Mihaela Rotar, Theresia Veronika Rampisela, Maria Maistro
-
-Large Language Models (LLMs) can infer sensitive attributes such as gender or age from indirect cues like names and pronouns, potentially biasing recommendations. While several debiasing methods exist, they require access to the LLMs' weights, are computationally costly, and cannot be used by lay us...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12935</guid>
-      <pubDate>Fri, 13 Mar 2026 12:30:42 +0000</pubDate>
     </item>
     <item>
       <title>VoXtream2: Full-stream TTS with dynamic speaking rate control</title>
@@ -262,6 +235,15 @@ All classifiers, including state-of-the-art vision models, possess invariants, p
       <pubDate>Sun, 15 Mar 2026 21:13:14 +0000</pubDate>
     </item>
     <item>
+      <title>Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion</title>
+      <link>https://huggingface.co/papers/2603.14645</link>
+      <description>By Mang Ning, Mingxiao Li, Le Zhang, Lanmiao Liu, Matthew B. Blaschko, et al.
+
+In this paper, we study the diffusability (learnability) of variational autoencoders (VAE) in latent diffusion. First, we show that pixel-space diffusion trained with an MSE objective is inherently biased toward learning low and mid spatial frequencies, and that the power-law power spectral density ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14645</guid>
+      <pubDate>Sun, 15 Mar 2026 22:47:43 +0000</pubDate>
+    </item>
+    <item>
       <title>VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting</title>
       <link>https://huggingface.co/papers/2603.14659</link>
       <description>By Daeun Lee, Shoubin Yu, Yue Zhang, Mohit Bansal
@@ -379,6 +361,15 @@ Affordance prediction serves as a critical bridge between perception and action 
       <pubDate>Mon, 16 Mar 2026 17:21:49 +0000</pubDate>
     </item>
     <item>
+      <title>The PokeAgent Challenge: Competitive and Long-Context Learning at Scale</title>
+      <link>https://huggingface.co/papers/2603.15563</link>
+      <description>By Seth Karten, Jake Grigsby, Tersoo Upaa, Junik Bae, Seonghun Hong, et al.
+
+We present the PokeAgent Challenge, a large-scale benchmark for decision-making research built on Pokemon's multi-agent battle system and expansive role-playing game (RPG) environment. Partial observability, game-theoretic reasoning, and long-horizon planning remain open problems for frontier AI, ye...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15563</guid>
+      <pubDate>Mon, 16 Mar 2026 17:25:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Grounding World Simulation Models in a Real-World Metropolis</title>
       <link>https://huggingface.co/papers/2603.15583</link>
       <description>By Junyoung Seo, Hyunwook Choi, Minkyung Kwon, Jinhyeok Choi, Siyoon Jin, et al.
@@ -422,6 +413,15 @@ Reinforcement learning for code generation relies on verifiable rewards from uni
 We present HSImul3R, a unified framework for simulation-ready 3D reconstruction of human-scene interactions (HSI) from casual captures, including sparse-view images and monocular videos. Existing methods suffer from a perception-simulation gap: visually plausible reconstructions often violate physic...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15612</guid>
       <pubDate>Mon, 16 Mar 2026 17:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion</title>
+      <link>https://huggingface.co/papers/2603.15614</link>
+      <description>By Zhenghong Zhou, Xiaohang Zhan, Zhiqin Chen, Soo Ye Kim, Nanxuan Zhao, et al.
+
+Recent video diffusion models have made remarkable strides in visual quality, yet precise, fine-grained control remains a key bottleneck that limits practical customizability for content creation. For AI video creators, three forms of control are crucial: (i) scene composition, (ii) multi-view consi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15614</guid>
+      <pubDate>Mon, 16 Mar 2026 17:59:05 +0000</pubDate>
     </item>
     <item>
       <title>GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering</title>
