@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:57:59 +0000</lastBuildDate>
     <item>
       <title>SimRecon: SimReady Compositional Scene Reconstruction from Real Videos</title>
       <link>https://huggingface.co/papers/2603.02133</link>
@@ -37,15 +37,6 @@ The increasing adoption of Large Language Models (LLMs) has enabled AI scientist
       <pubDate>Mon, 09 Mar 2026 09:07:19 +0000</pubDate>
     </item>
     <item>
-      <title>WaDi: Weight Direction-aware Distillation for One-step Image Synthesis</title>
-      <link>https://huggingface.co/papers/2603.08258</link>
-      <description>By Lei Wang, Yang Cheng, Senmao Li, Ge Wu, Yaxing Wang, et al.
-
-Despite the impressive performance of diffusion models such as Stable Diffusion (SD) in image generation, their slow inference limits practical deployment. Recent works accelerate inference by distilling multi-step diffusion into one-step generators. To better understand the distillation mechanism, ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08258</guid>
-      <pubDate>Mon, 09 Mar 2026 11:27:28 +0000</pubDate>
-    </item>
-    <item>
       <title>FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach</title>
       <link>https://huggingface.co/papers/2603.13364</link>
       <description>By Ning Liao, Xiaoxing Wang, Xiaohan Qin, Junchi Yan
@@ -71,15 +62,6 @@ Visual entity tracking is an innate cognitive ability in humans, yet it remains 
 Text-motion retrieval aims to learn a semantically aligned latent space between natural language descriptions and 3D human motion skeleton sequences, enabling bidirectional search across the two modalities. Most existing methods use a dual-encoder framework that compresses motion and text into globa...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.09930</guid>
       <pubDate>Tue, 10 Mar 2026 17:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREATE: Testing LLMs for Associative Creativity</title>
-      <link>https://huggingface.co/papers/2603.09970</link>
-      <description>By Manya Wadhwa, Tiasa Singha Roy, Harvey Lederman, Junyi Jessy Li, Greg Durrett
-
-A key component of creativity is associative reasoning: the ability to draw novel yet meaningful connections between concepts. We introduce CREATE, a benchmark designed to evaluate models' capacity for creative associative reasoning. CREATE requires models to generate sets of paths connecting concep...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09970</guid>
-      <pubDate>Tue, 10 Mar 2026 17:58:44 +0000</pubDate>
     </item>
     <item>
       <title>WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics</title>
@@ -235,15 +217,6 @@ Understanding and answering questions based on a user's pointing gesture is esse
       <pubDate>Fri, 13 Mar 2026 00:23:38 +0000</pubDate>
     </item>
     <item>
-      <title>LMEB: Long-horizon Memory Embedding Benchmark</title>
-      <link>https://huggingface.co/papers/2603.12572</link>
-      <description>By Xinping Zhao, Xinshuo Hu, Jiaxin Xu, Danyu Tang, Xin Zhang, et al.
-
-Memory embeddings are crucial for memory-augmented systems, such as OpenClaw, but their evaluation is underexplored in current text embedding benchmarks, which narrowly focus on traditional passage retrieval and fail to assess models' ability to handle long-horizon memory retrieval tasks involving f...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12572</guid>
-      <pubDate>Fri, 13 Mar 2026 02:09:57 +0000</pubDate>
-    </item>
-    <item>
       <title>SDF-Net: Structure-Aware Disentangled Feature Learning for Opticall-SAR Ship Re-identification</title>
       <link>https://huggingface.co/papers/2603.12588</link>
       <description>By Furui Chen, Han Wang, Yuhan Sun, Jianing You, Yixuan Lv, et al.
@@ -269,15 +242,6 @@ With AI agents increasingly deployed as long-running systems, it becomes essenti
 Test-time scaling has become a dominant paradigm for improving LLM agent reliability, yet current approaches treat compute as an abundant resource, allowing agents to exhaust token and tool budgets on redundant steps or dead-end trajectories. Existing budget-aware methods either require expensive fi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12634</guid>
       <pubDate>Fri, 13 Mar 2026 04:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space</title>
-      <link>https://huggingface.co/papers/2603.12648</link>
-      <description>By Jiazi Bu, Pengyang Ling, Yujie Zhou, Yibin Wang, Yuhang Zang, et al.
-
-Group Relative Policy Optimization (GRPO) has emerged as a powerful framework for preference alignment in text-to-image (T2I) flow models. However, we observe that the standard paradigm where evaluating a group of generated samples against a single condition suffers from insufficient exploration of ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12648</guid>
-      <pubDate>Fri, 13 Mar 2026 04:35:13 +0000</pubDate>
     </item>
     <item>
       <title>MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization</title>
@@ -325,15 +289,6 @@ Large Language Models (LLMs) can infer sensitive attributes such as gender or ag
       <pubDate>Fri, 13 Mar 2026 12:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>daVinci-Env: Open SWE Environment Synthesis at Scale</title>
-      <link>https://huggingface.co/papers/2603.13023</link>
-      <description>By Dayuan Fu, Shenyu Wu, Yunze Wu, Zerui Peng, Yaxing Huang, et al.
-
-Training capable software engineering (SWE) agents demands large-scale, executable, and verifiable environments that provide dynamic feedback loops for iterative code editing, test execution, and solution refinement. However, existing open-source datasets remain limited in scale and repository diver...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13023</guid>
-      <pubDate>Fri, 13 Mar 2026 14:32:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Multimodal OCR: Parse Anything from Documents</title>
       <link>https://huggingface.co/papers/2603.13032</link>
       <description>By Handong Zheng, Yumeng Li, Kaile Zhang, Liang Xin, Guangwei Zhao, et al.
@@ -368,6 +323,15 @@ Open-world embodied agents must solve long-horizon tasks where the main bottlene
 Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13224</guid>
       <pubDate>Fri, 13 Mar 2026 17:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.13985</link>
+      <description>By Haitao Jiang, Wenbo Zhang, Jiarui Yao, Hengrui Cai, Sheng Wang, et al.
+
+Pre-trained Large Language Model (LLM) exhibits broad capabilities, yet, for specific tasks or domains their attainment of higher accuracy and more reliable reasoning generally depends on post-training through Supervised Fine-Tuning (SFT) or Reinforcement Learning (RL). Although often treated as dis...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13985</guid>
+      <pubDate>Sat, 14 Mar 2026 15:24:38 +0000</pubDate>
     </item>
     <item>
       <title>MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos</title>
@@ -406,6 +370,15 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
       <pubDate>Mon, 16 Mar 2026 09:32:21 +0000</pubDate>
     </item>
     <item>
+      <title>SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation</title>
+      <link>https://huggingface.co/papers/2603.15150</link>
+      <description>By Shufan Li, Jiuxiang Gu, Kangning Liu, Zhe Lin, Aditya Grover, et al.
+
+Recent advancements in discrete image generation showed that scaling the VQ codebook size significantly improves reconstruction fidelity. However, training generative models with a large VQ codebook remains challenging, typically requiring larger model size and a longer training schedule. In this wo...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15150</guid>
+      <pubDate>Mon, 16 Mar 2026 11:44:11 +0000</pubDate>
+    </item>
+    <item>
       <title>ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer</title>
       <link>https://huggingface.co/papers/2603.15478</link>
       <description>By Ruonan Yu, Zhenxiong Tan, Zigeng Chen, Songhua Liu, Xinchao Wang
@@ -413,6 +386,15 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
 Diffusion Transformers (DiTs) have demonstrated remarkable scalability and quality in image and video generation, prompting growing interest in extending them to controllable generation and editing tasks. However, compared to the image counterparts, progress in video control and editing remains limi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15478</guid>
       <pubDate>Mon, 16 Mar 2026 16:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Reasoning in LLMs through Strategic Information Allocation under Uncertainty</title>
+      <link>https://huggingface.co/papers/2603.15500</link>
+      <description>By Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dongsheng Li, et al.
+
+LLMs often exhibit Aha moments during reasoning, such as apparent self-correction following tokens like "Wait," yet their underlying mechanisms remain unclear. We introduce an information-theoretic framework that decomposes reasoning into procedural information and epistemic verbalization - the expl...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15500</guid>
+      <pubDate>Mon, 16 Mar 2026 16:31:24 +0000</pubDate>
     </item>
     <item>
       <title>Panoramic Affordance Prediction</title>
@@ -458,6 +440,24 @@ Reinforcement learning for code generation relies on verifiable rewards from uni
 We present HSImul3R, a unified framework for simulation-ready 3D reconstruction of human-scene interactions (HSI) from casual captures, including sparse-view images and monocular videos. Existing methods suffer from a perception-simulation gap: visually plausible reconstructions often violate physic...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15612</guid>
       <pubDate>Mon, 16 Mar 2026 17:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering</title>
+      <link>https://huggingface.co/papers/2603.15616</link>
+      <description>By Xincheng Shuai, Ziye Li, Henghui Ding, Dacheng Tao
+
+Generating accurate glyphs for visual text rendering is essential yet challenging. Existing methods typically enhance text rendering by training on a large amount of high-quality scene text images, but the limited coverage of glyph variations and excessive stylization often compromise glyph accuracy...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15616</guid>
+      <pubDate>Mon, 16 Mar 2026 17:59:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mixture-of-Depths Attention</title>
+      <link>https://huggingface.co/papers/2603.15619</link>
+      <description>By Lianghui Zhu, Yuxin Fang, Bencheng Liao, Shijie Wang, Tianheng Cheng, et al.
+
+Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixtur...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15619</guid>
+      <pubDate>Mon, 16 Mar 2026 17:59:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
