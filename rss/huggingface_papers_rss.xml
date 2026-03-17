@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 15:05:33 +0000</lastBuildDate>
     <item>
       <title>EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery</title>
       <link>https://huggingface.co/papers/2603.08127</link>
