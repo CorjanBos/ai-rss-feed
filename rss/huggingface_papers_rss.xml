@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 04:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:09:06 +0000</lastBuildDate>
     <item>
       <title>SimRecon: SimReady Compositional Scene Reconstruction from Real Videos</title>
       <link>https://huggingface.co/papers/2603.02133</link>
@@ -62,15 +62,6 @@ As revealed by the scaling law of fine-grained MoE, model performance ceases to 
 Visual entity tracking is an innate cognitive ability in humans, yet it remains a critical bottleneck for Vision-Language Models (VLMs). This deficit is often obscured in existing video benchmarks by visual shortcuts. We introduce VET-Bench, a synthetic diagnostic testbed featuring visually identica...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.08436</guid>
       <pubDate>Mon, 09 Mar 2026 14:33:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning</title>
-      <link>https://huggingface.co/papers/2603.09160</link>
-      <description>By Tzu-Heng Huang, Sirajul Salekin, Javier Movellan, Frederic Sala, Manjot Bilkhu
-
-Dense image captioning is critical for cross-modal alignment in vision-language pretraining and text-to-image generation, but scaling expert-quality annotations is prohibitively expensive. While synthetic captioning via strong vision-language models (VLMs) is a practical alternative, supervised dist...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.09160</guid>
-      <pubDate>Tue, 10 Mar 2026 03:51:27 +0000</pubDate>
     </item>
     <item>
       <title>Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction</title>
@@ -199,15 +190,6 @@ Recent advances in trajectory-controllable video generation have achieved remark
       <pubDate>Thu, 12 Mar 2026 16:45:53 +0000</pubDate>
     </item>
     <item>
-      <title>Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights</title>
-      <link>https://huggingface.co/papers/2603.12228</link>
-      <description>By Yulu Gan, Phillip Isola
-
-Pretraining produces a learned parameter vector that is typically treated as a starting point for further iterative adaptation. In this work, we instead view the outcome of pretraining as a distribution over parameter vectors, whose support already contains task-specific experts. We show that in sma...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12228</guid>
-      <pubDate>Thu, 12 Mar 2026 17:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously</title>
       <link>https://huggingface.co/papers/2603.12262</link>
       <description>By Yiran Guan, Liang Yin, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, et al.
@@ -233,6 +215,15 @@ Multimodal Large Language Models (MLLMs) are increasingly used to carry out visu
 Despite rapid advancements in video generation models, aligning their outputs with complex user intent remains challenging. Existing test-time optimization methods are typically either computationally expensive or require white-box access to model internals. To address this, we present VQQA (Video Q...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12310</guid>
       <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning</title>
+      <link>https://huggingface.co/papers/2603.12529</link>
+      <description>By Alliot Nagle, Jakhongir Saydaliev, Dhia Garbaya, Michael Gastpar, Ashok Vardhan Makkuva, et al.
+
+Large Reasoning Models (LRMs) achieve impressive performance on complex reasoning tasks via Chain-of-Thought (CoT) reasoning, which enables them to generate intermediate thinking tokens before arriving at the final answer. However, LRMs often suffer from significant overthinking, spending excessive ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12529</guid>
+      <pubDate>Fri, 13 Mar 2026 00:07:18 +0000</pubDate>
     </item>
     <item>
       <title>Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering</title>
@@ -287,6 +278,15 @@ Test-time scaling has become a dominant paradigm for improving LLM agent reliabi
 Group Relative Policy Optimization (GRPO) has emerged as a powerful framework for preference alignment in text-to-image (T2I) flow models. However, we observe that the standard paradigm where evaluating a group of generated samples against a single condition suffers from insufficient exploration of ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12648</guid>
       <pubDate>Fri, 13 Mar 2026 04:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization</title>
+      <link>https://huggingface.co/papers/2603.12743</link>
+      <description>By Chenyang Zhu, Hongxiang Li, Xiu Li, Long Chen
+
+Concept customization typically binds rare tokens to a target concept. Unfortunately, these approaches often suffer from unstable performance as the pretraining data seldom contains these rare tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept. Consequen...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12743</guid>
+      <pubDate>Fri, 13 Mar 2026 07:39:35 +0000</pubDate>
     </item>
     <item>
       <title>Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation</title>

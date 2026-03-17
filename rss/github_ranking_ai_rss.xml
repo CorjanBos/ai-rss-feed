@@ -8,48 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 23:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:09:08 +0000</lastBuildDate>
+    <item>
+      <title>[Claude] claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <description>📉 Rank: #4 → #5 (↓1)
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+Language: Shell
+
+Category: Claude
+Stars: 78,830 | Forks: 6,455</description>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
+      <pubDate>Tue, 17 Mar 2026 06:09:08 +0000</pubDate>
+    </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 76,105 → 78,171 (+2,066)
+      <description>📈 Rank: #5 → #4 (↑1) | ⭐ Stars: 78,171 → 80,930 (+2,759)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 78,171 | Forks: 9,906</description>
+Stars: 80,930 | Forks: 10,405</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 16 Mar 2026 23:37:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] ui-ux-pro-max-skill</title>
-      <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in Claude
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-Language: Python
-
-Category: Claude
-Stars: 42,238 | Forks: 4,086</description>
-      <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Mon, 16 Mar 2026 23:37:44 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 06:09:08 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 313,424 → 315,565 (+2,141)
+      <description>⭐ Stars: 315,565 → 318,071 (+2,506)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 315,565 | Forks: 60,379</description>
+Stars: 318,071 | Forks: 60,994</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Mon, 16 Mar 2026 23:37:44 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 06:09:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
