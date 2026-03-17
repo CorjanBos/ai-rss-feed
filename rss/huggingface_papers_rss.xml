@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 20:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:47:43 +0000</lastBuildDate>
     <item>
       <title>EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery</title>
       <link>https://huggingface.co/papers/2603.08127</link>
@@ -89,15 +89,6 @@ Large Reasoning Models (LRMs) achieve impressive performance on complex reasonin
 Understanding and answering questions based on a user's pointing gesture is essential for next-generation egocentric AI assistants. However, current Multimodal Large Language Models (MLLMs) struggle with such tasks due to the lack of gesture-rich data and their limited ability to infer fine-grained ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12533</guid>
       <pubDate>Fri, 13 Mar 2026 00:23:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>SDF-Net: Structure-Aware Disentangled Feature Learning for Opticall-SAR Ship Re-identification</title>
-      <link>https://huggingface.co/papers/2603.12588</link>
-      <description>By Furui Chen, Han Wang, Yuhan Sun, Jianing You, Yixuan Lv, et al.
-
-Cross-modal ship re-identification (ReID) between optical and synthetic aperture radar (SAR) imagery is fundamentally challenged by the severe radiometric discrepancy between passive optical imaging and coherent active radar sensing. While existing approaches primarily rely on statistical distributi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12588</guid>
-      <pubDate>Fri, 13 Mar 2026 02:41:43 +0000</pubDate>
     </item>
     <item>
       <title>EvoClaw: Evaluating AI Agents on Continuous Software Evolution</title>
@@ -251,6 +242,15 @@ In this paper, we study the diffusability (learnability) of variational autoenco
 Video reasoning requires models to locate and track question-relevant evidence across frames. While reinforcement learning (RL) with verifiable rewards improves accuracy, it still struggles to achieve reliable spatio-temporal grounding during the reasoning process. Moreover, improving grounding typi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14659</guid>
       <pubDate>Sun, 15 Mar 2026 23:32:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>POLCA: Stochastic Generative Optimization with LLM</title>
+      <link>https://huggingface.co/papers/2603.14769</link>
+      <description>By Xuanfei Ren, Allen Nie, Tengyang Xie, Ching-An Cheng
+
+Optimizing complex systems, ranging from LLM prompts to multi-turn agents, traditionally requires labor-intensive manual iteration. We formalize this challenge as a stochastic generative optimization problem where a generative language model acts as the optimizer, guided by numerical rewards and tex...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14769</guid>
+      <pubDate>Mon, 16 Mar 2026 03:07:44 +0000</pubDate>
     </item>
     <item>
       <title>RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting</title>

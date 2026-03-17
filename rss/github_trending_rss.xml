@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 20:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:47:45 +0000</lastBuildDate>
     <item>
       <title>codecrafters-io / build-your-own-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
@@ -19,7 +19,7 @@ Master programming by recreating your favorite technologies from scratch.
 Language: Markdown
 2,011 stars today</description>
       <guid isPermaLink="true">https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
@@ -31,7 +31,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 Language: JavaScript
 454 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
     <item>
       <title>cloudflare / workerd</title>
@@ -43,43 +43,43 @@ The JavaScript / Wasm runtime that powers Cloudflare Workers
 Language: C++
 21 stars today</description>
       <guid isPermaLink="true">https://github.com/cloudflare/workerd</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📈 Rank: #4 → #1 (↑3) | ⭐ Stars: 88,482 → 91,733 (+3251)
+      <description>📈 Rank: #4 → #1 (↑3) | ⭐ Stars: 88,482 → 91,867 (+3385)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 3,050 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
     <item>
       <title>abhigyanpatwari / GitNexus</title>
       <link>https://github.com/abhigyanpatwari/GitNexus</link>
-      <description>📈 Rank: #5 → #3 (↑2) | ⭐ Stars: 15,562 → 16,589 (+1027)
+      <description>📈 Rank: #5 → #3 (↑2) | ⭐ Stars: 15,562 → 16,612 (+1050)
 
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 Language: TypeScript
 1,117 stars today</description>
       <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
     <item>
       <title>langchain-ai / deepagents</title>
       <link>https://github.com/langchain-ai/deepagents</link>
-      <description>📈 Rank: #10 → #4 (↑6) | ⭐ Stars: 12,847 → 13,922 (+1075)
+      <description>📈 Rank: #10 → #4 (↑6) | ⭐ Stars: 12,847 → 13,968 (+1121)
 
 Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
 Language: Python
 1,418 stars today</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/deepagents</guid>
-      <pubDate>Tue, 17 Mar 2026 20:50:03 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
