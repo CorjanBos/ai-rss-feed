@@ -43,26 +43,26 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 91867,
-    "stars_text": "91,867",
-    "forks": 7277,
+    "stars": 92029,
+    "stars_text": "92,029",
+    "forks": 7285,
     "language": "Shell",
     "today_stars": "3,050 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-17T21:47:45.293650+00:00"
+    "fetched_at": "2026-03-17T22:41:40.945952+00:00"
   },
   "abhigyanpatwari/GitNexus": {
     "repo_path": "abhigyanpatwari/GitNexus",
     "repo_name": "abhigyanpatwari / GitNexus",
     "repo_url": "https://github.com/abhigyanpatwari/GitNexus",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "stars": 16612,
-    "stars_text": "16,612",
-    "forks": 1890,
+    "stars": 16634,
+    "stars_text": "16,634",
+    "forks": 1891,
     "language": "TypeScript",
     "today_stars": "1,117 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-17T21:47:45.294869+00:00"
+    "fetched_at": "2026-03-17T22:41:40.947217+00:00"
   },
   "lightpanda-io/browser": {
     "repo_path": "lightpanda-io/browser",
@@ -121,13 +121,13 @@
     "repo_name": "langchain-ai / deepagents",
     "repo_url": "https://github.com/langchain-ai/deepagents",
     "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-    "stars": 13968,
-    "stars_text": "13,968",
-    "forks": 2114,
+    "stars": 14012,
+    "stars_text": "14,012",
+    "forks": 2117,
     "language": "Python",
     "today_stars": "1,418 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-17T21:47:45.295377+00:00"
+    "fetched_at": "2026-03-17T22:41:40.947727+00:00"
   },
   "YishenTu/claudian": {
     "repo_path": "YishenTu/claudian",
@@ -160,38 +160,38 @@
     "repo_name": "codecrafters-io / build-your-own-x",
     "repo_url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
-    "stars": 479636,
-    "stars_text": "479,636",
-    "forks": 45128,
+    "stars": 479671,
+    "stars_text": "479,671",
+    "forks": 45132,
     "language": "Markdown",
     "today_stars": "2,011 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-17T21:47:45.294211+00:00"
+    "fetched_at": "2026-03-17T22:41:40.946538+00:00"
   },
   "jarrodwatts/claude-hud": {
     "repo_path": "jarrodwatts/claude-hud",
     "repo_name": "jarrodwatts / claude-hud",
     "repo_url": "https://github.com/jarrodwatts/claude-hud",
     "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "stars": 5495,
-    "stars_text": "5,495",
+    "stars": 5520,
+    "stars_text": "5,520",
     "forks": 242,
     "language": "JavaScript",
     "today_stars": "454 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-17T21:47:45.295889+00:00"
+    "fetched_at": "2026-03-17T22:41:40.948282+00:00"
   },
   "cloudflare/workerd": {
     "repo_path": "cloudflare/workerd",
     "repo_name": "cloudflare / workerd",
     "repo_url": "https://github.com/cloudflare/workerd",
     "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-    "stars": 7787,
-    "stars_text": "7,787",
-    "forks": 572,
+    "stars": 7797,
+    "stars_text": "7,797",
+    "forks": 573,
     "language": "C++",
     "today_stars": "21 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-17T21:47:45.296401+00:00"
+    "fetched_at": "2026-03-17T22:41:40.948800+00:00"
   }
 }
