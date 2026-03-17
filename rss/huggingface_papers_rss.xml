@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 07:57:59 +0000</lastBuildDate>
-    <item>
-      <title>SimRecon: SimReady Compositional Scene Reconstruction from Real Videos</title>
-      <link>https://huggingface.co/papers/2603.02133</link>
-      <description>By Chong Xia, Kai Zhu, Zizhuo Wang, Fangfu Liu, Zhizheng Zhang, et al.
-
-Compositional scene reconstruction seeks to create object-centric representations rather than holistic scenes from real-world videos, which is natively applicable for simulation and interaction. Conventional compositional reconstruction approaches primarily emphasize on visual appearance and show li...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.02133</guid>
-      <pubDate>Mon, 02 Mar 2026 17:51:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 09:03:34 +0000</lastBuildDate>
     <item>
       <title>HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration</title>
       <link>https://huggingface.co/papers/2603.07815</link>
@@ -89,15 +80,6 @@ Training autonomous web agents is fundamentally limited by the environments they
 Sparse Attention Vectors (SAVs) have emerged as an excellent training-free alternative to supervised finetuning or low-rank adaptation to improve the performance of Vision Language Models (VLMs). At their heart, SAVs select a few accurate attention heads for a task of interest and use them as classi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10781</guid>
       <pubDate>Wed, 11 Mar 2026 13:54:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation</title>
-      <link>https://huggingface.co/papers/2603.10899</link>
-      <description>By Jinwoo Ahn, Ingyu Seong, Akhil Kedia, Junhan Kim, Hyemi Jang, et al.
-
-Transformer-based large language models (LLMs) rely on key-value (KV) caching to avoid redundant computation during autoregressive inference. While this mechanism greatly improves efficiency, the cache size grows linearly with the input sequence length, quickly becoming a bottleneck for long-context...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10899</guid>
-      <pubDate>Wed, 11 Mar 2026 15:44:32 +0000</pubDate>
     </item>
     <item>
       <title>ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection</title>
@@ -190,15 +172,6 @@ Multimodal Large Language Models (MLLMs) are increasingly used to carry out visu
       <pubDate>Thu, 12 Mar 2026 17:59:56 +0000</pubDate>
     </item>
     <item>
-      <title>VQQA: An Agentic Approach for Video Evaluation and Quality Improvement</title>
-      <link>https://huggingface.co/papers/2603.12310</link>
-      <description>By Yiwen Song, Tomas Pfister, Yale Song
-
-Despite rapid advancements in video generation models, aligning their outputs with complex user intent remains challenging. Existing test-time optimization methods are typically either computationally expensive or require white-box access to model internals. To address this, we present VQQA (Video Q...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12310</guid>
-      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning</title>
       <link>https://huggingface.co/papers/2603.12529</link>
       <description>By Alliot Nagle, Jakhongir Saydaliev, Dhia Garbaya, Michael Gastpar, Ashok Vardhan Makkuva, et al.
@@ -235,15 +208,6 @@ With AI agents increasingly deployed as long-running systems, it becomes essenti
       <pubDate>Fri, 13 Mar 2026 03:20:40 +0000</pubDate>
     </item>
     <item>
-      <title>Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents</title>
-      <link>https://huggingface.co/papers/2603.12634</link>
-      <description>By Yushu Li, Wenlong Deng, Jiajin Li, Xiaoxiao Li
-
-Test-time scaling has become a dominant paradigm for improving LLM agent reliability, yet current approaches treat compute as an abundant resource, allowing agents to exhaust token and tool budgets on redundant steps or dead-end trajectories. Existing budget-aware methods either require expensive fi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12634</guid>
-      <pubDate>Fri, 13 Mar 2026 04:10:27 +0000</pubDate>
-    </item>
-    <item>
       <title>MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization</title>
       <link>https://huggingface.co/papers/2603.12743</link>
       <description>By Chenyang Zhu, Hongxiang Li, Xiu Li, Long Chen
@@ -251,15 +215,6 @@ Test-time scaling has become a dominant paradigm for improving LLM agent reliabi
 Concept customization typically binds rare tokens to a target concept. Unfortunately, these approaches often suffer from unstable performance as the pretraining data seldom contains these rare tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept. Consequen...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12743</guid>
       <pubDate>Fri, 13 Mar 2026 07:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation</title>
-      <link>https://huggingface.co/papers/2603.12793</link>
-      <description>By Yichen Zhang, Da Peng, Zonghao Guo, Zijian Zhang, Xuesong Yang, et al.
-
-A recent cutting-edge topic in multimodal modeling is to unify visual comprehension and generation within a single model. However, the two tasks demand mismatched decoding regimes and visual representations, making it non-trivial to jointly optimize within a shared feature space. In this work, we pr...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12793</guid>
-      <pubDate>Fri, 13 Mar 2026 08:55:27 +0000</pubDate>
     </item>
     <item>
       <title>NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval</title>
@@ -316,13 +271,13 @@ Open-world embodied agents must solve long-horizon tasks where the main bottlene
       <pubDate>Fri, 13 Mar 2026 16:23:34 +0000</pubDate>
     </item>
     <item>
-      <title>Visual-ERM: Reward Modeling for Visual Equivalence</title>
-      <link>https://huggingface.co/papers/2603.13224</link>
-      <description>By Ziyu Liu, Shengyuan Ding, Xinyu Fang, Xuanlang Dai, Penghui Yang, et al.
+      <title>SCoCCA: Multi-modal Sparse Concept Decomposition via Canonical Correlation Analysis</title>
+      <link>https://huggingface.co/papers/2603.13884</link>
+      <description>By Ehud Gordon, Meir Yossef Levi, Guy Gilboa
 
-Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13224</guid>
-      <pubDate>Fri, 13 Mar 2026 17:58:14 +0000</pubDate>
+Interpreting the internal reasoning of vision-language models is essential for deploying AI in safety-critical domains. Concept-based explainability provides a human-aligned lens by representing a model's behavior through semantically meaningful components. However, existing methods are largely rest...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13884</guid>
+      <pubDate>Sat, 14 Mar 2026 10:45:59 +0000</pubDate>
     </item>
     <item>
       <title>Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models</title>
@@ -352,6 +307,15 @@ Federal Open Market Committee (FOMC) statements are a major source of monetary-p
       <pubDate>Sun, 15 Mar 2026 10:07:28 +0000</pubDate>
     </item>
     <item>
+      <title>Motivation in Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.14347</link>
+      <description>By Omer Nahum, Asael Sklar, Ariel Goldstein, Roi Reichart
+
+Motivation is a central driver of human behavior, shaping decisions, goals, and task performance. As large language models (LLMs) become increasingly aligned with human preferences, we ask whether they exhibit something akin to motivation. We examine whether LLMs "report" varying levels of motivatio...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14347</guid>
+      <pubDate>Sun, 15 Mar 2026 12:30:36 +0000</pubDate>
+    </item>
+    <item>
       <title>AI Can Learn Scientific Taste</title>
       <link>https://huggingface.co/papers/2603.14473</link>
       <description>By Jingqi Tong, Mingzhe Li, Hangcheng Li, Yongzhuo Yang, Yurong Mou, et al.
@@ -359,6 +323,24 @@ Federal Open Market Committee (FOMC) statements are a major source of monetary-p
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capabil...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14473</guid>
       <pubDate>Sun, 15 Mar 2026 16:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching</title>
+      <link>https://huggingface.co/papers/2603.15016</link>
+      <description>By Fangran Miao, Jian Huang, Ting Li
+
+Human motion generation is often learned in Euclidean spaces, although valid motions follow structured non-Euclidean geometry. We present Riemannian Motion Generation (RMG), a unified framework that represents motion on a product manifold and learns dynamics via Riemannian flow matching. RMG factori...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15016</guid>
+      <pubDate>Mon, 16 Mar 2026 09:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods</title>
+      <link>https://huggingface.co/papers/2603.15026</link>
+      <description>By Omer Ben Hayun, Roy Betser, Meir Yossef Levi, Levi Kassel, Guy Gilboa
+
+Following major advances in text and image generation, the video domain has surged, producing highly realistic and controllable sequences. Along with this progress, these models also raise serious concerns about misinformation, making reliable detection of synthetic videos increasingly crucial. Imag...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15026</guid>
+      <pubDate>Mon, 16 Mar 2026 09:26:56 +0000</pubDate>
     </item>
     <item>
       <title>Attention Residuals</title>
@@ -379,6 +361,15 @@ Recent advancements in discrete image generation showed that scaling the VQ code
       <pubDate>Mon, 16 Mar 2026 11:44:11 +0000</pubDate>
     </item>
     <item>
+      <title>Efficient Document Parsing via Parallel Token Prediction</title>
+      <link>https://huggingface.co/papers/2603.15206</link>
+      <description>By Lei Li, Ze Zhao, Meng Li, Zhongwang Lun, Yi Yuan, et al.
+
+Document parsing, as a fundamental yet crucial vision task, is being revolutionized by vision-language models (VLMs). However, the autoregressive (AR) decoding inherent to VLMs creates a significant bottleneck, severely limiting parsing speed. In this paper, we propose Parallel-Token Prediction (PTP...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15206</guid>
+      <pubDate>Mon, 16 Mar 2026 12:45:34 +0000</pubDate>
+    </item>
+    <item>
       <title>ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer</title>
       <link>https://huggingface.co/papers/2603.15478</link>
       <description>By Ruonan Yu, Zhenxiong Tan, Zigeng Chen, Songhua Liu, Xinchao Wang
@@ -395,6 +386,15 @@ Diffusion Transformers (DiTs) have demonstrated remarkable scalability and quali
 LLMs often exhibit Aha moments during reasoning, such as apparent self-correction following tokens like "Wait," yet their underlying mechanisms remain unclear. We introduce an information-theoretic framework that decomposes reasoning into procedural information and epistemic verbalization - the expl...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15500</guid>
       <pubDate>Mon, 16 Mar 2026 16:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Latent Proxies for Controllable Single-Image Relighting</title>
+      <link>https://huggingface.co/papers/2603.15555</link>
+      <description>By Haoze Zheng, Zihao Wang, Xianfeng Wu, Yajing Bai, Yexin Liu, et al.
+
+Single-image relighting is highly under-constrained: small illumination changes can produce large, nonlinear variations in shading, shadows, and specularities, while geometry and materials remain unobserved. Existing diffusion-based approaches either rely on intrinsic or G-buffer pipelines that requ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15555</guid>
+      <pubDate>Mon, 16 Mar 2026 17:16:59 +0000</pubDate>
     </item>
     <item>
       <title>Panoramic Affordance Prediction</title>
