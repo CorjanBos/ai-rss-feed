@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 11:50:52 +0000</lastBuildDate>
     <item>
       <title>EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery</title>
       <link>https://huggingface.co/papers/2603.08127</link>
@@ -100,15 +100,6 @@ Multimodal large language models (MLLMs) have shown strong performance on offlin
       <pubDate>Thu, 12 Mar 2026 13:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios</title>
-      <link>https://huggingface.co/papers/2603.11975</link>
-      <description>By Jiayue Pu, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
-
-The rapid evolution of embodied agents has accelerated the deployment of household robots in real-world environments. However, unlike structured industrial settings, household spaces introduce unpredictable safety risks, where system limitations such as perception latency and lack of common sense kn...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.11975</guid>
-      <pubDate>Thu, 12 Mar 2026 14:25:44 +0000</pubDate>
-    </item>
-    <item>
       <title>FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance</title>
       <link>https://huggingface.co/papers/2603.12146</link>
       <description>By Quanhao Li, Zhen Xing, Rui Wang, Haidong Cao, Qi Dai, et al.
@@ -170,15 +161,6 @@ With AI agents increasingly deployed as long-running systems, it becomes essenti
 Concept customization typically binds rare tokens to a target concept. Unfortunately, these approaches often suffer from unstable performance as the pretraining data seldom contains these rare tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept. Consequen...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12743</guid>
       <pubDate>Fri, 13 Mar 2026 07:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval</title>
-      <link>https://huggingface.co/papers/2603.12824</link>
-      <description>By Zhuchenyang Liu, Yao Zhang, Yu Xiao
-
-Vision-Language Model (VLM) based retrievers have advanced visual document retrieval (VDR) to impressive quality. They require the same multi-billion parameter encoder for both document indexing and query encoding, incurring high latency and GPU dependence even for plain-text queries. We observe tha...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12824</guid>
-      <pubDate>Fri, 13 Mar 2026 09:24:23 +0000</pubDate>
     </item>
     <item>
       <title>Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection</title>
@@ -244,6 +226,15 @@ Multimodal Large Language Models (MLLMs) have shown strong performance in visual
       <pubDate>Sat, 14 Mar 2026 22:28:38 +0000</pubDate>
     </item>
     <item>
+      <title>Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories</title>
+      <link>https://huggingface.co/papers/2603.14153</link>
+      <description>By Junyao Hu, Zhongwei Cheng, Waikeung Wong, Xingxing Zou
+
+Virtual try-on (VTON) has advanced single-garment visualization, yet real-world fashion centers on full outfits with multiple garments, accessories, fine-grained categories, layering, and diverse styling, remaining beyond current VTON systems. Existing datasets are category-limited and lack outfit d...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14153</guid>
+      <pubDate>Sat, 14 Mar 2026 23:30:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models</title>
       <link>https://huggingface.co/papers/2603.14313</link>
       <description>By Yixuan Tang, Yi Yang
@@ -260,6 +251,15 @@ Federal Open Market Committee (FOMC) statements are a major source of monetary-p
 Motivation is a central driver of human behavior, shaping decisions, goals, and task performance. As large language models (LLMs) become increasingly aligned with human preferences, we ask whether they exhibit something akin to motivation. We examine whether LLMs "report" varying levels of motivatio...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14347</guid>
       <pubDate>Sun, 15 Mar 2026 12:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism</title>
+      <link>https://huggingface.co/papers/2603.14371</link>
+      <description>By Xiangyu Li, Huaizhi Tang, Xin Ding, Weijun Wang, Ting Cao, et al.
+
+Embodied AI agents increasingly require parallel execution of multiple tasks, such as manipulation, conversation, and memory construction, from shared observations under distinct time constraints. Recent Mixture-of-Transformers (MoT) Vision-Language-Action Models (VLAs) architecturally support such ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14371</guid>
+      <pubDate>Sun, 15 Mar 2026 13:23:56 +0000</pubDate>
     </item>
     <item>
       <title>AI Can Learn Scientific Taste</title>

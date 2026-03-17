@@ -43,26 +43,26 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 90311,
-    "stars_text": "90,311",
-    "forks": 7149,
+    "stars": 90458,
+    "stars_text": "90,458",
+    "forks": 7158,
     "language": "Shell",
-    "today_stars": "3,152 stars today",
+    "today_stars": "3,050 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-17T10:58:33.867572+00:00"
+    "fetched_at": "2026-03-17T11:50:53.704205+00:00"
   },
   "abhigyanpatwari/GitNexus": {
     "repo_path": "abhigyanpatwari/GitNexus",
     "repo_name": "abhigyanpatwari / GitNexus",
     "repo_url": "https://github.com/abhigyanpatwari/GitNexus",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "stars": 16091,
-    "stars_text": "16,091",
+    "stars": 16141,
+    "stars_text": "16,141",
     "forks": 1841,
     "language": "TypeScript",
-    "today_stars": "1,860 stars today",
+    "today_stars": "1,117 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-17T10:58:33.868785+00:00"
+    "fetched_at": "2026-03-17T11:50:53.705286+00:00"
   },
   "lightpanda-io/browser": {
     "repo_path": "lightpanda-io/browser",
@@ -121,13 +121,13 @@
     "repo_name": "langchain-ai / deepagents",
     "repo_url": "https://github.com/langchain-ai/deepagents",
     "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-    "stars": 13484,
-    "stars_text": "13,484",
-    "forks": 2062,
+    "stars": 13515,
+    "stars_text": "13,515",
+    "forks": 2064,
     "language": "Python",
-    "today_stars": "1,026 stars today",
+    "today_stars": "1,418 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-17T10:58:33.869307+00:00"
+    "fetched_at": "2026-03-17T11:50:53.705724+00:00"
   },
   "YishenTu/claudian": {
     "repo_path": "YishenTu/claudian",
@@ -160,38 +160,38 @@
     "repo_name": "codecrafters-io / build-your-own-x",
     "repo_url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
-    "stars": 478735,
-    "stars_text": "478,735",
-    "forks": 45045,
+    "stars": 478812,
+    "stars_text": "478,812",
+    "forks": 45052,
     "language": "Markdown",
-    "today_stars": "1,647 stars today",
+    "today_stars": "2,011 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-17T10:58:33.868127+00:00"
+    "fetched_at": "2026-03-17T11:50:53.704720+00:00"
   },
   "jarrodwatts/claude-hud": {
     "repo_path": "jarrodwatts/claude-hud",
     "repo_name": "jarrodwatts / claude-hud",
     "repo_url": "https://github.com/jarrodwatts/claude-hud",
     "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "stars": 5095,
-    "stars_text": "5,095",
-    "forks": 231,
+    "stars": 5131,
+    "stars_text": "5,131",
+    "forks": 232,
     "language": "JavaScript",
     "today_stars": "454 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-17T10:58:33.869795+00:00"
+    "fetched_at": "2026-03-17T11:50:53.706152+00:00"
   },
   "cloudflare/workerd": {
     "repo_path": "cloudflare/workerd",
     "repo_name": "cloudflare / workerd",
     "repo_url": "https://github.com/cloudflare/workerd",
     "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-    "stars": 7632,
-    "stars_text": "7,632",
+    "stars": 7646,
+    "stars_text": "7,646",
     "forks": 565,
     "language": "C++",
     "today_stars": "21 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-17T10:58:33.870303+00:00"
+    "fetched_at": "2026-03-17T11:50:53.706587+00:00"
   }
 }
