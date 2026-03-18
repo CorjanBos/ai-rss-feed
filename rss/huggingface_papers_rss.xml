@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 21:42:30 +0000</lastBuildDate>
-    <item>
-      <title>Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context</title>
-      <link>https://huggingface.co/papers/2603.15653</link>
-      <description>By Keivan Alizadeh, Parshin Shojaee, Minsik Cho, Mehrdad Farajtabar
-
-Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably extract, reason over, and use the information across long contexts. Recent works like Recursive Language Models (RLM) have approached this challenge by agentic way of...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15653</guid>
-      <pubDate>Sat, 07 Mar 2026 01:18:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 22:39:14 +0000</lastBuildDate>
     <item>
       <title>FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use</title>
       <link>https://huggingface.co/papers/2603.08262</link>
@@ -260,6 +251,15 @@ The dominant paradigm for improving mathematical reasoning in language models re
 Vision Transformers (ViTs) based vision foundation models (VFMs) have achieved remarkable performance across diverse vision tasks, but suffer from quadratic complexity that limits scalability to long sequences. Existing linear attention approaches for ViTs are typically trained from scratch, requiri...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16063</guid>
       <pubDate>Tue, 17 Mar 2026 02:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models</title>
+      <link>https://huggingface.co/papers/2603.16077</link>
+      <description>By Chen-Hao Chao, Wei-Fang Sun, Junwei Qua, Chun-Yi Lee, Rahul G. Krishnan
+
+Masked diffusion models (MDM) exhibit superior generalization when learned using a Partial masking scheme (Prime). This approach converts tokens into sub-tokens and models the diffusion process at the sub-token level. We identify two limitations of the MDM-Prime framework. First, we lack tools to gu...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16077</guid>
+      <pubDate>Tue, 17 Mar 2026 02:54:16 +0000</pubDate>
     </item>
     <item>
       <title>OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder</title>
