@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 02:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 05:03:38 +0000</lastBuildDate>
     <item>
       <title>Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context</title>
       <link>https://huggingface.co/papers/2603.15653</link>
@@ -19,31 +19,31 @@ Long-context handling remains a core challenge for language models: even with ex
       <pubDate>Sat, 07 Mar 2026 01:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning</title>
-      <link>https://huggingface.co/papers/2603.12529</link>
-      <description>By Alliot Nagle, Jakhongir Saydaliev, Dhia Garbaya, Michael Gastpar, Ashok Vardhan Makkuva, et al.
+      <title>FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use</title>
+      <link>https://huggingface.co/papers/2603.08262</link>
+      <description>By Jiaxuan Lu, Kong Wang, Yemin Wang, Qingmei Tang, Hongwei Zeng, et al.
 
-Large Reasoning Models (LRMs) achieve impressive performance on complex reasoning tasks via Chain-of-Thought (CoT) reasoning, which enables them to generate intermediate thinking tokens before arriving at the final answer. However, LRMs often suffer from significant overthinking, spending excessive ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12529</guid>
-      <pubDate>Fri, 13 Mar 2026 00:07:18 +0000</pubDate>
+The integration of Large Language Models (LLMs) into the financial domain is driving a paradigm shift from passive information retrieval to dynamic, agentic interaction. While general-purpose tool learning has witnessed a surge in benchmarks, the financial sector, characterized by high stakes, stric...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08262</guid>
+      <pubDate>Mon, 09 Mar 2026 11:33:05 +0000</pubDate>
     </item>
     <item>
-      <title>EvoClaw: Evaluating AI Agents on Continuous Software Evolution</title>
-      <link>https://huggingface.co/papers/2603.13428</link>
-      <description>By Gangda Deng, Zhaoling Chen, Zhongming Yu, Haoyang Fan, Yuhong Liu, et al.
+      <title>Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding</title>
+      <link>https://huggingface.co/papers/2603.13366</link>
+      <description>By Zhongxing Xu, Zhonghua Wang, Zhe Qian, Dachuan Shi, Feilong Tang, et al.
 
-With AI agents increasingly deployed as long-running systems, it becomes essential to autonomously construct and continuously evolve customized software to enable interaction within dynamic environments. Yet, existing benchmarks evaluate agents on isolated, one-off coding tasks, neglecting the tempo...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13428</guid>
-      <pubDate>Fri, 13 Mar 2026 03:20:40 +0000</pubDate>
+Recent advancements in multimodal large reasoning models (MLRMs) have significantly improved performance in visual question answering. However, we observe that transition words (e.g., because, however, and wait) are closely associated with hallucinations and tend to exhibit high-entropy states. We a...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13366</guid>
+      <pubDate>Mon, 09 Mar 2026 12:47:54 +0000</pubDate>
     </item>
     <item>
-      <title>MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization</title>
-      <link>https://huggingface.co/papers/2603.12743</link>
-      <description>By Chenyang Zhu, Hongxiang Li, Xiu Li, Long Chen
+      <title>One-Eval: An Agentic System for Automated and Traceable LLM Evaluation</title>
+      <link>https://huggingface.co/papers/2603.09821</link>
+      <description>By Chengyu Shen, Yanheng Hou, Minghui Pan, Runming He, Zhen Hao Wong, et al.
 
-Concept customization typically binds rare tokens to a target concept. Unfortunately, these approaches often suffer from unstable performance as the pretraining data seldom contains these rare tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept. Consequen...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12743</guid>
-      <pubDate>Fri, 13 Mar 2026 07:39:35 +0000</pubDate>
+Reliable evaluation is essential for developing and deploying large language models, yet in practice it often requires substantial manual effort: practitioners must identify appropriate benchmarks, reproduce heterogeneous evaluation codebases, configure dataset schema mappings, and interpret aggrega...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.09821</guid>
+      <pubDate>Tue, 10 Mar 2026 15:45:51 +0000</pubDate>
     </item>
     <item>
       <title>VoXtream2: Full-stream TTS with dynamic speaking rate control</title>
@@ -91,13 +91,13 @@ Clinical question answering over electronic health records (EHRs) can help clini
       <pubDate>Sat, 14 Mar 2026 14:17:55 +0000</pubDate>
     </item>
     <item>
-      <title>Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models</title>
-      <link>https://huggingface.co/papers/2603.13985</link>
-      <description>By Haitao Jiang, Wenbo Zhang, Jiarui Yao, Hengrui Cai, Sheng Wang, et al.
+      <title>SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation</title>
+      <link>https://huggingface.co/papers/2603.14152</link>
+      <description>By Anbang Wang, Yuzhuo Ao, Shangzhe Wu, Chi-Keung Tang
 
-Pre-trained Large Language Model (LLM) exhibits broad capabilities, yet, for specific tasks or domains their attainment of higher accuracy and more reliable reasoning generally depends on post-training through Supervised Fine-Tuning (SFT) or Reinforcement Learning (RL). Although often treated as dis...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13985</guid>
-      <pubDate>Sat, 14 Mar 2026 15:24:38 +0000</pubDate>
+Native 3D generative models have achieved remarkable fidelity and speed, yet they suffer from a critical limitation: inability to prescribe precise structural articulations, where precise structural control within the native 3D space remains underexplored. This paper proposes SK-Adapter, a simple an...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14152</guid>
+      <pubDate>Sat, 14 Mar 2026 23:21:38 +0000</pubDate>
     </item>
     <item>
       <title>Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories</title>
@@ -208,24 +208,6 @@ Following major advances in text and image generation, the video domain has surg
       <pubDate>Mon, 16 Mar 2026 09:26:56 +0000</pubDate>
     </item>
     <item>
-      <title>Attention Residuals</title>
-      <link>https://huggingface.co/papers/2603.15031</link>
-      <description>By Kimi Team, Guangyu Chen, Yu Zhang, Jianlin Su, Weixin Xu, et al.
-
-Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15031</guid>
-      <pubDate>Mon, 16 Mar 2026 09:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation</title>
-      <link>https://huggingface.co/papers/2603.15150</link>
-      <description>By Shufan Li, Jiuxiang Gu, Kangning Liu, Zhe Lin, Aditya Grover, et al.
-
-Recent advancements in discrete image generation showed that scaling the VQ codebook size significantly improves reconstruction fidelity. However, training generative models with a large VQ codebook remains challenging, typically requiring larger model size and a longer training schedule. In this wo...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15150</guid>
-      <pubDate>Mon, 16 Mar 2026 11:44:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Efficient Document Parsing via Parallel Token Prediction</title>
       <link>https://huggingface.co/papers/2603.15206</link>
       <description>By Lei Li, Ze Zhao, Meng Li, Zhongwang Lun, Yi Yuan, et al.
@@ -251,15 +233,6 @@ Solving problems through tool use under explicit constraints constitutes a highl
 Recent work has demonstrated the curse of depth in large language models (LLMs), where later layers contribute less to learning and representation than earlier layers. Such under-utilization is linked to the accumulated growth of variance in Pre-Layer Normalization, which can push deep blocks toward...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15389</guid>
       <pubDate>Mon, 16 Mar 2026 15:04:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Reasoning in LLMs through Strategic Information Allocation under Uncertainty</title>
-      <link>https://huggingface.co/papers/2603.15500</link>
-      <description>By Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dongsheng Li, et al.
-
-LLMs often exhibit Aha moments during reasoning, such as apparent self-correction following tokens like "Wait," yet their underlying mechanisms remain unclear. We introduce an information-theoretic framework that decomposes reasoning into procedural information and epistemic verbalization - the expl...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15500</guid>
-      <pubDate>Mon, 16 Mar 2026 16:31:24 +0000</pubDate>
     </item>
     <item>
       <title>Learning Latent Proxies for Controllable Single-Image Relighting</title>
@@ -298,15 +271,6 @@ There have been numerous attempts to distill quadratic attention-based large lan
       <pubDate>Mon, 16 Mar 2026 17:49:04 +0000</pubDate>
     </item>
     <item>
-      <title>OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data</title>
-      <link>https://huggingface.co/papers/2603.15594</link>
-      <description>By Yuwen Du, Rui Ye, Shuo Tang, Xinyu Zhu, Yijun Lu, et al.
-
-Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fu...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15594</guid>
-      <pubDate>Mon, 16 Mar 2026 17:52:04 +0000</pubDate>
-    </item>
-    <item>
       <title>MiroThinker-1.7 &amp; H1: Towards Heavy-Duty Research Agents via Verification</title>
       <link>https://huggingface.co/papers/2603.15726</link>
       <description>By MiroMind Team, S. Bai, L. Bing, L. Lei, R. Li, et al.
@@ -314,15 +278,6 @@ Deep search capabilities have become an indispensable competency for frontier La
 We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduce MiroThinker-H1, which extends the agent with heavy-duty reasoning capabilities for more reliable multi-step problem solving. In particular, MiroThinke...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15726</guid>
       <pubDate>Mon, 16 Mar 2026 17:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions</title>
-      <link>https://huggingface.co/papers/2603.15612</link>
-      <description>By Yukang Cao, Haozhe Xie, Fangzhou Hong, Long Zhuo, Zhaoxi Chen, et al.
-
-We present HSImul3R, a unified framework for simulation-ready 3D reconstruction of human-scene interactions (HSI) from casual captures, including sparse-view images and monocular videos. Existing methods suffer from a perception-simulation gap: visually plausible reconstructions often violate physic...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15612</guid>
-      <pubDate>Mon, 16 Mar 2026 17:58:33 +0000</pubDate>
     </item>
     <item>
       <title>Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion</title>
@@ -415,6 +370,33 @@ Understanding humans from LiDAR point clouds is one of the most critical tasks i
       <pubDate>Tue, 17 Mar 2026 10:20:29 +0000</pubDate>
     </item>
     <item>
+      <title>TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas</title>
+      <link>https://huggingface.co/papers/2603.16448</link>
+      <description>By Ai Jian, Xiaoyun Zhang, Wanrou Du, Jingqing Ruan, Jiangbo Pei, et al.
+
+Text-to-SQL parsing has achieved remarkable progress under the Full Schema Assumption. However, this premise fails in real-world enterprise environments where databases contain hundreds of tables with massive noisy metadata. Rather than injecting the full schema upfront, an agent must actively ident...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16448</guid>
+      <pubDate>Tue, 17 Mar 2026 12:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>InCoder-32B: Code Foundation Model for Industrial Scenarios</title>
+      <link>https://huggingface.co/papers/2603.16790</link>
+      <description>By Jian Yang, Wei Zhang, Jiajun Wu, Junhang Cheng, Shawn Guo, et al.
+
+Recent code large language models have achieved remarkable progress on general programming tasks. Nevertheless, their performance degrades significantly in industrial scenarios that require reasoning about hardware semantics, specialized language constructs, and strict resource constraints. To addre...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16790</guid>
+      <pubDate>Tue, 17 Mar 2026 17:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM</title>
+      <link>https://huggingface.co/papers/2603.16844</link>
+      <description>By Kerui Ren, Guanghao Li, Changjian Jiang, Yingxiang Xu, Tao Lu, et al.
+
+Streaming reconstruction from uncalibrated monocular video remains challenging, as it requires both high-precision pose estimation and computationally efficient online refinement in dynamic environments. While coupling 3D foundation models with SLAM frameworks is a promising paradigm, a critical bot...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16844</guid>
+      <pubDate>Tue, 17 Mar 2026 17:52:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Online Experiential Learning for Language Models</title>
       <link>https://huggingface.co/papers/2603.16856</link>
       <description>By Tianzhu Ye, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, et al.
@@ -433,12 +415,30 @@ Omni-modal large language models (OLMs) redefine human-machine interaction by na
       <pubDate>Tue, 17 Mar 2026 17:58:44 +0000</pubDate>
     </item>
     <item>
+      <title>MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation</title>
+      <link>https://huggingface.co/papers/2603.16861</link>
+      <description>By Abhay Deshpande, Maya Guru, Rose Hendrix, Snehal Jauhri, Ainaz Eftekhar, et al.
+
+A prevailing view in robot learning is that simulation alone is not enough; effective sim-to-real transfer is widely believed to require at least some real-world data collection or task-specific fine-tuning to bridge the gap between simulated and physical environments. We challenge that assumption. ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16861</guid>
+      <pubDate>Tue, 17 Mar 2026 17:59:03 +0000</pubDate>
+    </item>
+    <item>
       <title>SegviGen: Repurposing 3D Generative Model for Part Segmentation</title>
       <link>https://huggingface.co/papers/2603.16869</link>
       <description>By Lin Li, Haoran Feng, Zehuan Huang, Haohua Chen, Wenbo Nie, et al.
 
 We introduce SegviGen, a framework that repurposes native 3D generative models for 3D part segmentation. Existing pipelines either lift strong 2D priors into 3D via distillation or multi-view mask aggregation, often suffering from cross-view inconsistency and blurred boundaries, or explore native 3D...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16869</guid>
+      <pubDate>Tue, 17 Mar 2026 17:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Reasoning on the Edge</title>
+      <link>https://huggingface.co/papers/2603.16867</link>
+      <description>By Yelysei Bondarenko, Thomas Hehn, Rob Hesselink, Romain Lepert, Fabio Valerio Massoli, et al.
+
+Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirements make them impractical for edge deployment. These challenges include high token generation costs, l...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16867</guid>
       <pubDate>Tue, 17 Mar 2026 17:59:51 +0000</pubDate>
     </item>
     <item>

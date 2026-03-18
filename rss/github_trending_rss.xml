@@ -8,78 +8,78 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 02:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 05:03:39 +0000</lastBuildDate>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 92,174 → 92,763 (+589) | Ranked #1
+      <description>⭐ Stars: 92,174 → 93,189 (+1015) | Ranked #1
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 3,078 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
     <item>
       <title>codecrafters-io / build-your-own-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description>⭐ Stars: 479,713 → 479,993 (+280) | Ranked #2
+      <description>⭐ Stars: 479,713 → 480,130 (+417) | Ranked #2
 
 Master programming by recreating your favorite technologies from scratch.
 
 Language: Markdown
 1,998 stars today</description>
       <guid isPermaLink="true">https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
     <item>
       <title>abhigyanpatwari / GitNexus</title>
       <link>https://github.com/abhigyanpatwari/GitNexus</link>
-      <description>⭐ Stars: 16,671 → 16,816 (+145) | Ranked #3
+      <description>⭐ Stars: 16,671 → 16,921 (+250) | Ranked #3
 
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 Language: TypeScript
 1,116 stars today</description>
       <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
     <item>
       <title>langchain-ai / deepagents</title>
       <link>https://github.com/langchain-ai/deepagents</link>
-      <description>⭐ Stars: 14,064 → 14,253 (+189) | Ranked #4
+      <description>⭐ Stars: 14,064 → 14,375 (+311) | Ranked #4
 
 Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
 Language: Python
 1,415 stars today</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/deepagents</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 5,553 → 5,746 (+193) | Ranked #5
+      <description>⭐ Stars: 5,553 → 5,850 (+297) | Ranked #5
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
 466 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
     <item>
       <title>cloudflare / workerd</title>
       <link>https://github.com/cloudflare/workerd</link>
-      <description>⭐ Stars: 7,815 → 7,855 (+40) | Ranked #6
+      <description>⭐ Stars: 7,815 → 7,884 (+69) | Ranked #6
 
 The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 Language: C++
 31 stars today</description>
       <guid isPermaLink="true">https://github.com/cloudflare/workerd</guid>
-      <pubDate>Wed, 18 Mar 2026 02:51:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 05:03:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
