@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 11:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:42:54 +0000</lastBuildDate>
     <item>
       <title>Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context</title>
       <link>https://huggingface.co/papers/2603.15653</link>
@@ -53,6 +53,15 @@ Reliable evaluation is essential for developing and deploying large language mod
 We present Qianfan-OCR, a 4B-parameter end-to-end vision-language model that unifies document parsing, layout analysis, and document understanding within a single architecture. It performs direct image-to-Markdown conversion and supports diverse prompt-driven tasks including table extraction, chart ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13398</guid>
       <pubDate>Wed, 11 Mar 2026 16:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration</title>
+      <link>https://huggingface.co/papers/2603.12226</link>
+      <description>By Priyanka Kargupta, Shuhaib Mehri, Dilek Hakkani-Tur, Jiawei Han
+
+Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, by...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12226</guid>
+      <pubDate>Thu, 12 Mar 2026 17:48:34 +0000</pubDate>
     </item>
     <item>
       <title>Test-Time Strategies for More Efficient and Accurate Agentic RAG</title>
@@ -116,24 +125,6 @@ Many large language model applications require conditioning on long contexts. Tr
 Native 3D generative models have achieved remarkable fidelity and speed, yet they suffer from a critical limitation: inability to prescribe precise structural articulations, where precise structural control within the native 3D space remains underexplored. This paper proposes SK-Adapter, a simple an...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14152</guid>
       <pubDate>Sat, 14 Mar 2026 23:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange</title>
-      <link>https://huggingface.co/papers/2603.14312</link>
-      <description>By Fiona Y. Wang, Lee Marom, Subhadeep Pal, Rachel K. Luu, Wei Lu, et al.
-
-We present ScienceClaw + Infinite, a framework for autonomous scientific investigation in which independent agents conduct research without central coordination, and any contributor can deploy new agents into a shared ecosystem. The system is built around three components: an extensible registry of ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14312</guid>
-      <pubDate>Sun, 15 Mar 2026 10:06:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism</title>
-      <link>https://huggingface.co/papers/2603.14371</link>
-      <description>By Xiangyu Li, Huaizhi Tang, Xin Ding, Weijun Wang, Ting Cao, et al.
-
-Embodied AI agents increasingly require parallel execution of multiple tasks, such as manipulation, conversation, and memory construction, from shared observations under distinct time constraints. Recent Mixture-of-Transformers (MoT) Vision-Language-Action Models (VLAs) architecturally support such ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14371</guid>
-      <pubDate>Sun, 15 Mar 2026 13:23:56 +0000</pubDate>
     </item>
     <item>
       <title>AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents</title>
@@ -332,6 +323,15 @@ We present Polyglot-Lion, a family of compact multilingual automatic speech reco
 With the rapid advancement of vision-language models, an increasing number of studies have explored their potential for SVG generation tasks. Although existing approaches improve performance by constructing large-scale SVG datasets and introducing SVG-specific tokens, they still suffer from limited ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16189</guid>
       <pubDate>Tue, 17 Mar 2026 07:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omnilingual MT: Machine Translation for 1,600 Languages</title>
+      <link>https://huggingface.co/papers/2603.16309</link>
+      <description>By Omnilingual MT Team, Belen Alastruey, Niyati Bafna, Andrea Caciolai, Kevin Heffernan, et al.
+
+High-quality machine translation (MT) can scale to hundreds of languages, setting a high bar for multilingual systems. However, compared to the world's 7,000 languages, current systems still offer only limited coverage: about 200 languages on the target side, and maybe a few hundreds more on the sou...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16309</guid>
+      <pubDate>Tue, 17 Mar 2026 09:43:42 +0000</pubDate>
     </item>
     <item>
       <title>Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds</title>
