@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 10:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 11:51:44 +0000</lastBuildDate>
     <item>
       <title>Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context</title>
       <link>https://huggingface.co/papers/2603.15653</link>
@@ -116,15 +116,6 @@ Many large language model applications require conditioning on long contexts. Tr
 Native 3D generative models have achieved remarkable fidelity and speed, yet they suffer from a critical limitation: inability to prescribe precise structural articulations, where precise structural control within the native 3D space remains underexplored. This paper proposes SK-Adapter, a simple an...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14152</guid>
       <pubDate>Sat, 14 Mar 2026 23:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories</title>
-      <link>https://huggingface.co/papers/2603.14153</link>
-      <description>By Junyao Hu, Zhongwei Cheng, Waikeung Wong, Xingxing Zou
-
-Virtual try-on (VTON) has advanced single-garment visualization, yet real-world fashion centers on full outfits with multiple garments, accessories, fine-grained categories, layering, and diverse styling, remaining beyond current VTON systems. Existing datasets are category-limited and lack outfit d...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14153</guid>
-      <pubDate>Sat, 14 Mar 2026 23:30:32 +0000</pubDate>
     </item>
     <item>
       <title>Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange</title>
@@ -359,6 +350,15 @@ Understanding humans from LiDAR point clouds is one of the most critical tasks i
 Text-to-SQL parsing has achieved remarkable progress under the Full Schema Assumption. However, this premise fails in real-world enterprise environments where databases contain hundreds of tables with massive noisy metadata. Rather than injecting the full schema upfront, an agent must actively ident...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16448</guid>
       <pubDate>Tue, 17 Mar 2026 12:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mixture of Style Experts for Diverse Image Stylization</title>
+      <link>https://huggingface.co/papers/2603.16649</link>
+      <description>By Shihao Zhu, Ziheng Ouyang, Yijia Kang, Qilong Wang, Mi Zhou, et al.
+
+Diffusion-based stylization has advanced significantly, yet existing methods are limited to color-driven transformations, neglecting complex semantics and material details.We introduce StyleExpert, a semantic-aware framework based on the Mixture of Experts (MoE). Our framework employs a unified styl...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16649</guid>
+      <pubDate>Tue, 17 Mar 2026 15:20:19 +0000</pubDate>
     </item>
     <item>
       <title>Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation</title>

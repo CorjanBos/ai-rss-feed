@@ -4,13 +4,13 @@
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 94190,
-    "stars_text": "94,190",
-    "forks": 7445,
+    "stars": 94473,
+    "stars_text": "94,473",
+    "forks": 7480,
     "language": "Shell",
-    "today_stars": "3,078 stars today",
-    "rank": 1,
-    "fetched_at": "2026-03-18T10:07:42.120926+00:00"
+    "today_stars": "4,091 stars today",
+    "rank": 2,
+    "fetched_at": "2026-03-18T11:51:45.910445+00:00"
   },
   "codecrafters-io/build-your-own-x": {
     "repo_path": "codecrafters-io/build-your-own-x",
@@ -56,13 +56,13 @@
     "repo_name": "jarrodwatts / claude-hud",
     "repo_url": "https://github.com/jarrodwatts/claude-hud",
     "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "stars": 6107,
-    "stars_text": "6,107",
-    "forks": 270,
+    "stars": 6172,
+    "stars_text": "6,172",
+    "forks": 271,
     "language": "JavaScript",
-    "today_stars": "466 stars today",
-    "rank": 5,
-    "fetched_at": "2026-03-18T10:07:42.123124+00:00"
+    "today_stars": "1,040 stars today",
+    "rank": 1,
+    "fetched_at": "2026-03-18T11:51:45.909781+00:00"
   },
   "cloudflare/workerd": {
     "repo_path": "cloudflare/workerd",
@@ -76,5 +76,57 @@
     "today_stars": "31 stars today",
     "rank": 6,
     "fetched_at": "2026-03-18T10:07:42.123610+00:00"
+  },
+  "unslothai/unsloth": {
+    "repo_path": "unslothai/unsloth",
+    "repo_name": "unslothai / unsloth",
+    "repo_url": "https://github.com/unslothai/unsloth",
+    "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+    "stars": 55103,
+    "stars_text": "55,103",
+    "forks": 4627,
+    "language": "Python",
+    "today_stars": "975 stars today",
+    "rank": 3,
+    "fetched_at": "2026-03-18T11:51:45.911075+00:00"
+  },
+  "newton-physics/newton": {
+    "repo_path": "newton-physics/newton",
+    "repo_name": "newton-physics / newton",
+    "repo_url": "https://github.com/newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+    "stars": 2736,
+    "stars_text": "2,736",
+    "forks": 303,
+    "language": "Python",
+    "today_stars": "20 stars today",
+    "rank": 4,
+    "fetched_at": "2026-03-18T11:51:45.911554+00:00"
+  },
+  "shadps4-emu/shadPS4": {
+    "repo_path": "shadps4-emu/shadPS4",
+    "repo_name": "shadps4-emu / shadPS4",
+    "repo_url": "https://github.com/shadps4-emu/shadPS4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "stars": 29538,
+    "stars_text": "29,538",
+    "forks": 2017,
+    "language": "C++",
+    "today_stars": "683 stars today",
+    "rank": 5,
+    "fetched_at": "2026-03-18T11:51:45.912053+00:00"
+  },
+  "langchain-ai/open-swe": {
+    "repo_path": "langchain-ai/open-swe",
+    "repo_name": "langchain-ai / open-swe",
+    "repo_url": "https://github.com/langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent",
+    "stars": 5799,
+    "stars_text": "5,799",
+    "forks": 778,
+    "language": "Python",
+    "today_stars": "454 stars today",
+    "rank": 6,
+    "fetched_at": "2026-03-18T11:51:45.912535+00:00"
   }
 }
