@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 14:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:02:25 +0000</lastBuildDate>
+    <item>
+      <title>Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA</title>
+      <link>https://huggingface.co/papers/2603.08501</link>
+      <description>By Ummar Abbas, Mourad Ouzzani, Mohamed Y. Eltabakh, Omar Sinan, Gagan Bhatia, et al.
+
+Large language models (LLMs) can answer religious knowledge queries fluently, yet they often hallucinate and misattribute sources, which is especially consequential in Islamic settings where users expect grounding in canonical texts (Qur'an and Hadith) and jurisprudential (fiqh) nuance. Retrieval-au...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.08501</guid>
+      <pubDate>Mon, 09 Mar 2026 15:35:12 +0000</pubDate>
+    </item>
     <item>
       <title>MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games</title>
       <link>https://huggingface.co/papers/2603.09022</link>
@@ -37,13 +46,13 @@ Despite interdisciplinary research leading to larger and longer-term impact, mos
       <pubDate>Thu, 12 Mar 2026 17:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>Test-Time Strategies for More Efficient and Accurate Agentic RAG</title>
-      <link>https://huggingface.co/papers/2603.12396</link>
-      <description>By Brian Zhang, Deepti Guntur, Zhiyang Zuo, Abhinav Sharma, Shreyas Chaudhari, et al.
+      <title>Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass</title>
+      <link>https://huggingface.co/papers/2603.12789</link>
+      <description>By Sangmin Kim, Minhyuk Hwang, Geonho Cha, Dongyoon Wee, Jaesik Park
 
-Retrieval-Augmented Generation (RAG) systems face challenges with complex, multihop questions, and agentic frameworks such as Search-R1 (Jin et al., 2025), which operates iteratively, have been proposed to address these complexities. However, such approaches can introduce inefficiencies, including r...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12396</guid>
-      <pubDate>Thu, 12 Mar 2026 19:18:59 +0000</pubDate>
+Recent advances in 3D foundation models have led to growing interest in reconstructing humans and their surrounding environments. However, most existing approaches focus on monocular inputs, and extending them to multi-view settings requires additional overhead modules or preprocessed data. To this ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.12789</guid>
+      <pubDate>Fri, 13 Mar 2026 08:48:19 +0000</pubDate>
     </item>
     <item>
       <title>I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning</title>
@@ -188,15 +197,6 @@ The dominant paradigm for improving mathematical reasoning in language models re
 Masked diffusion models (MDM) exhibit superior generalization when learned using a Partial masking scheme (Prime). This approach converts tokens into sub-tokens and models the diffusion process at the sub-token level. We identify two limitations of the MDM-Prime framework. First, we lack tools to gu...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16077</guid>
       <pubDate>Tue, 17 Mar 2026 02:54:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training</title>
-      <link>https://huggingface.co/papers/2603.16139</link>
-      <description>By Peng Sun, Jun Xie, Tao Lin
-
-Unified Multimodal Models (UMMs) are often constrained by the pre-training of their visual generation components, which typically relies on inefficient paradigms and scarce, high-quality text-image paired data. In this paper, we systematically analyze pre-training recipes for UMM visual generation a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.16139</guid>
-      <pubDate>Tue, 17 Mar 2026 05:41:48 +0000</pubDate>
     </item>
     <item>
       <title>Omnilingual MT: Machine Translation for 1,600 Languages</title>
