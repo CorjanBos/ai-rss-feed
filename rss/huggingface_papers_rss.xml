@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:07:52 +0000</lastBuildDate>
-    <item>
-      <title>Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding</title>
-      <link>https://huggingface.co/papers/2603.13366</link>
-      <description>By Zhongxing Xu, Zhonghua Wang, Zhe Qian, Dachuan Shi, Feilong Tang, et al.
-
-Recent advancements in multimodal large reasoning models (MLRMs) have significantly improved performance in visual question answering. However, we observe that transition words (e.g., because, however, and wait) are closely associated with hallucinations and tend to exhibit high-entropy states. We a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13366</guid>
-      <pubDate>Mon, 09 Mar 2026 12:47:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 08:54:22 +0000</lastBuildDate>
     <item>
       <title>MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games</title>
       <link>https://huggingface.co/papers/2603.09022</link>
@@ -100,15 +91,6 @@ Many large language model applications require conditioning on long contexts. Tr
       <pubDate>Sat, 14 Mar 2026 10:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation</title>
-      <link>https://huggingface.co/papers/2603.14152</link>
-      <description>By Anbang Wang, Yuzhuo Ao, Shangzhe Wu, Chi-Keung Tang
-
-Native 3D generative models have achieved remarkable fidelity and speed, yet they suffer from a critical limitation: inability to prescribe precise structural articulations, where precise structural control within the native 3D space remains underexplored. This paper proposes SK-Adapter, a simple an...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14152</guid>
-      <pubDate>Sat, 14 Mar 2026 23:21:38 +0000</pubDate>
-    </item>
-    <item>
       <title>ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation</title>
       <link>https://huggingface.co/papers/2603.14326</link>
       <description>By Jungwoo Oh, Hyunseung Chung, Junhee Lee, Min-Gyu Kim, Hangyul Yoon, et al.
@@ -170,6 +152,15 @@ Agent skills, structured procedural knowledge packages injected at inference tim
 Accurate process supervision remains a critical challenge for long-horizon robotic manipulation. A primary bottleneck is that current video MLLMs, trained primarily under a Supervised Fine-Tuning (SFT) paradigm, function as passive "Observers" that recognize ongoing events rather than evaluating the...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.15600</guid>
       <pubDate>Mon, 16 Mar 2026 17:53:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models</title>
+      <link>https://huggingface.co/papers/2603.15618</link>
+      <description>By Yulin Luo, Hao Chen, Zhuangzhe Wu, Bowen Sui, Jiaming Liu, et al.
+
+Vision-Language-Action (VLA) models have recently emerged as a promising paradigm for robotic manipulation, in which reliable action prediction critically depends on accurately interpreting and integrating visual observations conditioned on language instructions. Although recent works have sought to...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.15618</guid>
+      <pubDate>Mon, 16 Mar 2026 17:59:54 +0000</pubDate>
     </item>
     <item>
       <title>Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium</title>
@@ -368,6 +359,15 @@ Large language model (LLM) agents are increasingly used for complex tasks, yet d
 With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform machine learning research, but don't offer a principled way to train such agents -- and current LLMs often generate plausible-looking but ineffective id...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.17216</guid>
       <pubDate>Tue, 17 Mar 2026 23:43:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>GigaWorld-Policy: An Efficient Action-Centered World--Action Model</title>
+      <link>https://huggingface.co/papers/2603.17240</link>
+      <description>By Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, et al.
+
+World-Action Models (WAM) initialized from pre-trained video generation backbones have demonstrated remarkable potential for robot policy learning. However, existing approaches face two critical bottlenecks that hinder performance and deployment. First, jointly reasoning over future visual dynamics ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.17240</guid>
+      <pubDate>Wed, 18 Mar 2026 00:52:02 +0000</pubDate>
     </item>
     <item>
       <title>Stereo World Model: Camera-Guided Stereo Video Generation</title>
