@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 19:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:49:47 +0000</lastBuildDate>
     <item>
       <title>[Mistral] unsloth</title>
       <link>https://github.com/unslothai/unsloth</link>
@@ -21,7 +21,7 @@ Language: Python
 Category: Mistral
 Stars: 56,049 | Forks: 4,696</description>
       <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[LLaMA] unsloth</title>
@@ -35,7 +35,7 @@ Language: Python
 Category: LLaMA
 Stars: 56,048 | Forks: 4,696</description>
       <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] ui-ux-pro-max-skill</title>
@@ -49,7 +49,7 @@ Language: Python
 Category: Claude
 Stars: 45,363 | Forks: 4,362</description>
       <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -63,7 +63,7 @@ Language: JavaScript
 Category: Claude
 Stars: 86,063 | Forks: 11,260</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -77,7 +77,7 @@ Language: TypeScript
 Category: AI
 Stars: 323,516 | Forks: 62,348</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] SuperAGI</title>
@@ -91,7 +91,7 @@ Language: Python
 Category: AGI
 Stars: 17,279 | Forks: 2,182</description>
       <guid isPermaLink="true">https://github.com/TransformerOptimus/SuperAGI</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
     <item>
       <title>[AGI] screenpipe</title>
@@ -105,7 +105,7 @@ Language: Rust
 Category: AGI
 Stars: 17,282 | Forks: 1,463</description>
       <guid isPermaLink="true">https://github.com/screenpipe/screenpipe</guid>
-      <pubDate>Thu, 19 Mar 2026 19:10:14 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 20:49:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
