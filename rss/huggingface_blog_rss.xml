@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 13:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 14:56:31 +0000</lastBuildDate>
     <item>
       <title>Train AI models with Unsloth and Hugging Face Jobs for FREE</title>
       <link>https://huggingface.co/blog/unsloth-jobs</link>
@@ -101,11 +101,11 @@
       <pubDate>Tue, 17 Mar 2026 16:37:55 +0000</pubDate>
     </item>
     <item>
-      <title>Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-3-nano-4b</link>
-      <description>By NVIDIA - Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-3-nano-4b</guid>
-      <pubDate>Tue, 17 Mar 2026 23:17:07 +0000</pubDate>
+      <title>**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**</title>
+      <link>https://huggingface.co/blog/nvidia/speed-bench</link>
+      <description>By NVIDIA - **Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/speed-bench</guid>
+      <pubDate>Thu, 19 Mar 2026 14:04:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
