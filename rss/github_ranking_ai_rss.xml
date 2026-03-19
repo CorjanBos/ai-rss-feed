@@ -8,90 +8,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 23:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:07:54 +0000</lastBuildDate>
     <item>
-      <title>[RAG] anything-llm</title>
-      <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>📉 Rank: #9 → #10 (↓1)
+      <title>[Mistral] unsloth</title>
+      <link>https://github.com/unslothai/unsloth</link>
+      <description>⭐ Stars: 54,819 → 56,049 (+1,230)
 
-The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 
-Language: JavaScript
+Language: Python
 
-Category: RAG
-Stars: 56,390 | Forks: 6,091</description>
-      <guid isPermaLink="true">https://github.com/Mintplex-Labs/anything-llm</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
+Category: Mistral
+Stars: 56,049 | Forks: 4,696</description>
+      <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>[RAG] llm-app</title>
-      <link>https://github.com/pathwaycom/llm-app</link>
-      <description>📈 Rank: #10 → #9 (↑1)
+      <title>[LLaMA] unsloth</title>
+      <link>https://github.com/unslothai/unsloth</link>
+      <description>⭐ Stars: 54,818 → 56,048 (+1,230)
 
-Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 
-Language: Jupyter Notebook
+Language: Python
 
-Category: RAG
-Stars: 57,016 | Forks: 1,387</description>
-      <guid isPermaLink="true">https://github.com/pathwaycom/llm-app</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] LocalAI</title>
-      <link>https://github.com/mudler/LocalAI</link>
-      <description>📉 Rank: #9 → #10 (↓1)
-
-:robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-
-Language: Go
-
-Category: Claude
-Stars: 43,821 | Forks: 3,716</description>
-      <guid isPermaLink="true">https://github.com/mudler/LocalAI</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] everything-claude-code</title>
-      <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 80,930 → 83,605 (+2,675)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-Language: JavaScript
-
-Category: Claude
-Stars: 83,605 | Forks: 10,892</description>
-      <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
+Category: LLaMA
+Stars: 56,048 | Forks: 4,696</description>
+      <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] ui-ux-pro-max-skill</title>
       <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
-      <description>📈 Rank: #10 → #9 (↑1) | ⭐ Stars: 43,012 → 44,344 (+1,332)
+      <description>⭐ Stars: 44,344 → 45,363 (+1,019)
 
 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 Language: Python
 
 Category: Claude
-Stars: 44,344 | Forks: 4,263</description>
+Stars: 45,363 | Forks: 4,362</description>
       <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] everything-claude-code</title>
+      <link>https://github.com/affaan-m/everything-claude-code</link>
+      <description>⭐ Stars: 83,605 → 86,063 (+2,458)
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+Language: JavaScript
+
+Category: Claude
+Stars: 86,063 | Forks: 11,260</description>
+      <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 318,071 → 321,060 (+2,989)
+      <description>⭐ Stars: 321,060 → 323,516 (+2,456)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 321,060 | Forks: 61,688</description>
+Stars: 323,516 | Forks: 62,348</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Wed, 18 Mar 2026 23:36:56 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AGI] SuperAGI</title>
+      <link>https://github.com/TransformerOptimus/SuperAGI</link>
+      <description>📉 Rank: #2 → #3 (↓1)
+
+&lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage &amp; run useful autonomous agents quickly and reliably.
+
+Language: Python
+
+Category: AGI
+Stars: 17,279 | Forks: 2,182</description>
+      <guid isPermaLink="true">https://github.com/TransformerOptimus/SuperAGI</guid>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AGI] screenpipe</title>
+      <link>https://github.com/screenpipe/screenpipe</link>
+      <description>📈 Rank: #3 → #2 (↑1)
+
+screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+
+Language: Rust
+
+Category: AGI
+Stars: 17,282 | Forks: 1,463</description>
+      <guid isPermaLink="true">https://github.com/screenpipe/screenpipe</guid>
+      <pubDate>Thu, 19 Mar 2026 07:07:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
