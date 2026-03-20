@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 16:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:40:39 +0000</lastBuildDate>
     <item>
       <title>Train AI models with Unsloth and Hugging Face Jobs for FREE</title>
       <link>https://huggingface.co/blog/unsloth-jobs</link>
@@ -94,18 +94,18 @@
       <pubDate>Tue, 17 Mar 2026 16:37:55 +0000</pubDate>
     </item>
     <item>
-      <title>**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**</title>
-      <link>https://huggingface.co/blog/nvidia/speed-bench</link>
-      <description>By NVIDIA - **Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/speed-bench</guid>
-      <pubDate>Thu, 19 Mar 2026 14:04:54 +0000</pubDate>
-    </item>
-    <item>
       <title>What's New in Mellea 0.4.0 + Granite Libraries Release</title>
       <link>https://huggingface.co/blog/ibm-granite/granite-libraries</link>
       <description>By IBM Granite - What's New in Mellea 0.4.0 + Granite Libraries Release</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-libraries</guid>
       <pubDate>Fri, 20 Mar 2026 14:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-content-safety</link>
+      <description>By NVIDIA - Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-3-content-safety</guid>
+      <pubDate>Fri, 20 Mar 2026 17:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
