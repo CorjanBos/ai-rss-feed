@@ -4,52 +4,52 @@
     "repo_name": "opendataloader-project / opendataloader-pdf",
     "repo_url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "stars": 6688,
-    "stars_text": "6,688",
-    "forks": 480,
+    "stars": 6733,
+    "stars_text": "6,733",
+    "forks": 482,
     "language": "Java",
     "today_stars": "1,848 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-20T14:52:08.868710+00:00"
+    "fetched_at": "2026-03-20T15:51:51.669906+00:00"
   },
   "langchain-ai/open-swe": {
     "repo_path": "langchain-ai/open-swe",
     "repo_name": "langchain-ai / open-swe",
     "repo_url": "https://github.com/langchain-ai/open-swe",
     "description": "An Open-Source Asynchronous Coding Agent",
-    "stars": 7444,
-    "stars_text": "7,444",
-    "forks": 902,
+    "stars": 7468,
+    "stars_text": "7,468",
+    "forks": 903,
     "language": "Python",
     "today_stars": "640 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-20T14:52:08.867573+00:00"
+    "fetched_at": "2026-03-20T15:51:51.668751+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 100917,
-    "stars_text": "100,917",
-    "forks": 8056,
+    "stars": 101006,
+    "stars_text": "101,006",
+    "forks": 8064,
     "language": "Shell",
     "today_stars": "2,886 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-20T14:52:08.868217+00:00"
+    "fetched_at": "2026-03-20T15:51:51.669401+00:00"
   },
   "jarrodwatts/claude-hud": {
     "repo_path": "jarrodwatts/claude-hud",
     "repo_name": "jarrodwatts / claude-hud",
     "repo_url": "https://github.com/jarrodwatts/claude-hud",
     "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "stars": 9220,
-    "stars_text": "9,220",
-    "forks": 385,
+    "stars": 9272,
+    "stars_text": "9,272",
+    "forks": 388,
     "language": "JavaScript",
     "today_stars": "1,074 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-20T14:52:08.867014+00:00"
+    "fetched_at": "2026-03-20T15:51:51.668194+00:00"
   },
   "unslothai/unsloth": {
     "repo_path": "unslothai/unsloth",
@@ -95,26 +95,26 @@
     "repo_name": "newton-physics / newton",
     "repo_url": "https://github.com/newton-physics/newton",
     "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "stars": 3380,
-    "stars_text": "3,380",
+    "stars": 3391,
+    "stars_text": "3,391",
     "forks": 351,
     "language": "Python",
     "today_stars": "267 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-20T14:52:08.869694+00:00"
+    "fetched_at": "2026-03-20T15:51:51.670912+00:00"
   },
   "louis-e/arnis": {
     "repo_path": "louis-e/arnis",
     "repo_name": "louis-e / arnis",
     "repo_url": "https://github.com/louis-e/arnis",
     "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-    "stars": 11335,
-    "stars_text": "11,335",
+    "stars": 11368,
+    "stars_text": "11,368",
     "forks": 980,
     "language": "Rust",
     "today_stars": "1,073 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-20T14:52:08.869208+00:00"
+    "fetched_at": "2026-03-20T15:51:51.670415+00:00"
   },
   "FujiwaraChoki/MoneyPrinterV2": {
     "repo_path": "FujiwaraChoki/MoneyPrinterV2",
@@ -160,38 +160,38 @@
     "repo_name": "vas3k / TaxHacker",
     "repo_url": "https://github.com/vas3k/TaxHacker",
     "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-    "stars": 1718,
-    "stars_text": "1,718",
-    "forks": 244,
+    "stars": 1745,
+    "stars_text": "1,745",
+    "forks": 245,
     "language": "TypeScript",
     "today_stars": "136 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-20T14:52:08.870305+00:00"
+    "fetched_at": "2026-03-20T15:51:51.671535+00:00"
   },
   "TauricResearch/TradingAgents": {
     "repo_path": "TauricResearch/TradingAgents",
     "repo_name": "TauricResearch / TradingAgents",
     "repo_url": "https://github.com/TauricResearch/TradingAgents",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "stars": 33662,
-    "stars_text": "33,662",
-    "forks": 6486,
+    "stars": 33722,
+    "stars_text": "33,722",
+    "forks": 6492,
     "language": "Python",
     "today_stars": "371 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-20T14:52:08.870791+00:00"
+    "fetched_at": "2026-03-20T15:51:51.672034+00:00"
   },
   "openrocket/openrocket": {
     "repo_path": "openrocket/openrocket",
     "repo_name": "openrocket / openrocket",
     "repo_url": "https://github.com/openrocket/openrocket",
     "description": "Model-rocketry aerodynamics and trajectory simulation software",
-    "stars": 2096,
-    "stars_text": "2,096",
-    "forks": 571,
+    "stars": 2110,
+    "stars_text": "2,110",
+    "forks": 572,
     "language": "Java",
     "today_stars": "132 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-20T14:52:08.871288+00:00"
+    "fetched_at": "2026-03-20T15:51:51.672521+00:00"
   }
 }
