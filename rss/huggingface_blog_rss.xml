@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 19:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 20:41:30 +0000</lastBuildDate>
     <item>
       <title>Train AI models with Unsloth and Hugging Face Jobs for FREE</title>
       <link>https://huggingface.co/blog/unsloth-jobs</link>
@@ -101,11 +101,11 @@
       <pubDate>Fri, 20 Mar 2026 14:14:46 +0000</pubDate>
     </item>
     <item>
-      <title>Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-3-content-safety</link>
-      <description>By NVIDIA - Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-3-content-safety</guid>
-      <pubDate>Fri, 20 Mar 2026 17:00:44 +0000</pubDate>
+      <title>Build a Domain-Specific Embedding Model in Under a Day</title>
+      <link>https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</link>
+      <description>By NVIDIA - Build a Domain-Specific Embedding Model in Under a Day</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</guid>
+      <pubDate>Fri, 20 Mar 2026 19:38:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
