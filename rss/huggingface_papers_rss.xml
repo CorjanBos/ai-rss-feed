@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 02:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:53:27 +0000</lastBuildDate>
     <item>
       <title>Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA</title>
       <link>https://huggingface.co/papers/2603.08501</link>
@@ -26,6 +26,15 @@ Large language models (LLMs) can answer religious knowledge queries fluently, ye
 We introduce Distribution Contractive Reinforcement Learning (DICE-RL), a framework that uses reinforcement learning (RL) as a "distribution contraction" operator to refine pretrained generative robot policies. DICE-RL turns a pretrained behavior prior into a high-performing "pro" policy by amplifyi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.10263</guid>
       <pubDate>Tue, 10 Mar 2026 22:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>COT-FM: Cluster-wise Optimal Transport Flow Matching</title>
+      <link>https://huggingface.co/papers/2603.13395</link>
+      <description>By Chiensheng Chiang, Kuan-Hsun Tu, Jia-Wei Liao, Cheng-Fu Chou, Tsung-Wei Ke
+
+We introduce COT-FM, a general framework that reshapes the probability path in Flow Matching (FM) to achieve faster and more reliable generation. FM models often produce curved trajectories due to random or batchwise couplings, which increase discretization error and reduce sample quality. COT-FM fi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13395</guid>
+      <pubDate>Wed, 11 Mar 2026 13:52:17 +0000</pubDate>
     </item>
     <item>
       <title>Expert Threshold Routing for Autoregressive Language Modeling with Dynamic Computation Allocation and Load Balancing</title>
@@ -73,15 +82,6 @@ A recent trend in vision-language models (VLMs) has been to enhance their spatia
       <pubDate>Fri, 13 Mar 2026 14:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>BERTology of Molecular Property Prediction</title>
-      <link>https://huggingface.co/papers/2603.13627</link>
-      <description>By Mohammad Mostafanejad, Paul Saxe, T. Daniel Crawford
-
-Chemical language models (CLMs) have emerged as promising competitors to popular classical machine learning models for molecular property prediction (MPP) tasks. However, an increasing number of studies have reported inconsistent and contradictory results for the performance of CLMs across various M...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13627</guid>
-      <pubDate>Fri, 13 Mar 2026 22:18:22 +0000</pubDate>
-    </item>
-    <item>
       <title>MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning</title>
       <link>https://huggingface.co/papers/2603.16929</link>
       <description>By Hongjun Wang, Wei Liu, Weibo Gu, Xing Sun, Kai Han
@@ -89,15 +89,6 @@ Chemical language models (CLMs) have emerged as promising competitors to popular
 Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevailing ratio control methods, such as hard clipping, suffer from non-differentiable boundaries and vanishing gradient regions, failing to maintain gradie...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16929</guid>
       <pubDate>Sat, 14 Mar 2026 00:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation</title>
-      <link>https://huggingface.co/papers/2603.14326</link>
-      <description>By Jungwoo Oh, Hyunseung Chung, Junhee Lee, Min-Gyu Kim, Hangyul Yoon, et al.
-
-While Multimodal Large Language Models (MLLMs) show promising performance in automated electrocardiogram interpretation, it remains unclear whether they genuinely perform actual step-by-step reasoning or just rely on superficial visual cues. To investigate this, we introduce ECG-Reasoning-Benchmark,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14326</guid>
-      <pubDate>Sun, 15 Mar 2026 11:09:38 +0000</pubDate>
     </item>
     <item>
       <title>V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning</title>
@@ -206,24 +197,6 @@ Can AI reason about a war before its trajectory becomes historically obvious? An
 Adapting large-scale Vision-Language Models (VLMs) like CLIP to downstream tasks often suffers from a "one-size-fits-all" architectural approach, where visual and textual tokens are processed uniformly by wide, generic adapters. We argue that this homogeneity ignores the distinct structural nature o...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16653</guid>
       <pubDate>Tue, 17 Mar 2026 15:23:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising</title>
-      <link>https://huggingface.co/papers/2603.16792</link>
-      <description>By Han Lin, Xichen Pan, Zun Wang, Yue Zhang, Chu Wang, et al.
-
-Pixel-space diffusion has recently re-emerged as a strong alternative to latent diffusion, enabling high-quality generation without pretrained autoencoders. However, standard pixel-space diffusion models receive relatively weak semantic supervision and are not explicitly designed to capture high-lev...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.16792</guid>
-      <pubDate>Tue, 17 Mar 2026 17:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation</title>
-      <link>https://huggingface.co/papers/2603.16864</link>
-      <description>By Jiongze Yu, Xiangbo Gao, Pooja Verlani, Akshay Gadde, Yilin Wang, et al.
-
-Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reliably correct unexpected artifacts, but instead can only accept whatever the model produces. In this ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.16864</guid>
-      <pubDate>Tue, 17 Mar 2026 17:59:30 +0000</pubDate>
     </item>
     <item>
       <title>PRISM: Demystifying Retention and Interaction in Mid-Training</title>
@@ -388,6 +361,24 @@ Token pruning is essential for enhancing the computational efficiency of vision-
       <pubDate>Wed, 18 Mar 2026 17:59:56 +0000</pubDate>
     </item>
     <item>
+      <title>Memento-Skills: Let Agents Design Agents</title>
+      <link>https://huggingface.co/papers/2603.18743</link>
+      <description>By Huichi Zhou, Siyuan Guo, Anjie Liu, Zhongwei Yu, Ziqin Gong, et al.
+
+We introduce Memento-Skills, a generalist, continually-learnable LLM agent system that functions as an agent-designing agent: it autonomously constructs, adapts, and improves task-specific agents through experience. The system is built on a memory-based reinforcement learning framework with stateful...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.18743</guid>
+      <pubDate>Thu, 19 Mar 2026 10:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents</title>
+      <link>https://huggingface.co/papers/2603.18815</link>
+      <description>By Hao Zhang, Mingjie Liu, Shaokun Zhang, Songyang Han, Jian Hu, et al.
+
+Multi-turn LLM agents are increasingly important for solving complex, interactive tasks, and reinforcement learning (RL) is a key ingredient for improving their long-horizon behavior. However, RL training requires generating large numbers of sandboxed rollout trajectories, and existing infrastructur...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.18815</guid>
+      <pubDate>Thu, 19 Mar 2026 12:08:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Reasoning over mathematical objects: on-policy reward modeling and test time aggregation</title>
       <link>https://huggingface.co/papers/2603.18886</link>
       <description>By Pranjal Aggarwal, Marjan Ghazvininejad, Seungone Kim, Ilia Kulikov, Jack Lanchantin, et al.
@@ -404,6 +395,15 @@ The ability to precisely derive mathematical objects is a core requirement for d
 Real-time execution is crucial for deploying Vision-Language-Action (VLA) models in the physical world. Existing asynchronous inference methods primarily optimize trajectory smoothness, but neglect the critical latency in reacting to environmental changes. By rethinking the notion of reaction in act...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19199</guid>
       <pubDate>Thu, 19 Mar 2026 17:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs</title>
+      <link>https://huggingface.co/papers/2603.19217</link>
+      <description>By Keda Tao, Yuhua Zheng, Jia Xu, Wenjie Du, Kele Shao, et al.
+
+Recent advancements in omnimodal large language models (OmniLLMs) have significantly improved the comprehension of audio and video inputs. However, current evaluations primarily focus on short audio and video clips ranging from 10 seconds to 5 minutes, failing to reflect the demands of real-world ap...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19217</guid>
+      <pubDate>Thu, 19 Mar 2026 17:58:13 +0000</pubDate>
     </item>
     <item>
       <title>Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation</title>
