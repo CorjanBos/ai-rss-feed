@@ -8,150 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:37:54 +0000</lastBuildDate>
     <item>
-      <title>tw93 / Mole</title>
-      <link>https://github.com/tw93/Mole</link>
+      <title>vas3k / TaxHacker</title>
+      <link>https://github.com/vas3k/TaxHacker</link>
       <description>🆕 NEW ENTRY - Ranked #7
 
-🐹 Deep clean and optimize your Mac.
+Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
-Language: Shell
-399 stars today</description>
-      <guid isPermaLink="true">https://github.com/tw93/Mole</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+Language: TypeScript
+136 stars today</description>
+      <guid isPermaLink="true">https://github.com/vas3k/TaxHacker</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>opendataloader-project / opendataloader-pdf</title>
-      <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
-      <description>⭐ Stars: 5,518 → 6,499 (+981) | Ranked #1
+      <title>TauricResearch / TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <description>🆕 NEW ENTRY - Ranked #8
 
-PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-
-Language: Java
-1,416 stars today</description>
-      <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>langchain-ai / open-swe</title>
-      <link>https://github.com/langchain-ai/open-swe</link>
-      <description>⭐ Stars: 7,000 → 7,344 (+344) | Ranked #2
-
-An Open-Source Asynchronous Coding Agent
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 Language: Python
-965 stars today</description>
-      <guid isPermaLink="true">https://github.com/langchain-ai/open-swe</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+371 stars today</description>
+      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>obra / superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 99,090 → 100,578 (+1488) | Ranked #3
+      <title>openrocket / openrocket</title>
+      <link>https://github.com/openrocket/openrocket</link>
+      <description>🆕 NEW ENTRY - Ranked #9
 
-An agentic skills framework &amp; software development methodology that works.
+Model-rocketry aerodynamics and trajectory simulation software
 
-Language: Shell
-3,494 stars today</description>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+Language: Java
+132 stars today</description>
+      <guid isPermaLink="true">https://github.com/openrocket/openrocket</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 8,468 → 9,029 (+561) | Ranked #4
+      <description>📈 Rank: #4 → #1 (↑3) | ⭐ Stars: 8,468 → 9,051 (+583)
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
-1,851 stars today</description>
+1,074 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>unslothai / unsloth</title>
-      <link>https://github.com/unslothai/unsloth</link>
-      <description>⭐ Stars: 56,672 → 56,983 (+311) | Ranked #5
+      <title>langchain-ai / open-swe</title>
+      <link>https://github.com/langchain-ai/open-swe</link>
+      <description>⭐ Stars: 7,000 → 7,367 (+367) | Ranked #2
 
-Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+An Open-Source Asynchronous Coding Agent
 
 Language: Python
-1,262 stars today</description>
-      <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+640 stars today</description>
+      <guid isPermaLink="true">https://github.com/langchain-ai/open-swe</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>mobile-dev-inc / Maestro</title>
-      <link>https://github.com/mobile-dev-inc/Maestro</link>
-      <description>⭐ Stars: 12,413 → 12,722 (+309) | Ranked #6
+      <title>obra / superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <description>⭐ Stars: 99,090 → 100,639 (+1549) | Ranked #3
 
-Painless E2E Automation for Mobile and Web
+An agentic skills framework &amp; software development methodology that works.
 
-Language: Kotlin
-492 stars today</description>
-      <guid isPermaLink="true">https://github.com/mobile-dev-inc/Maestro</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+Language: Shell
+2,886 stars today</description>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>newton-physics / newton</title>
-      <link>https://github.com/newton-physics/newton</link>
-      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 3,212 → 3,333 (+121)
+      <title>opendataloader-project / opendataloader-pdf</title>
+      <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
+      <description>📉 Rank: #1 → #4 (↓3) | ⭐ Stars: 5,518 → 6,530 (+1012)
 
-An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
-Language: Python
-346 stars today</description>
-      <guid isPermaLink="true">https://github.com/newton-physics/newton</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+Language: Java
+1,848 stars today</description>
+      <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>📉 Rank: #8 → #9 (↓1) | ⭐ Stars: 10,713 → 11,166 (+453)
+      <description>📈 Rank: #8 → #5 (↑3) | ⭐ Stars: 10,713 → 11,188 (+475)
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
-946 stars today</description>
+1,073 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
     <item>
-      <title>FujiwaraChoki / MoneyPrinterV2</title>
-      <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>📉 Rank: #9 → #10 (↓1) | ⭐ Stars: 16,032 → 16,434 (+402)
+      <title>newton-physics / newton</title>
+      <link>https://github.com/newton-physics/newton</link>
+      <description>📈 Rank: #7 → #6 (↑1) | ⭐ Stars: 3,212 → 3,341 (+129)
 
-Automate the process of making money online.
+An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
 Language: Python
-146 stars today</description>
-      <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>gsd-build / get-shit-done</title>
-      <link>https://github.com/gsd-build/get-shit-done</link>
-      <description>📉 Rank: #10 → #11 (↓1) | ⭐ Stars: 36,037 → 36,737 (+700)
-
-A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-
-Language: JavaScript
-1,491 stars today</description>
-      <guid isPermaLink="true">https://github.com/gsd-build/get-shit-done</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>shareAI-lab / learn-claude-code</title>
-      <link>https://github.com/shareAI-lab/learn-claude-code</link>
-      <description>📉 Rank: #11 → #12 (↓1) | ⭐ Stars: 33,566 → 34,387 (+821)
-
-Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-
-Language: TypeScript
-1,448 stars today</description>
-      <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
-      <pubDate>Fri, 20 Mar 2026 10:49:29 +0000</pubDate>
+267 stars today</description>
+      <guid isPermaLink="true">https://github.com/newton-physics/newton</guid>
+      <pubDate>Fri, 20 Mar 2026 11:37:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
