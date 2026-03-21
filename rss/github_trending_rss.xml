@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 15:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:39:07 +0000</lastBuildDate>
     <item>
       <title>systemd / systemd</title>
       <link>https://github.com/systemd/systemd</link>
@@ -19,7 +19,7 @@ The systemd System and Service Manager
 Language: C
 112 stars today</description>
       <guid isPermaLink="true">https://github.com/systemd/systemd</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>aquasecurity / trivy</title>
@@ -31,7 +31,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 Language: Go
 22 stars today</description>
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
@@ -43,7 +43,7 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 Language: TypeScript
 2,054 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>protocolbuffers / protobuf</title>
@@ -55,7 +55,7 @@ Protocol Buffers - Google's data interchange format
 Language: C++
 7 stars today</description>
       <guid isPermaLink="true">https://github.com/protocolbuffers/protobuf</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>vllm-project / vllm-omni</title>
@@ -67,55 +67,55 @@ A framework for efficient model inference with omni-modality models
 Language: Python
 82 stars today</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm-omni</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>📈 Rank: #10 → #1 (↑9) | ⭐ Stars: 16,434 → 17,101 (+667)
+      <description>📈 Rank: #10 → #1 (↑9) | ⭐ Stars: 16,434 → 17,193 (+759)
 
 Automate the process of making money online.
 
 Language: Python
 379 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>opendataloader-project / opendataloader-pdf</title>
       <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
-      <description>📉 Rank: #4 → #5 (↓1) | ⭐ Stars: 7,004 → 7,645 (+641)
+      <description>📉 Rank: #4 → #5 (↓1) | ⭐ Stars: 7,004 → 7,679 (+675)
 
 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 Language: Java
 954 stars today</description>
       <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>📉 Rank: #1 → #6 (↓5) | ⭐ Stars: 9,500 → 10,186 (+686)
+      <description>📉 Rank: #1 → #6 (↓5) | ⭐ Stars: 9,500 → 10,229 (+729)
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
 957 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>📉 Rank: #5 → #9 (↓4) | ⭐ Stars: 11,556 → 11,999 (+443)
+      <description>📉 Rank: #5 → #9 (↓4) | ⭐ Stars: 11,556 → 12,028 (+472)
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
 680 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Sat, 21 Mar 2026 15:33:48 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:39:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

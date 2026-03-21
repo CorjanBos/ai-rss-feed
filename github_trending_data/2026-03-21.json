@@ -4,13 +4,13 @@
     "repo_name": "jarrodwatts / claude-hud",
     "repo_url": "https://github.com/jarrodwatts/claude-hud",
     "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "stars": 10186,
-    "stars_text": "10,186",
-    "forks": 441,
+    "stars": 10229,
+    "stars_text": "10,229",
+    "forks": 442,
     "language": "JavaScript",
     "today_stars": "957 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-21T15:33:48.852195+00:00"
+    "fetched_at": "2026-03-21T16:39:07.928681+00:00"
   },
   "langchain-ai/open-swe": {
     "repo_path": "langchain-ai/open-swe",
@@ -43,26 +43,26 @@
     "repo_name": "opendataloader-project / opendataloader-pdf",
     "repo_url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "stars": 7645,
-    "stars_text": "7,645",
+    "stars": 7679,
+    "stars_text": "7,679",
     "forks": 527,
     "language": "Java",
     "today_stars": "954 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-21T15:33:48.851698+00:00"
+    "fetched_at": "2026-03-21T16:39:07.928183+00:00"
   },
   "louis-e/arnis": {
     "repo_path": "louis-e/arnis",
     "repo_name": "louis-e / arnis",
     "repo_url": "https://github.com/louis-e/arnis",
     "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-    "stars": 11999,
-    "stars_text": "11,999",
-    "forks": 1007,
+    "stars": 12028,
+    "stars_text": "12,028",
+    "forks": 1008,
     "language": "Rust",
     "today_stars": "680 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-21T15:33:48.853831+00:00"
+    "fetched_at": "2026-03-21T16:39:07.930265+00:00"
   },
   "newton-physics/newton": {
     "repo_path": "newton-physics/newton",
@@ -121,77 +121,77 @@
     "repo_name": "FujiwaraChoki / MoneyPrinterV2",
     "repo_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "description": "Automate the process of making money online.",
-    "stars": 17101,
-    "stars_text": "17,101",
-    "forks": 1825,
+    "stars": 17193,
+    "stars_text": "17,193",
+    "forks": 1832,
     "language": "Python",
     "today_stars": "379 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-21T15:33:48.849562+00:00"
+    "fetched_at": "2026-03-21T16:39:07.926097+00:00"
   },
   "systemd/systemd": {
     "repo_path": "systemd/systemd",
     "repo_name": "systemd / systemd",
     "repo_url": "https://github.com/systemd/systemd",
     "description": "The systemd System and Service Manager",
-    "stars": 15611,
-    "stars_text": "15,611",
-    "forks": 4338,
+    "stars": 15627,
+    "stars_text": "15,627",
+    "forks": 4340,
     "language": "C",
     "today_stars": "112 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-21T15:33:48.850152+00:00"
+    "fetched_at": "2026-03-21T16:39:07.926674+00:00"
   },
   "aquasecurity/trivy": {
     "repo_path": "aquasecurity/trivy",
     "repo_name": "aquasecurity / trivy",
     "repo_url": "https://github.com/aquasecurity/trivy",
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "stars": 33296,
-    "stars_text": "33,296",
-    "forks": 117,
+    "stars": 33302,
+    "stars_text": "33,302",
+    "forks": 118,
     "language": "Go",
     "today_stars": "22 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-21T15:33:48.850678+00:00"
+    "fetched_at": "2026-03-21T16:39:07.927172+00:00"
   },
   "Crosstalk-Solutions/project-nomad": {
     "repo_path": "Crosstalk-Solutions/project-nomad",
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 5805,
-    "stars_text": "5,805",
-    "forks": 543,
+    "stars": 5924,
+    "stars_text": "5,924",
+    "forks": 557,
     "language": "TypeScript",
     "today_stars": "2,054 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-21T15:33:48.851196+00:00"
+    "fetched_at": "2026-03-21T16:39:07.927702+00:00"
   },
   "protocolbuffers/protobuf": {
     "repo_path": "protocolbuffers/protobuf",
     "repo_name": "protocolbuffers / protobuf",
     "repo_url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
-    "stars": 70906,
-    "stars_text": "70,906",
-    "forks": 16080,
+    "stars": 70910,
+    "stars_text": "70,910",
+    "forks": 16082,
     "language": "C++",
     "today_stars": "7 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-21T15:33:48.852710+00:00"
+    "fetched_at": "2026-03-21T16:39:07.929155+00:00"
   },
   "vllm-project/vllm-omni": {
     "repo_path": "vllm-project/vllm-omni",
     "repo_name": "vllm-project / vllm-omni",
     "repo_url": "https://github.com/vllm-project/vllm-omni",
     "description": "A framework for efficient model inference with omni-modality models",
-    "stars": 3424,
-    "stars_text": "3,424",
+    "stars": 3432,
+    "stars_text": "3,432",
     "forks": 584,
     "language": "Python",
     "today_stars": "82 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-21T15:33:48.853332+00:00"
+    "fetched_at": "2026-03-21T16:39:07.929785+00:00"
   }
 }
