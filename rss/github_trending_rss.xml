@@ -8,114 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 02:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:43:24 +0000</lastBuildDate>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 9,500 → 9,597 (+97) | Ranked #1
+      <description>⭐ Stars: 9,500 → 9,711 (+211) | Ranked #1
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
 1,068 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>langchain-ai / open-swe</title>
       <link>https://github.com/langchain-ai/open-swe</link>
-      <description>⭐ Stars: 7,616 → 7,671 (+55) | Ranked #2
+      <description>⭐ Stars: 7,616 → 7,720 (+104) | Ranked #2
 
 An Open-Source Asynchronous Coding Agent
 
 Language: Python
 635 stars today</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/open-swe</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 101,465 → 101,681 (+216) | Ranked #3
+      <description>⭐ Stars: 101,465 → 101,844 (+379) | Ranked #3
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 2,819 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>opendataloader-project / opendataloader-pdf</title>
       <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
-      <description>⭐ Stars: 7,004 → 7,101 (+97) | Ranked #4
+      <description>⭐ Stars: 7,004 → 7,181 (+177) | Ranked #4
 
 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 Language: Java
 1,812 stars today</description>
       <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>⭐ Stars: 11,556 → 11,623 (+67) | Ranked #5
+      <description>⭐ Stars: 11,556 → 11,674 (+118) | Ranked #5
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
 1,045 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>newton-physics / newton</title>
       <link>https://github.com/newton-physics/newton</link>
-      <description>⭐ Stars: 3,457 → 3,490 (+33) | Ranked #6
+      <description>⭐ Stars: 3,457 → 3,515 (+58) | Ranked #6
 
 An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
 Language: Python
 266 stars today</description>
       <guid isPermaLink="true">https://github.com/newton-physics/newton</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>vas3k / TaxHacker</title>
       <link>https://github.com/vas3k/TaxHacker</link>
-      <description>⭐ Stars: 1,901 → 1,975 (+74) | Ranked #7
+      <description>⭐ Stars: 1,901 → 2,016 (+115) | Ranked #7
 
 Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
 Language: TypeScript
 137 stars today</description>
       <guid isPermaLink="true">https://github.com/vas3k/TaxHacker</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>TauricResearch / TradingAgents</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
-      <description>⭐ Stars: 34,046 → 34,177 (+131) | Ranked #8
+      <description>⭐ Stars: 34,046 → 34,305 (+259) | Ranked #8
 
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 Language: Python
 433 stars today</description>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
     <item>
       <title>openrocket / openrocket</title>
       <link>https://github.com/openrocket/openrocket</link>
-      <description>⭐ Stars: 2,194 → 2,233 (+39) | Ranked #9
+      <description>⭐ Stars: 2,194 → 2,255 (+61) | Ranked #9
 
 Model-rocketry aerodynamics and trajectory simulation software
 
 Language: Java
 144 stars today</description>
       <guid isPermaLink="true">https://github.com/openrocket/openrocket</guid>
-      <pubDate>Sat, 21 Mar 2026 02:37:18 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 04:43:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
