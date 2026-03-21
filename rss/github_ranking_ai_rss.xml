@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 07:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:43:04 +0000</lastBuildDate>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
@@ -21,7 +21,7 @@ Language: JavaScript
 Category: LLM
 Stars: 91,225 | Forks: 11,986</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] Pake</title>
@@ -35,7 +35,7 @@ Language: Rust
 Category: Claude
 Stars: 46,759 | Forks: 9,159</description>
       <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -49,7 +49,7 @@ Language: JavaScript
 Category: Claude
 Stars: 91,226 | Forks: 11,986</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] ui-ux-pro-max-skill</title>
@@ -63,7 +63,7 @@ Language: Python
 Category: Claude
 Stars: 46,912 | Forks: 4,548</description>
       <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] quivr</title>
@@ -77,7 +77,7 @@ Language: Python
 Category: Chatbot
 Stars: 39,037 | Forks: 3,734</description>
       <guid isPermaLink="true">https://github.com/QuivrHQ/quivr</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] chatbox</title>
@@ -91,7 +91,7 @@ Language: TypeScript
 Category: Chatbot
 Stars: 39,054 | Forks: 3,950</description>
       <guid isPermaLink="true">https://github.com/chatboxai/chatbox</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -105,7 +105,7 @@ Language: TypeScript
 Category: AI
 Stars: 327,405 | Forks: 63,390</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sat, 21 Mar 2026 07:38:59 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 08:43:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
