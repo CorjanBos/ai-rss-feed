@@ -8,114 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 10:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 11:30:02 +0000</lastBuildDate>
     <item>
-      <title>jarrodwatts / claude-hud</title>
-      <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 9,500 → 9,979 (+479) | Ranked #1
+      <title>systemd / systemd</title>
+      <link>https://github.com/systemd/systemd</link>
+      <description>🆕 NEW ENTRY - Ranked #2
 
-A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+The systemd System and Service Manager
 
-Language: JavaScript
-1,068 stars today</description>
-      <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
+Language: C
+47 stars today</description>
+      <guid isPermaLink="true">https://github.com/systemd/systemd</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
     </item>
     <item>
-      <title>langchain-ai / open-swe</title>
-      <link>https://github.com/langchain-ai/open-swe</link>
-      <description>⭐ Stars: 7,616 → 7,827 (+211) | Ranked #2
+      <title>aquasecurity / trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>🆕 NEW ENTRY - Ranked #3
 
-An Open-Source Asynchronous Coding Agent
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+Language: Go
+22 stars today</description>
+      <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crosstalk-Solutions / project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <description>🆕 NEW ENTRY - Ranked #4
+
+Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+
+Language: TypeScript
+2,054 stars today</description>
+      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>protocolbuffers / protobuf</title>
+      <link>https://github.com/protocolbuffers/protobuf</link>
+      <description>🆕 NEW ENTRY - Ranked #7
+
+Protocol Buffers - Google's data interchange format
+
+Language: C++
+7 stars today</description>
+      <guid isPermaLink="true">https://github.com/protocolbuffers/protobuf</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>vllm-project / vllm-omni</title>
+      <link>https://github.com/vllm-project/vllm-omni</link>
+      <description>🆕 NEW ENTRY - Ranked #8
+
+A framework for efficient model inference with omni-modality models
 
 Language: Python
-635 stars today</description>
-      <guid isPermaLink="true">https://github.com/langchain-ai/open-swe</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
+110 stars today</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/vllm-omni</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
     </item>
     <item>
-      <title>obra / superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 101,465 → 102,302 (+837) | Ranked #3
+      <title>FujiwaraChoki / MoneyPrinterV2</title>
+      <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
+      <description>📈 Rank: #10 → #1 (↑9) | ⭐ Stars: 16,434 → 16,735 (+301)
 
-An agentic skills framework &amp; software development methodology that works.
+Automate the process of making money online.
 
-Language: Shell
-2,819 stars today</description>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
+Language: Python
+775 stars today</description>
+      <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
     </item>
     <item>
       <title>opendataloader-project / opendataloader-pdf</title>
       <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
-      <description>⭐ Stars: 7,004 → 7,422 (+418) | Ranked #4
+      <description>📉 Rank: #4 → #5 (↓1) | ⭐ Stars: 7,004 → 7,463 (+459)
 
 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 Language: Java
 1,812 stars today</description>
       <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>jarrodwatts / claude-hud</title>
+      <link>https://github.com/jarrodwatts/claude-hud</link>
+      <description>📉 Rank: #1 → #6 (↓5) | ⭐ Stars: 9,500 → 10,004 (+504)
+
+A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
+Language: JavaScript
+1,068 stars today</description>
+      <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>⭐ Stars: 11,556 → 11,837 (+281) | Ranked #5
+      <description>📉 Rank: #5 → #9 (↓4) | ⭐ Stars: 11,556 → 11,864 (+308)
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
 1,045 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>newton-physics / newton</title>
-      <link>https://github.com/newton-physics/newton</link>
-      <description>⭐ Stars: 3,457 → 3,565 (+108) | Ranked #6
-
-An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-
-Language: Python
-266 stars today</description>
-      <guid isPermaLink="true">https://github.com/newton-physics/newton</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>vas3k / TaxHacker</title>
-      <link>https://github.com/vas3k/TaxHacker</link>
-      <description>⭐ Stars: 1,901 → 2,131 (+230) | Ranked #7
-
-Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-
-Language: TypeScript
-137 stars today</description>
-      <guid isPermaLink="true">https://github.com/vas3k/TaxHacker</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>TauricResearch / TradingAgents</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <description>⭐ Stars: 34,046 → 34,848 (+802) | Ranked #8
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
-
-Language: Python
-433 stars today</description>
-      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>openrocket / openrocket</title>
-      <link>https://github.com/openrocket/openrocket</link>
-      <description>⭐ Stars: 2,194 → 2,316 (+122) | Ranked #9
-
-Model-rocketry aerodynamics and trajectory simulation software
-
-Language: Java
-144 stars today</description>
-      <guid isPermaLink="true">https://github.com/openrocket/openrocket</guid>
-      <pubDate>Sat, 21 Mar 2026 10:36:03 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 11:30:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
