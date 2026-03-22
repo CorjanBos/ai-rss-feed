@@ -8,114 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 02:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 04:59:06 +0000</lastBuildDate>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>⭐ Stars: 17,691 → 17,885 (+194) | Ranked #1
+      <description>⭐ Stars: 17,691 → 18,015 (+324) | Ranked #1
 
 Automate the process of making money online.
 
 Language: Python
 283 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>systemd / systemd</title>
       <link>https://github.com/systemd/systemd</link>
-      <description>⭐ Stars: 15,715 → 15,743 (+28) | Ranked #2
+      <description>⭐ Stars: 15,715 → 15,768 (+53) | Ranked #2
 
 The systemd System and Service Manager
 
 Language: C
 58 stars today</description>
       <guid isPermaLink="true">https://github.com/systemd/systemd</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>aquasecurity / trivy</title>
       <link>https://github.com/aquasecurity/trivy</link>
-      <description>⭐ Stars: 33,363 → 33,395 (+32) | Ranked #3
+      <description>⭐ Stars: 33,363 → 33,415 (+52) | Ranked #3
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 Language: Go
 39 stars today</description>
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>⭐ Stars: 6,499 → 6,915 (+416) | Ranked #4
+      <description>⭐ Stars: 6,499 → 7,108 (+609) | Ranked #4
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
 Language: TypeScript
 2,032 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>opendataloader-project / opendataloader-pdf</title>
       <link>https://github.com/opendataloader-project/opendataloader-pdf</link>
-      <description>⭐ Stars: 7,852 → 7,931 (+79) | Ranked #5
+      <description>⭐ Stars: 7,852 → 7,983 (+131) | Ranked #5
 
 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 Language: Java
 950 stars today</description>
       <guid isPermaLink="true">https://github.com/opendataloader-project/opendataloader-pdf</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 10,400 → 10,500 (+100) | Ranked #6
+      <description>⭐ Stars: 10,400 → 10,596 (+196) | Ranked #6
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
 970 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>protocolbuffers / protobuf</title>
       <link>https://github.com/protocolbuffers/protobuf</link>
-      <description>⭐ Stars: 70,943 → 70,952 (+9) | Ranked #7
+      <description>⭐ Stars: 70,943 → 70,958 (+15) | Ranked #7
 
 Protocol Buffers - Google's data interchange format
 
 Language: C++
 7 stars today</description>
       <guid isPermaLink="true">https://github.com/protocolbuffers/protobuf</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>vllm-project / vllm-omni</title>
       <link>https://github.com/vllm-project/vllm-omni</link>
-      <description>⭐ Stars: 3,497 → 3,525 (+28) | Ranked #8
+      <description>⭐ Stars: 3,497 → 3,547 (+50) | Ranked #8
 
 A framework for efficient model inference with omni-modality models
 
 Language: Python
 71 stars today</description>
       <guid isPermaLink="true">https://github.com/vllm-project/vllm-omni</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>⭐ Stars: 12,193 → 12,257 (+64) | Ranked #9
+      <description>⭐ Stars: 12,193 → 12,298 (+105) | Ranked #9
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
 690 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Sun, 22 Mar 2026 02:53:52 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 04:59:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
