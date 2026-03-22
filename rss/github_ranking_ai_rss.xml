@@ -8,104 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 23:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:01:58 +0000</lastBuildDate>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in LLM
+      <description>⭐ Stars: 91,225 → 94,778 (+3,553)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: LLM
-Stars: 91,225 | Forks: 11,986</description>
+Stars: 94,778 | Forks: 12,406</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] Pake</title>
-      <link>https://github.com/tw93/Pake</link>
-      <description>📉 Rank: #7 → #8 (↓1)
-
-🤱🏻 Turn any webpage into a desktop app with one command.
-
-Language: Rust
-
-Category: Claude
-Stars: 46,759 | Forks: 9,159</description>
-      <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 06:01:58 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 88,711 → 91,226 (+2,515)
+      <description>⭐ Stars: 91,226 → 94,779 (+3,553)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 91,226 | Forks: 11,986</description>
+Stars: 94,779 | Forks: 12,406</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] ui-ux-pro-max-skill</title>
-      <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
-      <description>📈 Rank: #8 → #7 (↑1)
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-Language: Python
-
-Category: Claude
-Stars: 46,912 | Forks: 4,548</description>
-      <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chatbot] quivr</title>
-      <link>https://github.com/QuivrHQ/quivr</link>
-      <description>📉 Rank: #7 → #8 (↓1)
-
-Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
-
-Language: Python
-
-Category: Chatbot
-Stars: 39,037 | Forks: 3,734</description>
-      <guid isPermaLink="true">https://github.com/QuivrHQ/quivr</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Chatbot] chatbox</title>
-      <link>https://github.com/chatboxai/chatbox</link>
-      <description>📈 Rank: #8 → #7 (↑1)
-
-Powerful AI Client
-
-Language: TypeScript
-
-Category: Chatbot
-Stars: 39,054 | Forks: 3,950</description>
-      <guid isPermaLink="true">https://github.com/chatboxai/chatbox</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 06:01:58 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 325,685 → 327,405 (+1,720)
+      <description>⭐ Stars: 327,405 → 328,913 (+1,508)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 327,405 | Forks: 63,390</description>
+Stars: 328,913 | Forks: 63,853</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Sat, 21 Mar 2026 23:32:53 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 06:01:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
