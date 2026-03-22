@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 20:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 21:33:58 +0000</lastBuildDate>
     <item>
       <title>vxcontrol / pentagi</title>
       <link>https://github.com/vxcontrol/pentagi</link>
@@ -19,7 +19,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 Language: Go
 1,015 stars today</description>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>jamwithai / production-agentic-rag-course</title>
@@ -31,7 +31,7 @@ Language: Go
 Language: Python
 235 stars today</description>
       <guid isPermaLink="true">https://github.com/jamwithai/production-agentic-rag-course</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>affaan-m / everything-claude-code</title>
@@ -43,7 +43,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 Language: JavaScript
 3,735 stars today</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>browser-use / browser-use</title>
@@ -55,7 +55,7 @@ Language: JavaScript
 Language: Python
 405 stars today</description>
       <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>HKUDS / LightRAG</title>
@@ -67,7 +67,7 @@ Language: Python
 Language: Python
 203 stars today</description>
       <guid isPermaLink="true">https://github.com/HKUDS/LightRAG</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>hsliuping / TradingAgents-CN</title>
@@ -79,7 +79,7 @@ Language: Python
 Language: Python
 215 stars today</description>
       <guid isPermaLink="true">https://github.com/hsliuping/TradingAgents-CN</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>bytedance / deer-flow</title>
@@ -91,7 +91,7 @@ An open-source SuperAgent harness that researches, codes, and creates. With the 
 Language: Python
 1,508 stars today</description>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>harry0703 / MoneyPrinterTurbo</title>
@@ -103,91 +103,91 @@ Language: Python
 Language: Python
 169 stars today</description>
       <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>⭐ Stars: 17,691 → 19,369 (+1678) | Ranked #1
+      <description>⭐ Stars: 17,691 → 19,454 (+1763) | Ranked #1
 
 Automate the process of making money online.
 
 Language: Python
 1,772 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>TauricResearch / TradingAgents</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
-      <description>📈 Rank: #8 → #2 (↑6) | ⭐ Stars: 34,848 → 36,844 (+1996)
+      <description>📈 Rank: #8 → #2 (↑6) | ⭐ Stars: 34,848 → 36,913 (+2065)
 
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 Language: Python
 1,108 stars today</description>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>jarrodwatts / claude-hud</title>
       <link>https://github.com/jarrodwatts/claude-hud</link>
-      <description>⭐ Stars: 10,400 → 11,094 (+694) | Ranked #6
+      <description>⭐ Stars: 10,400 → 11,111 (+711) | Ranked #6
 
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
 Language: JavaScript
 832 stars today</description>
       <guid isPermaLink="true">https://github.com/jarrodwatts/claude-hud</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 6,499 → 9,205 (+2706)
+      <description>📉 Rank: #4 → #7 (↓3) | ⭐ Stars: 6,499 → 9,411 (+2912)
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
 Language: TypeScript
 2,294 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>systemd / systemd</title>
       <link>https://github.com/systemd/systemd</link>
-      <description>📉 Rank: #2 → #8 (↓6) | ⭐ Stars: 15,715 → 15,953 (+238)
+      <description>📉 Rank: #2 → #8 (↓6) | ⭐ Stars: 15,715 → 15,963 (+248)
 
 The systemd System and Service Manager
 
 Language: C
 313 stars today</description>
       <guid isPermaLink="true">https://github.com/systemd/systemd</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>louis-e / arnis</title>
       <link>https://github.com/louis-e/arnis</link>
-      <description>📉 Rank: #9 → #12 (↓3) | ⭐ Stars: 12,193 → 12,647 (+454)
+      <description>📉 Rank: #9 → #12 (↓3) | ⭐ Stars: 12,193 → 12,665 (+472)
 
 Generate any location from the real world in Minecraft with a high level of detail.
 
 Language: Rust
 583 stars today</description>
       <guid isPermaLink="true">https://github.com/louis-e/arnis</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
     <item>
       <title>aquasecurity / trivy</title>
       <link>https://github.com/aquasecurity/trivy</link>
-      <description>📉 Rank: #3 → #13 (↓10) | ⭐ Stars: 33,363 → 33,607 (+244)
+      <description>📉 Rank: #3 → #13 (↓10) | ⭐ Stars: 33,363 → 33,614 (+251)
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 Language: Go
 249 stars today</description>
       <guid isPermaLink="true">https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Sun, 22 Mar 2026 20:37:11 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 21:33:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
