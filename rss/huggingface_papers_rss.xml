@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 19:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 20:46:08 +0000</lastBuildDate>
     <item>
       <title>Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck</title>
       <link>https://huggingface.co/papers/2603.08462</link>
@@ -181,15 +181,6 @@ Long-horizon GUI agents are a key step toward real-world deployment, yet effecti
       <pubDate>Thu, 19 Mar 2026 02:45:21 +0000</pubDate>
     </item>
     <item>
-      <title>Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding</title>
-      <link>https://huggingface.co/papers/2603.18472</link>
-      <description>By Yinghui Li, Jiayi Kuang, Peng Xing, Daixian Liu, Junnan Dong, et al.
-
-While Multimodal Large Language Models (MLLMs) have achieved remarkable success in interpreting natural scenes, their ability to process discrete symbols -- the fundamental building blocks of human cognition -- remains a critical open question. Unlike continuous visual data, symbols such as mathemat...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18472</guid>
-      <pubDate>Thu, 19 Mar 2026 04:08:20 +0000</pubDate>
-    </item>
-    <item>
       <title>3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model</title>
       <link>https://huggingface.co/papers/2603.18524</link>
       <description>By Hyun-kyu Ko, Jihyeon Park, Younghyun Kim, Dongheok Park, Eunbyung Park
@@ -215,6 +206,15 @@ Long-form video question answering requires reasoning over extended temporal con
 Medical ultrasound image segmentation faces significant challenges due to limited labeled data and characteristic imaging artifacts including speckle noise and low-contrast boundaries. While semi-supervised learning (SSL) approaches have emerged to address data scarcity, existing methods suffer from...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.18655</guid>
       <pubDate>Thu, 19 Mar 2026 09:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automatic detection of Gen-AI texts: A comparative framework of neural models</title>
+      <link>https://huggingface.co/papers/2603.18750</link>
+      <description>By Cristian Buttaro, Irene Amerini
+
+The rapid proliferation of Large Language Models has significantly increased the difficulty of distinguishing between human-written and AI generated texts, raising critical issues across academic, editorial, and social domains. This paper investigates the problem of AI generated text detection throu...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.18750</guid>
+      <pubDate>Thu, 19 Mar 2026 10:55:07 +0000</pubDate>
     </item>
     <item>
       <title>AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science</title>
