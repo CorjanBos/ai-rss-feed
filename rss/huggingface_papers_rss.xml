@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:22:38 +0000</lastBuildDate>
-    <item>
-      <title>From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning</title>
-      <link>https://huggingface.co/papers/2603.10263</link>
-      <description>By Zhanyi Sun, Shuran Song
-
-We introduce Distribution Contractive Reinforcement Learning (DICE-RL), a framework that uses reinforcement learning (RL) as a "distribution contraction" operator to refine pretrained generative robot policies. DICE-RL turns a pretrained behavior prior into a high-performing "pro" policy by amplifyi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.10263</guid>
-      <pubDate>Tue, 10 Mar 2026 22:49:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 09:07:06 +0000</lastBuildDate>
     <item>
       <title>COT-FM: Cluster-wise Optimal Transport Flow Matching</title>
       <link>https://huggingface.co/papers/2603.13395</link>
@@ -37,24 +28,6 @@ Simultaneous speech-to-speech translation (SimulS2S) is essential for real-time 
       <pubDate>Wed, 11 Mar 2026 22:07:53 +0000</pubDate>
     </item>
     <item>
-      <title>OSM-based Domain Adaptation for Remote Sensing VLMs</title>
-      <link>https://huggingface.co/papers/2603.11804</link>
-      <description>By Stefan Maria Ailuro, Mario Markov, Mohammad Mahdi, Delyan Boychev, Luc Van Gool, et al.
-
-Vision-Language Models (VLMs) adapted to remote sensing rely heavily on domain-specific image-text supervision, yet high-quality annotations for satellite and aerial imagery remain scarce and expensive to produce. Prevailing pseudo-labeling pipelines address this gap by distilling knowledge from lar...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.11804</guid>
-      <pubDate>Thu, 12 Mar 2026 11:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Efficient Reasoning with Balanced Thinking</title>
-      <link>https://huggingface.co/papers/2603.12372</link>
-      <description>By Yulin Li, Tengyao Tu, Li Ding, Junjie Wang, Huiling Zhen, et al.
-
-Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending redundant computational steps on simple problems, or underthinking, failing to explore sufficient reasoning paths despite inherent capabilities. These issues lead to ineffic...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.12372</guid>
-      <pubDate>Thu, 12 Mar 2026 18:48:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation</title>
       <link>https://huggingface.co/papers/2603.13045</link>
       <description>By Yifeng Liu, Siqi Ouyang, Yatish Hosmane Revanasiddappa, Lei Li
@@ -62,15 +35,6 @@ Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet 
 Large Language Models (LLMs) have demonstrated remarkable capability in machine translation on high-resource language pairs, yet their performance on low-resource translation still lags behind. Existing post-training methods rely heavily on high-quality parallel data, which are often scarce or unava...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13045</guid>
       <pubDate>Fri, 13 Mar 2026 14:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning</title>
-      <link>https://huggingface.co/papers/2603.16929</link>
-      <description>By Hongjun Wang, Wei Liu, Weibo Gu, Xing Sun, Kai Han
-
-Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevailing ratio control methods, such as hard clipping, suffer from non-differentiable boundaries and vanishing gradient regions, failing to maintain gradie...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.16929</guid>
-      <pubDate>Sat, 14 Mar 2026 00:45:15 +0000</pubDate>
     </item>
     <item>
       <title>VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction</title>
@@ -89,15 +53,6 @@ Logical anomaly detection in industrial inspection remains challenging due to va
 Persian poses unique audio understanding challenges through its classical poetry, traditional music, and pervasive code-switching - none captured by existing benchmarks. We introduce PARSA-Bench (Persian Audio Reasoning and Speech Assessment Benchmark), the first benchmark for evaluating large audio...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14456</guid>
       <pubDate>Sun, 15 Mar 2026 16:06:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AdapterTune: Zero-Initialized Low-Rank Adapters for Frozen Vision Transformers</title>
-      <link>https://huggingface.co/papers/2603.14706</link>
-      <description>By Salim Khazem
-
-Frozen-backbone transfer with Vision Transformers faces two under-addressed issues: optimization instability when adapters are naively inserted into a fixed feature extractor, and the absence of principled guidance for setting adapter capacity. We introduce AdapterTune, which augments each transform...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14706</guid>
-      <pubDate>Mon, 16 Mar 2026 01:29:26 +0000</pubDate>
     </item>
     <item>
       <title>VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining</title>
@@ -253,6 +208,15 @@ We present MultiTempBench, a multilingual temporal reasoning benchmark spanning 
       <pubDate>Thu, 19 Mar 2026 15:22:03 +0000</pubDate>
     </item>
     <item>
+      <title>TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation</title>
+      <link>https://huggingface.co/papers/2603.19039</link>
+      <description>By Yan Shu, Bin Ren, Zhitong Xiong, Xiao Xiang Zhu, Begüm Demir, et al.
+
+Vision-language models (VLMs) have shown promise in earth observation (EO), yet they struggle with tasks that require grounding complex spatial reasoning in precise pixel-level visual representations. To address this problem, we introduce TerraScope, a unified VLM that delivers pixel-grounded geospa...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19039</guid>
+      <pubDate>Thu, 19 Mar 2026 15:38:02 +0000</pubDate>
+    </item>
+    <item>
       <title>FASTER: Rethinking Real-Time Flow VLAs</title>
       <link>https://huggingface.co/papers/2603.19199</link>
       <description>By Yuxiang Lu, Zhe Liu, Xianzhe Fan, Zhenya Yang, Jinghua Hou, et al.
@@ -370,6 +334,15 @@ While Multimodal Large Language Models demonstrate impressive semantic capabilit
       <pubDate>Thu, 19 Mar 2026 17:59:58 +0000</pubDate>
     </item>
     <item>
+      <title>Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas</title>
+      <link>https://huggingface.co/papers/2603.19453</link>
+      <description>By Víctor Gallego
+
+We study LLM policy synthesis: using a large language model to iteratively generate programmatic agent policies for multi-agent environments. Rather than training neural policies via reinforcement learning, our framework prompts an LLM to produce Python policy functions, evaluates them in self-play,...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19453</guid>
+      <pubDate>Thu, 19 Mar 2026 20:27:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Hyperagents</title>
       <link>https://huggingface.co/papers/2603.19461</link>
       <description>By Jenny Zhang, Bingchen Zhao, Wannan Yang, Jakob Foerster, Jeff Clune, et al.
@@ -377,6 +350,15 @@ While Multimodal Large Language Models demonstrate impressive semantic capabilit
 Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limiting how fast such systems can improve. The Darwi...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19461</guid>
       <pubDate>Thu, 19 Mar 2026 20:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.19466</link>
+      <description>By Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano Mancini
+
+Effective collaboration begins with knowing when to ask for help. For example, when trying to identify an occluded object, a human would ask someone to remove the obstruction. Can MLLMs exhibit a similar "proactive" behavior by requesting simple user interventions? To investigate this, we introduce ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19466</guid>
+      <pubDate>Thu, 19 Mar 2026 20:58:03 +0000</pubDate>
     </item>
     <item>
       <title>Teaching an Agent to Sketch One Part at a Time</title>
@@ -424,6 +406,15 @@ Given the remarkable ability of 2D foundation image models to generate high-fide
       <pubDate>Fri, 20 Mar 2026 07:22:41 +0000</pubDate>
     </item>
     <item>
+      <title>LoopRPT: Reinforcement Pre-Training for Looped Language Models</title>
+      <link>https://huggingface.co/papers/2603.19714</link>
+      <description>By Guo Tang, Shixin Jiang, Heng Chang, Nuo Chen, Yuhan Li, et al.
+
+Looped language models (LoopLMs) perform iterative latent computation to refine internal representations, offering a promising alternative to explicit chain-of-thought (CoT) reasoning. However, existing reinforcement learning (RL) paradigms primarily target output tokens, creating a structural misma...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19714</guid>
+      <pubDate>Fri, 20 Mar 2026 07:35:38 +0000</pubDate>
+    </item>
+    <item>
       <title>How Well Does Generative Recommendation Generalize?</title>
       <link>https://huggingface.co/papers/2603.19809</link>
       <description>By Yijie Ding, Zitian Guo, Jiacheng Li, Letian Peng, Shuai Shao, et al.
@@ -431,6 +422,15 @@ Given the remarkable ability of 2D foundation image models to generate high-fide
 A widely held hypothesis for why generative recommendation (GR) models outperform conventional item ID-based models is that they generalize better. However, there is few systematic way to verify this hypothesis beyond a superficial comparison of overall performance. To address this gap, we categoriz...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19809</guid>
       <pubDate>Fri, 20 Mar 2026 09:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus</title>
+      <link>https://huggingface.co/papers/2603.20105</link>
+      <description>By Amartya Roy, Rasul Tutunov, Xiaotong Ji, Matthieu Zimmer, Haitham Bou-Ammar
+
+LLMs are increasingly used as general-purpose reasoners, but long inputs remain bottlenecked by a fixed context window. Recursive Language Models (RLMs) address this by externalising the prompt and recursively solving subproblems. Yet existing RLMs depend on an open-ended read-eval-print loop (REPL)...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.20105</guid>
+      <pubDate>Fri, 20 Mar 2026 16:29:51 +0000</pubDate>
     </item>
     <item>
       <title>Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD</title>
