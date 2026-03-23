@@ -4,39 +4,39 @@
     "repo_name": "FujiwaraChoki / MoneyPrinterV2",
     "repo_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "description": "Automate the process of making money online.",
-    "stars": 22575,
-    "stars_text": "22,575",
-    "forks": 2329,
+    "stars": 22660,
+    "stars_text": "22,660",
+    "forks": 2331,
     "language": "Python",
     "today_stars": "2,902 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-23T20:46:09.672759+00:00"
+    "fetched_at": "2026-03-23T21:45:45.298714+00:00"
   },
   "TauricResearch/TradingAgents": {
     "repo_path": "TauricResearch/TradingAgents",
     "repo_name": "TauricResearch / TradingAgents",
     "repo_url": "https://github.com/TauricResearch/TradingAgents",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "stars": 39034,
-    "stars_text": "39,034",
-    "forks": 7281,
+    "stars": 39099,
+    "stars_text": "39,099",
+    "forks": 7291,
     "language": "Python",
     "today_stars": "2,521 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-23T20:46:09.675329+00:00"
+    "fetched_at": "2026-03-23T21:45:45.301003+00:00"
   },
   "vxcontrol/pentagi": {
     "repo_path": "vxcontrol/pentagi",
     "repo_name": "vxcontrol / pentagi",
     "repo_url": "https://github.com/vxcontrol/pentagi",
     "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "stars": 12908,
-    "stars_text": "12,908",
-    "forks": 1610,
+    "stars": 12938,
+    "stars_text": "12,938",
+    "forks": 1609,
     "language": "Go",
     "today_stars": "1,307 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-23T20:46:09.674343+00:00"
+    "fetched_at": "2026-03-23T21:45:45.300125+00:00"
   },
   "jamwithai/production-agentic-rag-course": {
     "repo_path": "jamwithai/production-agentic-rag-course",
@@ -56,13 +56,13 @@
     "repo_name": "affaan-m / everything-claude-code",
     "repo_url": "https://github.com/affaan-m/everything-claude-code",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 101538,
-    "stars_text": "101,538",
-    "forks": 13222,
+    "stars": 101638,
+    "stars_text": "101,638",
+    "forks": 13236,
     "language": "JavaScript",
     "today_stars": "4,453 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-23T20:46:09.676540+00:00"
+    "fetched_at": "2026-03-23T21:45:45.302096+00:00"
   },
   "jarrodwatts/claude-hud": {
     "repo_path": "jarrodwatts/claude-hud",
@@ -82,13 +82,13 @@
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 13103,
-    "stars_text": "13,103",
-    "forks": 1229,
+    "stars": 13179,
+    "stars_text": "13,179",
+    "forks": 1233,
     "language": "TypeScript",
     "today_stars": "4,148 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-23T20:46:09.673837+00:00"
+    "fetched_at": "2026-03-23T21:45:45.299687+00:00"
   },
   "systemd/systemd": {
     "repo_path": "systemd/systemd",
@@ -108,13 +108,13 @@
     "repo_name": "browser-use / browser-use",
     "repo_url": "https://github.com/browser-use/browser-use",
     "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "stars": 83519,
-    "stars_text": "83,519",
-    "forks": 9719,
+    "stars": 83539,
+    "stars_text": "83,539",
+    "forks": 9722,
     "language": "Python",
     "today_stars": "1,160 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-23T20:46:09.674828+00:00"
+    "fetched_at": "2026-03-23T21:45:45.300562+00:00"
   },
   "HKUDS/LightRAG": {
     "repo_path": "HKUDS/LightRAG",
@@ -134,13 +134,13 @@
     "repo_name": "hsliuping / TradingAgents-CN",
     "repo_url": "https://github.com/hsliuping/TradingAgents-CN",
     "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
-    "stars": 20278,
-    "stars_text": "20,278",
+    "stars": 20281,
+    "stars_text": "20,281",
     "forks": 4276,
     "language": "Python",
     "today_stars": "672 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-23T20:46:09.678022+00:00"
+    "fetched_at": "2026-03-23T21:45:45.303390+00:00"
   },
   "louis-e/arnis": {
     "repo_path": "louis-e/arnis",
@@ -173,13 +173,13 @@
     "repo_name": "bytedance / deer-flow",
     "repo_url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "stars": 38898,
-    "stars_text": "38,898",
-    "forks": 4575,
+    "stars": 39007,
+    "stars_text": "39,007",
+    "forks": 4585,
     "language": "Python",
     "today_stars": "3,569 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-23T20:46:09.673336+00:00"
+    "fetched_at": "2026-03-23T21:45:45.299226+00:00"
   },
   "harry0703/MoneyPrinterTurbo": {
     "repo_path": "harry0703/MoneyPrinterTurbo",
@@ -199,90 +199,90 @@
     "repo_name": "tinygrad / tinygrad",
     "repo_url": "https://github.com/tinygrad/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! \u2764\ufe0f",
-    "stars": 31853,
-    "stars_text": "31,853",
+    "stars": 31859,
+    "stars_text": "31,859",
     "forks": 3977,
     "language": "Python",
     "today_stars": "58 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-23T20:46:09.675930+00:00"
+    "fetched_at": "2026-03-23T21:45:45.301559+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 11378,
-    "stars_text": "11,378",
-    "forks": 1391,
+    "stars": 11425,
+    "stars_text": "11,425",
+    "forks": 1395,
     "language": "Python",
     "today_stars": "874 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-23T20:46:09.677042+00:00"
+    "fetched_at": "2026-03-23T21:45:45.302518+00:00"
   },
   "jingyaogong/minimind": {
     "repo_path": "jingyaogong/minimind",
     "repo_name": "jingyaogong / minimind",
     "repo_url": "https://github.com/jingyaogong/minimind",
     "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
-    "stars": 42518,
-    "stars_text": "42,518",
-    "forks": 5115,
+    "stars": 42526,
+    "stars_text": "42,526",
+    "forks": 5116,
     "language": "Python",
     "today_stars": "478 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-23T20:46:09.677522+00:00"
+    "fetched_at": "2026-03-23T21:45:45.302971+00:00"
   },
   "kepano/obsidian-skills": {
     "repo_path": "kepano/obsidian-skills",
     "repo_name": "kepano / obsidian-skills",
     "repo_url": "https://github.com/kepano/obsidian-skills",
     "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-    "stars": 16252,
-    "stars_text": "16,252",
+    "stars": 16267,
+    "stars_text": "16,267",
     "forks": 933,
     "language": "",
     "today_stars": "453 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-23T20:46:09.678625+00:00"
+    "fetched_at": "2026-03-23T21:45:45.303942+00:00"
   },
   "czlonkowski/n8n-mcp": {
     "repo_path": "czlonkowski/n8n-mcp",
     "repo_name": "czlonkowski / n8n-mcp",
     "repo_url": "https://github.com/czlonkowski/n8n-mcp",
     "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-    "stars": 15982,
-    "stars_text": "15,982",
-    "forks": 2761,
+    "stars": 15997,
+    "stars_text": "15,997",
+    "forks": 2762,
     "language": "TypeScript",
     "today_stars": "136 stars today",
     "rank": 13,
-    "fetched_at": "2026-03-23T20:46:09.679238+00:00"
+    "fetched_at": "2026-03-23T21:45:45.304470+00:00"
   },
   "iptv-org/iptv": {
     "repo_path": "iptv-org/iptv",
     "repo_name": "iptv-org / iptv",
     "repo_url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
-    "stars": 113501,
-    "stars_text": "113,501",
-    "forks": 5776,
+    "stars": 113518,
+    "stars_text": "113,518",
+    "forks": 5777,
     "language": "TypeScript",
     "today_stars": "125 stars today",
     "rank": 14,
-    "fetched_at": "2026-03-23T20:46:09.679714+00:00"
+    "fetched_at": "2026-03-23T21:45:45.304901+00:00"
   },
   "hesreallyhim/awesome-claude-code": {
     "repo_path": "hesreallyhim/awesome-claude-code",
     "repo_name": "hesreallyhim / awesome-claude-code",
     "repo_url": "https://github.com/hesreallyhim/awesome-claude-code",
     "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-    "stars": 30800,
-    "stars_text": "30,800",
-    "forks": 2150,
+    "stars": 30827,
+    "stars_text": "30,827",
+    "forks": 2151,
     "language": "Python",
     "today_stars": "413 stars today",
     "rank": 15,
-    "fetched_at": "2026-03-23T20:46:09.680341+00:00"
+    "fetched_at": "2026-03-23T21:45:45.305440+00:00"
   }
 }

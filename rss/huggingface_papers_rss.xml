@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 20:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 21:45:43 +0000</lastBuildDate>
     <item>
       <title>Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck</title>
       <link>https://huggingface.co/papers/2603.08462</link>
@@ -125,15 +125,6 @@ Distilled autoregressive (AR) video models enable efficient streaming generation
 Reducing latency and energy consumption is critical to improving the efficiency of memory systems in modern computing. This work introduces ReLMXEL (Reinforcement Learning for Memory Controller with Explainable Energy and Latency Optimization), a explainable multi-agent online reinforcement learning...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.17309</guid>
       <pubDate>Wed, 18 Mar 2026 03:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOSS-TTS Technical Report</title>
-      <link>https://huggingface.co/papers/2603.18090</link>
-      <description>By Yitian Gong, Botian Jiang, Yiwei Zhao, Yucheng Yuan, Kuangwei Chen, et al.
-
-This technical report presents MOSS-TTS, a speech generation foundation model built on a scalable recipe: discrete audio tokens, autoregressive modeling, and large-scale pretraining. Built on MOSS-Audio-Tokenizer, a causal Transformer tokenizer that compresses 24 kHz audio to 12.5 fps with variable-...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18090</guid>
-      <pubDate>Wed, 18 Mar 2026 09:08:06 +0000</pubDate>
     </item>
     <item>
       <title>Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality</title>
@@ -459,6 +450,15 @@ Generative world models have shown promise for simulating dynamic environments, 
 Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements. However, precise face-attribute alignment across subjects remains challenging, as existing methods ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20192</guid>
       <pubDate>Fri, 20 Mar 2026 17:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering</title>
+      <link>https://huggingface.co/papers/2603.20193</link>
+      <description>By Xinyi Shang, Yi Tang, Jiacheng Cui, Ahmed Elhagry, Salwa K. Al Khatib, et al.
+
+Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tamperin...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.20193</guid>
+      <pubDate>Fri, 20 Mar 2026 17:59:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
