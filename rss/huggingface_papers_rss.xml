@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 09:01:00 +0000</lastBuildDate>
     <item>
       <title>Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck</title>
       <link>https://huggingface.co/papers/2603.08462</link>
@@ -62,24 +62,6 @@ Code review is a critical software engineering practice where developers review 
 Large language models (LLMs) are increasingly deployed in applications with societal impact, raising concerns about the cultural biases they encode. We probe these representations by evaluating whether LLMs can perform author profiling from song lyrics in a zero-shot setting, inferring singers' gend...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.16749</guid>
       <pubDate>Tue, 17 Mar 2026 16:27:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning</title>
-      <link>https://huggingface.co/papers/2603.17024</link>
-      <description>By Shenzhi Wang, Shixuan Liu, Jing Zhou, Chang Gao, Xiong-Hui Chen, et al.
-
-VLMs show strong multimodal capabilities, but they still struggle with fine-grained vision-language reasoning. We find that long CoT reasoning exposes diverse failure modes, including perception, reasoning, knowledge, and hallucination errors, which can compound across intermediate steps. However, m...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.17024</guid>
-      <pubDate>Tue, 17 Mar 2026 18:04:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models</title>
-      <link>https://huggingface.co/papers/2603.17051</link>
-      <description>By Songchun Zhang, Zeyue Xue, Siming Fu, Jie Huang, Xianghao Kong, et al.
-
-Distilled autoregressive (AR) video models enable efficient streaming generation but frequently misalign with human visual preferences. Existing reinforcement learning (RL) frameworks are not naturally suited to these architectures, typically requiring either expensive re-distillation or solver-coup...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.17051</guid>
-      <pubDate>Tue, 17 Mar 2026 18:32:18 +0000</pubDate>
     </item>
     <item>
       <title>ReLMXEL: Adaptive RL-Based Memory Controller with Explainable Energy and Latency Optimization</title>
@@ -154,15 +136,6 @@ Large Vision Language Models (LVLMs) excel at semantic understanding but struggl
       <pubDate>Thu, 19 Mar 2026 11:46:01 +0000</pubDate>
     </item>
     <item>
-      <title>AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science</title>
-      <link>https://huggingface.co/papers/2603.19005</link>
-      <description>By An Luo, Jin Du, Xun Xian, Robert Specht, Fangqiao Tian, et al.
-
-Data science plays a critical role in transforming complex data into actionable insights across numerous domains. Recent developments in large language models (LLMs) and artificial intelligence (AI) agents have significantly automated data science workflow. However, it remains unclear to what extent...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19005</guid>
-      <pubDate>Thu, 19 Mar 2026 15:11:13 +0000</pubDate>
-    </item>
-    <item>
       <title>TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation</title>
       <link>https://huggingface.co/papers/2603.19039</link>
       <description>By Yan Shu, Bin Ren, Zhitong Xiong, Xiao Xiang Zhu, Begüm Demir, et al.
@@ -233,24 +206,6 @@ Off-policy problems such as policy staleness and training-inference mismatch, ha
 Multimodal Large Language Models have achieved significant success in offline video understanding, yet their application to streaming videos is severely limited by the linear explosion of visual tokens, which often leads to Out-of-Memory (OOM) errors or catastrophic forgetting. Existing visual reten...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19571</guid>
       <pubDate>Fri, 20 Mar 2026 02:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow</title>
-      <link>https://huggingface.co/papers/2603.19598</link>
-      <description>By Zhifei Yang, Guangyao Zhai, Keyang Lu, YuYang Yin, Chao Zhang, et al.
-
-Scene generation has extensive industrial applications, demanding both high realism and precise control over geometry and appearance. Language-driven retrieval methods compose plausible scenes from a large object database, but overlook object-level control and often fail to enforce scene-level style...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19598</guid>
-      <pubDate>Fri, 20 Mar 2026 03:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection</title>
-      <link>https://huggingface.co/papers/2603.19635</link>
-      <description>By Zhengpei Hu, Kai Li, Dapeng Fu, Chang Zeng, Yue Li, et al.
-
-The exponential expansion of context windows in LLMs has unlocked capabilities for long-document understanding but introduced severe bottlenecks in inference latency and information utilization. Existing compression methods often suffer from high training costs or semantic fragmentation due to aggre...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19635</guid>
-      <pubDate>Fri, 20 Mar 2026 04:35:04 +0000</pubDate>
     </item>
     <item>
       <title>Semantic Audio-Visual Navigation in Continuous Environments</title>
@@ -343,6 +298,24 @@ We introduce LongCat-Flash-Prover, a flagship 560-billion-parameter open-source 
       <pubDate>Sun, 22 Mar 2026 05:16:09 +0000</pubDate>
     </item>
     <item>
+      <title>RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models</title>
+      <link>https://huggingface.co/papers/2603.21341</link>
+      <description>By Dongyoung Kim, Sumin Park, Woomin Song, Seungku Kim, Taeyoung Kim, et al.
+
+Improving embodied reasoning in multimodal-large-language models (MLLMs) is essential for building vision-language-action models (VLAs) on top of them to readily translate multimodal understanding into low-level actions. Accordingly, recent work has explored enhancing embodied reasoning in MLLMs thr...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21341</guid>
+      <pubDate>Sun, 22 Mar 2026 17:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generalized Discrete Diffusion from Snapshots</title>
+      <link>https://huggingface.co/papers/2603.21342</link>
+      <description>By Oussama Zekri, Théo Uscidda, Nicolas Boullé, Anna Korba
+
+We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our formulation encompasses all existing discrete diffusion approaches, while allowing significantly grea...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21342</guid>
+      <pubDate>Sun, 22 Mar 2026 17:58:01 +0000</pubDate>
+    </item>
+    <item>
       <title>PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost</title>
       <link>https://huggingface.co/papers/2603.21383</link>
       <description>By Junkeun Yi, Damon Mosk-Aoyama, Baihe Huang, Ritu Gala, Charles Wang, et al.
@@ -370,6 +343,15 @@ Current language model training commonly applies multi-task Supervised Fine-Tuni
       <pubDate>Mon, 23 Mar 2026 06:01:51 +0000</pubDate>
     </item>
     <item>
+      <title>The Universal Normal Embedding</title>
+      <link>https://huggingface.co/papers/2603.21786</link>
+      <description>By Chen Tasker, Roy Betser, Eyal Gofer, Meir Yossef Levi, Guy Gilboa
+
+Generative models and vision encoders have largely advanced on separate tracks, optimized for different goals and grounded in different mathematical principles. Yet, they share a fundamental property: latent space Gaussianity. Generative models map Gaussian noise to images, while encoders map images...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21786</guid>
+      <pubDate>Mon, 23 Mar 2026 10:28:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Manifold-Aware Exploration for Reinforcement Learning in Video Generation</title>
       <link>https://huggingface.co/papers/2603.21872</link>
       <description>By Mingzhe Zheng, Weijie Kong, Yue Wu, Dengyang Jiang, Yue Ma, et al.
@@ -388,6 +370,15 @@ Open-vocabulary 3D object detection aims to localize and recognize objects beyon
       <pubDate>Mon, 23 Mar 2026 13:01:14 +0000</pubDate>
     </item>
     <item>
+      <title>Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe</title>
+      <link>https://huggingface.co/papers/2603.21972</link>
+      <description>By Xixi Wu, Qianguo Sun, Ruiyang Zhang, Chao Song, Junlong Wu, et al.
+
+Reinforcement Learning (RL) is essential for evolving Large Language Models (LLMs) into autonomous agents capable of long-horizon planning, yet a practical recipe for scaling RL in complex, multi-turn environments remains elusive. This paper presents a systematic empirical study using TravelPlanner,...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21972</guid>
+      <pubDate>Mon, 23 Mar 2026 13:40:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model</title>
       <link>https://huggingface.co/papers/2603.21986</link>
       <description>By SII-GAIR, Sand. ai, Ethan Chern, Hansi Teng, Hanwen Sun, et al.
@@ -404,6 +395,15 @@ We present daVinci-MagiHuman, an open-source audio-video generative foundation m
 Animal vocalizations provide crucial insights for wildlife assessment, particularly in complex environments such as forests, aiding species identification and ecological monitoring. Recent advances in deep learning have enabled automatic species classification from their vocalizations. However, clas...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22053</guid>
       <pubDate>Mon, 23 Mar 2026 14:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning</title>
+      <link>https://huggingface.co/papers/2603.22057</link>
+      <description>By Byungwoo Jeon, Dongyoung Kim, Huiwon Jang, Insoo Kim, Jinwoo Shin
+
+Despite the remarkable success of large-scale pre-trained image representation models (i.e., vision encoders) across various vision tasks, they are predominantly trained on 2D image data and therefore often fail to capture 3D spatial relationships between objects and backgrounds in the real world, c...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22057</guid>
+      <pubDate>Mon, 23 Mar 2026 14:54:34 +0000</pubDate>
     </item>
     <item>
       <title>On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation</title>
