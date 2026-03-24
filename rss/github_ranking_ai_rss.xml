@@ -8,174 +8,132 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 23:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:14:19 +0000</lastBuildDate>
     <item>
       <title>[Transformer] sglang</title>
       <link>https://github.com/sgl-project/sglang</link>
-      <description>📈 Rank: #10 → #9 (↑1)
+      <description>📉 Rank: #9 → #10 (↓1)
 
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
 Language: Python
 
 Category: Transformer
-Stars: 24,885 | Forks: 4,950</description>
+Stars: 24,928 | Forks: 4,960</description>
       <guid isPermaLink="true">https://github.com/sgl-project/sglang</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[Transformer] fish-speech</title>
-      <link>https://github.com/fishaudio/fish-speech</link>
-      <description>📈 Rank: #9 → #8 (↑1)
+      <title>[Transformer] vit-pytorch</title>
+      <link>https://github.com/lucidrains/vit-pytorch</link>
+      <description>🆕 NEW ENTRY - Ranked #9 in Transformer
 
-SOTA Open Source TTS
+Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 
 Language: Python
 
 Category: Transformer
-Stars: 28,665 | Forks: 2,403</description>
-      <guid isPermaLink="true">https://github.com/fishaudio/fish-speech</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+Stars: 24,977 | Forks: 3,479</description>
+      <guid isPermaLink="true">https://github.com/lucidrains/vit-pytorch</guid>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[Transformer] mmdetection</title>
-      <link>https://github.com/open-mmlab/mmdetection</link>
-      <description>📈 Rank: #8 → #7 (↑1)
+      <title>[MoE] Bangumi</title>
+      <link>https://github.com/czy0729/Bangumi</link>
+      <description>📉 Rank: #6 → #7 (↓1)
 
-OpenMMLab Detection Toolbox and Benchmark
-
-Language: Python
-
-Category: Transformer
-Stars: 32,526 | Forks: 9,845</description>
-      <guid isPermaLink="true">https://github.com/open-mmlab/mmdetection</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Transformer] pytorch-image-models</title>
-      <link>https://github.com/huggingface/pytorch-image-models</link>
-      <description>📈 Rank: #7 → #6 (↑1)
-
-The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 &amp; V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
-
-Language: Python
-
-Category: Transformer
-Stars: 36,537 | Forks: 5,141</description>
-      <guid isPermaLink="true">https://github.com/huggingface/pytorch-image-models</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Transformer] minGPT</title>
-      <link>https://github.com/karpathy/minGPT</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in Transformer
-
-A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-
-Language: Python
-
-Category: Transformer
-Stars: 23,960 | Forks: 3,167</description>
-      <guid isPermaLink="true">https://github.com/karpathy/minGPT</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[LLM] firecrawl</title>
-      <link>https://github.com/firecrawl/firecrawl</link>
-      <description>📉 Rank: #9 → #10 (↓1)
-
-🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+:electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。
 
 Language: TypeScript
 
+Category: MoE
+Stars: 5,319 | Forks: 157</description>
+      <guid isPermaLink="true">https://github.com/czy0729/Bangumi</guid>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[MoE] MoeKoeMusic</title>
+      <link>https://github.com/MoeKoeMusic/MoeKoeMusic</link>
+      <description>📈 Rank: #7 → #6 (↑1)
+
+一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windows / macOS / Linux / Web :electron:
+
+Language: Vue
+
+Category: MoE
+Stars: 5,320 | Forks: 352</description>
+      <guid isPermaLink="true">https://github.com/MoeKoeMusic/MoeKoeMusic</guid>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LLM] llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <description>📉 Rank: #8 → #9 (↓1)
+
+LLM inference in C/C++
+
+Language: C++
+
 Category: LLM
-Stars: 96,639 | Forks: 6,558</description>
-      <guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+Stars: 99,129 | Forks: 15,740</description>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>📈 Rank: #10 → #9 (↑1) | ⭐ Stars: 94,778 → 98,891 (+4,113)
+      <description>📈 Rank: #9 → #8 (↑1) | ⭐ Stars: 98,891 → 102,547 (+3,656)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: LLM
-Stars: 98,891 | Forks: 12,895</description>
+Stars: 102,547 | Forks: 13,356</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] Pake</title>
-      <link>https://github.com/tw93/Pake</link>
-      <description>📉 Rank: #8 → #9 (↓1)
-
-🤱🏻 Turn any webpage into a desktop app with one command.
-
-Language: Rust
-
-Category: Claude
-Stars: 46,928 | Forks: 9,241</description>
-      <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 94,779 → 98,894 (+4,115)
+      <description>⭐ Stars: 98,894 → 102,548 (+3,654)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 98,894 | Forks: 12,895</description>
+Stars: 102,548 | Forks: 13,357</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>[Claude] awesome-claude-skills</title>
-      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
-      <description>📈 Rank: #9 → #8 (↑1)
+      <title>[AI Agents] browser-use</title>
+      <link>https://github.com/browser-use/browser-use</link>
+      <description>⭐ Stars: 82,838 → 83,858 (+1,020)
 
-A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 Language: Python
 
-Category: Claude
-Stars: 47,006 | Forks: 4,822</description>
-      <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] oh-my-openagent</title>
-      <link>https://github.com/code-yeongyu/oh-my-openagent</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in Claude
-
-omo; the best agent harness - previously oh-my-opencode
-
-Language: TypeScript
-
-Category: Claude
-Stars: 42,520 | Forks: 3,161</description>
-      <guid isPermaLink="true">https://github.com/code-yeongyu/oh-my-openagent</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+Category: AI Agents
+Stars: 83,858 | Forks: 9,742</description>
+      <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 328,913 → 330,689 (+1,776)
+      <description>⭐ Stars: 330,689 → 332,838 (+2,149)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 330,689 | Forks: 64,340</description>
+Stars: 332,838 | Forks: 64,873</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:14:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
