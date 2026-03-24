@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 02:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 05:00:30 +0000</lastBuildDate>
     <item>
       <title>GGML and llama.cpp join HF to ensure the long-term progress of Local AI</title>
       <link>https://huggingface.co/blog/ggml-joins-hf</link>
@@ -101,9 +101,9 @@
       <pubDate>Fri, 20 Mar 2026 19:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>A New Framework for Evaluation of Voice Agents (EVA)</title>
+      <title>A New Framework for Evaluating Voice Agents (EVA)</title>
       <link>https://huggingface.co/blog/ServiceNow-AI/eva</link>
-      <description>By ServiceNow-AI - A New Framework for Evaluation of Voice Agents (EVA)</description>
+      <description>By ServiceNow-AI - A New Framework for Evaluating Voice Agents (EVA)</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/eva</guid>
       <pubDate>Tue, 24 Mar 2026 02:01:52 +0000</pubDate>
     </item>
