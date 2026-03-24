@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 19:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck</title>
-      <link>https://huggingface.co/papers/2603.08462</link>
-      <description>By Fabio Valerio Massoli, Andrey Kuzmin, Arash Behboodi
-
-Chain-of-Thought (CoT) prompting improves LLM accuracy on complex tasks but often increases token usage and inference cost. Existing "Budget Forcing" methods reducing cost via fine-tuning with heuristic length penalties, suppress both essential reasoning and redundant filler. We recast efficient rea...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.08462</guid>
-      <pubDate>Mon, 09 Mar 2026 14:56:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 20:51:24 +0000</lastBuildDate>
     <item>
       <title>ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization</title>
       <link>https://huggingface.co/papers/2603.09290</link>
@@ -152,6 +143,15 @@ Large Language Models (LLMs) exhibit hallucinations in knowledge-intensive tasks
 We present a robust, real-time RGB SLAM system that handles dynamic environments by leveraging differentiable Uncertainty-aware Bundle Adjustment. Traditional SLAM methods typically assume static scenes, leading to tracking failures in the presence of motion. Recent dynamic SLAM approaches attempt t...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19076</guid>
       <pubDate>Thu, 19 Mar 2026 16:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scalable Prompt Routing via Fine-Grained Latent Task Discovery</title>
+      <link>https://huggingface.co/papers/2603.19415</link>
+      <description>By Yunyi Zhang, Soji Adeshina, Patrick Guan, Ashwin Ganesh, Zhen Han, et al.
+
+Prompt routing dynamically selects the most appropriate large language model from a pool of candidates for each query, optimizing performance while managing costs. As model pools scale to include dozens of frontier models with narrow performance gaps, existing approaches face significant challenges:...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.19415</guid>
+      <pubDate>Thu, 19 Mar 2026 19:15:51 +0000</pubDate>
     </item>
     <item>
       <title>In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing</title>
