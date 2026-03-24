@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 23:40:13 +0000</lastBuildDate>
-    <item>
-      <title>Train AI models with Unsloth and Hugging Face Jobs for FREE</title>
-      <link>https://huggingface.co/blog/unsloth-jobs</link>
-      <description>By ben burtenshaw, Daniel (Unsloth), Michael Han, Maxime Labonne, Daniel van Strien, shaun smith - Train AI models with Unsloth and Hugging Face Jobs for FREE</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/unsloth-jobs</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 02:45:40 +0000</lastBuildDate>
     <item>
       <title>GGML and llama.cpp join HF to ensure the long-term progress of Local AI</title>
       <link>https://huggingface.co/blog/ggml-joins-hf</link>
@@ -106,6 +99,13 @@
       <description>By NVIDIA - Build a Domain-Specific Embedding Model in Under a Day</description>
       <guid isPermaLink="true">https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune</guid>
       <pubDate>Fri, 20 Mar 2026 19:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Framework for Evaluation of Voice Agents (EVA)</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/eva</link>
+      <description>By ServiceNow-AI - A New Framework for Evaluation of Voice Agents (EVA)</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/eva</guid>
+      <pubDate>Tue, 24 Mar 2026 02:01:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

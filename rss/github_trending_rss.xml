@@ -8,184 +8,184 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 23:40:15 +0000</lastBuildDate>
-    <item>
-      <title>tinygrad / tinygrad</title>
-      <link>https://github.com/tinygrad/tinygrad</link>
-      <description>🆕 NEW ENTRY - Ranked #7
-
-You like pytorch? You like micrograd? You love tinygrad! ❤️
-
-Language: Python
-58 stars today</description>
-      <guid isPermaLink="true">https://github.com/tinygrad/tinygrad</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>NousResearch / hermes-agent</title>
-      <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>🆕 NEW ENTRY - Ranked #9
-
-The agent that grows with you
-
-Language: Python
-874 stars today</description>
-      <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>jingyaogong / minimind</title>
-      <link>https://github.com/jingyaogong/minimind</link>
-      <description>🆕 NEW ENTRY - Ranked #10
-
-🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-
-Language: Python
-478 stars today</description>
-      <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>kepano / obsidian-skills</title>
-      <link>https://github.com/kepano/obsidian-skills</link>
-      <description>🆕 NEW ENTRY - Ranked #12
-
-Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-453 stars today</description>
-      <guid isPermaLink="true">https://github.com/kepano/obsidian-skills</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>czlonkowski / n8n-mcp</title>
-      <link>https://github.com/czlonkowski/n8n-mcp</link>
-      <description>🆕 NEW ENTRY - Ranked #13
-
-A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-
-Language: TypeScript
-136 stars today</description>
-      <guid isPermaLink="true">https://github.com/czlonkowski/n8n-mcp</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>iptv-org / iptv</title>
-      <link>https://github.com/iptv-org/iptv</link>
-      <description>🆕 NEW ENTRY - Ranked #14
-
-Collection of publicly available IPTV channels from all over the world
-
-Language: TypeScript
-125 stars today</description>
-      <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>hesreallyhim / awesome-claude-code</title>
-      <link>https://github.com/hesreallyhim/awesome-claude-code</link>
-      <description>🆕 NEW ENTRY - Ranked #15
-
-A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-
-Language: Python
-413 stars today</description>
-      <guid isPermaLink="true">https://github.com/hesreallyhim/awesome-claude-code</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 02:45:42 +0000</lastBuildDate>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>⭐ Stars: 19,623 → 22,813 (+3190) | Ranked #1
+      <description>⭐ Stars: 22,813 → 23,135 (+322) | Ranked #1
 
 Automate the process of making money online.
 
 Language: Python
-2,902 stars today</description>
+2,880 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>bytedance / deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
-      <description>📈 Rank: #14 → #2 (↑12) | ⭐ Stars: 35,179 → 39,159 (+3980)
+      <description>⭐ Stars: 39,159 → 39,819 (+660) | Ranked #2
 
 An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 Language: Python
-3,569 stars today</description>
+3,546 stars today</description>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>📈 Rank: #7 → #3 (↑4) | ⭐ Stars: 9,801 → 13,312 (+3511)
+      <description>⭐ Stars: 13,312 → 13,524 (+212) | Ranked #3
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
 Language: TypeScript
-4,148 stars today</description>
+4,138 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>vxcontrol / pentagi</title>
       <link>https://github.com/vxcontrol/pentagi</link>
-      <description>📉 Rank: #3 → #4 (↓1) | ⭐ Stars: 11,937 → 12,965 (+1028)
+      <description>⭐ Stars: 12,965 → 13,065 (+100) | Ranked #4
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 Language: Go
-1,307 stars today</description>
+1,309 stars today</description>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>browser-use / browser-use</title>
       <link>https://github.com/browser-use/browser-use</link>
-      <description>📈 Rank: #9 → #5 (↑4) | ⭐ Stars: 82,509 → 83,587 (+1078)
+      <description>⭐ Stars: 83,587 → 83,743 (+156) | Ranked #5
 
 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 Language: Python
-1,160 stars today</description>
+1,157 stars today</description>
       <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>TauricResearch / TradingAgents</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
-      <description>📉 Rank: #2 → #6 (↓4) | ⭐ Stars: 37,052 → 39,222 (+2170)
+      <description>⭐ Stars: 39,222 → 39,471 (+249) | Ranked #6
 
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 Language: Python
-2,521 stars today</description>
+2,530 stars today</description>
       <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>tinygrad / tinygrad</title>
+      <link>https://github.com/tinygrad/tinygrad</link>
+      <description>⭐ Stars: 31,875 → 31,902 (+27) | Ranked #7
+
+You like pytorch? You like micrograd? You love tinygrad! ❤️
+
+Language: Python
+56 stars today</description>
+      <guid isPermaLink="true">https://github.com/tinygrad/tinygrad</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>affaan-m / everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>📉 Rank: #5 → #8 (↓3) | ⭐ Stars: 97,849 → 101,823 (+3974)
+      <description>⭐ Stars: 101,823 → 102,242 (+419) | Ranked #8
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
-4,453 stars today</description>
+4,458 stars today</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>NousResearch / hermes-agent</title>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <description>⭐ Stars: 11,507 → 11,655 (+148) | Ranked #9
+
+The agent that grows with you
+
+Language: Python
+919 stars today</description>
+      <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>jingyaogong / minimind</title>
+      <link>https://github.com/jingyaogong/minimind</link>
+      <description>⭐ Stars: 42,540 → 42,648 (+108) | Ranked #10
+
+🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+Language: Python
+487 stars today</description>
+      <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
     <item>
       <title>hsliuping / TradingAgents-CN</title>
       <link>https://github.com/hsliuping/TradingAgents-CN</link>
-      <description>⭐ Stars: 19,734 → 20,293 (+559) | Ranked #11
+      <description>⭐ Stars: 20,293 → 20,373 (+80) | Ranked #11
 
 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
 Language: Python
-672 stars today</description>
+676 stars today</description>
       <guid isPermaLink="true">https://github.com/hsliuping/TradingAgents-CN</guid>
-      <pubDate>Mon, 23 Mar 2026 23:40:15 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>kepano / obsidian-skills</title>
+      <link>https://github.com/kepano/obsidian-skills</link>
+      <description>⭐ Stars: 16,310 → 16,422 (+112) | Ranked #12
+
+Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+354 stars today</description>
+      <guid isPermaLink="true">https://github.com/kepano/obsidian-skills</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>czlonkowski / n8n-mcp</title>
+      <link>https://github.com/czlonkowski/n8n-mcp</link>
+      <description>⭐ Stars: 16,028 → 16,092 (+64) | Ranked #13
+
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+
+Language: TypeScript
+146 stars today</description>
+      <guid isPermaLink="true">https://github.com/czlonkowski/n8n-mcp</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>iptv-org / iptv</title>
+      <link>https://github.com/iptv-org/iptv</link>
+      <description>⭐ Stars: 113,560 → 113,635 (+75) | Ranked #14
+
+Collection of publicly available IPTV channels from all over the world
+
+Language: TypeScript
+106 stars today</description>
+      <guid isPermaLink="true">https://github.com/iptv-org/iptv</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>hesreallyhim / awesome-claude-code</title>
+      <link>https://github.com/hesreallyhim/awesome-claude-code</link>
+      <description>⭐ Stars: 30,900 → 31,070 (+170) | Ranked #15
+
+A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+
+Language: Python
+429 stars today</description>
+      <guid isPermaLink="true">https://github.com/hesreallyhim/awesome-claude-code</guid>
+      <pubDate>Tue, 24 Mar 2026 02:45:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
