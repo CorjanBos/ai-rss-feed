@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 22:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:42:24 +0000</lastBuildDate>
     <item>
       <title>BerriAI / litellm</title>
       <link>https://github.com/BerriAI/litellm</link>
@@ -19,7 +19,7 @@ Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native
 Language: Python
 289 stars today</description>
       <guid isPermaLink="true">https://github.com/BerriAI/litellm</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>letta-ai / claude-subconscious</title>
@@ -31,7 +31,7 @@ Give Claude Code a subconscious
 Language: TypeScript
 71 stars today</description>
       <guid isPermaLink="true">https://github.com/letta-ai/claude-subconscious</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>usestrix / strix</title>
@@ -43,115 +43,115 @@ Open-source AI hackers to find and fix your app’s vulnerabilities.
 Language: Python
 215 stars today</description>
       <guid isPermaLink="true">https://github.com/usestrix/strix</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>mvanhorn / last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>📈 Rank: #8 → #1 (↑7) | ⭐ Stars: 5,500 → 7,477 (+1977)
+      <description>📈 Rank: #8 → #1 (↑7) | ⭐ Stars: 5,500 → 7,556 (+2056)
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 Language: Python
 1,342 stars today</description>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>bytedance / deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
-      <description>⭐ Stars: 43,099 → 46,052 (+2953) | Ranked #2
+      <description>⭐ Stars: 43,099 → 46,105 (+3006) | Ranked #2
 
 An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 Language: Python
 3,787 stars today</description>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>pascalorg / editor</title>
       <link>https://github.com/pascalorg/editor</link>
-      <description>📉 Rank: #1 → #4 (↓3) | ⭐ Stars: 5,125 → 6,796 (+1671)
+      <description>📉 Rank: #1 → #4 (↓3) | ⭐ Stars: 5,125 → 6,808 (+1683)
 
 Create and share 3D architectural projects.
 
 Language: TypeScript
 2,353 stars today</description>
       <guid isPermaLink="true">https://github.com/pascalorg/editor</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>ruvnet / ruflo</title>
       <link>https://github.com/ruvnet/ruflo</link>
-      <description>📈 Rank: #9 → #6 (↑3) | ⭐ Stars: 25,052 → 26,122 (+1070)
+      <description>📈 Rank: #9 → #6 (↑3) | ⭐ Stars: 25,052 → 26,169 (+1117)
 
 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 Language: TypeScript
 1,173 stars today</description>
       <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>Crosstalk-Solutions / project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-      <description>📉 Rank: #6 → #7 (↓1) | ⭐ Stars: 15,256 → 16,550 (+1294)
+      <description>📉 Rank: #6 → #7 (↓1) | ⭐ Stars: 15,256 → 16,583 (+1327)
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
 Language: TypeScript
 1,717 stars today</description>
       <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>ruvnet / RuView</title>
       <link>https://github.com/ruvnet/RuView</link>
-      <description>📈 Rank: #14 → #8 (↑6) | ⭐ Stars: 41,246 → 42,208 (+962)
+      <description>📈 Rank: #14 → #8 (↑6) | ⭐ Stars: 41,246 → 42,246 (+1000)
 
 π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 Language: Rust
 1,083 stars today</description>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>supermemoryai / supermemory</title>
       <link>https://github.com/supermemoryai/supermemory</link>
-      <description>📉 Rank: #3 → #9 (↓6) | ⭐ Stars: 18,508 → 19,175 (+667)
+      <description>📉 Rank: #3 → #9 (↓6) | ⭐ Stars: 18,508 → 19,189 (+681)
 
 Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 Language: TypeScript
 809 stars today</description>
       <guid isPermaLink="true">https://github.com/supermemoryai/supermemory</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>FujiwaraChoki / MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
-      <description>📉 Rank: #4 → #10 (↓6) | ⭐ Stars: 24,761 → 25,542 (+781)
+      <description>📉 Rank: #4 → #10 (↓6) | ⭐ Stars: 24,761 → 25,566 (+805)
 
 Automate the process of making money online.
 
 Language: Python
 1,065 stars today</description>
       <guid isPermaLink="true">https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
     <item>
       <title>hsliuping / TradingAgents-CN</title>
       <link>https://github.com/hsliuping/TradingAgents-CN</link>
-      <description>⭐ Stars: 20,873 → 21,283 (+410) | Ranked #12
+      <description>⭐ Stars: 20,873 → 21,291 (+418) | Ranked #12
 
 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
 Language: Python
 449 stars today</description>
       <guid isPermaLink="true">https://github.com/hsliuping/TradingAgents-CN</guid>
-      <pubDate>Wed, 25 Mar 2026 22:46:34 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 23:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

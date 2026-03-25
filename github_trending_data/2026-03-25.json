@@ -4,52 +4,52 @@
     "repo_name": "pascalorg / editor",
     "repo_url": "https://github.com/pascalorg/editor",
     "description": "Create and share 3D architectural projects.",
-    "stars": 6796,
-    "stars_text": "6,796",
-    "forks": 889,
+    "stars": 6808,
+    "stars_text": "6,808",
+    "forks": 893,
     "language": "TypeScript",
     "today_stars": "2,353 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-25T22:46:34.191749+00:00"
+    "fetched_at": "2026-03-25T23:42:24.775480+00:00"
   },
   "bytedance/deer-flow": {
     "repo_path": "bytedance/deer-flow",
     "repo_name": "bytedance / deer-flow",
     "repo_url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "stars": 46052,
-    "stars_text": "46,052",
-    "forks": 5450,
+    "stars": 46105,
+    "stars_text": "46,105",
+    "forks": 5454,
     "language": "Python",
     "today_stars": "3,787 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-25T22:46:34.190489+00:00"
+    "fetched_at": "2026-03-25T23:42:24.774305+00:00"
   },
   "supermemoryai/supermemory": {
     "repo_path": "supermemoryai/supermemory",
     "repo_name": "supermemoryai / supermemory",
     "repo_url": "https://github.com/supermemoryai/supermemory",
     "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "stars": 19175,
-    "stars_text": "19,175",
-    "forks": 1807,
+    "stars": 19189,
+    "stars_text": "19,189",
+    "forks": 1808,
     "language": "TypeScript",
     "today_stars": "809 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-25T22:46:34.194417+00:00"
+    "fetched_at": "2026-03-25T23:42:24.777955+00:00"
   },
   "FujiwaraChoki/MoneyPrinterV2": {
     "repo_path": "FujiwaraChoki/MoneyPrinterV2",
     "repo_name": "FujiwaraChoki / MoneyPrinterV2",
     "repo_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "description": "Automate the process of making money online.",
-    "stars": 25542,
-    "stars_text": "25,542",
-    "forks": 2647,
+    "stars": 25566,
+    "stars_text": "25,566",
+    "forks": 2648,
     "language": "Python",
     "today_stars": "1,065 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-25T22:46:34.195069+00:00"
+    "fetched_at": "2026-03-25T23:42:24.778558+00:00"
   },
   "harry0703/MoneyPrinterTurbo": {
     "repo_path": "harry0703/MoneyPrinterTurbo",
@@ -69,13 +69,13 @@
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 16550,
-    "stars_text": "16,550",
-    "forks": 1571,
+    "stars": 16583,
+    "stars_text": "16,583",
+    "forks": 1578,
     "language": "TypeScript",
     "today_stars": "1,717 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-25T22:46:34.193363+00:00"
+    "fetched_at": "2026-03-25T23:42:24.776974+00:00"
   },
   "TauricResearch/TradingAgents": {
     "repo_path": "TauricResearch/TradingAgents",
@@ -95,26 +95,26 @@
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 7477,
-    "stars_text": "7,477",
-    "forks": 706,
+    "stars": 7556,
+    "stars_text": "7,556",
+    "forks": 709,
     "language": "Python",
     "today_stars": "1,342 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-25T22:46:34.189894+00:00"
+    "fetched_at": "2026-03-25T23:42:24.773744+00:00"
   },
   "ruvnet/ruflo": {
     "repo_path": "ruvnet/ruflo",
     "repo_name": "ruvnet / ruflo",
     "repo_url": "https://github.com/ruvnet/ruflo",
     "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "stars": 26122,
-    "stars_text": "26,122",
-    "forks": 2833,
+    "stars": 26169,
+    "stars_text": "26,169",
+    "forks": 2835,
     "language": "TypeScript",
     "today_stars": "1,173 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-25T22:46:34.192812+00:00"
+    "fetched_at": "2026-03-25T23:42:24.776477+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
@@ -147,13 +147,13 @@
     "repo_name": "hsliuping / TradingAgents-CN",
     "repo_url": "https://github.com/hsliuping/TradingAgents-CN",
     "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
-    "stars": 21283,
-    "stars_text": "21,283",
+    "stars": 21291,
+    "stars_text": "21,291",
     "forks": 4427,
     "language": "Python",
     "today_stars": "449 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-25T22:46:34.196096+00:00"
+    "fetched_at": "2026-03-25T23:42:24.779537+00:00"
   },
   "aquasecurity/trivy": {
     "repo_path": "aquasecurity/trivy",
@@ -173,51 +173,51 @@
     "repo_name": "ruvnet / RuView",
     "repo_url": "https://github.com/ruvnet/RuView",
     "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "stars": 42208,
-    "stars_text": "42,208",
-    "forks": 5749,
+    "stars": 42246,
+    "stars_text": "42,246",
+    "forks": 5752,
     "language": "Rust",
     "today_stars": "1,083 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-25T22:46:34.193913+00:00"
+    "fetched_at": "2026-03-25T23:42:24.777463+00:00"
   },
   "BerriAI/litellm": {
     "repo_path": "BerriAI/litellm",
     "repo_name": "BerriAI / litellm",
     "repo_url": "https://github.com/BerriAI/litellm",
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
-    "stars": 40615,
-    "stars_text": "40,615",
-    "forks": 6711,
+    "stars": 40632,
+    "stars_text": "40,632",
+    "forks": 6712,
     "language": "Python",
     "today_stars": "289 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-25T22:46:34.191162+00:00"
+    "fetched_at": "2026-03-25T23:42:24.774938+00:00"
   },
   "usestrix/strix": {
     "repo_path": "usestrix/strix",
     "repo_name": "usestrix / strix",
     "repo_url": "https://github.com/usestrix/strix",
     "description": "Open-source AI hackers to find and fix your app\u2019s vulnerabilities.",
-    "stars": 21696,
-    "stars_text": "21,696",
-    "forks": 2301,
+    "stars": 21715,
+    "stars_text": "21,715",
+    "forks": 2302,
     "language": "Python",
     "today_stars": "215 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-25T22:46:34.195572+00:00"
+    "fetched_at": "2026-03-25T23:42:24.779051+00:00"
   },
   "letta-ai/claude-subconscious": {
     "repo_path": "letta-ai/claude-subconscious",
     "repo_name": "letta-ai / claude-subconscious",
     "repo_url": "https://github.com/letta-ai/claude-subconscious",
     "description": "Give Claude Code a subconscious",
-    "stars": 1409,
-    "stars_text": "1,409",
-    "forks": 108,
+    "stars": 1430,
+    "stars_text": "1,430",
+    "forks": 110,
     "language": "TypeScript",
     "today_stars": "71 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-25T22:46:34.192287+00:00"
+    "fetched_at": "2026-03-25T23:42:24.775994+00:00"
   }
 }
