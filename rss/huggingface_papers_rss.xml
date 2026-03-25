@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 15:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:12:30 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -109,6 +109,15 @@ Human cognition of new concepts is inherently a streaming process: we continuous
       <pubDate>Fri, 20 Mar 2026 18:47:54 +0000</pubDate>
     </item>
     <item>
+      <title>Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction</title>
+      <link>https://huggingface.co/papers/2603.22330</link>
+      <description>By Zhiyuan Chen, Zhenfeng Deng, Pan Deng, Yue Liao, Xiu Su, et al.
+
+Accurate prediction of RNA secondary structure underpins transcriptome annotation, mechanistic analysis of non-coding RNAs, and RNA therapeutic design. Recent gains from deep learning and RNA foundation models are difficult to interpret because current benchmarks may overestimate generalization acro...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22330</guid>
+      <pubDate>Fri, 20 Mar 2026 20:18:08 +0000</pubDate>
+    </item>
+    <item>
       <title>REVERE: Reflective Evolving Research Engineer for Scientific Workflows</title>
       <link>https://huggingface.co/papers/2603.20667</link>
       <description>By Balaji Dinesh Gangireddi, Aniketh Garikaparthi, Manasi Patwardhan, Arman Cohan
@@ -170,15 +179,6 @@ World models learn to predict future states of an environment, enabling planning
 Improving embodied reasoning in multimodal-large-language models (MLLMs) is essential for building vision-language-action models (VLAs) on top of them to readily translate multimodal understanding into low-level actions. Accordingly, recent work has explored enhancing embodied reasoning in MLLMs thr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.21341</guid>
       <pubDate>Sun, 22 Mar 2026 17:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generalized Discrete Diffusion from Snapshots</title>
-      <link>https://huggingface.co/papers/2603.21342</link>
-      <description>By Oussama Zekri, Théo Uscidda, Nicolas Boullé, Anna Korba
-
-We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our formulation encompasses all existing discrete diffusion approaches, while allowing significantly grea...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21342</guid>
-      <pubDate>Sun, 22 Mar 2026 17:58:01 +0000</pubDate>
     </item>
     <item>
       <title>STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems</title>
@@ -271,15 +271,6 @@ Despite the remarkable success of large-scale pre-trained image representation m
       <pubDate>Mon, 23 Mar 2026 14:54:34 +0000</pubDate>
     </item>
     <item>
-      <title>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</title>
-      <link>https://huggingface.co/papers/2603.22212</link>
-      <description>By Meiqi Wu, Zhixin Cai, Fufangchen Zhao, Xiaokun Feng, Rujing Dang, et al.
-
-Video--based world models have emerged along two dominant paradigms: video generation and 3D reconstruction. However, existing evaluation benchmarks either focus narrowly on visual fidelity and text--video alignment for generative models, or rely on static 3D reconstruction metrics that fundamentall...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22212</guid>
-      <pubDate>Mon, 23 Mar 2026 17:10:29 +0000</pubDate>
-    </item>
-    <item>
       <title>From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</title>
       <link>https://huggingface.co/papers/2603.22386</link>
       <description>By Ling Yue, Kushal Raj Bhandari, Ching-Yun Ko, Dhaval Patel, Shuxin Lin, et al.
@@ -332,6 +323,15 @@ Optical character recognition (OCR) has evolved from line-level transcription to
 Multimodal AI agents are increasingly automating complex real-world workflows that involve online web execution. However, current web-agent benchmarks suffer from a critical limitation: they focus entirely on web-based interaction and perception, lacking grounding in the user's real-world physical s...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22529</guid>
       <pubDate>Mon, 23 Mar 2026 19:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CanViT: Toward Active-Vision Foundation Models</title>
+      <link>https://huggingface.co/papers/2603.22570</link>
+      <description>By Yohaï-Eliel Berreby, Sabrina Du, Audrey Durand, B. Suresh Krishna
+
+Active computer vision promises efficient, biologically plausible perception through sequential, localized glimpses, but lacks scalable general-purpose architectures and pretraining pipelines. As a result, Active-Vision Foundation Models (AVFMs) have remained unexplored. We introduce CanViT, the fir...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22570</guid>
+      <pubDate>Mon, 23 Mar 2026 21:05:21 +0000</pubDate>
     </item>
     <item>
       <title>TrajLoom: Dense Future Trajectory Generation from Video</title>
