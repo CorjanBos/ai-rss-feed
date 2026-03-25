@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 09:00:18 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -53,15 +53,6 @@ Offline safe reinforcement learning (RL) seeks reward-maximizing policies from s
 Training deep research agents requires long-horizon trajectories that interleave search, evidence aggregation, and multi-step reasoning. However, existing data collection pipelines typically rely on proprietary web APIs, making large-scale trajectory synthesis costly, unstable, and difficult to repr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20278</guid>
       <pubDate>Tue, 17 Mar 2026 20:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models</title>
-      <link>https://huggingface.co/papers/2603.18118</link>
-      <description>By Yuhao Dong, Zuyan Liu, Shulin Tian, Yongming Rao, Ziwei Liu
-
-Large Language Models (LLMs) have achieved remarkable reliability and advanced capabilities through extended test-time reasoning. However, extending these capabilities to Multi-modal Large Language Models (MLLMs) remains a significant challenge due to a critical scarcity of high-quality, long-chain ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18118</guid>
-      <pubDate>Wed, 18 Mar 2026 15:28:07 +0000</pubDate>
     </item>
     <item>
       <title>Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs</title>
@@ -134,15 +125,6 @@ Systematic literature reviews are essential for synthesizing scientific evidence
 Human cognition of new concepts is inherently a streaming process: we continuously recognize new objects or identities and update our memories over time. However, current multimodal personalization methods are largely limited to static images or offline videos. This disconnects continuous visual inp...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20422</guid>
       <pubDate>Fri, 20 Mar 2026 18:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding Behavior Cloning with Action Quantization</title>
-      <link>https://huggingface.co/papers/2603.20538</link>
-      <description>By Haoqun Cao, Tengyang Xie
-
-Behavior cloning is a fundamental paradigm in machine learning, enabling policy learning from expert demonstrations across robotics, autonomous driving, and generative models. Autoregressive models like transformer have proven remarkably effective, from large language models (LLMs) to vision-languag...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.20538</guid>
-      <pubDate>Fri, 20 Mar 2026 22:22:43 +0000</pubDate>
     </item>
     <item>
       <title>REVERE: Reflective Evolving Research Engineer for Scientific Workflows</title>
@@ -262,15 +244,6 @@ Subject-driven image generation is increasingly expected to support fine-grained
       <pubDate>Mon, 23 Mar 2026 12:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection</title>
-      <link>https://huggingface.co/papers/2603.21944</link>
-      <description>By Youbin Kim, Jinho Park, Hogun Park, Eunbyung Park
-
-Open-vocabulary 3D object detection aims to localize and recognize objects beyond a fixed training taxonomy. In multi-view RGB settings, recent approaches often decouple geometry-based instance construction from semantic labeling, generating class-agnostic fragments and assigning open-vocabulary cat...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21944</guid>
-      <pubDate>Mon, 23 Mar 2026 13:01:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe</title>
       <link>https://huggingface.co/papers/2603.21972</link>
       <description>By Xixi Wu, Qianguo Sun, Ruiyang Zhang, Chao Song, Junlong Wu, et al.
@@ -278,6 +251,15 @@ Open-vocabulary 3D object detection aims to localize and recognize objects beyon
 Reinforcement Learning (RL) is essential for evolving Large Language Models (LLMs) into autonomous agents capable of long-horizon planning, yet a practical recipe for scaling RL in complex, multi-turn environments remains elusive. This paper presents a systematic empirical study using TravelPlanner,...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.21972</guid>
       <pubDate>Mon, 23 Mar 2026 13:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models</title>
+      <link>https://huggingface.co/papers/2603.22003</link>
+      <description>By Zixuan Wang, Yuxin Chen, Yuqi Liu, Jinhui Ye, Pengguang Chen, et al.
+
+Vision-Language-Action (VLA) models typically map visual observations and linguistic instructions directly to robotic control signals. This "black-box" mapping forces a single forward pass to simultaneously handle instruction interpretation, spatial grounding, and low-level control, often leading to...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22003</guid>
+      <pubDate>Mon, 23 Mar 2026 14:08:58 +0000</pubDate>
     </item>
     <item>
       <title>AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing</title>
@@ -332,15 +314,6 @@ Large language model (LLM)-based systems are becoming increasingly popular for s
 While recent advances in generative latent spaces have driven substantial progress in single-image generation, the optimal latent space for novel view synthesis (NVS) remains largely unexplored. In particular, NVS requires geometrically consistent generation across viewpoints, but existing approache...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22275</guid>
       <pubDate>Mon, 23 Mar 2026 17:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels</title>
-      <link>https://huggingface.co/papers/2603.22276</link>
-      <description>By Alexandra Zelenin, Alexandra Zhuravlyova
-
-Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major framework we surveyed implements by materializing the dense [d_out, d_in] product BA. At d_in = 8192 and...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22276</guid>
-      <pubDate>Mon, 23 Mar 2026 17:57:24 +0000</pubDate>
     </item>
     <item>
       <title>ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model</title>
@@ -424,6 +397,15 @@ State-of-the-art video generation models produce remarkable photorealism, but th
       <pubDate>Tue, 24 Mar 2026 17:32:42 +0000</pubDate>
     </item>
     <item>
+      <title>Regulating AI Agents</title>
+      <link>https://huggingface.co/papers/2603.23471</link>
+      <description>By Kathrin Gardhouse, Amin Oueslati, Noam Kolt
+
+AI agents -- systems that can independently take actions to pursue complex goals with only limited human oversight -- have entered the mainstream. These systems are now being widely used to produce software, conduct business activities, and automate everyday personal tasks. While AI agents implicate...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23471</guid>
+      <pubDate>Tue, 24 Mar 2026 17:38:27 +0000</pubDate>
+    </item>
+    <item>
       <title>VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs</title>
       <link>https://huggingface.co/papers/2603.23481</link>
       <description>By Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen, Yuchen Mo, et al.
@@ -442,6 +424,15 @@ Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Age
       <pubDate>Tue, 24 Mar 2026 17:45:47 +0000</pubDate>
     </item>
     <item>
+      <title>VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions</title>
+      <link>https://huggingface.co/papers/2603.23495</link>
+      <description>By Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Yassine Ouali, Georgios Tzimiropoulos
+
+Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understan...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23495</guid>
+      <pubDate>Tue, 24 Mar 2026 17:58:17 +0000</pubDate>
+    </item>
+    <item>
       <title>WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG</title>
       <link>https://huggingface.co/papers/2603.23497</link>
       <description>By Zhen Li, Zian Meng, Shuwei Shi, Wenshuo Peng, Yuwei Wu, et al.
@@ -449,6 +440,15 @@ Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Age
 Dynamical systems theory and reinforcement learning view world evolution as latent-state dynamics driven by actions, with visual observations providing partial information about the state. Recent video world models attempt to learn this action-conditioned dynamics from data. However, existing datase...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23497</guid>
       <pubDate>Tue, 24 Mar 2026 17:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models</title>
+      <link>https://huggingface.co/papers/2603.23499</link>
+      <description>By Jaewon Min, Jaeeun Lee, Yeji Choi, Paul Hyunbin Cho, Jin Hyeon Kim, et al.
+
+Optical flow models trained on high-quality data often degrade severely when confronted with real-world corruptions such as blur, noise, and compression artifacts. To overcome this limitation, we formulate Degradation-Aware Optical Flow, a new task targeting accurate dense correspondence estimation ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23499</guid>
+      <pubDate>Tue, 24 Mar 2026 17:59:13 +0000</pubDate>
     </item>
     <item>
       <title>UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation</title>
