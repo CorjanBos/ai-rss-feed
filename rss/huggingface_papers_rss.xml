@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:49:56 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -89,15 +89,6 @@ Large Language Models (LLMs) exhibit hallucinations in knowledge-intensive tasks
 Prompt routing dynamically selects the most appropriate large language model from a pool of candidates for each query, optimizing performance while managing costs. As model pools scale to include dozens of frontier models with narrow performance gaps, existing approaches face significant challenges:...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.19415</guid>
       <pubDate>Thu, 19 Mar 2026 19:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing</title>
-      <link>https://huggingface.co/papers/2603.19456</link>
-      <description>By Xiao Fang, Yiming Gong, Stanislav Panev, Celso de Melo, Shuowen Hu, et al.
-
-Deep neural networks (DNNs) have achieved remarkable success in computer vision but remain highly vulnerable to adversarial attacks. Among them, camouflage attacks manipulate an object's visible appearance to deceive detectors while remaining stealthy to humans. In this paper, we propose a new frame...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19456</guid>
-      <pubDate>Thu, 19 Mar 2026 20:30:03 +0000</pubDate>
     </item>
     <item>
       <title>AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI</title>
@@ -359,6 +350,15 @@ Multimodal AI agents are increasingly automating complex real-world workflows th
 Predicting future motion is crucial in video understanding and controllable video generation. Dense point trajectories are a compact, expressive motion representation, but modeling their future evolution from observed video remains challenging. We propose a framework that predicts future trajectorie...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22606</guid>
       <pubDate>Mon, 23 Mar 2026 22:10:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning</title>
+      <link>https://huggingface.co/papers/2603.22758</link>
+      <description>By WonJun Moon, Hyun Seok Seong, Jae-Pil Heo
+
+Video Object-Centric Learning seeks to decompose raw videos into a small set of object slots, but existing slot-attention models often suffer from severe over-fragmentation. This is because the model is implicitly encouraged to occupy all slots to minimize the reconstruction objective, thereby repre...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22758</guid>
+      <pubDate>Tue, 24 Mar 2026 03:34:51 +0000</pubDate>
     </item>
     <item>
       <title>Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought</title>
