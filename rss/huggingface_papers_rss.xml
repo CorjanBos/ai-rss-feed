@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 02:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 05:01:20 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -217,15 +217,6 @@ Post-training for long-horizon agentic tasks has a tension between compute effic
       <pubDate>Sun, 22 Mar 2026 19:59:48 +0000</pubDate>
     </item>
     <item>
-      <title>Effective Strategies for Asynchronous Software Engineering Agents</title>
-      <link>https://huggingface.co/papers/2603.21489</link>
-      <description>By Jiayi Geng, Graham Neubig
-
-AI agents have become increasingly capable at isolated software engineering (SWE) tasks such as resolving issues on Github. Yet long-horizon tasks involving multiple interdependent subtasks still pose challenges both with respect to accuracy, and with respect to timely completion. A natural approach...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21489</guid>
-      <pubDate>Mon, 23 Mar 2026 02:26:35 +0000</pubDate>
-    </item>
-    <item>
       <title>The Universal Normal Embedding</title>
       <link>https://huggingface.co/papers/2603.21786</link>
       <description>By Chen Tasker, Roy Betser, Eyal Gofer, Meir Yossef Levi, Guy Gilboa
@@ -233,6 +224,15 @@ AI agents have become increasingly capable at isolated software engineering (SWE
 Generative models and vision encoders have largely advanced on separate tracks, optimized for different goals and grounded in different mathematical principles. Yet, they share a fundamental property: latent space Gaussianity. Generative models map Gaussian noise to images, while encoders map images...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.21786</guid>
       <pubDate>Mon, 23 Mar 2026 10:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models</title>
+      <link>https://huggingface.co/papers/2603.21854</link>
+      <description>By Aryan Kasat, Smriti Singh, Aman Chadha, Vinija Jain
+
+Do large language models reason morally, or do they merely sound like they do? We investigate whether LLM responses to moral dilemmas exhibit genuine developmental progression through Kohlberg's stages of moral development, or whether alignment training instead produces reasoning-like outputs that s...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21854</guid>
+      <pubDate>Mon, 23 Mar 2026 11:43:49 +0000</pubDate>
     </item>
     <item>
       <title>Manifold-Aware Exploration for Reinforcement Learning in Video Generation</title>
@@ -289,6 +289,15 @@ This work presents AdditiveLLM2 a multi-modal, domain adapted large language mod
       <pubDate>Mon, 23 Mar 2026 14:28:10 +0000</pubDate>
     </item>
     <item>
+      <title>Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models</title>
+      <link>https://huggingface.co/papers/2603.22042</link>
+      <description>By Hayeon Kim, Ji Ha Jang, Junghun James Kim, Se Young Chun
+
+While Vision-Language Models (VLMs) have achieved remarkable performance, their Euclidean embeddings remain limited in capturing hierarchical relationships such as part-to-whole or parent-child structures, and often face challenges in multi-object compositional scenarios. Hyperbolic VLMs mitigate th...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22042</guid>
+      <pubDate>Mon, 23 Mar 2026 14:41:20 +0000</pubDate>
+    </item>
+    <item>
       <title>SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning</title>
       <link>https://huggingface.co/papers/2603.22057</link>
       <description>By Byungwoo Jeon, Dongyoung Kim, Huiwon Jang, Insoo Kim, Jinwoo Shin
@@ -296,15 +305,6 @@ This work presents AdditiveLLM2 a multi-modal, domain adapted large language mod
 Despite the remarkable success of large-scale pre-trained image representation models (i.e., vision encoders) across various vision tasks, they are predominantly trained on 2D image data and therefore often fail to capture 3D spatial relationships between objects and backgrounds in the real world, c...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22057</guid>
       <pubDate>Mon, 23 Mar 2026 14:54:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation</title>
-      <link>https://huggingface.co/papers/2603.22117</link>
-      <description>By Kexin Huang, Haoming Meng, Junkang Wu, Jinda Lu, Chiyu Ma, et al.
-
-Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models. While existing analyses identify that RLVR-induced changes are sparse, they primarily focus on the magnitude of these updates, largely overlooking their direction. In...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22117</guid>
-      <pubDate>Mon, 23 Mar 2026 15:42:24 +0000</pubDate>
     </item>
     <item>
       <title>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</title>
@@ -361,15 +361,6 @@ Recent progress in latent world models (e.g., V-JEPA2) has shown promising capab
       <pubDate>Mon, 23 Mar 2026 17:59:42 +0000</pubDate>
     </item>
     <item>
-      <title>WorldCache: Content-Aware Caching for Accelerated Video World Models</title>
-      <link>https://huggingface.co/papers/2603.22286</link>
-      <description>By Umair Nawaz, Ahmed Heakl, Ufaq Khan, Abdelrahman Shaker, Salman Khan, et al.
-
-Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature caching accelerates inference by reusing intermediate activations across denoising steps; however, existin...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22286</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs</title>
       <link>https://huggingface.co/papers/2603.22446</link>
       <description>By Haoming Meng, Kexin Huang, Shaohang Wei, Chiyu Ma, Shuo Yang, et al.
@@ -422,6 +413,15 @@ Multimodal Chain-of-Thought (CoT) reasoning requires large vision-language model
 Video-based world models offer a powerful paradigm for embodied simulation and planning, yet state-of-the-art models often generate physically implausible manipulations - such as object penetration and anti-gravity motion - due to training on generic visual data and likelihood-based objectives that ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23376</guid>
       <pubDate>Tue, 24 Mar 2026 16:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM</title>
+      <link>https://huggingface.co/papers/2603.23386</link>
+      <description>By Chuanrui Zhang, Minghan Qin, Yuang Wang, Baifeng Xie, Hang Li, et al.
+
+High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in "sim-ready" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors acros...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23386</guid>
+      <pubDate>Tue, 24 Mar 2026 16:16:52 +0000</pubDate>
     </item>
     <item>
       <title>RealMaster: Lifting Rendered Scenes into Photorealistic Video</title>
