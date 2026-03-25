@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:06:01 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -53,6 +53,15 @@ Offline safe reinforcement learning (RL) seeks reward-maximizing policies from s
 Training deep research agents requires long-horizon trajectories that interleave search, evidence aggregation, and multi-step reasoning. However, existing data collection pipelines typically rely on proprietary web APIs, making large-scale trajectory synthesis costly, unstable, and difficult to repr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20278</guid>
       <pubDate>Tue, 17 Mar 2026 20:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abstraction as a Memory-Efficient Inductive Bias for Continual Learning</title>
+      <link>https://huggingface.co/papers/2603.17198</link>
+      <description>By Elnaz Rahmati, Nona Ghazizadeh, Zhivar Sourati, Nina Rouhani, Morteza Dehghani
+
+The real world is non-stationary and infinitely complex, requiring intelligent agents to learn continually without the prohibitive cost of retraining from scratch. While online continual learning offers a framework for this setting, learning new information often interferes with previously acquired ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.17198</guid>
+      <pubDate>Tue, 17 Mar 2026 22:59:13 +0000</pubDate>
     </item>
     <item>
       <title>Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs</title>
@@ -116,6 +125,15 @@ Human cognition of new concepts is inherently a streaming process: we continuous
 Accurate prediction of RNA secondary structure underpins transcriptome annotation, mechanistic analysis of non-coding RNAs, and RNA therapeutic design. Recent gains from deep learning and RNA foundation models are difficult to interpret because current benchmarks may overestimate generalization acro...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22330</guid>
       <pubDate>Fri, 20 Mar 2026 20:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents</title>
+      <link>https://huggingface.co/papers/2603.20576</link>
+      <description>By Ruiying Ma, Shreya Shankar, Ruiqi Chen, Yiming Lin, Sepanta Zeighami, et al.
+
+Users across enterprises increasingly rely on AI agents to query their data through natural language. However, building reliable data agents remains difficult because real-world data is often fragmented across multiple heterogeneous database systems, with inconsistent references and information buri...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.20576</guid>
+      <pubDate>Sat, 21 Mar 2026 00:14:53 +0000</pubDate>
     </item>
     <item>
       <title>REVERE: Reflective Evolving Research Engineer for Scientific Workflows</title>
@@ -226,15 +244,6 @@ Subject-driven image generation is increasingly expected to support fine-grained
       <pubDate>Mon, 23 Mar 2026 12:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe</title>
-      <link>https://huggingface.co/papers/2603.21972</link>
-      <description>By Xixi Wu, Qianguo Sun, Ruiyang Zhang, Chao Song, Junlong Wu, et al.
-
-Reinforcement Learning (RL) is essential for evolving Large Language Models (LLMs) into autonomous agents capable of long-horizon planning, yet a practical recipe for scaling RL in complex, multi-turn environments remains elusive. This paper presents a systematic empirical study using TravelPlanner,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21972</guid>
-      <pubDate>Mon, 23 Mar 2026 13:40:08 +0000</pubDate>
-    </item>
-    <item>
       <title>VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models</title>
       <link>https://huggingface.co/papers/2603.22003</link>
       <description>By Zixuan Wang, Yuxin Chen, Yuqi Liu, Jinhui Ye, Pengguang Chen, et al.
@@ -260,15 +269,6 @@ This work presents AdditiveLLM2 a multi-modal, domain adapted large language mod
 While Vision-Language Models (VLMs) have achieved remarkable performance, their Euclidean embeddings remain limited in capturing hierarchical relationships such as part-to-whole or parent-child structures, and often face challenges in multi-object compositional scenarios. Hyperbolic VLMs mitigate th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22042</guid>
       <pubDate>Mon, 23 Mar 2026 14:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning</title>
-      <link>https://huggingface.co/papers/2603.22057</link>
-      <description>By Byungwoo Jeon, Dongyoung Kim, Huiwon Jang, Insoo Kim, Jinwoo Shin
-
-Despite the remarkable success of large-scale pre-trained image representation models (i.e., vision encoders) across various vision tasks, they are predominantly trained on 2D image data and therefore often fail to capture 3D spatial relationships between objects and backgrounds in the real world, c...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22057</guid>
-      <pubDate>Mon, 23 Mar 2026 14:54:34 +0000</pubDate>
     </item>
     <item>
       <title>From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</title>

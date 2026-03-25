@@ -4,52 +4,52 @@
     "repo_name": "pascalorg / editor",
     "repo_url": "https://github.com/pascalorg/editor",
     "description": "Create and share 3D architectural projects.",
-    "stars": 6670,
-    "stars_text": "6,670",
-    "forks": 860,
+    "stars": 6708,
+    "stars_text": "6,708",
+    "forks": 870,
     "language": "TypeScript",
     "today_stars": "2,353 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-25T17:12:32.175238+00:00"
+    "fetched_at": "2026-03-25T19:06:03.117496+00:00"
   },
   "bytedance/deer-flow": {
     "repo_path": "bytedance/deer-flow",
     "repo_name": "bytedance / deer-flow",
     "repo_url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "stars": 45834,
-    "stars_text": "45,834",
-    "forks": 5427,
+    "stars": 45928,
+    "stars_text": "45,928",
+    "forks": 5437,
     "language": "Python",
     "today_stars": "3,787 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-25T17:12:32.174193+00:00"
+    "fetched_at": "2026-03-25T19:06:03.116437+00:00"
   },
   "supermemoryai/supermemory": {
     "repo_path": "supermemoryai/supermemory",
     "repo_name": "supermemoryai / supermemory",
     "repo_url": "https://github.com/supermemoryai/supermemory",
     "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "stars": 19100,
-    "stars_text": "19,100",
-    "forks": 1804,
+    "stars": 19136,
+    "stars_text": "19,136",
+    "forks": 1805,
     "language": "TypeScript",
     "today_stars": "809 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-25T17:12:32.177386+00:00"
+    "fetched_at": "2026-03-25T19:06:03.119687+00:00"
   },
   "FujiwaraChoki/MoneyPrinterV2": {
     "repo_path": "FujiwaraChoki/MoneyPrinterV2",
     "repo_name": "FujiwaraChoki / MoneyPrinterV2",
     "repo_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "description": "Automate the process of making money online.",
-    "stars": 25435,
-    "stars_text": "25,435",
-    "forks": 2641,
+    "stars": 25480,
+    "stars_text": "25,480",
+    "forks": 2644,
     "language": "Python",
     "today_stars": "1,065 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-25T17:12:32.177913+00:00"
+    "fetched_at": "2026-03-25T19:06:03.120221+00:00"
   },
   "harry0703/MoneyPrinterTurbo": {
     "repo_path": "harry0703/MoneyPrinterTurbo",
@@ -69,13 +69,13 @@
     "repo_name": "Crosstalk-Solutions / project-nomad",
     "repo_url": "https://github.com/Crosstalk-Solutions/project-nomad",
     "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "stars": 16280,
-    "stars_text": "16,280",
-    "forks": 1551,
+    "stars": 16381,
+    "stars_text": "16,381",
+    "forks": 1566,
     "language": "TypeScript",
     "today_stars": "1,717 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-25T17:12:32.176529+00:00"
+    "fetched_at": "2026-03-25T19:06:03.118821+00:00"
   },
   "TauricResearch/TradingAgents": {
     "repo_path": "TauricResearch/TradingAgents",
@@ -95,26 +95,26 @@
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 6924,
-    "stars_text": "6,924",
-    "forks": 680,
+    "stars": 7126,
+    "stars_text": "7,126",
+    "forks": 691,
     "language": "Python",
     "today_stars": "1,342 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-25T17:12:32.173697+00:00"
+    "fetched_at": "2026-03-25T19:06:03.115917+00:00"
   },
   "ruvnet/ruflo": {
     "repo_path": "ruvnet/ruflo",
     "repo_name": "ruvnet / ruflo",
     "repo_url": "https://github.com/ruvnet/ruflo",
     "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "stars": 25851,
-    "stars_text": "25,851",
-    "forks": 2812,
+    "stars": 25944,
+    "stars_text": "25,944",
+    "forks": 2821,
     "language": "TypeScript",
     "today_stars": "1,173 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-25T17:12:32.176108+00:00"
+    "fetched_at": "2026-03-25T19:06:03.118388+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
@@ -147,13 +147,13 @@
     "repo_name": "hsliuping / TradingAgents-CN",
     "repo_url": "https://github.com/hsliuping/TradingAgents-CN",
     "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
-    "stars": 21245,
-    "stars_text": "21,245",
-    "forks": 4420,
+    "stars": 21258,
+    "stars_text": "21,258",
+    "forks": 4423,
     "language": "Python",
     "today_stars": "449 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-25T17:12:32.178760+00:00"
+    "fetched_at": "2026-03-25T19:06:03.121083+00:00"
   },
   "aquasecurity/trivy": {
     "repo_path": "aquasecurity/trivy",
@@ -173,51 +173,51 @@
     "repo_name": "ruvnet / RuView",
     "repo_url": "https://github.com/ruvnet/RuView",
     "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "stars": 42007,
-    "stars_text": "42,007",
-    "forks": 5726,
+    "stars": 42080,
+    "stars_text": "42,080",
+    "forks": 5735,
     "language": "Rust",
     "today_stars": "1,083 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-25T17:12:32.176967+00:00"
+    "fetched_at": "2026-03-25T19:06:03.119250+00:00"
   },
   "BerriAI/litellm": {
     "repo_path": "BerriAI/litellm",
     "repo_name": "BerriAI / litellm",
     "repo_url": "https://github.com/BerriAI/litellm",
     "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
-    "stars": 40542,
-    "stars_text": "40,542",
-    "forks": 6705,
+    "stars": 40565,
+    "stars_text": "40,565",
+    "forks": 6709,
     "language": "Python",
     "today_stars": "289 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-25T17:12:32.174750+00:00"
+    "fetched_at": "2026-03-25T19:06:03.116988+00:00"
   },
   "usestrix/strix": {
     "repo_path": "usestrix/strix",
     "repo_name": "usestrix / strix",
     "repo_url": "https://github.com/usestrix/strix",
     "description": "Open-source AI hackers to find and fix your app\u2019s vulnerabilities.",
-    "stars": 21572,
-    "stars_text": "21,572",
-    "forks": 2297,
+    "stars": 21610,
+    "stars_text": "21,610",
+    "forks": 2299,
     "language": "Python",
     "today_stars": "215 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-25T17:12:32.178331+00:00"
+    "fetched_at": "2026-03-25T19:06:03.120655+00:00"
   },
   "letta-ai/claude-subconscious": {
     "repo_path": "letta-ai/claude-subconscious",
     "repo_name": "letta-ai / claude-subconscious",
     "repo_url": "https://github.com/letta-ai/claude-subconscious",
     "description": "Give Claude Code a subconscious",
-    "stars": 1307,
-    "stars_text": "1,307",
-    "forks": 104,
+    "stars": 1344,
+    "stars_text": "1,344",
+    "forks": 106,
     "language": "TypeScript",
     "today_stars": "71 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-25T17:12:32.175674+00:00"
+    "fetched_at": "2026-03-25T19:06:03.117936+00:00"
   }
 }
