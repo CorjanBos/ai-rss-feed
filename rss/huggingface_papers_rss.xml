@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 09:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:56:33 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -100,15 +100,6 @@ Deep neural networks (DNNs) have achieved remarkable success in computer vision 
       <pubDate>Thu, 19 Mar 2026 20:30:03 +0000</pubDate>
     </item>
     <item>
-      <title>Semantic Audio-Visual Navigation in Continuous Environments</title>
-      <link>https://huggingface.co/papers/2603.19660</link>
-      <description>By Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Chen Gao, et al.
-
-Audio-visual navigation enables embodied agents to navigate toward sound-emitting targets by leveraging both auditory and visual cues. However, most existing approaches rely on precomputed room impulse responses (RIRs) for binaural audio rendering, restricting agents to discrete grid positions and l...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19660</guid>
-      <pubDate>Fri, 20 Mar 2026 05:49:50 +0000</pubDate>
-    </item>
-    <item>
       <title>AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI</title>
       <link>https://huggingface.co/papers/2603.22327</link>
       <description>By Shreyansh Padarha, Ryan Othniel Kearns, Tristan Naidoo, Lingyi Yang, Łukasz Borchmann, et al.
@@ -197,6 +188,15 @@ Improving embodied reasoning in multimodal-large-language models (MLLMs) is esse
 We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our formulation encompasses all existing discrete diffusion approaches, while allowing significantly grea...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.21342</guid>
       <pubDate>Sun, 22 Mar 2026 17:58:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems</title>
+      <link>https://huggingface.co/papers/2603.22359</link>
+      <description>By Alfred Shen, Aaron Shen
+
+Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their deployment across diverse interaction paradigms. To address these constraints, we introduce STEM Agent (Self-adapting, Tool-enabled, Extensible, Multi-...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22359</guid>
+      <pubDate>Sun, 22 Mar 2026 20:50:53 +0000</pubDate>
     </item>
     <item>
       <title>The Universal Normal Embedding</title>
