@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 05:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:12:37 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -145,15 +145,6 @@ Behavior cloning is a fundamental paradigm in machine learning, enabling policy 
       <pubDate>Fri, 20 Mar 2026 22:22:43 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic AI and the next intelligence explosion</title>
-      <link>https://huggingface.co/papers/2603.20639</link>
-      <description>By James Evans, Benjamin Bratton, Blaise Agüera y Arcas
-
-The "AI singularity" is often miscast as a monolithic, godlike mind. Evolution suggests a different path: intelligence is fundamentally plural, social, and relational. Recent advances in agentic AI reveal that frontier reasoning models, such as DeepSeek-R1, do not improve simply by "thinking longer"...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.20639</guid>
-      <pubDate>Sat, 21 Mar 2026 04:23:11 +0000</pubDate>
-    </item>
-    <item>
       <title>REVERE: Reflective Evolving Research Engineer for Scientific Workflows</title>
       <link>https://huggingface.co/papers/2603.20667</link>
       <description>By Balaji Dinesh Gangireddi, Aniketh Garikaparthi, Manasi Patwardhan, Arman Cohan
@@ -170,6 +161,24 @@ Existing prompt-optimization techniques rely on local signals to update behavior
 Recent advancements in text-to-speech technologies enable generating high-fidelity synthetic speech nearly indistinguishable from real human voices. While recent studies show the efficacy of self-supervised learning-based speech encoders for deepfake detection, these models struggle to generalize ac...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20686</guid>
       <pubDate>Sat, 21 Mar 2026 07:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>2Xplat: Two Experts Are Better Than One Generalist</title>
+      <link>https://huggingface.co/papers/2603.21064</link>
+      <description>By Hwasik Jeong, Seungryong Lee, Gyeongjin Kang, Seungkwon Yang, Xiangyu Sun, et al.
+
+Pose-free feed-forward 3D Gaussian Splatting (3DGS) has opened a new frontier for rapid 3D modeling, enabling high-quality Gaussian representations to be generated from uncalibrated multi-view images in a single forward pass. The dominant approach in this space adopts unified monolithic architecture...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21064</guid>
+      <pubDate>Sun, 22 Mar 2026 05:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates</title>
+      <link>https://huggingface.co/papers/2603.22350</link>
+      <description>By Florin Adrian Chitan
+
+Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally blind to distributed attacks that decompose harmful intent across multiple individually-compliant s...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22350</guid>
+      <pubDate>Sun, 22 Mar 2026 08:30:28 +0000</pubDate>
     </item>
     <item>
       <title>F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting</title>
@@ -206,15 +215,6 @@ Improving embodied reasoning in multimodal-large-language models (MLLMs) is esse
 We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our formulation encompasses all existing discrete diffusion approaches, while allowing significantly grea...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.21342</guid>
       <pubDate>Sun, 22 Mar 2026 17:58:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost</title>
-      <link>https://huggingface.co/papers/2603.21383</link>
-      <description>By Junkeun Yi, Damon Mosk-Aoyama, Baihe Huang, Ritu Gala, Charles Wang, et al.
-
-Post-training for long-horizon agentic tasks has a tension between compute efficiency and generalization. While supervised fine-tuning (SFT) is compute efficient, it often suffers from out-of-domain (OOD) degradation. Conversely, end-to-end reinforcement learning (E2E RL) preserves OOD capabilities,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21383</guid>
-      <pubDate>Sun, 22 Mar 2026 19:59:48 +0000</pubDate>
     </item>
     <item>
       <title>The Universal Normal Embedding</title>
@@ -314,15 +314,6 @@ Despite the remarkable success of large-scale pre-trained image representation m
 Video--based world models have emerged along two dominant paradigms: video generation and 3D reconstruction. However, existing evaluation benchmarks either focus narrowly on visual fidelity and text--video alignment for generative models, or rely on static 3D reconstruction metrics that fundamentall...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22212</guid>
       <pubDate>Mon, 23 Mar 2026 17:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>MemDLM: Memory-Enhanced DLM Training</title>
-      <link>https://huggingface.co/papers/2603.22241</link>
-      <description>By Zehua Pei, Hui-Ling Zhen, Weizhe Lin, Sinno Jialin Pan, Yunhe Wang, et al.
-
-Diffusion Language Models (DLMs) offer attractive advantages over Auto-Regressive (AR) models, such as full-attention parallel decoding and flexible generation. However, they suffer from a notable train-inference mismatch: DLMs are trained with a static, single-step masked prediction objective, but ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22241</guid>
-      <pubDate>Mon, 23 Mar 2026 17:39:56 +0000</pubDate>
     </item>
     <item>
       <title>From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</title>
@@ -431,6 +422,15 @@ High-quality articulated 3D assets are indispensable for embodied AI and physica
 State-of-the-art video generation models produce remarkable photorealism, but they lack the precise control required to align generated content with specific scene requirements. Furthermore, without an underlying explicit geometry, these models cannot guarantee 3D consistency. Conversely, 3D engines...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23462</guid>
       <pubDate>Tue, 24 Mar 2026 17:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs</title>
+      <link>https://huggingface.co/papers/2603.23481</link>
+      <description>By Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen, Yuchen Mo, et al.
+
+Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning,...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23481</guid>
+      <pubDate>Tue, 24 Mar 2026 17:45:06 +0000</pubDate>
     </item>
     <item>
       <title>SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning</title>
