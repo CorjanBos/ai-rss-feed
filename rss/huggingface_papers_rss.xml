@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:45:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:14:54 +0000</lastBuildDate>
+    <item>
+      <title>Qworld: Question-Specific Evaluation Criteria for LLMs</title>
+      <link>https://huggingface.co/papers/2603.23522</link>
+      <description>By Shanghua Gao, Yuchang Su, Pengwei Sui, Curtis Ginder, Marinka Zitnik
+
+Evaluating large language models (LLMs) on open-ended questions is difficult because response quality depends on the question's context. Binary scores and static rubrics fail to capture these context-dependent requirements. Existing methods define criteria at the dataset level or generate them in a ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23522</guid>
+      <pubDate>Fri, 06 Mar 2026 15:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -188,15 +197,6 @@ While Vision-Language Models (VLMs) have achieved remarkable performance, their 
 Applications such as embodied intelligence rely on a real-time perception-decision-action closed loop, posing stringent challenges for streaming video understanding. However, current agents suffer from fragmented capabilities, such as supporting only offline video understanding, lacking long-term mu...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22120</guid>
       <pubDate>Mon, 23 Mar 2026 15:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</title>
-      <link>https://huggingface.co/papers/2603.22386</link>
-      <description>By Ling Yue, Kushal Raj Bhandari, Ching-Yun Ko, Dhaval Patel, Shuxin Lin, et al.
-
-Large language model (LLM)-based systems are becoming increasingly popular for solving tasks by constructing executable workflows that interleave LLM calls, information retrieval, tool use, code execution, memory updates, and verification. This survey reviews recent methods for designing and optimiz...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22386</guid>
-      <pubDate>Mon, 23 Mar 2026 17:42:59 +0000</pubDate>
     </item>
     <item>
       <title>Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs</title>
