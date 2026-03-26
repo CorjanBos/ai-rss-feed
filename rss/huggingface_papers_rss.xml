@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 09:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:01:32 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -46,13 +46,22 @@ The real world is non-stationary and infinitely complex, requiring intelligent a
       <pubDate>Tue, 17 Mar 2026 22:59:13 +0000</pubDate>
     </item>
     <item>
-      <title>AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI</title>
-      <link>https://huggingface.co/papers/2603.22327</link>
-      <description>By Shreyansh Padarha, Ryan Othniel Kearns, Tristan Naidoo, Lingyi Yang, Łukasz Borchmann, et al.
+      <title>6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models</title>
+      <link>https://huggingface.co/papers/2603.18742</link>
+      <description>By Rundong Su, Jintao Zhang, Zhihang Yuan, Haojie Duanmu, Jianfei Chen, et al.
 
-Systematic literature reviews are essential for synthesizing scientific evidence but are costly, difficult to scale and time-intensive, creating bottlenecks for evidence-based policy. We study whether large language models can automate the complete systematic review workflow, from article retrieval,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22327</guid>
-      <pubDate>Fri, 20 Mar 2026 17:11:58 +0000</pubDate>
+Diffusion transformers have demonstrated remarkable capabilities in generating videos. However, their practical deployment is severely constrained by high memory usage and computational cost. Post-Training Quantization provides a practical way to reduce memory usage and boost computation speed. Exis...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.18742</guid>
+      <pubDate>Thu, 19 Mar 2026 10:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis</title>
+      <link>https://huggingface.co/papers/2603.20176</link>
+      <description>By Stanislaw Szymanowicz, Minghao Chen, Jianyuan Wang, Christian Rupprecht, Andrea Vedaldi
+
+Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpful in the design of such networks. We show this point by introducing LagerNVS, an encoder-decoder ne...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.20176</guid>
+      <pubDate>Fri, 20 Mar 2026 17:53:06 +0000</pubDate>
     </item>
     <item>
       <title>PEARL: Personalized Streaming Video Understanding Model</title>
@@ -188,15 +197,6 @@ Applications such as embodied intelligence rely on a real-time perception-decisi
 Large language model (LLM)-based systems are becoming increasingly popular for solving tasks by constructing executable workflows that interleave LLM calls, information retrieval, tool use, code execution, memory updates, and verification. This survey reviews recent methods for designing and optimiz...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22386</guid>
       <pubDate>Mon, 23 Mar 2026 17:42:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model</title>
-      <link>https://huggingface.co/papers/2603.22281</link>
-      <description>By Haichao Zhang, Yijiang Li, Shwai He, Tushar Nagarajan, Mingfei Chen, et al.
-
-Recent progress in latent world models (e.g., V-JEPA2) has shown promising capability in forecasting future world states from video observations. Nevertheless, dense prediction from a short observation window limits temporal context and can bias predictors toward local, low-level extrapolation, maki...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22281</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:42 +0000</pubDate>
     </item>
     <item>
       <title>Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs</title>
