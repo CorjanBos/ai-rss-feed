@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:12:52 +0000</lastBuildDate>
     <item>
       <title>Qworld: Question-Specific Evaluation Criteria for LLMs</title>
       <link>https://huggingface.co/papers/2603.23522</link>
@@ -235,15 +235,6 @@ Active computer vision promises efficient, biologically plausible perception thr
       <pubDate>Mon, 23 Mar 2026 21:05:21 +0000</pubDate>
     </item>
     <item>
-      <title>TrajLoom: Dense Future Trajectory Generation from Video</title>
-      <link>https://huggingface.co/papers/2603.22606</link>
-      <description>By Zewei Zhang, Jia Jun Cheng Xian, Kaiwen Liu, Ming Liang, Hang Chu, et al.
-
-Predicting future motion is crucial in video understanding and controllable video generation. Dense point trajectories are a compact, expressive motion representation, but modeling their future evolution from observed video remains challenging. We propose a framework that predicts future trajectorie...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22606</guid>
-      <pubDate>Mon, 23 Mar 2026 22:10:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning</title>
       <link>https://huggingface.co/papers/2603.22758</link>
       <description>By WonJun Moon, Hyun Seok Seong, Jae-Pil Heo
@@ -395,6 +386,15 @@ Unified models capable of interleaved generation have emerged as a promising par
 Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effectively under uncertainty. Unlike short-horizon reactive decisions, allocation requires committing scarce resources over time ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23638</guid>
       <pubDate>Tue, 24 Mar 2026 18:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision</title>
+      <link>https://huggingface.co/papers/2603.24036</link>
+      <description>By Avigail Cohen Rimon, Amir Mann, Mirela Ben Chen, Or Litany
+
+3D Gaussian Splatting (3DGS) enables real-time, photorealistic novel view synthesis, making it a highly attractive representation for model-based video tracking. However, leveraging the differentiability of the 3DGS renderer "in the wild" remains notoriously fragile. A fundamental bottleneck lies in...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24036</guid>
+      <pubDate>Wed, 25 Mar 2026 07:48:22 +0000</pubDate>
     </item>
     <item>
       <title>CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare</title>
