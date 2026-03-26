@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 09:07:13 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -44,15 +44,6 @@ No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quali
 The real world is non-stationary and infinitely complex, requiring intelligent agents to learn continually without the prohibitive cost of retraining from scratch. While online continual learning offers a framework for this setting, learning new information often interferes with previously acquired ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.17198</guid>
       <pubDate>Tue, 17 Mar 2026 22:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable Prompt Routing via Fine-Grained Latent Task Discovery</title>
-      <link>https://huggingface.co/papers/2603.19415</link>
-      <description>By Yunyi Zhang, Soji Adeshina, Patrick Guan, Ashwin Ganesh, Zhen Han, et al.
-
-Prompt routing dynamically selects the most appropriate large language model from a pool of candidates for each query, optimizing performance while managing costs. As model pools scale to include dozens of frontier models with narrow performance gaps, existing approaches face significant challenges:...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19415</guid>
-      <pubDate>Thu, 19 Mar 2026 19:15:51 +0000</pubDate>
     </item>
     <item>
       <title>AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI</title>
@@ -296,6 +287,15 @@ Video-based world models offer a powerful paradigm for embodied simulation and p
 High-quality articulated 3D assets are indispensable for embodied AI and physical simulation, yet 3D generation still focuses on static meshes, leaving a gap in "sim-ready" interactive objects. Most recent articulated object creation methods rely on multi-stage pipelines that accumulate errors acros...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23386</guid>
       <pubDate>Tue, 24 Mar 2026 16:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning</title>
+      <link>https://huggingface.co/papers/2603.23404</link>
+      <description>By Jiacheng Hua, Yishu Yin, Yuhang Wu, Tai Wang, Yifei Huang, et al.
+
+Existing Multimodal Large Language Models (MLLMs) struggle with 3D spatial reasoning, as they fail to construct structured abstractions of the 3D environment depicted in video inputs. To bridge this gap, drawing inspiration from cognitive theories of allocentric spatial reasoning, we investigate how...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23404</guid>
+      <pubDate>Tue, 24 Mar 2026 16:38:09 +0000</pubDate>
     </item>
     <item>
       <title>RealMaster: Lifting Rendered Scenes into Photorealistic Video</title>
