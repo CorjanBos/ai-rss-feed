@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 02:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 05:14:23 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -17,6 +17,15 @@
 Multi-modal large language models (MLLMs) have advanced general-purpose video understanding but struggle with long, high-resolution videos -- they process every pixel equally in their vision transformers (ViTs) or LLMs despite significant spatiotemporal redundancy. We introduce AutoGaze, a lightweig...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.12254</guid>
       <pubDate>Thu, 12 Mar 2026 17:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>PLDR-LLMs Reason At Self-Organized Criticality</title>
+      <link>https://huggingface.co/papers/2603.23539</link>
+      <description>By Burc Gokden
+
+We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality is similar to second-order phase transitions. At criticality, the correlation length diverges, and the deductive outputs attain a meta...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23539</guid>
+      <pubDate>Thu, 12 Mar 2026 19:09:06 +0000</pubDate>
     </item>
     <item>
       <title>SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment</title>
@@ -28,15 +37,6 @@ No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quali
       <pubDate>Sat, 14 Mar 2026 00:37:26 +0000</pubDate>
     </item>
     <item>
-      <title>Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs</title>
-      <link>https://huggingface.co/papers/2603.16932</link>
-      <description>By Nimrod Shabtay, Moshe Kimhi, Artem Spector, Sivan Haray, Ehud Rivlin, et al.
-
-Vision-language models (VLMs) typically process images at a native high-resolution, forcing a trade-off between accuracy and computational efficiency: high-resolution inputs capture fine details but incur significant computational costs, while low-resolution inputs advocate for efficiency, they pote...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.16932</guid>
-      <pubDate>Sat, 14 Mar 2026 10:11:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Aperiodic Structures Never Collapse: Fibonacci Hierarchies for Lossless Compression</title>
       <link>https://huggingface.co/papers/2603.14999</link>
       <description>By Roberto Tacconelli
@@ -46,24 +46,6 @@ We study whether an aperiodic hierarchy can provide a structural advantage for l
       <pubDate>Mon, 16 Mar 2026 09:02:59 +0000</pubDate>
     </item>
     <item>
-      <title>Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies</title>
-      <link>https://huggingface.co/papers/2603.15136</link>
-      <description>By Mumuksh Tayal, Manan Tayal, Ravi Prakash
-
-Offline safe reinforcement learning (RL) seeks reward-maximizing policies from static datasets under strict safety constraints. Existing methods often rely on soft expected-cost objectives or iterative generative inference, which can be insufficient for safety-critical real-time control. We propose ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.15136</guid>
-      <pubDate>Mon, 16 Mar 2026 11:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis</title>
-      <link>https://huggingface.co/papers/2603.20278</link>
-      <description>By Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, et al.
-
-Training deep research agents requires long-horizon trajectories that interleave search, evidence aggregation, and multi-step reasoning. However, existing data collection pipelines typically rely on proprietary web APIs, making large-scale trajectory synthesis costly, unstable, and difficult to repr...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.20278</guid>
-      <pubDate>Tue, 17 Mar 2026 20:10:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Abstraction as a Memory-Efficient Inductive Bias for Continual Learning</title>
       <link>https://huggingface.co/papers/2603.17198</link>
       <description>By Elnaz Rahmati, Nona Ghazizadeh, Zhivar Sourati, Nina Rouhani, Morteza Dehghani
@@ -71,15 +53,6 @@ Training deep research agents requires long-horizon trajectories that interleave
 The real world is non-stationary and infinitely complex, requiring intelligent agents to learn continually without the prohibitive cost of retraining from scratch. While online continual learning offers a framework for this setting, learning new information often interferes with previously acquired ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.17198</guid>
       <pubDate>Tue, 17 Mar 2026 22:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs</title>
-      <link>https://huggingface.co/papers/2603.18911</link>
-      <description>By Vedant Pandya
-
-Knowledge-grounded dialogue systems aim to generate informative, contextually relevant responses by conditioning on external knowledge sources. However, most existing approaches focus exclusively on English, lack explicit citation mechanisms for verifying factual claims, and offer limited transparen...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18911</guid>
-      <pubDate>Thu, 19 Mar 2026 13:48:19 +0000</pubDate>
     </item>
     <item>
       <title>Scalable Prompt Routing via Fine-Grained Latent Task Discovery</title>
@@ -127,6 +100,15 @@ Users across enterprises increasingly rely on AI agents to query their data thro
       <pubDate>Sat, 21 Mar 2026 00:14:53 +0000</pubDate>
     </item>
     <item>
+      <title>T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search</title>
+      <link>https://huggingface.co/papers/2603.22341</link>
+      <description>By Hyomin Lee, Sangwoo Park, Yumin Choi, Sohyun An, Seanie Lee, et al.
+
+While prior red-teaming efforts have focused on eliciting harmful text outputs from large language models (LLMs), such approaches fail to capture agent-specific vulnerabilities that emerge through multi-step tool execution, particularly in rapidly growing ecosystems such as the Model Context Protoco...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22341</guid>
+      <pubDate>Sat, 21 Mar 2026 12:33:34 +0000</pubDate>
+    </item>
+    <item>
       <title>2Xplat: Two Experts Are Better Than One Generalist</title>
       <link>https://huggingface.co/papers/2603.21064</link>
       <description>By Hwasik Jeong, Seungryong Lee, Gyeongjin Kang, Seungkwon Yang, Xiangyu Sun, et al.
@@ -163,6 +145,15 @@ Current AI agent frameworks commit early to a single interaction protocol, a fix
       <pubDate>Sun, 22 Mar 2026 20:50:53 +0000</pubDate>
     </item>
     <item>
+      <title>4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video</title>
+      <link>https://huggingface.co/papers/2603.21618</link>
+      <description>By Jae Won Jang, Yeonjin Chang, Wonsik Shin, Juhwan Cho, Nojun Kwak
+
+We introduce 4DGS360, a diffusion-free framework for 360^{circ} dynamic object reconstruction from casual monocular video. Existing methods often fail to reconstruct consistent 360^{circ} geometry, as their heavy reliance on 2D-native priors causes initial points to overfit to visible surface in eac...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.21618</guid>
+      <pubDate>Mon, 23 Mar 2026 06:30:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models</title>
       <link>https://huggingface.co/papers/2603.21854</link>
       <description>By Aryan Kasat, Smriti Singh, Aman Chadha, Vinija Jain
@@ -190,15 +181,6 @@ Vision-Language-Action (VLA) models typically map visual observations and lingui
       <pubDate>Mon, 23 Mar 2026 14:08:58 +0000</pubDate>
     </item>
     <item>
-      <title>AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing</title>
-      <link>https://huggingface.co/papers/2603.22017</link>
-      <description>By Peter Pak, Amir Barati Farimani
-
-This work presents AdditiveLLM2 a multi-modal, domain adapted large language model built upon the instruction tuned variant of the Gemma 3 model using a relatively small dataset of around 50 million tokens. The dataset (AdditiveLLM2-OA) consists of open-access additive manufacturing journal articles...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22017</guid>
-      <pubDate>Mon, 23 Mar 2026 14:28:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models</title>
       <link>https://huggingface.co/papers/2603.22042</link>
       <description>By Hayeon Kim, Ji Ha Jang, Junghun James Kim, Se Young Chun
@@ -215,15 +197,6 @@ While Vision-Language Models (VLMs) have achieved remarkable performance, their 
 Large language model (LLM)-based systems are becoming increasingly popular for solving tasks by constructing executable workflows that interleave LLM calls, information retrieval, tool use, code execution, memory updates, and verification. This survey reviews recent methods for designing and optimiz...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22386</guid>
       <pubDate>Mon, 23 Mar 2026 17:42:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repurposing Geometric Foundation Models for Multi-view Diffusion</title>
-      <link>https://huggingface.co/papers/2603.22275</link>
-      <description>By Wooseok Jang, Seonghu Jeon, Jisang Han, Jinhyeok Choi, Minkyung Kwon, et al.
-
-While recent advances in generative latent spaces have driven substantial progress in single-image generation, the optimal latent space for novel view synthesis (NVS) remains largely unexplored. In particular, NVS requires geometrically consistent generation across viewpoints, but existing approache...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22275</guid>
-      <pubDate>Mon, 23 Mar 2026 17:57:05 +0000</pubDate>
     </item>
     <item>
       <title>ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model</title>
@@ -298,6 +271,15 @@ Multimodal Chain-of-Thought (CoT) reasoning requires large vision-language model
       <pubDate>Tue, 24 Mar 2026 06:38:00 +0000</pubDate>
     </item>
     <item>
+      <title>EVA: Efficient Reinforcement Learning for End-to-End Video Agent</title>
+      <link>https://huggingface.co/papers/2603.22918</link>
+      <description>By Yaolun Zhang, Ruohui Wang, Jiahao Wang, Yepeng Tang, Xuanyu Zheng, et al.
+
+Video understanding with multimodal large language models (MLLMs) remains challenging due to the long token sequences of videos, which contain extensive temporal dependencies and redundant frames. Existing approaches typically treat MLLMs as passive recognizers, processing entire videos or uniformly...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22918</guid>
+      <pubDate>Tue, 24 Mar 2026 08:06:29 +0000</pubDate>
+    </item>
+    <item>
       <title>ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment</title>
       <link>https://huggingface.co/papers/2603.23376</link>
       <description>By Yuzhi Chen, Ronghan Chen, Dongjie Huo, Yandan Yang, Dekang Qi, et al.
@@ -332,6 +314,15 @@ State-of-the-art video generation models produce remarkable photorealism, but th
 AI agents -- systems that can independently take actions to pursue complex goals with only limited human oversight -- have entered the mainstream. These systems are now being widely used to produce software, conduct business activities, and automate everyday personal tasks. While AI agents implicate...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23471</guid>
       <pubDate>Tue, 24 Mar 2026 17:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation</title>
+      <link>https://huggingface.co/papers/2603.23478</link>
+      <description>By Jiaying Lin, Dan Xu
+
+Functionality segmentation in 3D scenes requires an agent to ground implicit natural-language instructions into precise masks of fine-grained interactive elements. Existing methods rely on fragmented pipelines that suffer from visual blindness during initial task parsing. We observe that these metho...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23478</guid>
+      <pubDate>Tue, 24 Mar 2026 17:42:31 +0000</pubDate>
     </item>
     <item>
       <title>VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs</title>
@@ -440,6 +431,15 @@ Computer-use agents (CUAs) hold great promise for automating complex desktop wor
 While proprietary systems such as Seedance-2.0 have achieved remarkable success in omni-capable video generation, open-source alternatives significantly lag behind. Most academic models remain heavily fragmented, and the few existing efforts toward unified video generation still struggle to seamless...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24458</guid>
       <pubDate>Wed, 25 Mar 2026 16:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?</title>
+      <link>https://huggingface.co/papers/2603.24472</link>
+      <description>By Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dohyung Kim, et al.
+
+Self-distillation has emerged as an effective post-training paradigm for LLMs, often improving performance while shortening reasoning traces. However, in mathematical reasoning, we find that it can reduce response length while degrading performance. We trace this degradation to the suppression of ep...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24472</guid>
+      <pubDate>Wed, 25 Mar 2026 16:14:52 +0000</pubDate>
     </item>
     <item>
       <title>Toward Physically Consistent Driving Video World Models under Challenging Trajectories</title>
