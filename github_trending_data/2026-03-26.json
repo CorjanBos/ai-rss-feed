@@ -4,26 +4,26 @@
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 10074,
-    "stars_text": "10,074",
-    "forks": 873,
+    "stars": 10165,
+    "stars_text": "10,165",
+    "forks": 879,
     "language": "Python",
     "today_stars": "2,684 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-26T22:38:58.574331+00:00"
+    "fetched_at": "2026-03-26T23:40:10.033209+00:00"
   },
   "bytedance/deer-flow": {
     "repo_path": "bytedance/deer-flow",
     "repo_name": "bytedance / deer-flow",
     "repo_url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "stars": 48196,
-    "stars_text": "48,196",
-    "forks": 5740,
+    "stars": 48231,
+    "stars_text": "48,231",
+    "forks": 5746,
     "language": "Python",
     "today_stars": "2,388 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-26T22:38:58.576604+00:00"
+    "fetched_at": "2026-03-26T23:40:10.035498+00:00"
   },
   "BerriAI/litellm": {
     "repo_path": "BerriAI/litellm",
@@ -95,13 +95,13 @@
     "repo_name": "ruvnet / RuView",
     "repo_url": "https://github.com/ruvnet/RuView",
     "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "stars": 43094,
-    "stars_text": "43,094",
-    "forks": 5842,
+    "stars": 43121,
+    "stars_text": "43,121",
+    "forks": 5844,
     "language": "Rust",
     "today_stars": "1,001 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-26T22:38:58.576108+00:00"
+    "fetched_at": "2026-03-26T23:40:10.034992+00:00"
   },
   "supermemoryai/supermemory": {
     "repo_path": "supermemoryai/supermemory",
@@ -160,77 +160,77 @@
     "repo_name": "Yeachan-Heo / oh-my-claudecode",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
     "description": "Teams-first Multi-agent orchestration for Claude Code",
-    "stars": 12517,
-    "stars_text": "12,517",
-    "forks": 833,
+    "stars": 12556,
+    "stars_text": "12,556",
+    "forks": 835,
     "language": "TypeScript",
     "today_stars": "576 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-26T22:38:58.575047+00:00"
+    "fetched_at": "2026-03-26T23:40:10.033936+00:00"
   },
   "virattt/dexter": {
     "repo_path": "virattt/dexter",
     "repo_name": "virattt / dexter",
     "repo_url": "https://github.com/virattt/dexter",
     "description": "An autonomous agent for deep financial research",
-    "stars": 18932,
-    "stars_text": "18,932",
+    "stars": 18953,
+    "stars_text": "18,953",
     "forks": 2329,
     "language": "TypeScript",
     "today_stars": "269 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-26T22:38:58.575574+00:00"
+    "fetched_at": "2026-03-26T23:40:10.034458+00:00"
   },
   "Vaibhavs10/insanely-fast-whisper": {
     "repo_path": "Vaibhavs10/insanely-fast-whisper",
     "repo_name": "Vaibhavs10 / insanely-fast-whisper",
     "repo_url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
     "description": "",
-    "stars": 11114,
-    "stars_text": "11,114",
-    "forks": 813,
+    "stars": 11152,
+    "stars_text": "11,152",
+    "forks": 815,
     "language": "Jupyter Notebook",
     "today_stars": "1,381 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-26T22:38:58.577191+00:00"
+    "fetched_at": "2026-03-26T23:40:10.036060+00:00"
   },
   "agentscope-ai/agentscope": {
     "repo_path": "agentscope-ai/agentscope",
     "repo_name": "agentscope-ai / agentscope",
     "repo_url": "https://github.com/agentscope-ai/agentscope",
     "description": "Build and run agents you can see, understand and trust.",
-    "stars": 20334,
-    "stars_text": "20,334",
-    "forks": 1983,
+    "stars": 20364,
+    "stars_text": "20,364",
+    "forks": 1984,
     "language": "Python",
     "today_stars": "439 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-26T22:38:58.577706+00:00"
+    "fetched_at": "2026-03-26T23:40:10.036569+00:00"
   },
   "twentyhq/twenty": {
     "repo_path": "twentyhq/twenty",
     "repo_name": "twentyhq / twenty",
     "repo_url": "https://github.com/twentyhq/twenty",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "stars": 41219,
-    "stars_text": "41,219",
-    "forks": 5498,
+    "stars": 41243,
+    "stars_text": "41,243",
+    "forks": 5500,
     "language": "TypeScript",
     "today_stars": "198 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-26T22:38:58.578220+00:00"
+    "fetched_at": "2026-03-26T23:40:10.037085+00:00"
   },
   "datalab-to/chandra": {
     "repo_path": "datalab-to/chandra",
     "repo_name": "datalab-to / chandra",
     "repo_url": "https://github.com/datalab-to/chandra",
     "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "stars": 6082,
-    "stars_text": "6,082",
-    "forks": 669,
+    "stars": 6119,
+    "stars_text": "6,119",
+    "forks": 671,
     "language": "Python",
     "today_stars": "546 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-26T22:38:58.578702+00:00"
+    "fetched_at": "2026-03-26T23:40:10.037570+00:00"
   }
 }
