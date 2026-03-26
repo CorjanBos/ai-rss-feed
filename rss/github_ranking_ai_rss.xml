@@ -8,76 +8,174 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 23:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:21:07 +0000</lastBuildDate>
     <item>
-      <title>[LLM] awesome-llm-apps</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>📉 Rank: #7 → #8 (↓1)
+      <title>[Transformer] vit-pytorch</title>
+      <link>https://github.com/lucidrains/vit-pytorch</link>
+      <description>📉 Rank: #9 → #10 (↓1)
 
-Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 
 Language: Python
 
-Category: LLM
-Stars: 103,456 | Forks: 15,096</description>
-      <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Wed, 25 Mar 2026 23:42:25 +0000</pubDate>
+Category: Transformer
+Stars: 24,984 | Forks: 3,478</description>
+      <guid isPermaLink="true">https://github.com/lucidrains/vit-pytorch</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Transformer] sglang</title>
+      <link>https://github.com/sgl-project/sglang</link>
+      <description>📈 Rank: #10 → #9 (↑1)
+
+SGLang is a high-performance serving framework for large language models and multimodal models.
+
+Language: Python
+
+Category: Transformer
+Stars: 25,016 | Forks: 5,006</description>
+      <guid isPermaLink="true">https://github.com/sgl-project/sglang</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[OpenAI] vllm</title>
+      <link>https://github.com/vllm-project/vllm</link>
+      <description>🆕 NEW ENTRY - Ranked #10 in OpenAI
+
+A high-throughput and memory-efficient inference and serving engine for LLMs
+
+Language: Python
+
+Category: OpenAI
+Stars: 74,345 | Forks: 14,784</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>📈 Rank: #8 → #7 (↑1) | ⭐ Stars: 102,547 → 105,452 (+2,905)
+      <description>⭐ Stars: 105,452 → 108,508 (+3,056)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: LLM
-Stars: 105,452 | Forks: 13,694</description>
+Stars: 108,508 | Forks: 14,160</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 25 Mar 2026 23:42:25 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Deepseek] lobehub</title>
+      <link>https://github.com/lobehub/lobehub</link>
+      <description>📉 Rank: #6 → #7 (↓1)
+
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+Language: TypeScript
+
+Category: Deepseek
+Stars: 74,324 | Forks: 14,838</description>
+      <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Deepseek] vllm</title>
+      <link>https://github.com/vllm-project/vllm</link>
+      <description>📈 Rank: #7 → #6 (↑1)
+
+A high-throughput and memory-efficient inference and serving engine for LLMs
+
+Language: Python
+
+Category: Deepseek
+Stars: 74,345 | Forks: 14,784</description>
+      <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>📉 Rank: #9 → #10 (↓1)
+
+🤱🏻 Turn any webpage into a desktop app with one command.
+
+Language: Rust
+
+Category: Claude
+Stars: 47,005 | Forks: 9,295</description>
+      <guid isPermaLink="true">https://github.com/tw93/Pake</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] awesome-claude-skills</title>
+      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
+      <description>📉 Rank: #8 → #9 (↓1)
+
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+Language: Python
+
+Category: Claude
+Stars: 47,942 | Forks: 4,934</description>
+      <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] ui-ux-pro-max-skill</title>
+      <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
+      <description>⭐ Stars: 49,954 → 50,980 (+1,026)
+
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+Language: Python
+
+Category: Claude
+Stars: 50,980 | Forks: 4,917</description>
+      <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 102,548 → 105,455 (+2,907)
+      <description>⭐ Stars: 105,455 → 108,509 (+3,054)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 105,455 | Forks: 13,694</description>
+Stars: 108,509 | Forks: 14,160</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 25 Mar 2026 23:42:25 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] gstack</title>
       <link>https://github.com/garrytan/gstack</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in Claude
+      <description>📈 Rank: #10 → #8 (↑2) | ⭐ Stars: 45,525 → 47,949 (+2,424)
 
 Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 Language: TypeScript
 
 Category: Claude
-Stars: 45,525 | Forks: 5,710</description>
+Stars: 47,949 | Forks: 6,093</description>
       <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Wed, 25 Mar 2026 23:42:25 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 332,838 → 334,756 (+1,918)
+      <description>⭐ Stars: 334,756 → 336,274 (+1,518)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 334,756 | Forks: 65,332</description>
+Stars: 336,274 | Forks: 65,773</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Wed, 25 Mar 2026 23:42:25 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 07:21:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

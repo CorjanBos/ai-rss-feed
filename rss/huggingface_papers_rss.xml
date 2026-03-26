@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 05:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:21:04 +0000</lastBuildDate>
     <item>
       <title>Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing</title>
       <link>https://huggingface.co/papers/2603.12254</link>
@@ -35,15 +35,6 @@ We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasonin
 No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quality without access to a reference image of pristine quality. Learning an NR-IQA model faces a fundamental bottleneck: its need for a large number of costly human perceptual labels. We propose SHAMISA, a non-contrastive se...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13669</guid>
       <pubDate>Sat, 14 Mar 2026 00:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aperiodic Structures Never Collapse: Fibonacci Hierarchies for Lossless Compression</title>
-      <link>https://huggingface.co/papers/2603.14999</link>
-      <description>By Roberto Tacconelli
-
-We study whether an aperiodic hierarchy can provide a structural advantage for lossless compression over periodic alternatives. We show that Fibonacci quasicrystal tilings avoid the finite-depth collapse that affects periodic hierarchies: usable n-gram lookup positions remain non-zero at every level...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14999</guid>
-      <pubDate>Mon, 16 Mar 2026 09:02:59 +0000</pubDate>
     </item>
     <item>
       <title>Abstraction as a Memory-Efficient Inductive Bias for Continual Learning</title>
@@ -188,6 +179,15 @@ Vision-Language-Action (VLA) models typically map visual observations and lingui
 While Vision-Language Models (VLMs) have achieved remarkable performance, their Euclidean embeddings remain limited in capturing hierarchical relationships such as part-to-whole or parent-child structures, and often face challenges in multi-object compositional scenarios. Hyperbolic VLMs mitigate th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22042</guid>
       <pubDate>Mon, 23 Mar 2026 14:41:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>StreamingClaw Technical Report</title>
+      <link>https://huggingface.co/papers/2603.22120</link>
+      <description>By Jiawei Chen, Zhe Chen, Chaoqun Du, Maokui He, Wei He, et al.
+
+Applications such as embodied intelligence rely on a real-time perception-decision-action closed loop, posing stringent challenges for streaming video understanding. However, current agents suffer from fragmented capabilities, such as supporting only offline video understanding, lacking long-term mu...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22120</guid>
+      <pubDate>Mon, 23 Mar 2026 15:43:52 +0000</pubDate>
     </item>
     <item>
       <title>From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</title>
