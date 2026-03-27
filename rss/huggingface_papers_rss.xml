@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 13:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 14:59:19 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -46,6 +46,15 @@ We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasonin
 No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quality without access to a reference image of pristine quality. Learning an NR-IQA model faces a fundamental bottleneck: its need for a large number of costly human perceptual labels. We propose SHAMISA, a non-contrastive se...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13669</guid>
       <pubDate>Sat, 14 Mar 2026 00:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
+      <link>https://huggingface.co/papers/2603.13904</link>
+      <description>By Seokmin Lee, Yunghee Lee, Byeonghyun Pak, Byeongju Woo
+
+For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learning methods have shown strong transferability across vision tasks, but they do not explicitly address...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.13904</guid>
+      <pubDate>Sat, 14 Mar 2026 11:32:02 +0000</pubDate>
     </item>
     <item>
       <title>Representation Alignment for Just Image Transformers is not Easier than You Think</title>
@@ -118,15 +127,6 @@ Diffusion transformers have demonstrated remarkable capabilities in generating v
 Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpful in the design of such networks. We show this point by introducing LagerNVS, an encoder-decoder ne...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20176</guid>
       <pubDate>Fri, 20 Mar 2026 17:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction</title>
-      <link>https://huggingface.co/papers/2603.22330</link>
-      <description>By Zhiyuan Chen, Zhenfeng Deng, Pan Deng, Yue Liao, Xiu Su, et al.
-
-Accurate prediction of RNA secondary structure underpins transcriptome annotation, mechanistic analysis of non-coding RNAs, and RNA therapeutic design. Recent gains from deep learning and RNA foundation models are difficult to interpret because current benchmarks may overestimate generalization acro...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22330</guid>
-      <pubDate>Fri, 20 Mar 2026 20:18:08 +0000</pubDate>
     </item>
     <item>
       <title>Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents</title>
