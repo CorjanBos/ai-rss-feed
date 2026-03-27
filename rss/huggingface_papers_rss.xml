@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:23:09 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -64,6 +64,24 @@ Representation Alignment (REPA) has emerged as a simple way to accelerate Diffus
 While recent generative video models have achieved remarkable visual realism and are being explored as world models, true physical simulation requires mastering both space and time. Current models can produce visually smooth kinematics, yet they lack a reliable internal motion pulse to ground these ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14375</guid>
       <pubDate>Sun, 15 Mar 2026 13:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models</title>
+      <link>https://huggingface.co/papers/2603.14636</link>
+      <description>By Lok-Lam Ieong, Chia-Chien Chen, Chih-Kai Yang, Yu-Han Huang, An-Yu Cheng, et al.
+
+Chain-of-thought (CoT) prompting has been extended to large audio-language models (LALMs) to elicit reasoning, yet enhancing its effectiveness without training remains challenging. We study inference-time model steering as a training-free approach to improve LALM reasoning. We introduce three strate...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.14636</guid>
+      <pubDate>Sun, 15 Mar 2026 22:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>IQuest-Coder-V1 Technical Report</title>
+      <link>https://huggingface.co/papers/2603.16733</link>
+      <description>By Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, et al.
+
+In this report, we introduce the IQuest-Coder-V1 series-(7B/14B/40B/40B-Loop), a new family of code large language models (LLMs). Moving beyond static code representations, we propose the code-flow multi-stage training paradigm, which captures the dynamic evolution of software logic through differen...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.16733</guid>
+      <pubDate>Tue, 17 Mar 2026 16:15:31 +0000</pubDate>
     </item>
     <item>
       <title>Abstraction as a Memory-Efficient Inductive Bias for Continual Learning</title>
@@ -174,15 +192,6 @@ Active computer vision promises efficient, biologically plausible perception thr
       <pubDate>Mon, 23 Mar 2026 21:05:21 +0000</pubDate>
     </item>
     <item>
-      <title>Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning</title>
-      <link>https://huggingface.co/papers/2603.22758</link>
-      <description>By WonJun Moon, Hyun Seok Seong, Jae-Pil Heo
-
-Video Object-Centric Learning seeks to decompose raw videos into a small set of object slots, but existing slot-attention models often suffer from severe over-fragmentation. This is because the model is implicitly encouraged to occupy all slots to minimize the reconstruction objective, thereby repre...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22758</guid>
-      <pubDate>Tue, 24 Mar 2026 03:34:51 +0000</pubDate>
-    </item>
-    <item>
       <title>EVA: Efficient Reinforcement Learning for End-to-End Video Agent</title>
       <link>https://huggingface.co/papers/2603.22918</link>
       <description>By Yaolun Zhang, Ruohui Wang, Jiahao Wang, Yepeng Tang, Xuanyu Zheng, et al.
@@ -201,15 +210,6 @@ Existing Multimodal Large Language Models (MLLMs) struggle with 3D spatial reaso
       <pubDate>Tue, 24 Mar 2026 16:38:09 +0000</pubDate>
     </item>
     <item>
-      <title>RealMaster: Lifting Rendered Scenes into Photorealistic Video</title>
-      <link>https://huggingface.co/papers/2603.23462</link>
-      <description>By Dana Cohen-Bar, Ido Sobol, Raphael Bensadoun, Shelly Sheynin, Oran Gafni, et al.
-
-State-of-the-art video generation models produce remarkable photorealism, but they lack the precise control required to align generated content with specific scene requirements. Furthermore, without an underlying explicit geometry, these models cannot guarantee 3D consistency. Conversely, 3D engines...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23462</guid>
-      <pubDate>Tue, 24 Mar 2026 17:32:42 +0000</pubDate>
-    </item>
-    <item>
       <title>UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation</title>
       <link>https://huggingface.co/papers/2603.23478</link>
       <description>By Jiaying Lin, Dan Xu
@@ -217,15 +217,6 @@ State-of-the-art video generation models produce remarkable photorealism, but th
 Functionality segmentation in 3D scenes requires an agent to ground implicit natural-language instructions into precise masks of fine-grained interactive elements. Existing methods rely on fragmented pipelines that suffer from visual blindness during initial task parsing. We observe that these metho...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23478</guid>
       <pubDate>Tue, 24 Mar 2026 17:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>One View Is Enough! Monocular Training for In-the-Wild Novel View Generation</title>
-      <link>https://huggingface.co/papers/2603.23488</link>
-      <description>By Adrien Ramanana Rahary, Nicolas Dufour, Patrick Perez, David Picard
-
-Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training data scale and diversity. We argue it is not necessary: one view is enough. We present OVIE, trained entirely on unpaired internet images. We leverage a monocular depth estimator as a geometric...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23488</guid>
-      <pubDate>Tue, 24 Mar 2026 17:54:25 +0000</pubDate>
     </item>
     <item>
       <title>Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments</title>
@@ -379,6 +370,15 @@ We introduce Intern-S1-Pro, the first one-trillion-parameter scientific multimod
 Generating images conditioned on multiple visual references is critical for real-world applications such as multi-subject composition, narrative illustration, and novel view synthesis, yet current models suffer from severe performance degradation as the number of input references grows. We identify ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25319</guid>
       <pubDate>Thu, 26 Mar 2026 11:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders</title>
+      <link>https://huggingface.co/papers/2603.25398</link>
+      <description>By Niccolò Cavagnero, Narges Norouzi, Gijs Dubbelman, Daan de Geus
+
+Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmentation, such as EoMT and VidEoMT, achieve competitive accuracy with remarkably low latency, yet they r...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25398</guid>
+      <pubDate>Thu, 26 Mar 2026 12:44:30 +0000</pubDate>
     </item>
     <item>
       <title>RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models</title>
