@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 17:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 19:05:25 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -93,15 +93,6 @@ In this report, we introduce the IQuest-Coder-V1 series-(7B/14B/40B/40B-Loop), a
       <pubDate>Tue, 17 Mar 2026 16:15:31 +0000</pubDate>
     </item>
     <item>
-      <title>Abstraction as a Memory-Efficient Inductive Bias for Continual Learning</title>
-      <link>https://huggingface.co/papers/2603.17198</link>
-      <description>By Elnaz Rahmati, Nona Ghazizadeh, Zhivar Sourati, Nina Rouhani, Morteza Dehghani
-
-The real world is non-stationary and infinitely complex, requiring intelligent agents to learn continually without the prohibitive cost of retraining from scratch. While online continual learning offers a framework for this setting, learning new information often interferes with previously acquired ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.17198</guid>
-      <pubDate>Tue, 17 Mar 2026 22:59:13 +0000</pubDate>
-    </item>
-    <item>
       <title>MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution</title>
       <link>https://huggingface.co/papers/2603.18718</link>
       <description>By Minhua Lin, Zhiwei Zhang, Hanqing Lu, Hui Liu, Xianfeng Tang, et al.
@@ -127,15 +118,6 @@ Diffusion transformers have demonstrated remarkable capabilities in generating v
 Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpful in the design of such networks. We show this point by introducing LagerNVS, an encoder-decoder ne...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20176</guid>
       <pubDate>Fri, 20 Mar 2026 17:53:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents</title>
-      <link>https://huggingface.co/papers/2603.20576</link>
-      <description>By Ruiying Ma, Shreya Shankar, Ruiqi Chen, Yiming Lin, Sepanta Zeighami, et al.
-
-Users across enterprises increasingly rely on AI agents to query their data through natural language. However, building reliable data agents remains difficult because real-world data is often fragmented across multiple heterogeneous database systems, with inconsistent references and information buri...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.20576</guid>
-      <pubDate>Sat, 21 Mar 2026 00:14:53 +0000</pubDate>
     </item>
     <item>
       <title>T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search</title>
@@ -345,6 +327,15 @@ In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) 
       <pubDate>Wed, 25 Mar 2026 20:19:50 +0000</pubDate>
     </item>
     <item>
+      <title>Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models</title>
+      <link>https://huggingface.co/papers/2603.24844</link>
+      <description>By Isha Puri, Mehul Damani, Idan Shenfeld, Marzyeh Ghassemi, Jacob Andreas, et al.
+
+Given a question, a language model (LM) implicitly encodes a distribution over possible answers. In practice, post-training procedures for LMs often collapse this distribution onto a single dominant mode. While this is generally not a problem for benchmark-style evaluations that assume one correct a...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24844</guid>
+      <pubDate>Wed, 25 Mar 2026 22:20:25 +0000</pubDate>
+    </item>
+    <item>
       <title>FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol</title>
       <link>https://huggingface.co/papers/2603.24943</link>
       <description>By Jie Zhu, Yimin Tian, Boyang Li, Kehao Wu, Zhongzhi Liang, et al.
@@ -352,6 +343,15 @@ In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) 
 This paper introduces FinMCP-Bench, a novel benchmark for evaluating large language models (LLMs) in solving real-world financial problems through tool invocation of financial model context protocols. FinMCP-Bench contains 613 samples spanning 10 main scenarios and 33 sub-scenarios, featuring both r...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24943</guid>
       <pubDate>Thu, 26 Mar 2026 02:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math</title>
+      <link>https://huggingface.co/papers/2603.24961</link>
+      <description>By Dingjie Song, Tianlong Xu, Yi-Fan Zhang, Hang Li, Zhiling Yan, et al.
+
+Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, complex layouts, and varied problem-solving approaches. Existing educational NLP primarily focuses on textual responses and neglects the complexity an...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24961</guid>
+      <pubDate>Thu, 26 Mar 2026 02:57:20 +0000</pubDate>
     </item>
     <item>
       <title>Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale</title>

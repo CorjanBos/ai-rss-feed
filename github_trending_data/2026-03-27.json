@@ -4,39 +4,39 @@
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 12263,
-    "stars_text": "12,263",
-    "forks": 995,
+    "stars": 12338,
+    "stars_text": "12,338",
+    "forks": 1001,
     "language": "Python",
     "today_stars": "2,824 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-27T17:53:46.147322+00:00"
+    "fetched_at": "2026-03-27T19:05:26.929224+00:00"
   },
   "Yeachan-Heo/oh-my-claudecode": {
     "repo_path": "Yeachan-Heo/oh-my-claudecode",
     "repo_name": "Yeachan-Heo / oh-my-claudecode",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
     "description": "Teams-first Multi-agent orchestration for Claude Code",
-    "stars": 13717,
-    "stars_text": "13,717",
-    "forks": 898,
+    "stars": 13760,
+    "stars_text": "13,760",
+    "forks": 899,
     "language": "TypeScript",
     "today_stars": "1,402 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-27T17:53:46.151836+00:00"
+    "fetched_at": "2026-03-27T19:05:26.933151+00:00"
   },
   "virattt/dexter": {
     "repo_path": "virattt/dexter",
     "repo_name": "virattt / dexter",
     "repo_url": "https://github.com/virattt/dexter",
     "description": "An autonomous agent for deep financial research",
-    "stars": 19554,
-    "stars_text": "19,554",
-    "forks": 2379,
+    "stars": 19578,
+    "stars_text": "19,578",
+    "forks": 2381,
     "language": "TypeScript",
     "today_stars": "673 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-27T17:53:46.151226+00:00"
+    "fetched_at": "2026-03-27T19:05:26.932603+00:00"
   },
   "ruvnet/RuView": {
     "repo_path": "ruvnet/RuView",
@@ -69,13 +69,13 @@
     "repo_name": "Vaibhavs10 / insanely-fast-whisper",
     "repo_url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
     "description": "",
-    "stars": 11761,
-    "stars_text": "11,761",
+    "stars": 11775,
+    "stars_text": "11,775",
     "forks": 842,
     "language": "Jupyter Notebook",
     "today_stars": "1,075 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-27T17:53:46.152979+00:00"
+    "fetched_at": "2026-03-27T19:05:26.934144+00:00"
   },
   "agentscope-ai/agentscope": {
     "repo_path": "agentscope-ai/agentscope",
@@ -95,103 +95,103 @@
     "repo_name": "twentyhq / twenty",
     "repo_url": "https://github.com/twentyhq/twenty",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "stars": 41837,
-    "stars_text": "41,837",
-    "forks": 5559,
+    "stars": 41867,
+    "stars_text": "41,867",
+    "forks": 5562,
     "language": "TypeScript",
     "today_stars": "661 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-27T17:53:46.149614+00:00"
+    "fetched_at": "2026-03-27T19:05:26.931228+00:00"
   },
   "datalab-to/chandra": {
     "repo_path": "datalab-to/chandra",
     "repo_name": "datalab-to / chandra",
     "repo_url": "https://github.com/datalab-to/chandra",
     "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "stars": 6860,
-    "stars_text": "6,860",
+    "stars": 6887,
+    "stars_text": "6,887",
     "forks": 727,
     "language": "Python",
     "today_stars": "913 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-27T17:53:46.150098+00:00"
+    "fetched_at": "2026-03-27T19:05:26.931642+00:00"
   },
   "hacksider/Deep-Live-Cam": {
     "repo_path": "hacksider/Deep-Live-Cam",
     "repo_name": "hacksider / Deep-Live-Cam",
     "repo_url": "https://github.com/hacksider/Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
-    "stars": 82621,
-    "stars_text": "82,621",
-    "forks": 12070,
+    "stars": 82705,
+    "stars_text": "82,705",
+    "forks": 12079,
     "language": "Python",
     "today_stars": "1,546 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-27T17:53:46.147999+00:00"
+    "fetched_at": "2026-03-27T19:05:26.929833+00:00"
   },
   "SakanaAI/AI-Scientist-v2": {
     "repo_path": "SakanaAI/AI-Scientist-v2",
     "repo_name": "SakanaAI / AI-Scientist-v2",
     "repo_url": "https://github.com/SakanaAI/AI-Scientist-v2",
     "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-    "stars": 2754,
-    "stars_text": "2,754",
+    "stars": 2772,
+    "stars_text": "2,772",
     "forks": 472,
     "language": "Python",
     "today_stars": "125 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-27T17:53:46.148593+00:00"
+    "fetched_at": "2026-03-27T19:05:26.930354+00:00"
   },
   "microsoft/VibeVoice": {
     "repo_path": "microsoft/VibeVoice",
     "repo_name": "microsoft / VibeVoice",
     "repo_url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
-    "stars": 24552,
-    "stars_text": "24,552",
-    "forks": 2697,
+    "stars": 24572,
+    "stars_text": "24,572",
+    "forks": 2700,
     "language": "Python",
     "today_stars": "320 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-27T17:53:46.149097+00:00"
+    "fetched_at": "2026-03-27T19:05:26.930784+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 118073,
-    "stars_text": "118,073",
-    "forks": 9515,
+    "stars": 118150,
+    "stars_text": "118,150",
+    "forks": 9525,
     "language": "Shell",
     "today_stars": "2,797 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-27T17:53:46.150724+00:00"
+    "fetched_at": "2026-03-27T19:05:26.932181+00:00"
   },
   "FreeCAD/FreeCAD": {
     "repo_path": "FreeCAD/FreeCAD",
     "repo_name": "FreeCAD / FreeCAD",
     "repo_url": "https://github.com/FreeCAD/FreeCAD",
     "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-    "stars": 29540,
-    "stars_text": "29,540",
+    "stars": 29557,
+    "stars_text": "29,557",
     "forks": 5317,
     "language": "C++",
     "today_stars": "173 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-27T17:53:46.152456+00:00"
+    "fetched_at": "2026-03-27T19:05:26.933679+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 18903,
-    "stars_text": "18,903",
-    "forks": 2575,
+    "stars": 18941,
+    "stars_text": "18,941",
+    "forks": 2578,
     "language": "Python",
     "today_stars": "512 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-27T17:53:46.153482+00:00"
+    "fetched_at": "2026-03-27T19:05:26.934573+00:00"
   }
 }
