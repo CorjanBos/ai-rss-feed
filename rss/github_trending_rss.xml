@@ -8,114 +8,114 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:02:33 +0000</lastBuildDate>
     <item>
       <title>mvanhorn / last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>⭐ Stars: 10,165 → 11,071 (+906) | Ranked #1
+      <description>⭐ Stars: 10,165 → 11,331 (+1166) | Ranked #1
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 Language: Python
 2,685 stars today</description>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>Yeachan-Heo / oh-my-claudecode</title>
       <link>https://github.com/Yeachan-Heo/oh-my-claudecode</link>
-      <description>⭐ Stars: 12,556 → 13,064 (+508) | Ranked #2
+      <description>⭐ Stars: 12,556 → 13,180 (+624) | Ranked #2
 
 Teams-first Multi-agent orchestration for Claude Code
 
 Language: TypeScript
 598 stars today</description>
       <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>virattt / dexter</title>
       <link>https://github.com/virattt/dexter</link>
-      <description>⭐ Stars: 18,953 → 19,179 (+226) | Ranked #3
+      <description>⭐ Stars: 18,953 → 19,237 (+284) | Ranked #3
 
 An autonomous agent for deep financial research
 
 Language: TypeScript
 210 stars today</description>
       <guid isPermaLink="true">https://github.com/virattt/dexter</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>ruvnet / RuView</title>
       <link>https://github.com/ruvnet/RuView</link>
-      <description>⭐ Stars: 43,121 → 43,438 (+317) | Ranked #4
+      <description>⭐ Stars: 43,121 → 43,514 (+393) | Ranked #4
 
 π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 Language: Rust
 1,002 stars today</description>
       <guid isPermaLink="true">https://github.com/ruvnet/RuView</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>bytedance / deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
-      <description>⭐ Stars: 48,231 → 49,210 (+979) | Ranked #5
+      <description>⭐ Stars: 48,231 → 49,412 (+1181) | Ranked #5
 
 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 Language: Python
 2,394 stars today</description>
       <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>Vaibhavs10 / insanely-fast-whisper</title>
       <link>https://github.com/Vaibhavs10/insanely-fast-whisper</link>
-      <description>⭐ Stars: 11,152 → 11,500 (+348) | Ranked #6
+      <description>⭐ Stars: 11,152 → 11,561 (+409) | Ranked #6
 
 
 
 Language: Jupyter Notebook
 1,370 stars today</description>
       <guid isPermaLink="true">https://github.com/Vaibhavs10/insanely-fast-whisper</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>agentscope-ai / agentscope</title>
       <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>⭐ Stars: 20,364 → 20,776 (+412) | Ranked #7
+      <description>⭐ Stars: 20,364 → 20,850 (+486) | Ranked #7
 
 Build and run agents you can see, understand and trust.
 
 Language: Python
 437 stars today</description>
       <guid isPermaLink="true">https://github.com/agentscope-ai/agentscope</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>twentyhq / twenty</title>
       <link>https://github.com/twentyhq/twenty</link>
-      <description>⭐ Stars: 41,243 → 41,493 (+250) | Ranked #8
+      <description>⭐ Stars: 41,243 → 41,551 (+308) | Ranked #8
 
 Building a modern alternative to Salesforce, powered by the community.
 
 Language: TypeScript
 117 stars today</description>
       <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
     <item>
       <title>datalab-to / chandra</title>
       <link>https://github.com/datalab-to/chandra</link>
-      <description>⭐ Stars: 6,119 → 6,389 (+270) | Ranked #9
+      <description>⭐ Stars: 6,119 → 6,486 (+367) | Ranked #9
 
 OCR model that handles complex tables, forms, handwriting with full layout.
 
 Language: Python
 557 stars today</description>
       <guid isPermaLink="true">https://github.com/datalab-to/chandra</guid>
-      <pubDate>Fri, 27 Mar 2026 07:19:30 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:02:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
