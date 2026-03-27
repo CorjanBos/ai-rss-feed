@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 19:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 20:49:36 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -37,15 +37,6 @@ Evaluating large language models (LLMs) on open-ended questions is difficult bec
 We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality is similar to second-order phase transitions. At criticality, the correlation length diverges, and the deductive outputs attain a meta...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23539</guid>
       <pubDate>Thu, 12 Mar 2026 19:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment</title>
-      <link>https://huggingface.co/papers/2603.13669</link>
-      <description>By Mahdi Naseri, Zhou Wang
-
-No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quality without access to a reference image of pristine quality. Learning an NR-IQA model faces a fundamental bottleneck: its need for a large number of costly human perceptual labels. We propose SHAMISA, a non-contrastive se...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13669</guid>
-      <pubDate>Sat, 14 Mar 2026 00:37:26 +0000</pubDate>
     </item>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
@@ -228,15 +219,6 @@ Generative optimization uses large language models (LLMs) to iteratively improve
       <pubDate>Wed, 25 Mar 2026 07:48:22 +0000</pubDate>
     </item>
     <item>
-      <title>CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare</title>
-      <link>https://huggingface.co/papers/2603.24157</link>
-      <description>By Akash Ghosh, Tajamul Ashraf, Rishu Kumar Singh, Numan Saeed, Sriparna Saha, et al.
-
-Multimodal agentic pipelines are transforming human-computer interaction by enabling efficient and accessible automation of complex, real-world tasks. However, recent efforts have focused on short-horizon or general-purpose applications (e.g., mobile or desktop interfaces), leaving long-horizon auto...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24157</guid>
-      <pubDate>Wed, 25 Mar 2026 10:25:48 +0000</pubDate>
-    </item>
-    <item>
       <title>GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents</title>
       <link>https://huggingface.co/papers/2603.24329</link>
       <description>By Yunzhe Wang, Runhui Xu, Kexin Zheng, Tianyi Zhang, Jayavibhav Niranjan Kogundi, et al.
@@ -282,6 +264,15 @@ Video generation models have shown strong potential as world models for autonomo
       <pubDate>Wed, 25 Mar 2026 16:47:39 +0000</pubDate>
     </item>
     <item>
+      <title>AVO: Agentic Variation Operators for Autonomous Evolutionary Search</title>
+      <link>https://huggingface.co/papers/2603.24517</link>
+      <description>By Terry Chen, Zhifan Ye, Bing Xu, Zihao Ye, Timmy Liu, et al.
+
+Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with autonomous coding agents. Rather than confining a language model to candidate generation within a pres...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24517</guid>
+      <pubDate>Wed, 25 Mar 2026 16:55:04 +0000</pubDate>
+    </item>
+    <item>
       <title>UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience</title>
       <link>https://huggingface.co/papers/2603.24533</link>
       <description>By Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, et al.
@@ -325,6 +316,15 @@ Controlling video and audio generation requires diverse modalities, from depth a
 In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) to significantly enhance generative tasks. Through an in-depth analysis of the denoising process, we demonstrate that introducing a single learned scaling parameter can significantly improve the performance of DiT blocks...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24800</guid>
       <pubDate>Wed, 25 Mar 2026 20:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching</title>
+      <link>https://huggingface.co/papers/2603.24836</link>
+      <description>By Yihan Wang, Jia Deng
+
+We introduce WAFT-Stereo, a simple and effective warping-based method for stereo matching. WAFT-Stereo demonstrates that cost volumes, a common design used in many leading methods, are not necessary for strong performance and can be replaced by warping with improved efficiency. WAFT-Stereo ranks fir...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24836</guid>
+      <pubDate>Wed, 25 Mar 2026 22:07:55 +0000</pubDate>
     </item>
     <item>
       <title>Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models</title>
