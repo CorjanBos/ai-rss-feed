@@ -17,26 +17,26 @@
     "repo_name": "hacksider / Deep-Live-Cam",
     "repo_url": "https://github.com/hacksider/Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
-    "stars": 84180,
-    "stars_text": "84,180",
-    "forks": 12294,
+    "stars": 84212,
+    "stars_text": "84,212",
+    "forks": 12300,
     "language": "Python",
     "today_stars": "1,789 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-28T20:40:17.635657+00:00"
+    "fetched_at": "2026-03-28T21:37:24.999199+00:00"
   },
   "SakanaAI/AI-Scientist-v2": {
     "repo_path": "SakanaAI/AI-Scientist-v2",
     "repo_name": "SakanaAI / AI-Scientist-v2",
     "repo_url": "https://github.com/SakanaAI/AI-Scientist-v2",
     "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-    "stars": 3364,
-    "stars_text": "3,364",
+    "stars": 3381,
+    "stars_text": "3,381",
     "forks": 515,
     "language": "Python",
     "today_stars": "507 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-28T20:40:17.636999+00:00"
+    "fetched_at": "2026-03-28T21:37:25.000418+00:00"
   },
   "microsoft/VibeVoice": {
     "repo_path": "microsoft/VibeVoice",
@@ -56,52 +56,52 @@
     "repo_name": "twentyhq / twenty",
     "repo_url": "https://github.com/twentyhq/twenty",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "stars": 42360,
-    "stars_text": "42,360",
-    "forks": 5622,
+    "stars": 42377,
+    "stars_text": "42,377",
+    "forks": 5626,
     "language": "TypeScript",
     "today_stars": "562 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-28T20:40:17.638049+00:00"
+    "fetched_at": "2026-03-28T21:37:25.001492+00:00"
   },
   "datalab-to/chandra": {
     "repo_path": "datalab-to/chandra",
     "repo_name": "datalab-to / chandra",
     "repo_url": "https://github.com/datalab-to/chandra",
     "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "stars": 7509,
-    "stars_text": "7,509",
-    "forks": 756,
+    "stars": 7527,
+    "stars_text": "7,527",
+    "forks": 758,
     "language": "Python",
     "today_stars": "679 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-28T20:40:17.639090+00:00"
+    "fetched_at": "2026-03-28T21:37:25.002506+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 120519,
-    "stars_text": "120,519",
-    "forks": 9779,
+    "stars": 120570,
+    "stars_text": "120,570",
+    "forks": 9786,
     "language": "Shell",
     "today_stars": "2,293 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-28T20:40:17.636432+00:00"
+    "fetched_at": "2026-03-28T21:37:24.999899+00:00"
   },
   "virattt/dexter": {
     "repo_path": "virattt/dexter",
     "repo_name": "virattt / dexter",
     "repo_url": "https://github.com/virattt/dexter",
     "description": "An autonomous agent for deep financial research",
-    "stars": 20117,
-    "stars_text": "20,117",
+    "stars": 20133,
+    "stars_text": "20,133",
     "forks": 2423,
     "language": "TypeScript",
     "today_stars": "583 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-28T20:40:17.637521+00:00"
+    "fetched_at": "2026-03-28T21:37:25.000932+00:00"
   },
   "Yeachan-Heo/oh-my-claudecode": {
     "repo_path": "Yeachan-Heo/oh-my-claudecode",
@@ -147,38 +147,38 @@
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 19677,
-    "stars_text": "19,677",
-    "forks": 2649,
+    "stars": 19691,
+    "stars_text": "19,691",
+    "forks": 2652,
     "language": "Python",
     "today_stars": "870 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-28T20:40:17.638556+00:00"
+    "fetched_at": "2026-03-28T21:37:25.002033+00:00"
   },
   "agentscope-ai/agentscope": {
     "repo_path": "agentscope-ai/agentscope",
     "repo_name": "agentscope-ai / agentscope",
     "repo_url": "https://github.com/agentscope-ai/agentscope",
     "description": "Build and run agents you can see, understand and trust.",
-    "stars": 21529,
-    "stars_text": "21,529",
-    "forks": 2123,
+    "stars": 21547,
+    "stars_text": "21,547",
+    "forks": 2128,
     "language": "Python",
     "today_stars": "379 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-28T20:40:17.639583+00:00"
+    "fetched_at": "2026-03-28T21:37:25.003008+00:00"
   },
   "apache/superset": {
     "repo_path": "apache/superset",
     "repo_name": "apache / superset",
     "repo_url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "stars": 71396,
-    "stars_text": "71,396",
-    "forks": 16886,
+    "stars": 71412,
+    "stars_text": "71,412",
+    "forks": 16887,
     "language": "TypeScript",
     "today_stars": "67 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-28T20:40:17.640145+00:00"
+    "fetched_at": "2026-03-28T21:37:25.003486+00:00"
   }
 }
