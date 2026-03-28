@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 11:34:41 +0000</lastBuildDate>
-    <item>
-      <title>GGML and llama.cpp join HF to ensure the long-term progress of Local AI</title>
-      <link>https://huggingface.co/blog/ggml-joins-hf</link>
-      <description>By Georgi Gerganov, Xuan-Son Nguyen, Aleksander Grygier, Lysandre, Victor Mustar, Julien Chaumond - GGML and llama.cpp join HF to ensure the long-term progress of Local AI</description>
-      <guid isPermaLink="true">https://huggingface.co/blog/ggml-joins-hf</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 13:11:13 +0000</lastBuildDate>
     <item>
       <title>Mixture of Experts (MoEs) in Transformers</title>
       <link>https://huggingface.co/blog/moe-transformers</link>
@@ -106,6 +99,13 @@
       <description>By ServiceNow-AI - A New Framework for Evaluating Voice Agents (EVA)</description>
       <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/eva</guid>
       <pubDate>Tue, 24 Mar 2026 02:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liberate your OpenClaw</title>
+      <link>https://huggingface.co/blog/liberate-your-openclaw</link>
+      <description>By Clem 🤗, ben burtenshaw, Pedro Cuenca, Jeff Boudier, merve, Niels Rogge, Victor Mustar, Mishig Davaadorj - Liberate your OpenClaw</description>
+      <guid isPermaLink="true">https://huggingface.co/blog/liberate-your-openclaw</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
