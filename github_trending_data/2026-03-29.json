@@ -4,26 +4,26 @@
     "repo_name": "hacksider / Deep-Live-Cam",
     "repo_url": "https://github.com/hacksider/Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
-    "stars": 85195,
-    "stars_text": "85,195",
-    "forks": 12415,
+    "stars": 85226,
+    "stars_text": "85,226",
+    "forks": 12416,
     "language": "Python",
     "today_stars": "1,131 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-29T22:39:26.399908+00:00"
+    "fetched_at": "2026-03-29T23:41:03.768037+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 122738,
-    "stars_text": "122,738",
-    "forks": 10003,
+    "stars": 122804,
+    "stars_text": "122,804",
+    "forks": 10010,
     "language": "Shell",
     "today_stars": "2,229 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-29T22:39:26.398683+00:00"
+    "fetched_at": "2026-03-29T23:41:03.766805+00:00"
   },
   "SakanaAI/AI-Scientist-v2": {
     "repo_path": "SakanaAI/AI-Scientist-v2",
@@ -56,13 +56,13 @@
     "repo_name": "twentyhq / twenty",
     "repo_url": "https://github.com/twentyhq/twenty",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "stars": 42894,
-    "stars_text": "42,894",
-    "forks": 5668,
+    "stars": 42911,
+    "stars_text": "42,911",
+    "forks": 5669,
     "language": "TypeScript",
     "today_stars": "451 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-29T22:39:26.402356+00:00"
+    "fetched_at": "2026-03-29T23:41:03.770488+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
@@ -134,116 +134,116 @@
     "repo_name": "microsoft / VibeVoice",
     "repo_url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
-    "stars": 27035,
-    "stars_text": "27,035",
-    "forks": 2986,
+    "stars": 27117,
+    "stars_text": "27,117",
+    "forks": 2997,
     "language": "Python",
     "today_stars": "1,190 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-29T22:39:26.396910+00:00"
+    "fetched_at": "2026-03-29T23:41:03.765007+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 16593,
-    "stars_text": "16,593",
-    "forks": 2025,
+    "stars": 16651,
+    "stars_text": "16,651",
+    "forks": 2034,
     "language": "Python",
     "today_stars": "997 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-29T22:39:26.397434+00:00"
+    "fetched_at": "2026-03-29T23:41:03.765515+00:00"
   },
   "OpenBB-finance/OpenBB": {
     "repo_path": "OpenBB-finance/OpenBB",
     "repo_name": "OpenBB-finance / OpenBB",
     "repo_url": "https://github.com/OpenBB-finance/OpenBB",
     "description": "Financial data platform for analysts, quants and AI agents.",
-    "stars": 63984,
-    "stars_text": "63,984",
+    "stars": 63994,
+    "stars_text": "63,994",
     "forks": 6305,
     "language": "Python",
     "today_stars": "113 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-29T22:39:26.398063+00:00"
+    "fetched_at": "2026-03-29T23:41:03.766167+00:00"
   },
   "thedotmack/claude-mem": {
     "repo_path": "thedotmack/claude-mem",
     "repo_name": "thedotmack / claude-mem",
     "repo_url": "https://github.com/thedotmack/claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "stars": 42515,
-    "stars_text": "42,515",
+    "stars": 42547,
+    "stars_text": "42,547",
     "forks": 3173,
     "language": "TypeScript",
     "today_stars": "464 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-29T22:39:26.399290+00:00"
+    "fetched_at": "2026-03-29T23:41:03.767417+00:00"
   },
   "mvanhorn/last30days-skill": {
     "repo_path": "mvanhorn/last30days-skill",
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 15228,
-    "stars_text": "15,228",
-    "forks": 1209,
+    "stars": 15265,
+    "stars_text": "15,265",
+    "forks": 1215,
     "language": "Python",
     "today_stars": "1,186 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-29T22:39:26.400399+00:00"
+    "fetched_at": "2026-03-29T23:41:03.768519+00:00"
   },
   "shareAI-lab/learn-claude-code": {
     "repo_path": "shareAI-lab/learn-claude-code",
     "repo_name": "shareAI-lab / learn-claude-code",
     "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
-    "stars": 42620,
-    "stars_text": "42,620",
-    "forks": 6567,
+    "stars": 42631,
+    "stars_text": "42,631",
+    "forks": 6568,
     "language": "TypeScript",
     "today_stars": "908 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-29T22:39:26.400880+00:00"
+    "fetched_at": "2026-03-29T23:41:03.769017+00:00"
   },
   "fastfetch-cli/fastfetch": {
     "repo_path": "fastfetch-cli/fastfetch",
     "repo_name": "fastfetch-cli / fastfetch",
     "repo_url": "https://github.com/fastfetch-cli/fastfetch",
     "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-    "stars": 21126,
-    "stars_text": "21,126",
+    "stars": 21131,
+    "stars_text": "21,131",
     "forks": 715,
     "language": "C",
     "today_stars": "28 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-29T22:39:26.401405+00:00"
+    "fetched_at": "2026-03-29T23:41:03.769498+00:00"
   },
   "moeru-ai/airi": {
     "repo_path": "moeru-ai/airi",
     "repo_name": "moeru-ai / airi",
     "repo_url": "https://github.com/moeru-ai/airi",
     "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "stars": 36316,
-    "stars_text": "36,316",
+    "stars": 36326,
+    "stars_text": "36,326",
     "forks": 3606,
     "language": "TypeScript",
     "today_stars": "213 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-29T22:39:26.401884+00:00"
+    "fetched_at": "2026-03-29T23:41:03.770009+00:00"
   },
   "luongnv89/claude-howto": {
     "repo_path": "luongnv89/claude-howto",
     "repo_name": "luongnv89 / claude-howto",
     "repo_url": "https://github.com/luongnv89/claude-howto",
     "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "stars": 6389,
-    "stars_text": "6,389",
-    "forks": 713,
+    "stars": 6482,
+    "stars_text": "6,482",
+    "forks": 719,
     "language": "Python",
     "today_stars": "1,121 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-29T22:39:26.396314+00:00"
+    "fetched_at": "2026-03-29T23:41:03.764422+00:00"
   }
 }
