@@ -4,26 +4,26 @@
     "repo_name": "hacksider / Deep-Live-Cam",
     "repo_url": "https://github.com/hacksider/Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
-    "stars": 85085,
-    "stars_text": "85,085",
-    "forks": 12407,
+    "stars": 85114,
+    "stars_text": "85,114",
+    "forks": 12409,
     "language": "Python",
     "today_stars": "1,131 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-29T18:55:25.018215+00:00"
+    "fetched_at": "2026-03-29T19:38:25.311274+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
     "repo_name": "obra / superpowers",
     "repo_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
-    "stars": 122518,
-    "stars_text": "122,518",
-    "forks": 9974,
+    "stars": 122571,
+    "stars_text": "122,571",
+    "forks": 9982,
     "language": "Shell",
     "today_stars": "2,229 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-29T18:55:25.016931+00:00"
+    "fetched_at": "2026-03-29T19:38:25.309996+00:00"
   },
   "SakanaAI/AI-Scientist-v2": {
     "repo_path": "SakanaAI/AI-Scientist-v2",
@@ -56,13 +56,13 @@
     "repo_name": "twentyhq / twenty",
     "repo_url": "https://github.com/twentyhq/twenty",
     "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "stars": 42807,
-    "stars_text": "42,807",
+    "stars": 42827,
+    "stars_text": "42,827",
     "forks": 5668,
     "language": "TypeScript",
     "today_stars": "451 stars today",
     "rank": 13,
-    "fetched_at": "2026-03-29T18:55:25.020818+00:00"
+    "fetched_at": "2026-03-29T19:38:25.313788+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
@@ -121,129 +121,129 @@
     "repo_name": "Yeachan-Heo / oh-my-claudecode",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
     "description": "Teams-first Multi-agent orchestration for Claude Code",
-    "stars": 15804,
-    "stars_text": "15,804",
-    "forks": 1074,
+    "stars": 15850,
+    "stars_text": "15,850",
+    "forks": 1080,
     "language": "TypeScript",
     "today_stars": "1,140 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-29T18:55:25.014468+00:00"
+    "fetched_at": "2026-03-29T19:38:25.307719+00:00"
   },
   "microsoft/VibeVoice": {
     "repo_path": "microsoft/VibeVoice",
     "repo_name": "microsoft / VibeVoice",
     "repo_url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
-    "stars": 26770,
-    "stars_text": "26,770",
-    "forks": 2950,
+    "stars": 26835,
+    "stars_text": "26,835",
+    "forks": 2958,
     "language": "Python",
     "today_stars": "1,190 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-29T18:55:25.015078+00:00"
+    "fetched_at": "2026-03-29T19:38:25.308230+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 16318,
-    "stars_text": "16,318",
-    "forks": 1999,
+    "stars": 16361,
+    "stars_text": "16,361",
+    "forks": 2004,
     "language": "Python",
     "today_stars": "997 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-29T18:55:25.015593+00:00"
+    "fetched_at": "2026-03-29T19:38:25.308752+00:00"
   },
   "OpenBB-finance/OpenBB": {
     "repo_path": "OpenBB-finance/OpenBB",
     "repo_name": "OpenBB-finance / OpenBB",
     "repo_url": "https://github.com/OpenBB-finance/OpenBB",
     "description": "Financial data platform for analysts, quants and AI agents.",
-    "stars": 63923,
-    "stars_text": "63,923",
+    "stars": 63935,
+    "stars_text": "63,935",
     "forks": 6299,
     "language": "Python",
     "today_stars": "113 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-29T18:55:25.016259+00:00"
+    "fetched_at": "2026-03-29T19:38:25.309361+00:00"
   },
   "thedotmack/claude-mem": {
     "repo_path": "thedotmack/claude-mem",
     "repo_name": "thedotmack / claude-mem",
     "repo_url": "https://github.com/thedotmack/claude-mem",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "stars": 42375,
-    "stars_text": "42,375",
+    "stars": 42395,
+    "stars_text": "42,395",
     "forks": 3168,
     "language": "TypeScript",
     "today_stars": "464 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-29T18:55:25.017569+00:00"
+    "fetched_at": "2026-03-29T19:38:25.310635+00:00"
   },
   "mvanhorn/last30days-skill": {
     "repo_path": "mvanhorn/last30days-skill",
     "repo_name": "mvanhorn / last30days-skill",
     "repo_url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "stars": 15122,
-    "stars_text": "15,122",
-    "forks": 1201,
+    "stars": 15141,
+    "stars_text": "15,141",
+    "forks": 1202,
     "language": "Python",
     "today_stars": "1,186 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-29T18:55:25.018750+00:00"
+    "fetched_at": "2026-03-29T19:38:25.311785+00:00"
   },
   "shareAI-lab/learn-claude-code": {
     "repo_path": "shareAI-lab/learn-claude-code",
     "repo_name": "shareAI-lab / learn-claude-code",
     "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
-    "stars": 42562,
-    "stars_text": "42,562",
+    "stars": 42577,
+    "stars_text": "42,577",
     "forks": 6566,
     "language": "TypeScript",
     "today_stars": "908 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-29T18:55:25.019260+00:00"
+    "fetched_at": "2026-03-29T19:38:25.312279+00:00"
   },
   "fastfetch-cli/fastfetch": {
     "repo_path": "fastfetch-cli/fastfetch",
     "repo_name": "fastfetch-cli / fastfetch",
     "repo_url": "https://github.com/fastfetch-cli/fastfetch",
     "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-    "stars": 21099,
-    "stars_text": "21,099",
-    "forks": 715,
+    "stars": 21102,
+    "stars_text": "21,102",
+    "forks": 716,
     "language": "C",
     "today_stars": "28 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-29T18:55:25.019782+00:00"
+    "fetched_at": "2026-03-29T19:38:25.312787+00:00"
   },
   "moeru-ai/airi": {
     "repo_path": "moeru-ai/airi",
     "repo_name": "moeru-ai / airi",
     "repo_url": "https://github.com/moeru-ai/airi",
     "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "stars": 36280,
-    "stars_text": "36,280",
+    "stars": 36291,
+    "stars_text": "36,291",
     "forks": 3604,
     "language": "TypeScript",
     "today_stars": "213 stars today",
     "rank": 12,
-    "fetched_at": "2026-03-29T18:55:25.020293+00:00"
+    "fetched_at": "2026-03-29T19:38:25.313274+00:00"
   },
   "luongnv89/claude-howto": {
     "repo_path": "luongnv89/claude-howto",
     "repo_name": "luongnv89 / claude-howto",
     "repo_url": "https://github.com/luongnv89/claude-howto",
     "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "stars": 5878,
-    "stars_text": "5,878",
-    "forks": 686,
+    "stars": 5986,
+    "stars_text": "5,986",
+    "forks": 690,
     "language": "Python",
     "today_stars": "1,121 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-29T18:55:25.013760+00:00"
+    "fetched_at": "2026-03-29T19:38:25.307012+00:00"
   }
 }
