@@ -8,114 +8,150 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 10:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:36:31 +0000</lastBuildDate>
     <item>
-      <title>hacksider / Deep-Live-Cam</title>
-      <link>https://github.com/hacksider/Deep-Live-Cam</link>
-      <description>⭐ Stars: 84,283 → 84,731 (+448) | Ranked #1
+      <title>NousResearch / hermes-agent</title>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <description>🆕 NEW ENTRY - Ranked #3
 
-real time face swap and one-click video deepfake with only a single image
+The agent that grows with you
 
 Language: Python
-1,814 stars today</description>
-      <guid isPermaLink="true">https://github.com/hacksider/Deep-Live-Cam</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
+713 stars today</description>
+      <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenBB-finance / OpenBB</title>
+      <link>https://github.com/OpenBB-finance/OpenBB</link>
+      <description>🆕 NEW ENTRY - Ranked #4
+
+Financial data platform for analysts, quants and AI agents.
+
+Language: Python
+113 stars today</description>
+      <guid isPermaLink="true">https://github.com/OpenBB-finance/OpenBB</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>thedotmack / claude-mem</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <description>🆕 NEW ENTRY - Ranked #6
+
+A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+
+Language: TypeScript
+389 stars today</description>
+      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>shareAI-lab / learn-claude-code</title>
+      <link>https://github.com/shareAI-lab/learn-claude-code</link>
+      <description>🆕 NEW ENTRY - Ranked #9
+
+Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+
+Language: TypeScript
+912 stars today</description>
+      <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>fastfetch-cli / fastfetch</title>
+      <link>https://github.com/fastfetch-cli/fastfetch</link>
+      <description>🆕 NEW ENTRY - Ranked #10
+
+A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+Language: C
+28 stars today</description>
+      <guid isPermaLink="true">https://github.com/fastfetch-cli/fastfetch</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>moeru-ai / airi</title>
+      <link>https://github.com/moeru-ai/airi</link>
+      <description>🆕 NEW ENTRY - Ranked #11
+
+💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+
+Language: TypeScript
+213 stars today</description>
+      <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yeachan-Heo / oh-my-claudecode</title>
+      <link>https://github.com/Yeachan-Heo/oh-my-claudecode</link>
+      <description>📈 Rank: #9 → #1 (↑8) | ⭐ Stars: 14,295 → 15,176 (+881)
+
+Teams-first Multi-agent orchestration for Claude Code
+
+Language: TypeScript
+858 stars today</description>
+      <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>microsoft / VibeVoice</title>
+      <link>https://github.com/microsoft/VibeVoice</link>
+      <description>📈 Rank: #4 → #2 (↑2) | ⭐ Stars: 24,873 → 25,946 (+1073)
+
+Open-Source Frontier Voice AI
+
+Language: Python
+538 stars today</description>
+      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>⭐ Stars: 120,681 → 121,683 (+1002) | Ranked #2
+      <description>📉 Rank: #2 → #5 (↓3) | ⭐ Stars: 120,681 → 121,768 (+1087)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
-2,292 stars today</description>
+2,229 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
     </item>
     <item>
-      <title>SakanaAI / AI-Scientist-v2</title>
-      <link>https://github.com/SakanaAI/AI-Scientist-v2</link>
-      <description>⭐ Stars: 3,424 → 3,698 (+274) | Ranked #3
+      <title>hacksider / Deep-Live-Cam</title>
+      <link>https://github.com/hacksider/Deep-Live-Cam</link>
+      <description>📉 Rank: #1 → #7 (↓6) | ⭐ Stars: 84,283 → 84,770 (+487)
 
-The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+real time face swap and one-click video deepfake with only a single image
 
 Language: Python
-506 stars today</description>
-      <guid isPermaLink="true">https://github.com/SakanaAI/AI-Scientist-v2</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
+1,131 stars today</description>
+      <guid isPermaLink="true">https://github.com/hacksider/Deep-Live-Cam</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
     </item>
     <item>
-      <title>virattt / dexter</title>
-      <link>https://github.com/virattt/dexter</link>
-      <description>⭐ Stars: 20,171 → 20,396 (+225) | Ranked #4
+      <title>mvanhorn / last30days-skill</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <description>📉 Rank: #1 → #8 (↓7) | ⭐ Stars: 13,246 → 14,643 (+1397)
 
-An autonomous agent for deep financial research
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-Language: TypeScript
-581 stars today</description>
-      <guid isPermaLink="true">https://github.com/virattt/dexter</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
+Language: Python
+1,680 stars today</description>
+      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
     </item>
     <item>
       <title>twentyhq / twenty</title>
       <link>https://github.com/twentyhq/twenty</link>
-      <description>⭐ Stars: 42,412 → 42,592 (+180) | Ranked #5
+      <description>📉 Rank: #5 → #12 (↓7) | ⭐ Stars: 42,412 → 42,615 (+203)
 
 Building a modern alternative to Salesforce, powered by the community.
 
 Language: TypeScript
-563 stars today</description>
+451 stars today</description>
       <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>onyx-dot-app / onyx</title>
-      <link>https://github.com/onyx-dot-app/onyx</link>
-      <description>⭐ Stars: 19,731 → 19,991 (+260) | Ranked #6
-
-Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-Language: Python
-880 stars today</description>
-      <guid isPermaLink="true">https://github.com/onyx-dot-app/onyx</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>datalab-to / chandra</title>
-      <link>https://github.com/datalab-to/chandra</link>
-      <description>⭐ Stars: 7,569 → 7,799 (+230) | Ranked #7
-
-OCR model that handles complex tables, forms, handwriting with full layout.
-
-Language: Python
-687 stars today</description>
-      <guid isPermaLink="true">https://github.com/datalab-to/chandra</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>agentscope-ai / agentscope</title>
-      <link>https://github.com/agentscope-ai/agentscope</link>
-      <description>⭐ Stars: 21,595 → 21,827 (+232) | Ranked #8
-
-Build and run agents you can see, understand and trust.
-
-Language: Python
-398 stars today</description>
-      <guid isPermaLink="true">https://github.com/agentscope-ai/agentscope</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>apache / superset</title>
-      <link>https://github.com/apache/superset</link>
-      <description>⭐ Stars: 71,448 → 71,623 (+175) | Ranked #9
-
-Apache Superset is a Data Visualization and Data Exploration Platform
-
-Language: TypeScript
-31 stars today</description>
-      <guid isPermaLink="true">https://github.com/apache/superset</guid>
-      <pubDate>Sun, 29 Mar 2026 10:43:00 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:36:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
