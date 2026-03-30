@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:24:29 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -118,6 +118,15 @@ As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLM
 Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpful in the design of such networks. We show this point by introducing LagerNVS, an encoder-decoder ne...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.20176</guid>
       <pubDate>Fri, 20 Mar 2026 17:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diffutron: A Masked Diffusion Language Model for Turkish Language</title>
+      <link>https://huggingface.co/papers/2603.20466</link>
+      <description>By Şuayp Talha Kocabay, Talha Rüzgar Akkuş
+
+Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages remains limited. In this paper, we introduce Diffutron, a masked diffusion language model specifically ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.20466</guid>
+      <pubDate>Fri, 20 Mar 2026 19:52:37 +0000</pubDate>
     </item>
     <item>
       <title>T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search</title>
@@ -235,15 +244,6 @@ Self-distillation has emerged as an effective post-training paradigm for LLMs, o
 Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with autonomous coding agents. Rather than confining a language model to candidate generation within a pres...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24517</guid>
       <pubDate>Wed, 25 Mar 2026 16:55:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience</title>
-      <link>https://huggingface.co/papers/2603.24533</link>
-      <description>By Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, et al.
-
-Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24533</guid>
-      <pubDate>Wed, 25 Mar 2026 17:10:29 +0000</pubDate>
     </item>
     <item>
       <title>VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models</title>

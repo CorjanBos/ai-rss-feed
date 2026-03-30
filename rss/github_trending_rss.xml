@@ -8,162 +8,162 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:24:31 +0000</lastBuildDate>
     <item>
       <title>luongnv89 / claude-howto</title>
       <link>https://github.com/luongnv89/claude-howto</link>
-      <description>⭐ Stars: 6,482 → 7,708 (+1226) | Ranked #1
+      <description>⭐ Stars: 6,482 → 8,310 (+1828) | Ranked #1
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 Language: Python
 1,165 stars today</description>
       <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>Yeachan-Heo / oh-my-claudecode</title>
       <link>https://github.com/Yeachan-Heo/oh-my-claudecode</link>
-      <description>⭐ Stars: 15,850 → 16,436 (+586) | Ranked #2
+      <description>⭐ Stars: 15,850 → 16,640 (+790) | Ranked #2
 
 Teams-first Multi-agent orchestration for Claude Code
 
 Language: TypeScript
 835 stars today</description>
       <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / VibeVoice</title>
       <link>https://github.com/microsoft/VibeVoice</link>
-      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 27,117 → 27,878 (+761)
+      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 27,117 → 28,140 (+1023)
 
 Open-Source Frontier Voice AI
 
 Language: Python
 1,056 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>📉 Rank: #3 → #4 (↓1) | ⭐ Stars: 16,651 → 17,176 (+525)
+      <description>📉 Rank: #3 → #4 (↓1) | ⭐ Stars: 16,651 → 17,365 (+714)
 
 The agent that grows with you
 
 Language: Python
 917 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>OpenBB-finance / OpenBB</title>
       <link>https://github.com/OpenBB-finance/OpenBB</link>
-      <description>📉 Rank: #4 → #5 (↓1) | ⭐ Stars: 63,994 → 64,143 (+149)
+      <description>📉 Rank: #4 → #5 (↓1) | ⭐ Stars: 63,994 → 64,201 (+207)
 
 Financial data platform for analysts, quants and AI agents.
 
 Language: Python
 137 stars today</description>
       <guid isPermaLink="true">https://github.com/OpenBB-finance/OpenBB</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>obra / superpowers</title>
       <link>https://github.com/obra/superpowers</link>
-      <description>📉 Rank: #5 → #6 (↓1) | ⭐ Stars: 122,804 → 123,702 (+898)
+      <description>📉 Rank: #5 → #6 (↓1) | ⭐ Stars: 122,804 → 124,079 (+1275)
 
 An agentic skills framework &amp; software development methodology that works.
 
 Language: Shell
 2,230 stars today</description>
       <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>thedotmack / claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
-      <description>📉 Rank: #6 → #7 (↓1) | ⭐ Stars: 42,547 → 42,907 (+360)
+      <description>📉 Rank: #6 → #7 (↓1) | ⭐ Stars: 42,547 → 43,061 (+514)
 
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 Language: TypeScript
 373 stars today</description>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>hacksider / Deep-Live-Cam</title>
       <link>https://github.com/hacksider/Deep-Live-Cam</link>
-      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 85,226 → 85,559 (+333)
+      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 85,226 → 85,713 (+487)
 
 real time face swap and one-click video deepfake with only a single image
 
 Language: Python
 1,132 stars today</description>
       <guid isPermaLink="true">https://github.com/hacksider/Deep-Live-Cam</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>mvanhorn / last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
-      <description>📉 Rank: #8 → #9 (↓1) | ⭐ Stars: 15,265 → 15,734 (+469)
+      <description>📉 Rank: #8 → #9 (↓1) | ⭐ Stars: 15,265 → 15,920 (+655)
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 Language: Python
 1,308 stars today</description>
       <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>shareAI-lab / learn-claude-code</title>
       <link>https://github.com/shareAI-lab/learn-claude-code</link>
-      <description>📉 Rank: #9 → #10 (↓1) | ⭐ Stars: 42,631 → 43,104 (+473)
+      <description>📉 Rank: #9 → #10 (↓1) | ⭐ Stars: 42,631 → 43,292 (+661)
 
 Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
 
 Language: TypeScript
 919 stars today</description>
       <guid isPermaLink="true">https://github.com/shareAI-lab/learn-claude-code</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>fastfetch-cli / fastfetch</title>
       <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description>📉 Rank: #10 → #11 (↓1) | ⭐ Stars: 21,131 → 21,221 (+90)
+      <description>📉 Rank: #10 → #11 (↓1) | ⭐ Stars: 21,131 → 21,245 (+114)
 
 A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 Language: C
 37 stars today</description>
       <guid isPermaLink="true">https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>moeru-ai / airi</title>
       <link>https://github.com/moeru-ai/airi</link>
-      <description>📉 Rank: #11 → #12 (↓1) | ⭐ Stars: 36,326 → 36,465 (+139)
+      <description>📉 Rank: #11 → #12 (↓1) | ⭐ Stars: 36,326 → 36,519 (+193)
 
 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 Language: TypeScript
 224 stars today</description>
       <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
     <item>
       <title>twentyhq / twenty</title>
       <link>https://github.com/twentyhq/twenty</link>
-      <description>📉 Rank: #12 → #13 (↓1) | ⭐ Stars: 42,911 → 43,058 (+147)
+      <description>📉 Rank: #12 → #13 (↓1) | ⭐ Stars: 42,911 → 43,111 (+200)
 
 Building a modern alternative to Salesforce, powered by the community.
 
 Language: TypeScript
 447 stars today</description>
       <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:11 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

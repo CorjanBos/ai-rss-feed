@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:24:32 +0000</lastBuildDate>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
@@ -21,7 +21,7 @@ Language: JavaScript
 Category: LLM
 Stars: 117,080 | Forks: 15,207</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] gstack</title>
@@ -35,7 +35,7 @@ Language: TypeScript
 Category: Claude
 Stars: 56,050 | Forks: 7,320</description>
       <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -49,7 +49,7 @@ Language: JavaScript
 Category: Claude
 Stars: 117,082 | Forks: 15,207</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] openai-cookbook</title>
@@ -63,7 +63,7 @@ Language: Jupyter Notebook
 Category: ChatGPT
 Stars: 72,423 | Forks: 12,215</description>
       <guid isPermaLink="true">https://github.com/openai/openai-cookbook</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[ChatGPT] Prompt-Engineering-Guide</title>
@@ -77,7 +77,7 @@ Language: MDX
 Category: ChatGPT
 Stars: 72,450 | Forks: 7,757</description>
       <guid isPermaLink="true">https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] langchain</title>
@@ -91,7 +91,7 @@ Language: Python
 Category: AI
 Stars: 131,557 | Forks: 21,680</description>
       <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] system-prompts-and-models-of-ai-tools</title>
@@ -103,7 +103,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 Category: AI
 Stars: 133,652 | Forks: 33,696</description>
       <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] dify</title>
@@ -117,7 +117,7 @@ Language: TypeScript
 Category: AI
 Stars: 134,935 | Forks: 21,012</description>
       <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] langflow</title>
@@ -131,7 +131,7 @@ Language: Python
 Category: AI
 Stars: 146,393 | Forks: 8,668</description>
       <guid isPermaLink="true">https://github.com/langflow-ai/langflow</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -145,7 +145,7 @@ Language: TypeScript
 Category: AI
 Stars: 340,793 | Forks: 67,243</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
     <item>
       <title>[AI] JavaGuide</title>
@@ -159,7 +159,7 @@ Language: Java
 Category: AI
 Stars: 154,529 | Forks: 46,137</description>
       <guid isPermaLink="true">https://github.com/Snailclimb/JavaGuide</guid>
-      <pubDate>Mon, 30 Mar 2026 06:03:12 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 08:24:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
