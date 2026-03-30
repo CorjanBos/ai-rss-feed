@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:23:42 +0000</lastBuildDate>
     <item>
       <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
       <link>https://huggingface.co/papers/2603.23516</link>
@@ -129,24 +129,6 @@ Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autore
       <pubDate>Fri, 20 Mar 2026 19:52:37 +0000</pubDate>
     </item>
     <item>
-      <title>T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search</title>
-      <link>https://huggingface.co/papers/2603.22341</link>
-      <description>By Hyomin Lee, Sangwoo Park, Yumin Choi, Sohyun An, Seanie Lee, et al.
-
-While prior red-teaming efforts have focused on eliciting harmful text outputs from large language models (LLMs), such approaches fail to capture agent-specific vulnerabilities that emerge through multi-step tool execution, particularly in rapidly growing ecosystems such as the Model Context Protoco...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.22341</guid>
-      <pubDate>Sat, 21 Mar 2026 12:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video</title>
-      <link>https://huggingface.co/papers/2603.21618</link>
-      <description>By Jae Won Jang, Yeonjin Chang, Wonsik Shin, Juhwan Cho, Nojun Kwak
-
-We introduce 4DGS360, a diffusion-free framework for 360^{circ} dynamic object reconstruction from casual monocular video. Existing methods often fail to reconstruct consistent 360^{circ} geometry, as their heavy reliance on 2D-native priors causes initial points to overfit to visible surface in eac...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21618</guid>
-      <pubDate>Mon, 23 Mar 2026 06:30:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors</title>
       <link>https://huggingface.co/papers/2603.21768</link>
       <description>By Yuze Qin, Qingyong Li, Zhiqing Guo, Wen Wang, Yan Liu, et al.
@@ -201,6 +183,15 @@ Functionality segmentation in 3D scenes requires an agent to ground implicit nat
       <pubDate>Tue, 24 Mar 2026 17:42:31 +0000</pubDate>
     </item>
     <item>
+      <title>LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset</title>
+      <link>https://huggingface.co/papers/2603.23607</link>
+      <description>By Royden Wagner, Omer Sahin Tas, Jaime Villa, Felix Hauser, Yinzhe Shen, et al.
+
+In real-world domains such as self-driving, generalization to rare scenarios remains a fundamental challenge. To address this, we introduce a new dataset designed for end-to-end driving that focuses on long-tail driving events. We provide multi-view video data, trajectories, high-level instructions,...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23607</guid>
+      <pubDate>Tue, 24 Mar 2026 18:00:08 +0000</pubDate>
+    </item>
+    <item>
       <title>BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment</title>
       <link>https://huggingface.co/papers/2603.23883</link>
       <description>By Risa Shinoda, Kaede Shiohara, Nakamasa Inoue, Kuniaki Saito, Hiroaki Santo, et al.
@@ -228,15 +219,6 @@ Generative optimization uses large language models (LLMs) to iteratively improve
       <pubDate>Wed, 25 Mar 2026 07:48:22 +0000</pubDate>
     </item>
     <item>
-      <title>Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?</title>
-      <link>https://huggingface.co/papers/2603.24472</link>
-      <description>By Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dohyung Kim, et al.
-
-Self-distillation has emerged as an effective post-training paradigm for LLMs, often improving performance while shortening reasoning traces. However, in mathematical reasoning, we find that it can reduce response length while degrading performance. We trace this degradation to the suppression of ep...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24472</guid>
-      <pubDate>Wed, 25 Mar 2026 16:14:52 +0000</pubDate>
-    </item>
-    <item>
       <title>AVO: Agentic Variation Operators for Autonomous Evolutionary Search</title>
       <link>https://huggingface.co/papers/2603.24517</link>
       <description>By Terry Chen, Zhifan Ye, Bing Xu, Zihao Ye, Timmy Liu, et al.
@@ -244,6 +226,15 @@ Self-distillation has emerged as an effective post-training paradigm for LLMs, o
 Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with autonomous coding agents. Rather than confining a language model to candidate generation within a pres...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24517</guid>
       <pubDate>Wed, 25 Mar 2026 16:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies</title>
+      <link>https://huggingface.co/papers/2603.24649</link>
+      <description>By Weixiang Shen, Yanzhu Hu, Che Liu, Junde Wu, Jiayuan Zhu, et al.
+
+Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This setup misses the core challenge of realworld diagnostics: a true clinical agent must actively navigat...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24649</guid>
+      <pubDate>Wed, 25 Mar 2026 17:33:58 +0000</pubDate>
     </item>
     <item>
       <title>VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models</title>
@@ -406,6 +397,15 @@ Video world models have shown immense potential in simulating the physical world
 We demonstrate an all solid state semiconductor device, based on epitaxial single crystalline metal halide perovskites, enabling reversible control of a perovskite photoluminescence with a gate voltage. Fundamentally distinct from electroluminescent diodes, such a photoluminescence field effect tran...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25718</guid>
       <pubDate>Thu, 26 Mar 2026 17:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Natural-Language Agent Harnesses</title>
+      <link>https://huggingface.co/papers/2603.25723</link>
+      <description>By Linyue Pan, Lexiao Zou, Shuo Guo, Jingchen Ni, Hai-Tao Zheng
+
+Agent performance increasingly depends on harness engineering, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study as a scientific object. We ask whether the high-level control logic of an agent harness can instead ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25723</guid>
+      <pubDate>Thu, 26 Mar 2026 17:58:15 +0000</pubDate>
     </item>
     <item>
       <title>PixelSmile: Toward Fine-Grained Facial Expression Editing</title>
