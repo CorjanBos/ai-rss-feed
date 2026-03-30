@@ -4,52 +4,52 @@
     "repo_name": "luongnv89 / claude-howto",
     "repo_url": "https://github.com/luongnv89/claude-howto",
     "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "stars": 9648,
-    "stars_text": "9,648",
-    "forks": 968,
+    "stars": 9692,
+    "stars_text": "9,692",
+    "forks": 971,
     "language": "Python",
     "today_stars": "4,150 stars today",
     "rank": 2,
-    "fetched_at": "2026-03-30T20:55:34.633432+00:00"
+    "fetched_at": "2026-03-30T21:51:56.761924+00:00"
   },
   "microsoft/VibeVoice": {
     "repo_path": "microsoft/VibeVoice",
     "repo_name": "microsoft / VibeVoice",
     "repo_url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
-    "stars": 29685,
-    "stars_text": "29,685",
-    "forks": 3244,
+    "stars": 29784,
+    "stars_text": "29,784",
+    "forks": 3256,
     "language": "Python",
     "today_stars": "2,509 stars today",
     "rank": 1,
-    "fetched_at": "2026-03-30T20:55:34.632737+00:00"
+    "fetched_at": "2026-03-30T21:51:56.761256+00:00"
   },
   "NousResearch/hermes-agent": {
     "repo_path": "NousResearch/hermes-agent",
     "repo_name": "NousResearch / hermes-agent",
     "repo_url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
-    "stars": 18354,
-    "stars_text": "18,354",
-    "forks": 2214,
+    "stars": 18415,
+    "stars_text": "18,415",
+    "forks": 2228,
     "language": "Python",
     "today_stars": "1,859 stars today",
     "rank": 11,
-    "fetched_at": "2026-03-30T20:55:34.638540+00:00"
+    "fetched_at": "2026-03-30T21:51:56.766713+00:00"
   },
   "OpenBB-finance/OpenBB": {
     "repo_path": "OpenBB-finance/OpenBB",
     "repo_name": "OpenBB-finance / OpenBB",
     "repo_url": "https://github.com/OpenBB-finance/OpenBB",
     "description": "Financial data platform for analysts, quants and AI agents.",
-    "stars": 64472,
-    "stars_text": "64,472",
+    "stars": 64490,
+    "stars_text": "64,490",
     "forks": 6347,
     "language": "Python",
     "today_stars": "499 stars today",
     "rank": 6,
-    "fetched_at": "2026-03-30T20:55:34.635894+00:00"
+    "fetched_at": "2026-03-30T21:51:56.764308+00:00"
   },
   "obra/superpowers": {
     "repo_path": "obra/superpowers",
@@ -82,13 +82,13 @@
     "repo_name": "hacksider / Deep-Live-Cam",
     "repo_url": "https://github.com/hacksider/Deep-Live-Cam",
     "description": "real time face swap and one-click video deepfake with only a single image",
-    "stars": 86241,
-    "stars_text": "86,241",
-    "forks": 12531,
+    "stars": 86269,
+    "stars_text": "86,269",
+    "forks": 12534,
     "language": "Python",
     "today_stars": "1,138 stars today",
     "rank": 5,
-    "fetched_at": "2026-03-30T20:55:34.635250+00:00"
+    "fetched_at": "2026-03-30T21:51:56.763676+00:00"
   },
   "mvanhorn/last30days-skill": {
     "repo_path": "mvanhorn/last30days-skill",
@@ -121,13 +121,13 @@
     "repo_name": "fastfetch-cli / fastfetch",
     "repo_url": "https://github.com/fastfetch-cli/fastfetch",
     "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-    "stars": 21380,
-    "stars_text": "21,380",
-    "forks": 724,
+    "stars": 21387,
+    "stars_text": "21,387",
+    "forks": 725,
     "language": "C",
     "today_stars": "271 stars today",
     "rank": 10,
-    "fetched_at": "2026-03-30T20:55:34.638036+00:00"
+    "fetched_at": "2026-03-30T21:51:56.766267+00:00"
   },
   "moeru-ai/airi": {
     "repo_path": "moeru-ai/airi",
@@ -160,64 +160,64 @@
     "repo_name": "Yeachan-Heo / oh-my-claudecode",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
     "description": "Teams-first Multi-agent orchestration for Claude Code",
-    "stars": 17479,
-    "stars_text": "17,479",
-    "forks": 1221,
+    "stars": 17509,
+    "stars_text": "17,509",
+    "forks": 1223,
     "language": "TypeScript",
     "today_stars": "1,785 stars today",
     "rank": 3,
-    "fetched_at": "2026-03-30T20:55:34.634079+00:00"
+    "fetched_at": "2026-03-30T21:51:56.762557+00:00"
   },
   "shanraisshan/claude-code-best-practice": {
     "repo_path": "shanraisshan/claude-code-best-practice",
     "repo_name": "shanraisshan / claude-code-best-practice",
     "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
     "description": "practice made claude perfect",
-    "stars": 25788,
-    "stars_text": "25,788",
-    "forks": 2174,
+    "stars": 25875,
+    "stars_text": "25,875",
+    "forks": 2182,
     "language": "HTML",
     "today_stars": "1,342 stars today",
     "rank": 4,
-    "fetched_at": "2026-03-30T20:55:34.634630+00:00"
+    "fetched_at": "2026-03-30T21:51:56.763062+00:00"
   },
   "freeCodeCamp/freeCodeCamp": {
     "repo_path": "freeCodeCamp/freeCodeCamp",
     "repo_name": "freeCodeCamp / freeCodeCamp",
     "repo_url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "stars": 439634,
-    "stars_text": "439,634",
-    "forks": 43886,
+    "stars": 439654,
+    "stars_text": "439,654",
+    "forks": 43888,
     "language": "TypeScript",
     "today_stars": "376 stars today",
     "rank": 7,
-    "fetched_at": "2026-03-30T20:55:34.636547+00:00"
+    "fetched_at": "2026-03-30T21:51:56.764861+00:00"
   },
   "sherlock-project/sherlock": {
     "repo_path": "sherlock-project/sherlock",
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 74598,
-    "stars_text": "74,598",
-    "forks": 8834,
+    "stars": 74628,
+    "stars_text": "74,628",
+    "forks": 8835,
     "language": "Python",
     "today_stars": "68 stars today",
     "rank": 8,
-    "fetched_at": "2026-03-30T20:55:34.637049+00:00"
+    "fetched_at": "2026-03-30T21:51:56.765348+00:00"
   },
   "apache/superset": {
     "repo_path": "apache/superset",
     "repo_name": "apache / superset",
     "repo_url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "stars": 71851,
-    "stars_text": "71,851",
+    "stars": 71866,
+    "stars_text": "71,866",
     "forks": 16936,
     "language": "TypeScript",
     "today_stars": "63 stars today",
     "rank": 9,
-    "fetched_at": "2026-03-30T20:55:34.637545+00:00"
+    "fetched_at": "2026-03-30T21:51:56.765790+00:00"
   }
 }
