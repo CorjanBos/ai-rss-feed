@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:57:56 +0000</lastBuildDate>
     <item>
       <title>shanraisshan / claude-code-best-practice</title>
       <link>https://github.com/shanraisshan/claude-code-best-practice</link>
@@ -19,7 +19,7 @@ practice made claude perfect
 Language: HTML
 1,050 stars today</description>
       <guid isPermaLink="true">https://github.com/shanraisshan/claude-code-best-practice</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>freeCodeCamp / freeCodeCamp</title>
@@ -29,9 +29,9 @@ Language: HTML
 freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 Language: TypeScript
-122 stars today</description>
+376 stars today</description>
       <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>sherlock-project / sherlock</title>
@@ -43,103 +43,103 @@ Hunt down social media accounts by username across social networks
 Language: Python
 68 stars today</description>
       <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / VibeVoice</title>
       <link>https://github.com/microsoft/VibeVoice</link>
-      <description>📈 Rank: #2 → #1 (↑1) | ⭐ Stars: 27,117 → 28,492 (+1375)
+      <description>📈 Rank: #2 → #1 (↑1) | ⭐ Stars: 27,117 → 28,807 (+1690)
 
 Open-Source Frontier Voice AI
 
 Language: Python
 2,509 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>luongnv89 / claude-howto</title>
       <link>https://github.com/luongnv89/claude-howto</link>
-      <description>📉 Rank: #1 → #2 (↓1) | ⭐ Stars: 6,482 → 8,961 (+2479)
+      <description>📉 Rank: #1 → #2 (↓1) | ⭐ Stars: 6,482 → 9,148 (+2666)
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 Language: Python
-1,165 stars today</description>
+4,150 stars today</description>
       <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>Yeachan-Heo / oh-my-claudecode</title>
       <link>https://github.com/Yeachan-Heo/oh-my-claudecode</link>
-      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 15,850 → 16,962 (+1112)
+      <description>📉 Rank: #2 → #3 (↓1) | ⭐ Stars: 15,850 → 17,104 (+1254)
 
 Teams-first Multi-agent orchestration for Claude Code
 
 Language: TypeScript
 1,785 stars today</description>
       <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>hacksider / Deep-Live-Cam</title>
       <link>https://github.com/hacksider/Deep-Live-Cam</link>
-      <description>📈 Rank: #7 → #5 (↑2) | ⭐ Stars: 85,226 → 85,887 (+661)
+      <description>📈 Rank: #7 → #5 (↑2) | ⭐ Stars: 85,226 → 85,974 (+748)
 
 real time face swap and one-click video deepfake with only a single image
 
 Language: Python
 1,138 stars today</description>
       <guid isPermaLink="true">https://github.com/hacksider/Deep-Live-Cam</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>OpenBB-finance / OpenBB</title>
       <link>https://github.com/OpenBB-finance/OpenBB</link>
-      <description>📉 Rank: #4 → #6 (↓2) | ⭐ Stars: 63,994 → 64,272 (+278)
+      <description>📉 Rank: #4 → #6 (↓2) | ⭐ Stars: 63,994 → 64,313 (+319)
 
 Financial data platform for analysts, quants and AI agents.
 
 Language: Python
 499 stars today</description>
       <guid isPermaLink="true">https://github.com/OpenBB-finance/OpenBB</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>apache / superset</title>
       <link>https://github.com/apache/superset</link>
-      <description>⭐ Stars: 71,623 → 71,682 (+59) | Ranked #9
+      <description>⭐ Stars: 71,623 → 71,727 (+104) | Ranked #9
 
 Apache Superset is a Data Visualization and Data Exploration Platform
 
 Language: TypeScript
-430 stars today</description>
+63 stars today</description>
       <guid isPermaLink="true">https://github.com/apache/superset</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>fastfetch-cli / fastfetch</title>
       <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description>⭐ Stars: 21,131 → 21,286 (+155) | Ranked #10
+      <description>⭐ Stars: 21,131 → 21,309 (+178) | Ranked #10
 
 A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 Language: C
 271 stars today</description>
       <guid isPermaLink="true">https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
-      <description>📉 Rank: #3 → #11 (↓8) | ⭐ Stars: 16,651 → 17,630 (+979)
+      <description>📉 Rank: #3 → #11 (↓8) | ⭐ Stars: 16,651 → 17,786 (+1135)
 
 The agent that grows with you
 
 Language: Python
 1,859 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Mon, 30 Mar 2026 11:58:41 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:57:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
