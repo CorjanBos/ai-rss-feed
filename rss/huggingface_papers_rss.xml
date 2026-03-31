@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 09:11:11 +0000</lastBuildDate>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
       <link>https://huggingface.co/papers/2603.13904</link>
@@ -37,13 +37,13 @@ In this report, we introduce the IQuest-Coder-V1 series-(7B/14B/40B/40B-Loop), a
       <pubDate>Tue, 17 Mar 2026 16:15:31 +0000</pubDate>
     </item>
     <item>
-      <title>MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution</title>
-      <link>https://huggingface.co/papers/2603.18718</link>
-      <description>By Minhua Lin, Zhiwei Zhang, Hanqing Lu, Hui Liu, Xianfeng Tang, et al.
+      <title>SEAR: Schema-Based Evaluation and Routing for LLM Gateways</title>
+      <link>https://huggingface.co/papers/2603.26728</link>
+      <description>By Zecheng Zhang, Han Zheng, Yue Xu
 
-Memory-augmented LLM agents maintain external memory banks to support long-horizon interaction, yet most existing systems treat construction, retrieval, and utilization as isolated subroutines. This creates two coupled challenges: strategic blindness on the forward path of the memory cycle, where co...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18718</guid>
-      <pubDate>Thu, 19 Mar 2026 10:15:59 +0000</pubDate>
+Evaluating production LLM responses and routing requests across providers in LLM gateways requires fine-grained quality signals and operationally grounded decisions. To address this gap, we present SEAR, a schema-based evaluation and routing system for multi-model, multi-provider LLM gateways. SEAR ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26728</guid>
+      <pubDate>Fri, 20 Mar 2026 04:51:35 +0000</pubDate>
     </item>
     <item>
       <title>Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models</title>
@@ -199,24 +199,6 @@ Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen enco
       <pubDate>Thu, 26 Mar 2026 12:44:30 +0000</pubDate>
     </item>
     <item>
-      <title>Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes</title>
-      <link>https://huggingface.co/papers/2603.25562</link>
-      <description>By Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Yuanheng Zhu, Dongbin Zhao
-
-On-policy distillation (OPD) is appealing for large language model (LLM) post-training because it evaluates teacher feedback on student-generated rollouts rather than fixed teacher traces. In long-horizon settings, however, the common sampled-token variant is fragile: it reduces distribution matchin...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25562</guid>
-      <pubDate>Thu, 26 Mar 2026 15:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation</title>
-      <link>https://huggingface.co/papers/2603.25702</link>
-      <description>By Ligong Han, Hao Wang, Han Gao, Kai Xu, Akash Srivastava
-
-Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in the few-step regime needed for practical acceleration, standard confidence-thresholded decoding is oft...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25702</guid>
-      <pubDate>Thu, 26 Mar 2026 17:48:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models</title>
       <link>https://huggingface.co/papers/2603.25716</link>
       <description>By Kaijin Chen, Dingkang Liang, Xin Zhou, Yikang Ding, Xiaoqiang Liu, et al.
@@ -224,15 +206,6 @@ Block-diffusion language models offer a promising path toward faster-than-autore
 Video world models have shown immense potential in simulating the physical world, yet existing memory mechanisms primarily treat environments as static canvases. When dynamic subjects hide out of sight and later re-emerge, current methods often struggle, leading to frozen, distorted, or vanishing su...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25716</guid>
       <pubDate>Thu, 26 Mar 2026 17:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors</title>
-      <link>https://huggingface.co/papers/2603.25718</link>
-      <description>By Vladimir Bruevich, Dmitry Maslennikov, Beier Hu, Artem A. Bakulin, Vitaly Podzorov
-
-We demonstrate an all solid state semiconductor device, based on epitaxial single crystalline metal halide perovskites, enabling reversible control of a perovskite photoluminescence with a gate voltage. Fundamentally distinct from electroluminescent diodes, such a photoluminescence field effect tran...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25718</guid>
-      <pubDate>Thu, 26 Mar 2026 17:57:34 +0000</pubDate>
     </item>
     <item>
       <title>Natural-Language Agent Harnesses</title>
@@ -307,6 +280,15 @@ Large language model (LLM)-based coding agents achieve impressive results on con
       <pubDate>Fri, 27 Mar 2026 17:58:56 +0000</pubDate>
     </item>
     <item>
+      <title>TAPS: Task Aware Proposal Distributions for Speculative Sampling</title>
+      <link>https://huggingface.co/papers/2603.27027</link>
+      <description>By Mohamad Zbib, Mohamad Bazzi, Ammar Mohanna, Hasan Abed Al Kader Hammoud, Bernard Ghanem
+
+Speculative decoding accelerates autoregressive generation by letting a lightweight draft model propose future tokens that a larger target model then verifies in parallel. In practice, however, draft models are usually trained on broad generic corpora, which leaves it unclear how much speculative de...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27027</guid>
+      <pubDate>Fri, 27 Mar 2026 22:34:20 +0000</pubDate>
+    </item>
+    <item>
       <title>MOOZY: A Patient-First Foundation Model for Computational Pathology</title>
       <link>https://huggingface.co/papers/2603.27048</link>
       <description>By Yousef Kotp, Vincent Quoc-Huy Trinh, Christopher Pal, Mahdi S. Hosseini
@@ -323,6 +305,15 @@ Computational pathology needs whole-slide image (WSI) foundation models that tra
 Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generation pipelines rely on unconstrained text synthesis with validation applied only after generation, of...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.27065</guid>
       <pubDate>Sat, 28 Mar 2026 00:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>EpochX: Building the Infrastructure for an Emergent Agent Civilization</title>
+      <link>https://huggingface.co/papers/2603.27304</link>
+      <description>By Huacan Wang, Chaofa Yuan, Xialie Zhuang, Tu Hu, Shuo Zhang, et al.
+
+General-purpose technologies reshape economies less by improving individual tools than by enabling new ways to organize production and coordination. We believe AI agents are approaching a similar inflection point: as foundation models make broad task execution and tool use increasingly accessible, t...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27304</guid>
+      <pubDate>Sat, 28 Mar 2026 15:20:48 +0000</pubDate>
     </item>
     <item>
       <title>On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models</title>
@@ -449,6 +440,15 @@ The prospect of artificial superintelligence -- AI agents that can generally out
 Diffusion models have made significant progress in both text-to-image (T2I) generation and text-guided image editing. However, these models are typically built with billions of parameters, leading to high latency and increased deployment challenges. While on-device diffusion models improve efficienc...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28713</guid>
       <pubDate>Mon, 30 Mar 2026 17:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers</title>
+      <link>https://huggingface.co/papers/2603.28762</link>
+      <description>By Omer Dahary, Benaya Koren, Daniel Garibi, Daniel Cohen-Or
+
+Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a w...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28762</guid>
+      <pubDate>Mon, 30 Mar 2026 17:59:13 +0000</pubDate>
     </item>
     <item>
       <title>Gen-Searcher: Reinforcing Agentic Search for Image Generation</title>
