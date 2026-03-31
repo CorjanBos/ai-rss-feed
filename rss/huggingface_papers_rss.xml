@@ -8,27 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 23:42:38 +0000</lastBuildDate>
-    <item>
-      <title>MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens</title>
-      <link>https://huggingface.co/papers/2603.23516</link>
-      <description>By Yu Chen, Runkai Chen, Sheng Yi, Xinda Zhao, Xiaohong Li, et al.
-
-Long-term memory is a cornerstone of human intelligence. Enabling AI to process lifetime-scale information remains a long-standing pursuit in
-  the field. Due to the constraints of full-attention architectures, the effective context length of large language models (LLMs) is typically
-  limited to 1M...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23516</guid>
-      <pubDate>Fri, 06 Mar 2026 02:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qworld: Question-Specific Evaluation Criteria for LLMs</title>
-      <link>https://huggingface.co/papers/2603.23522</link>
-      <description>By Shanghua Gao, Yuchang Su, Pengwei Sui, Curtis Ginder, Marinka Zitnik
-
-Evaluating large language models (LLMs) on open-ended questions is difficult because response quality depends on the question's context. Binary scores and static rubrics fail to capture these context-dependent requirements. Existing methods define criteria at the dataset level or generate them in a ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23522</guid>
-      <pubDate>Fri, 06 Mar 2026 15:20:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 03:17:39 +0000</lastBuildDate>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
       <link>https://huggingface.co/papers/2603.13904</link>
@@ -46,15 +26,6 @@ For robotic agents operating in dynamic environments, learning visual state repr
 Representation Alignment (REPA) has emerged as a simple way to accelerate Diffusion Transformers training in latent space. At the same time, pixel-space diffusion transformers such as Just image Transformers (JiT) have attracted growing attention because they remove a dependency on a pretrained toke...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.14366</guid>
       <pubDate>Sun, 15 Mar 2026 13:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics</title>
-      <link>https://huggingface.co/papers/2603.14375</link>
-      <description>By Xiangbo Gao, Mingyang Wu, Siyuan Yang, Jiongze Yu, Pardis Taghavi, et al.
-
-While recent generative video models have achieved remarkable visual realism and are being explored as world models, true physical simulation requires mastering both space and time. Current models can produce visually smooth kinematics, yet they lack a reliable internal motion pulse to ground these ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14375</guid>
-      <pubDate>Sun, 15 Mar 2026 13:29:31 +0000</pubDate>
     </item>
     <item>
       <title>Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models</title>
@@ -84,15 +55,6 @@ Memory-augmented LLM agents maintain external memory banks to support long-horiz
       <pubDate>Thu, 19 Mar 2026 10:15:59 +0000</pubDate>
     </item>
     <item>
-      <title>6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models</title>
-      <link>https://huggingface.co/papers/2603.18742</link>
-      <description>By Rundong Su, Jintao Zhang, Zhihang Yuan, Haojie Duanmu, Jianfei Chen, et al.
-
-Diffusion transformers have demonstrated remarkable capabilities in generating videos. However, their practical deployment is severely constrained by high memory usage and computational cost. Post-Training Quantization provides a practical way to reduce memory usage and boost computation speed. Exis...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.18742</guid>
-      <pubDate>Thu, 19 Mar 2026 10:45:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models</title>
       <link>https://huggingface.co/papers/2603.25750</link>
       <description>By Kyudan Jung, Jihwan Kim, Soyoon Kim, Jeongoon Kim, Jaegul Choo, et al.
@@ -100,15 +62,6 @@ Diffusion transformers have demonstrated remarkable capabilities in generating v
 As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However, the development of such models is constrained by the scarcity of high-quality, multi-speaker conver...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25750</guid>
       <pubDate>Fri, 20 Mar 2026 09:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis</title>
-      <link>https://huggingface.co/papers/2603.20176</link>
-      <description>By Stanislaw Szymanowicz, Minghao Chen, Jianyuan Wang, Christian Rupprecht, Andrea Vedaldi
-
-Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpful in the design of such networks. We show this point by introducing LagerNVS, an encoder-decoder ne...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.20176</guid>
-      <pubDate>Fri, 20 Mar 2026 17:53:06 +0000</pubDate>
     </item>
     <item>
       <title>Diffutron: A Masked Diffusion Language Model for Turkish Language</title>
@@ -172,24 +125,6 @@ Understanding animal species from multimodal data poses an emerging challenge at
 Recent approaches for segmentation have leveraged pretrained generative models as feature extractors, treating segmentation as a downstream adaptation task via indirect feature retrieval. This implicit use suffers from a fundamental misalignment in representation. It also depends heavily on indirect...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23906</guid>
       <pubDate>Wed, 25 Mar 2026 03:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding the Challenges in Iterative Generative Optimization with LLMs</title>
-      <link>https://huggingface.co/papers/2603.23994</link>
-      <description>By Allen Nie, Xavier Daull, Zhiyi Kuang, Abhinav Akkiraju, Anish Chaudhuri, et al.
-
-Generative optimization uses large language models (LLMs) to iteratively improve artifacts (such as code, workflows or prompts) using execution feedback. It is a promising approach to building self-improving agents, yet in practice remains brittle: despite active research, only 9% of surveyed agents...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23994</guid>
-      <pubDate>Wed, 25 Mar 2026 06:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision</title>
-      <link>https://huggingface.co/papers/2603.24036</link>
-      <description>By Avigail Cohen Rimon, Amir Mann, Mirela Ben Chen, Or Litany
-
-3D Gaussian Splatting (3DGS) enables real-time, photorealistic novel view synthesis, making it a highly attractive representation for model-based video tracking. However, leveraging the differentiability of the 3DGS renderer "in the wild" remains notoriously fragile. A fundamental bottleneck lies in...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24036</guid>
-      <pubDate>Wed, 25 Mar 2026 07:48:22 +0000</pubDate>
     </item>
     <item>
       <title>Composer 2 Technical Report</title>
@@ -460,6 +395,69 @@ Vision-Language Models (VLMs) have demonstrated impressive capabilities in code 
 Large language model (LLM)-based coding agents achieve impressive results on controlled benchmarks yet routinely produce pull requests that real maintainers reject. The root cause is not functional incorrectness but a lack of organicity: generated code ignores project-specific conventions, duplicate...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26664</guid>
       <pubDate>Fri, 27 Mar 2026 17:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models</title>
+      <link>https://huggingface.co/papers/2603.27481</link>
+      <description>By Chongyang Zhao, Mingsong Li, Haodong Lu, Dong Gong
+
+Multimodal Continual Instruction Tuning aims to continually enhance Large Vision Language Models (LVLMs) by learning from new data without forgetting previously acquired knowledge. Mixture of Experts (MoE) architectures naturally facilitate this by incrementally adding new experts and expanding rout...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27481</guid>
+      <pubDate>Sun, 29 Mar 2026 02:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>PRBench: End-to-end Paper Reproduction in Physics Research</title>
+      <link>https://huggingface.co/papers/2603.27646</link>
+      <description>By Shi Qiu, Junyi Deng, Yiwei Deng, Haoran Dong, Jieyu Fu, et al.
+
+AI agents powered by large language models exhibit strong reasoning and problem-solving capabilities, enabling them to assist scientific research tasks such as formula derivation and code generation. However, whether these agents can reliably perform end-to-end reproduction from real scientific pape...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27646</guid>
+      <pubDate>Sun, 29 Mar 2026 11:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emergent Social Intelligence Risks in Generative Multi-Agent Systems</title>
+      <link>https://huggingface.co/papers/2603.27771</link>
+      <description>By Yue Huang, Yu Jiang, Wenjie Wang, Haomin Zhuang, Xiaonan Luo, et al.
+
+Multi-agent systems composed of large generative models are rapidly moving from laboratory prototypes to real-world deployments, where they jointly plan, negotiate, and allocate shared resources to solve complex tasks. While such systems promise unprecedented scalability and autonomy, their collecti...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27771</guid>
+      <pubDate>Sun, 29 Mar 2026 17:10:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks</title>
+      <link>https://huggingface.co/papers/2603.27862</link>
+      <description>By Samin Mahdizadeh Sani, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, et al.
+
+Advances in diffusion, autoregressive, and hybrid models have enabled high-quality image synthesis for tasks such as text-to-image, editing, and reference-guided composition. Yet, existing benchmarks remain limited, either focus on isolated tasks, cover only narrow domains, or provide opaque scores ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27862</guid>
+      <pubDate>Sun, 29 Mar 2026 20:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization</title>
+      <link>https://huggingface.co/papers/2603.28342</link>
+      <description>By He Du, Qiming Ge, Jiakai Hu, Aijun Yang, Zheng Cai, et al.
+
+We present Kernel-Smith, a framework for high-performance GPU kernel and operator generation that combines a stable evaluation-driven evolutionary agent with an evolution-oriented post-training recipe. On the agent side, Kernel-Smith maintains a population of executable candidates and iteratively im...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28342</guid>
+      <pubDate>Mon, 30 Mar 2026 12:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards a Medical AI Scientist</title>
+      <link>https://huggingface.co/papers/2603.28589</link>
+      <description>By Hongtao Wu, Boyun Zheng, Dingjie Song, Yu Jiang, Jianfeng Gao, et al.
+
+Autonomous systems that generate scientific hypotheses, conduct experiments, and draft manuscripts have recently emerged as a promising paradigm for accelerating discovery. However, existing AI Scientists remain largely domain-agnostic, limiting their applicability to clinical medicine, where resear...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28589</guid>
+      <pubDate>Mon, 30 Mar 2026 15:37:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning</title>
+      <link>https://huggingface.co/papers/2603.28610</link>
+      <description>By Huanxuan Liao, Zhongtao Jiang, Yupu Hao, Yuqiao Tan, Shizhu He, et al.
+
+Multimodal Large Language Models (MLLMs) achieve stronger visual understanding by scaling input fidelity, yet the resulting visual token growth makes jointly sustaining high spatial resolution and long temporal context prohibitive. We argue that the bottleneck lies not in how post-encoding represent...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28610</guid>
+      <pubDate>Mon, 30 Mar 2026 15:57:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
