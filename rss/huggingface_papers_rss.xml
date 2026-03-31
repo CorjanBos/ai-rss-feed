@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 09:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:02:35 +0000</lastBuildDate>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
       <link>https://huggingface.co/papers/2603.13904</link>
@@ -134,24 +134,6 @@ Currently, evaluating vision-language models (VLMs) in medical imaging tasks ove
 Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, original vector source files are frequently lost or inaccessible, leaving only "flat" rasterized ver...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24575</guid>
       <pubDate>Wed, 25 Mar 2026 17:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>AVControl: Efficient Framework for Training Audio-Visual Controls</title>
-      <link>https://huggingface.co/papers/2603.24793</link>
-      <description>By Matan Ben-Yosef, Tavi Halperin, Naomi Ken Korem, Mohammad Salama, Harel Cain, et al.
-
-Controlling video and audio generation requires diverse modalities, from depth and pose to camera trajectories and audio transformations, yet existing approaches either train a single monolithic model for a fixed set of controls or introduce costly architectural changes for each new modality. We int...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24793</guid>
-      <pubDate>Wed, 25 Mar 2026 20:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration</title>
-      <link>https://huggingface.co/papers/2603.24800</link>
-      <description>By Danil Tokhchukov, Aysel Mirzoeva, Andrey Kuznetsov, Konstantin Sobolev
-
-In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) to significantly enhance generative tasks. Through an in-depth analysis of the denoising process, we demonstrate that introducing a single learned scaling parameter can significantly improve the performance of DiT blocks...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24800</guid>
-      <pubDate>Wed, 25 Mar 2026 20:19:50 +0000</pubDate>
     </item>
     <item>
       <title>WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching</title>
@@ -289,6 +271,15 @@ Speculative decoding accelerates autoregressive generation by letting a lightwei
       <pubDate>Fri, 27 Mar 2026 22:34:20 +0000</pubDate>
     </item>
     <item>
+      <title>Unified Number-Free Text-to-Motion Generation Via Flow Matching</title>
+      <link>https://huggingface.co/papers/2603.27040</link>
+      <description>By Guanhe Huang, Oya Celiktutan
+
+Generative models excel at motion synthesis for a fixed number of agents but struggle to generalize with variable agents. Based on limited, domain-specific data, existing methods employ autoregressive models to generate motion recursively, which suffer from inefficiency and error accumulation. We pr...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27040</guid>
+      <pubDate>Fri, 27 Mar 2026 23:10:56 +0000</pubDate>
+    </item>
+    <item>
       <title>MOOZY: A Patient-First Foundation Model for Computational Pathology</title>
       <link>https://huggingface.co/papers/2603.27048</link>
       <description>By Yousef Kotp, Vincent Quoc-Huy Trinh, Christopher Pal, Mahdi S. Hosseini
@@ -332,6 +323,15 @@ Multimodal Continual Instruction Tuning aims to continually enhance Large Vision
 AI agents powered by large language models exhibit strong reasoning and problem-solving capabilities, enabling them to assist scientific research tasks such as formula derivation and code generation. However, whether these agents can reliably perform end-to-end reproduction from real scientific pape...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.27646</guid>
       <pubDate>Sun, 29 Mar 2026 11:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAT-Coder-V2 Technical Report</title>
+      <link>https://huggingface.co/papers/2603.27703</link>
+      <description>By Fengxiang Li, Han Zhang, Haoyang Huang, Jinghui Wang, Jinhua Hao, et al.
+
+We present KAT-Coder-V2, an agentic coding model developed by the KwaiKAT team at Kuaishou. KAT-Coder-V2 adopts a "Specialize-then-Unify" paradigm that decomposes agentic coding into five expert domains - SWE, WebCoding, Terminal, WebSearch, and General - each undergoing independent supervised fine-...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27703</guid>
+      <pubDate>Sun, 29 Mar 2026 14:01:35 +0000</pubDate>
     </item>
     <item>
       <title>Emergent Social Intelligence Risks in Generative Multi-Agent Systems</title>
