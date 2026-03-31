@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:47:57 +0000</lastBuildDate>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
       <link>https://huggingface.co/papers/2603.13904</link>
@@ -73,15 +73,6 @@ Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autore
       <pubDate>Fri, 20 Mar 2026 19:52:37 +0000</pubDate>
     </item>
     <item>
-      <title>Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors</title>
-      <link>https://huggingface.co/papers/2603.21768</link>
-      <description>By Yuze Qin, Qingyong Li, Zhiqing Guo, Wen Wang, Yan Liu, et al.
-
-Precipitation nowcasting is critical for disaster mitigation and aviation safety. However, radar-only models frequently suffer from a lack of large-scale atmospheric context, leading to performance degradation at longer lead times. While integrating meteorological variables predicted by weather foun...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21768</guid>
-      <pubDate>Mon, 23 Mar 2026 10:05:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Lie to Me: How Faithful Is Chain-of-Thought Reasoning in Reasoning Models?</title>
       <link>https://huggingface.co/papers/2603.22582</link>
       <description>By Richard J. Young
@@ -107,15 +98,6 @@ Recent advances in 3D generation have improved the fidelity and geometric detail
 In real-world domains such as self-driving, generalization to rare scenarios remains a fundamental challenge. To address this, we introduce a new dataset designed for end-to-end driving that focuses on long-tail driving events. We provide multi-view video data, trajectories, high-level instructions,...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23607</guid>
       <pubDate>Tue, 24 Mar 2026 18:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment</title>
-      <link>https://huggingface.co/papers/2603.23883</link>
-      <description>By Risa Shinoda, Kaede Shiohara, Nakamasa Inoue, Kuniaki Saito, Hiroaki Santo, et al.
-
-Understanding animal species from multimodal data poses an emerging challenge at the intersection of computer vision and ecology. While recent biological models, such as BioCLIP, have demonstrated strong alignment between images and textual taxonomic information for species identification, the integ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.23883</guid>
-      <pubDate>Wed, 25 Mar 2026 03:15:04 +0000</pubDate>
     </item>
     <item>
       <title>GenMask: Adapting DiT for Segmentation via Direct Mask</title>
@@ -163,15 +145,6 @@ Scalable Vector Graphics (SVG) are an essential format for technical illustratio
       <pubDate>Wed, 25 Mar 2026 17:52:23 +0000</pubDate>
     </item>
     <item>
-      <title>SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks</title>
-      <link>https://huggingface.co/papers/2603.24755</link>
-      <description>By Gabriel Orlanski, Devjeet Roy, Alexander Yun, Changho Shin, Alex Gu, et al.
-
-Software development is iterative, yet agentic coding benchmarks overwhelmingly evaluate single-shot solutions against complete specifications. Code can pass the test suite but become progressively harder to extend. Recent iterative benchmarks attempt to close this gap, but constrain the agent's des...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24755</guid>
-      <pubDate>Wed, 25 Mar 2026 19:26:44 +0000</pubDate>
-    </item>
-    <item>
       <title>AVControl: Efficient Framework for Training Audio-Visual Controls</title>
       <link>https://huggingface.co/papers/2603.24793</link>
       <description>By Matan Ben-Yosef, Tavi Halperin, Naomi Ken Korem, Mohammad Salama, Harel Cain, et al.
@@ -208,15 +181,6 @@ Given a question, a language model (LM) implicitly encodes a distribution over p
       <pubDate>Wed, 25 Mar 2026 22:20:25 +0000</pubDate>
     </item>
     <item>
-      <title>FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol</title>
-      <link>https://huggingface.co/papers/2603.24943</link>
-      <description>By Jie Zhu, Yimin Tian, Boyang Li, Kehao Wu, Zhongzhi Liang, et al.
-
-This paper introduces FinMCP-Bench, a novel benchmark for evaluating large language models (LLMs) in solving real-world financial problems through tool invocation of financial model context protocols. FinMCP-Bench contains 613 samples spanning 10 main scenarios and 33 sub-scenarios, featuring both r...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24943</guid>
-      <pubDate>Thu, 26 Mar 2026 02:20:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math</title>
       <link>https://huggingface.co/papers/2603.24961</link>
       <description>By Dingjie Song, Tianlong Xu, Yi-Fan Zhang, Hang Li, Zhiling Yan, et al.
@@ -224,15 +188,6 @@ This paper introduces FinMCP-Bench, a novel benchmark for evaluating large langu
 Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, complex layouts, and varied problem-solving approaches. Existing educational NLP primarily focuses on textual responses and neglects the complexity an...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24961</guid>
       <pubDate>Thu, 26 Mar 2026 02:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale</title>
-      <link>https://huggingface.co/papers/2603.25040</link>
-      <description>By Yicheng Zou, Dongsheng Zhu, Lin Zhu, Tong Zhu, Yunhua Zhou, et al.
-
-We introduce Intern-S1-Pro, the first one-trillion-parameter scientific multimodal foundation model. Scaling to this unprecedented size, the model delivers a comprehensive enhancement across both general and scientific domains. Beyond stronger reasoning and image-text understanding capabilities, its...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25040</guid>
-      <pubDate>Thu, 26 Mar 2026 05:21:45 +0000</pubDate>
     </item>
     <item>
       <title>Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills</title>
@@ -244,15 +199,6 @@ Equipping Large Language Model (LLM) agents with domain-specific skills is criti
       <pubDate>Thu, 26 Mar 2026 08:26:38 +0000</pubDate>
     </item>
     <item>
-      <title>MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data</title>
-      <link>https://huggingface.co/papers/2603.25319</link>
-      <description>By Zhekai Chen, Yuqing Wang, Manyuan Zhang, Xihui Liu
-
-Generating images conditioned on multiple visual references is critical for real-world applications such as multi-subject composition, narrative illustration, and novel view synthesis, yet current models suffer from severe performance degradation as the number of input references grows. We identify ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25319</guid>
-      <pubDate>Thu, 26 Mar 2026 11:09:14 +0000</pubDate>
-    </item>
-    <item>
       <title>PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders</title>
       <link>https://huggingface.co/papers/2603.25398</link>
       <description>By Niccolò Cavagnero, Narges Norouzi, Gijs Dubbelman, Daan de Geus
@@ -260,24 +206,6 @@ Generating images conditioned on multiple visual references is critical for real
 Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmentation, such as EoMT and VidEoMT, achieve competitive accuracy with remarkably low latency, yet they r...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25398</guid>
       <pubDate>Thu, 26 Mar 2026 12:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models</title>
-      <link>https://huggingface.co/papers/2603.25502</link>
-      <description>By Yufeng Yang, Xianfang Zeng, Zhangqi Jiang, Fukun Yin, Jianzhuang Liu, et al.
-
-Image restoration under real-world degradations is critical for downstream tasks such as autonomous driving and object detection. However, existing restoration models are often limited by the scale and distribution of their training data, resulting in poor generalization to real-world scenarios. Rec...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25502</guid>
-      <pubDate>Thu, 26 Mar 2026 14:39:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voxtral TTS</title>
-      <link>https://huggingface.co/papers/2603.25551</link>
-      <description>By Alexander H. Liu, Alexis Tacnet, Andy Ehrenberg, Andy Lo, Chen-Yo Sun, et al.
-
-We introduce Voxtral TTS, an expressive multilingual text-to-speech model that generates natural speech from as little as 3 seconds of reference audio. Voxtral TTS adopts a hybrid architecture that combines auto-regressive generation of semantic speech tokens with flow-matching for acoustic tokens. ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25551</guid>
-      <pubDate>Thu, 26 Mar 2026 15:23:34 +0000</pubDate>
     </item>
     <item>
       <title>Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes</title>
@@ -325,15 +253,6 @@ Agent performance increasingly depends on harness engineering, yet harness desig
       <pubDate>Thu, 26 Mar 2026 17:58:15 +0000</pubDate>
     </item>
     <item>
-      <title>PixelSmile: Toward Fine-Grained Facial Expression Editing</title>
-      <link>https://huggingface.co/papers/2603.25728</link>
-      <description>By Jiabin Hua, Hengyuan Xu, Aojie Li, Wei Cheng, Gang Yu, et al.
-
-Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations and establish FFE-Bench to evaluate structural confusion, editing accuracy, linear controllability,...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25728</guid>
-      <pubDate>Thu, 26 Mar 2026 17:59:04 +0000</pubDate>
-    </item>
-    <item>
       <title>PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference</title>
       <link>https://huggingface.co/papers/2603.25730</link>
       <description>By Xiaofeng Mao, Shaohao Rui, Kaining Ying, Bo Zheng, Chuanhao Li, et al.
@@ -341,33 +260,6 @@ Fine-grained facial expression editing has long been limited by intrinsic semant
 Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long-video generation. To address these challenges, we present PackForcing, a unified framework that eff...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25730</guid>
       <pubDate>Thu, 26 Mar 2026 17:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vega: Learning to Drive with Natural Language Instructions</title>
-      <link>https://huggingface.co/papers/2603.25741</link>
-      <description>By Sicheng Zuo, Yuxuan Li, Wenzhao Zheng, Zheng Zhu, Jie Zhou, et al.
-
-Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene descriptions or reasoning and lack the flexibility to follow diverse user instructions for personali...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25741</guid>
-      <pubDate>Thu, 26 Mar 2026 17:59:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models</title>
-      <link>https://huggingface.co/papers/2603.25744</link>
-      <description>By Bocheng Zou, Mu Cai, Mark Stanley, Dingfu Lu, Yong Jae Lee
-
-Vision Foundation Models (VFMs) have become the cornerstone of modern computer vision, offering robust representations across a wide array of tasks. While recent advances allow these models to handle varying input sizes during training, inference typically remains restricted to a single, fixed scale...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25744</guid>
-      <pubDate>Thu, 26 Mar 2026 17:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting</title>
-      <link>https://huggingface.co/papers/2603.25745</link>
-      <description>By Yixing Lao, Xuyang Bai, Xiaoyang Wu, Nuoyuan Yan, Zixin Luo, et al.
-
-Existing feed-forward 3D Gaussian Splatting methods predict pixel-aligned primitives, leading to a quadratic growth in primitive count as resolution increases. This fundamentally limits their scalability, making high-resolution synthesis such as 4K intractable. We introduce LGTM (Less Gaussians, Tex...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25745</guid>
-      <pubDate>Thu, 26 Mar 2026 17:59:59 +0000</pubDate>
     </item>
     <item>
       <title>ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling</title>
@@ -388,6 +280,33 @@ Vision-Language Models (VLMs) have demonstrated impressive capabilities in code 
       <pubDate>Thu, 26 Mar 2026 18:11:46 +0000</pubDate>
     </item>
     <item>
+      <title>Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio</title>
+      <link>https://huggingface.co/papers/2603.25926</link>
+      <description>By Yijiong Yu, Shuai Yuan, Jie Zheng, Huazheng Wang, Ji Pei
+
+Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply uniform compression ratios, failing to account for the extreme variance in natural language information ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25926</guid>
+      <pubDate>Thu, 26 Mar 2026 21:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling</title>
+      <link>https://huggingface.co/papers/2603.26610</link>
+      <description>By Ruixing Zhang, Hanzhang Jiang, Leilei Sun, Liangzhe Han, Jibin Wang, et al.
+
+Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records offer only coarse location cues (e.g., serving-cell identifiers) and therefore limit their direct use ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26610</guid>
+      <pubDate>Fri, 27 Mar 2026 17:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make Geometry Matter for Spatial Reasoning</title>
+      <link>https://huggingface.co/papers/2603.26639</link>
+      <description>By Shihua Zhang, Qiuhong Shen, Shizun Wang, Tianbo Pan, Xinchao Wang
+
+Empowered by large-scale training, vision-language models (VLMs) achieve strong image and video understanding, yet their ability to perform spatial reasoning in both static scenes and dynamic videos remains limited. Recent advances try to handle this limitation by injecting geometry tokens from pret...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26639</guid>
+      <pubDate>Fri, 27 Mar 2026 17:45:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Learning to Commit: Generating Organic Pull Requests via Online Repository Memory</title>
       <link>https://huggingface.co/papers/2603.26664</link>
       <description>By Mo Li, L. H. Xu, Qitai Tan, Ting Cao, Yunxin Liu
@@ -395,6 +314,15 @@ Vision-Language Models (VLMs) have demonstrated impressive capabilities in code 
 Large language model (LLM)-based coding agents achieve impressive results on controlled benchmarks yet routinely produce pull requests that real maintainers reject. The root cause is not functional incorrectness but a lack of organicity: generated code ignores project-specific conventions, duplicate...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26664</guid>
       <pubDate>Fri, 27 Mar 2026 17:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOOZY: A Patient-First Foundation Model for Computational Pathology</title>
+      <link>https://huggingface.co/papers/2603.27048</link>
+      <description>By Yousef Kotp, Vincent Quoc-Huy Trinh, Christopher Pal, Mahdi S. Hosseini
+
+Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data and expensive paired-report supervision, and do not explicitly model relationships among multiple sli...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27048</guid>
+      <pubDate>Fri, 27 Mar 2026 23:33:33 +0000</pubDate>
     </item>
     <item>
       <title>On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models</title>
@@ -424,6 +352,15 @@ Multi-agent systems composed of large generative models are rapidly moving from 
       <pubDate>Sun, 29 Mar 2026 17:10:28 +0000</pubDate>
     </item>
     <item>
+      <title>MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences</title>
+      <link>https://huggingface.co/papers/2603.27813</link>
+      <description>By Shijian Wang, Jiarui Jin, Runhao Fu, Zexuan Yan, Xingjian Wang, et al.
+
+Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal reasoning agent that enhances decision-making by extending the capabilities of research agents to disc...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27813</guid>
+      <pubDate>Sun, 29 Mar 2026 18:54:31 +0000</pubDate>
+    </item>
+    <item>
       <title>ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks</title>
       <link>https://huggingface.co/papers/2603.27862</link>
       <description>By Samin Mahdizadeh Sani, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, et al.
@@ -433,6 +370,15 @@ Advances in diffusion, autoregressive, and hybrid models have enabled high-quali
       <pubDate>Sun, 29 Mar 2026 20:42:05 +0000</pubDate>
     </item>
     <item>
+      <title>MolmoPoint: Better Pointing for VLMs with Grounding Tokens</title>
+      <link>https://huggingface.co/papers/2603.28069</link>
+      <description>By Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, Jieyu Zhang, et al.
+
+Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated coordinate system and results in a high token count. Instead, we propose a more intuitive pointing me...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28069</guid>
+      <pubDate>Mon, 30 Mar 2026 06:15:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization</title>
       <link>https://huggingface.co/papers/2603.28342</link>
       <description>By He Du, Qiming Ge, Jiakai Hu, Aijun Yang, Zheng Cai, et al.
@@ -440,6 +386,33 @@ Advances in diffusion, autoregressive, and hybrid models have enabled high-quali
 We present Kernel-Smith, a framework for high-performance GPU kernel and operator generation that combines a stable evaluation-driven evolutionary agent with an evolution-oriented post-training recipe. On the agent side, Kernel-Smith maintains a population of executable candidates and iteratively im...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28342</guid>
       <pubDate>Mon, 30 Mar 2026 12:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design</title>
+      <link>https://huggingface.co/papers/2603.28376</link>
+      <description>By Bin Zhu, Qianghuai Jia, Tian Lan, Junyang Ren, Feng Gu, et al.
+
+Deep research agents autonomously conduct open-ended investigations, integrating complex information retrieval with multi-step reasoning across diverse sources to solve real-world problems. To sustain this capability on long-horizon tasks, reliable verification is critical during both training and i...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28376</guid>
+      <pubDate>Mon, 30 Mar 2026 12:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention</title>
+      <link>https://huggingface.co/papers/2603.28458</link>
+      <description>By Yufei Xu, Fanxu Meng, Fan Jiang, Yuxuan Wang, Ruijie Zhou, et al.
+
+Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer, and then computing attention only over the selected subset. While the downstream sparse attention ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28458</guid>
+      <pubDate>Mon, 30 Mar 2026 13:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEditBench v2: A Human-Aligned Benchmark for General Image Editing</title>
+      <link>https://huggingface.co/papers/2603.28547</link>
+      <description>By Zhangqi Jiang, Zheng Sun, Xianfang Zeng, Yufeng Yang, Xuanyang Zhang, et al.
+
+Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow task coverage, while standard metrics fail to adequately capture visual consistency, i.e., the preser...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28547</guid>
+      <pubDate>Mon, 30 Mar 2026 15:08:32 +0000</pubDate>
     </item>
     <item>
       <title>Towards a Medical AI Scientist</title>
@@ -458,6 +431,33 @@ Autonomous systems that generate scientific hypotheses, conduct experiments, and
 Multimodal Large Language Models (MLLMs) achieve stronger visual understanding by scaling input fidelity, yet the resulting visual token growth makes jointly sustaining high spatial resolution and long temporal context prohibitive. We argue that the bottleneck lies not in how post-encoding represent...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28610</guid>
       <pubDate>Mon, 30 Mar 2026 15:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superintelligence and Law</title>
+      <link>https://huggingface.co/papers/2603.28669</link>
+      <description>By Noam Kolt
+
+The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. Operating autonomously or under only limited human oversight, AI agents will assume a growing range ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28669</guid>
+      <pubDate>Mon, 30 Mar 2026 16:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing</title>
+      <link>https://huggingface.co/papers/2603.28713</link>
+      <description>By Kailai Feng, Yuxiang Wei, Bo Chen, Yang Pan, Hu Ye, et al.
+
+Diffusion models have made significant progress in both text-to-image (T2I) generation and text-guided image editing. However, these models are typically built with billions of parameters, leading to high latency and increased deployment challenges. While on-device diffusion models improve efficienc...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28713</guid>
+      <pubDate>Mon, 30 Mar 2026 17:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gen-Searcher: Reinforcing Agentic Search for Image Generation</title>
+      <link>https://huggingface.co/papers/2603.28767</link>
+      <description>By Kaituo Feng, Manyuan Zhang, Shuang Chen, Yunlong Lin, Kaixuan Fan, et al.
+
+Recent image generation models have shown strong capabilities in generating high-fidelity and photorealistic images. However, they are fundamentally constrained by frozen internal knowledge, thus often failing on real-world scenarios that are knowledge-intensive or require up-to-date information. In...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28767</guid>
+      <pubDate>Mon, 30 Mar 2026 17:59:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
