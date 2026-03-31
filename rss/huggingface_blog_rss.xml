@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:11:10 +0000</lastBuildDate>
     <item>
       <title>PRX Part 3 — Training a Text-to-Image Model in 24h!</title>
       <link>https://huggingface.co/blog/Photoroom/prx-part3</link>
@@ -101,9 +101,9 @@
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>TRL v1.0: Post-Training Library That Holds When the Field Invalidates Its Own Assumptions</title>
+      <title>TRL v1.0: Post-Training Library Built to Move with the Field</title>
       <link>https://huggingface.co/blog/trl-v1</link>
-      <description>By Quentin Gallouédec, Steven Liu, Pedro Cuenca, Sergio Paniego - TRL v1.0: Post-Training Library That Holds When the Field Invalidates Its Own Assumptions</description>
+      <description>By Quentin Gallouédec, Steven Liu, Pedro Cuenca, Sergio Paniego - TRL v1.0: Post-Training Library Built to Move with the Field</description>
       <guid isPermaLink="true">https://huggingface.co/blog/trl-v1</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>

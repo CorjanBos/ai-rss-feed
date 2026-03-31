@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:51:08 +0000</lastBuildDate>
-    <item>
-      <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
-      <link>https://huggingface.co/papers/2603.13904</link>
-      <description>By Seokmin Lee, Yunghee Lee, Byeonghyun Pak, Byeongju Woo
-
-For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learning methods have shown strong transferability across vision tasks, but they do not explicitly address...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.13904</guid>
-      <pubDate>Sat, 14 Mar 2026 11:32:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 15:11:10 +0000</lastBuildDate>
     <item>
       <title>SEAR: Schema-Based Evaluation and Routing for LLM Gateways</title>
       <link>https://huggingface.co/papers/2603.26728</link>
@@ -152,15 +143,6 @@ Assessing student handwritten scratchwork is crucial for personalized educationa
 Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated skill generation often yields fragile or fragmented results because it either relies on shallow paramet...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25158</guid>
       <pubDate>Thu, 26 Mar 2026 08:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders</title>
-      <link>https://huggingface.co/papers/2603.25398</link>
-      <description>By Niccolò Cavagnero, Narges Norouzi, Gijs Dubbelman, Daan de Geus
-
-Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmentation, such as EoMT and VidEoMT, achieve competitive accuracy with remarkably low latency, yet they r...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25398</guid>
-      <pubDate>Thu, 26 Mar 2026 12:44:30 +0000</pubDate>
     </item>
     <item>
       <title>Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models</title>
@@ -433,6 +415,15 @@ The prospect of artificial superintelligence -- AI agents that can generally out
       <pubDate>Mon, 30 Mar 2026 16:51:51 +0000</pubDate>
     </item>
     <item>
+      <title>AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding</title>
+      <link>https://huggingface.co/papers/2603.28696</link>
+      <description>By Haozhe Qi, Kevin Qu, Mahdi Rad, Rui Wang, Alexander Mathis, et al.
+
+Long video understanding remains challenging for Multi-modal Large Language Models (MLLMs) due to high memory costs and context-length limits. Prior approaches mitigate this by scoring and selecting frames/tokens within short clips, but they lack a principled mechanism to (i) compare relevance acros...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28696</guid>
+      <pubDate>Mon, 30 Mar 2026 17:14:15 +0000</pubDate>
+    </item>
+    <item>
       <title>DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing</title>
       <link>https://huggingface.co/papers/2603.28713</link>
       <description>By Kailai Feng, Yuxiang Wei, Bo Chen, Yang Pan, Hu Ye, et al.
@@ -449,6 +440,15 @@ Diffusion models have made significant progress in both text-to-image (T2I) gene
 Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a w...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28762</guid>
       <pubDate>Mon, 30 Mar 2026 17:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>HandX: Scaling Bimanual Motion and Interaction Generation</title>
+      <link>https://huggingface.co/papers/2603.28766</link>
+      <description>By Zimu Zhang, Yucheng Zhang, Xiyan Xu, Ziyin Wang, Sirui Xu, et al.
+
+Synthesizing human motion has advanced rapidly, yet realistic hand motion and bimanual interaction remain underexplored. Whole-body models often miss the fine-grained cues that drive dexterous behavior, finger articulation, contact timing, and inter-hand coordination, and existing resources lack hig...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28766</guid>
+      <pubDate>Mon, 30 Mar 2026 17:59:49 +0000</pubDate>
     </item>
     <item>
       <title>Gen-Searcher: Reinforcing Agentic Search for Image Generation</title>
