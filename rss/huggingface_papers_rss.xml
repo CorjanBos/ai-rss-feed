@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 05:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:39:44 +0000</lastBuildDate>
     <item>
       <title>Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition</title>
       <link>https://huggingface.co/papers/2603.13904</link>
@@ -17,15 +17,6 @@
 For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learning methods have shown strong transferability across vision tasks, but they do not explicitly address...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.13904</guid>
       <pubDate>Sat, 14 Mar 2026 11:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Representation Alignment for Just Image Transformers is not Easier than You Think</title>
-      <link>https://huggingface.co/papers/2603.14366</link>
-      <description>By Jaeyo Shin, Jiwook Kim, Hyunjung Shim
-
-Representation Alignment (REPA) has emerged as a simple way to accelerate Diffusion Transformers training in latent space. At the same time, pixel-space diffusion transformers such as Just image Transformers (JiT) have attracted growing attention because they remove a dependency on a pretrained toke...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.14366</guid>
-      <pubDate>Sun, 15 Mar 2026 13:08:31 +0000</pubDate>
     </item>
     <item>
       <title>Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models</title>
@@ -323,6 +314,15 @@ Large language model (LLM)-based coding agents achieve impressive results on con
 Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data and expensive paired-report supervision, and do not explicitly model relationships among multiple sli...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.27048</guid>
       <pubDate>Fri, 27 Mar 2026 23:33:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Story2Proposal: A Scaffold for Structured Scientific Paper Writing</title>
+      <link>https://huggingface.co/papers/2603.27065</link>
+      <description>By Zhuoyang Qian, Wei Shi, Xu Lin, Li Ling, Meng Luo, et al.
+
+Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generation pipelines rely on unconstrained text synthesis with validation applied only after generation, of...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27065</guid>
+      <pubDate>Sat, 28 Mar 2026 00:46:14 +0000</pubDate>
     </item>
     <item>
       <title>On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models</title>
