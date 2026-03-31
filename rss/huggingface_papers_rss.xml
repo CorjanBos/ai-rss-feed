@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:51:59 +0000</lastBuildDate>
     <item>
       <title>SEAR: Schema-Based Evaluation and Routing for LLM Gateways</title>
       <link>https://huggingface.co/papers/2603.26728</link>
@@ -107,15 +107,6 @@ Currently, evaluating vision-language models (VLMs) in medical imaging tasks ove
 We introduce WAFT-Stereo, a simple and effective warping-based method for stereo matching. WAFT-Stereo demonstrates that cost volumes, a common design used in many leading methods, are not necessary for strong performance and can be replaced by warping with improved efficiency. WAFT-Stereo ranks fir...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24836</guid>
       <pubDate>Wed, 25 Mar 2026 22:07:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models</title>
-      <link>https://huggingface.co/papers/2603.24844</link>
-      <description>By Isha Puri, Mehul Damani, Idan Shenfeld, Marzyeh Ghassemi, Jacob Andreas, et al.
-
-Given a question, a language model (LM) implicitly encodes a distribution over possible answers. In practice, post-training procedures for LMs often collapse this distribution onto a single dominant mode. While this is generally not a problem for benchmark-style evaluations that assume one correct a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24844</guid>
-      <pubDate>Wed, 25 Mar 2026 22:20:25 +0000</pubDate>
     </item>
     <item>
       <title>Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills</title>
@@ -377,6 +368,15 @@ Deep research agents autonomously conduct open-ended investigations, integrating
 Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer, and then computing attention only over the selected subset. While the downstream sparse attention ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28458</guid>
       <pubDate>Mon, 30 Mar 2026 13:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>INSID3: Training-Free In-Context Segmentation with DINOv3</title>
+      <link>https://huggingface.co/papers/2603.28480</link>
+      <description>By Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Carlo Masone, et al.
+
+In-context segmentation (ICS) aims to segment arbitrary concepts, e.g., objects, parts, or personalized instances, given one annotated visual examples. Existing work relies on (i) fine-tuning vision foundation models (VFMs), which improves in-domain results but harms generalization, or (ii) combines...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28480</guid>
+      <pubDate>Mon, 30 Mar 2026 14:16:37 +0000</pubDate>
     </item>
     <item>
       <title>GEditBench v2: A Human-Aligned Benchmark for General Image Editing</title>
