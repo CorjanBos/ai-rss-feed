@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:54:05 +0000</lastBuildDate>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
@@ -21,7 +21,7 @@ Language: JavaScript
 Category: LLM
 Stars: 128,159 | Forks: 17,854</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] ui-ux-pro-max-skill</title>
@@ -35,7 +35,7 @@ Language: Python
 Category: Claude
 Stars: 56,064 | Forks: 5,457</description>
       <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] gstack</title>
@@ -49,7 +49,7 @@ Language: TypeScript
 Category: Claude
 Stars: 59,877 | Forks: 7,870</description>
       <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] lobehub</title>
@@ -63,7 +63,7 @@ Language: TypeScript
 Category: Claude
 Stars: 74,577 | Forks: 14,836</description>
       <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] NextChat</title>
@@ -77,7 +77,7 @@ Language: TypeScript
 Category: Claude
 Stars: 87,603 | Forks: 59,960</description>
       <guid isPermaLink="true">https://github.com/ChatGPTNextWeb/NextChat</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
@@ -91,7 +91,7 @@ Language: JavaScript
 Category: Claude
 Stars: 128,162 | Forks: 17,856</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] claude-code</title>
@@ -105,7 +105,7 @@ Language: Shell
 Category: Claude
 Stars: 94,017 | Forks: 13,279</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] claw-code</title>
@@ -119,7 +119,7 @@ Language: Rust
 Category: Claude
 Stars: 80,280 | Forks: 78,902</description>
       <guid isPermaLink="true">https://github.com/instructkr/claw-code</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[Chatbot] chatbot-ui</title>
@@ -133,7 +133,7 @@ Language: TypeScript
 Category: Chatbot
 Stars: 33,137 | Forks: 9,436</description>
       <guid isPermaLink="true">https://github.com/mckaywrigley/chatbot-ui</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] ragflow</title>
@@ -147,7 +147,7 @@ Language: Python
 Category: AI Agents
 Stars: 76,755 | Forks: 8,603</description>
       <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] browser-use</title>
@@ -161,7 +161,7 @@ Language: Python
 Category: AI Agents
 Stars: 85,379 | Forks: 9,893</description>
       <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] gemini-cli</title>
@@ -175,7 +175,7 @@ Language: TypeScript
 Category: AI Agents
 Stars: 99,787 | Forks: 12,792</description>
       <guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI Agents] firecrawl</title>
@@ -189,7 +189,7 @@ Language: TypeScript
 Category: AI Agents
 Stars: 102,102 | Forks: 6,747</description>
       <guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
@@ -203,7 +203,7 @@ Language: TypeScript
 Category: AI
 Stars: 343,529 | Forks: 68,012</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Wed, 01 Apr 2026 11:05:51 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 13:54:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:54:03 +0000</lastBuildDate>
     <item>
       <title>Learn2Fold: Structured Origami Generation with World Model Planning</title>
       <link>https://huggingface.co/papers/2603.29585</link>
@@ -55,6 +55,15 @@ We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement lear
       <pubDate>Fri, 20 Mar 2026 10:24:50 +0000</pubDate>
     </item>
     <item>
+      <title>It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal</title>
+      <link>https://huggingface.co/papers/2603.22794</link>
+      <description>By Lishen Qu, Shihao Zhou, Jie Liang, Hui Zeng, Lei Zhang, et al.
+
+Flicker artifacts, arising from unstable illumination and row-wise exposure inconsistencies, pose a significant challenge in short-exposure photography, severely degrading image quality. Unlike typical artifacts, e.g., noise and low-light, flicker is a structured degradation with specific spatial-te...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22794</guid>
+      <pubDate>Tue, 24 Mar 2026 04:32:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells</title>
       <link>https://huggingface.co/papers/2603.25240</link>
       <description>By Han Zhang, Guo-Hua Yuan, Chaohao Yuan, Tingyang Xu, Tian Bian, et al.
@@ -62,6 +71,24 @@ We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement lear
 Modeling cellular states and predicting their responses to perturbations are central challenges in computational biology and the development of virtual cells. Existing foundation models for single-cell transcriptomics provide powerful static representations, but they do not explicitly model the dist...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25240</guid>
       <pubDate>Thu, 26 Mar 2026 09:46:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos</title>
+      <link>https://huggingface.co/papers/2603.25645</link>
+      <description>By Abdullah Hamdi, Changchun Yang, Xin Gao
+
+Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Existing datasets predominantly focus on single-class polyp detection and lack the rich spatial, tempo...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25645</guid>
+      <pubDate>Thu, 26 Mar 2026 16:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation</title>
+      <link>https://huggingface.co/papers/2603.25732</link>
+      <description>By Yan Li, Zezi Zeng, Ziwei Zhou, Xin Gao, Muzhao Tian, et al.
+
+Recent advances in image generation models have expanded their applications beyond aesthetic imagery toward practical visual content creation. However, existing benchmarks mainly focus on natural image synthesis and fail to systematically evaluate models under the structured and multi-constraint req...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25732</guid>
+      <pubDate>Thu, 26 Mar 2026 17:59:16 +0000</pubDate>
     </item>
     <item>
       <title>ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions</title>
@@ -91,6 +118,15 @@ Soft context compression reduces the computational workload of processing long c
       <pubDate>Thu, 26 Mar 2026 21:36:55 +0000</pubDate>
     </item>
     <item>
+      <title>CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions</title>
+      <link>https://huggingface.co/papers/2603.26174</link>
+      <description>By Chonghuinan Wang, Zihan Chen, Yuxiang Wei, Tianyi Jiang, Xiaohe Wu, et al.
+
+Instruction-based multimodal image manipulation has recently made rapid progress. However, existing evaluation methods lack a systematic and human-aligned framework for assessing model performance on complex and creative editing tasks. To address this gap, we propose CREval, a fully automated questi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26174</guid>
+      <pubDate>Fri, 27 Mar 2026 08:42:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR</title>
       <link>https://huggingface.co/papers/2603.26246</link>
       <description>By Shashi Kumar, Esaú Villatoro-Tello, Sergio Burdisso, Kadri Hacioglu, Thibault Bañeras-Roux, et al.
@@ -118,15 +154,6 @@ Large-scale video diffusion models achieve impressive visual quality, yet often 
       <pubDate>Fri, 27 Mar 2026 16:57:51 +0000</pubDate>
     </item>
     <item>
-      <title>Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling</title>
-      <link>https://huggingface.co/papers/2603.26610</link>
-      <description>By Ruixing Zhang, Hanzhang Jiang, Leilei Sun, Liangzhe Han, Jibin Wang, et al.
-
-Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records offer only coarse location cues (e.g., serving-cell identifiers) and therefore limit their direct use ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.26610</guid>
-      <pubDate>Fri, 27 Mar 2026 17:07:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Make Geometry Matter for Spatial Reasoning</title>
       <link>https://huggingface.co/papers/2603.26639</link>
       <description>By Shihua Zhang, Qiuhong Shen, Shizun Wang, Tianbo Pan, Xinchao Wang
@@ -152,15 +179,6 @@ Speculative decoding accelerates autoregressive generation by letting a lightwei
 Generative models excel at motion synthesis for a fixed number of agents but struggle to generalize with variable agents. Based on limited, domain-specific data, existing methods employ autoregressive models to generate motion recursively, which suffer from inefficiency and error accumulation. We pr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.27040</guid>
       <pubDate>Fri, 27 Mar 2026 23:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOOZY: A Patient-First Foundation Model for Computational Pathology</title>
-      <link>https://huggingface.co/papers/2603.27048</link>
-      <description>By Yousef Kotp, Vincent Quoc-Huy Trinh, Christopher Pal, Mahdi S. Hosseini
-
-Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data and expensive paired-report supervision, and do not explicitly model relationships among multiple sli...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.27048</guid>
-      <pubDate>Fri, 27 Mar 2026 23:33:33 +0000</pubDate>
     </item>
     <item>
       <title>Text Data Integration</title>
@@ -217,6 +235,24 @@ Recent Artificial Intelligence (AI) models have matched or exceeded human expert
       <pubDate>Sat, 28 Mar 2026 17:18:40 +0000</pubDate>
     </item>
     <item>
+      <title>Falcon Perception</title>
+      <link>https://huggingface.co/papers/2603.27365</link>
+      <description>By Aviraj Bevli, Sofian Chaybouti, Yasser Dahou, Hakim Hacid, Ngoc Dung Huynh, et al.
+
+Perception-centric systems are typically implemented with a modular encoder-decoder pipeline: a vision backbone for feature extraction and a separate decoder (or late-fusion module) for task prediction. This raises a central question: is this architectural separation essential or can a single early-...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27365</guid>
+      <pubDate>Sat, 28 Mar 2026 18:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development</title>
+      <link>https://huggingface.co/papers/2603.27460</link>
+      <description>By Zhongying Deng, Cheng Tang, Ziyan Huang, Jiashi Lin, Ying Chen, et al.
+
+Foundation models have demonstrated remarkable success across diverse domains and tasks, primarily due to the thrive of large-scale, diverse, and high-quality datasets. However, in the field of medical imaging, the curation and assembling of such medical datasets are highly challenging due to the re...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27460</guid>
+      <pubDate>Sun, 29 Mar 2026 00:46:53 +0000</pubDate>
+    </item>
+    <item>
       <title>LongCat-Next: Lexicalizing Modalities as Discrete Tokens</title>
       <link>https://huggingface.co/papers/2603.27538</link>
       <description>By Meituan LongCat Team, Bin Xiao, Chao Wang, Chengjiang Li, Chi Zhang, et al.
@@ -244,15 +280,6 @@ We present KAT-Coder-V2, an agentic coding model developed by the KwaiKAT team a
       <pubDate>Sun, 29 Mar 2026 14:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences</title>
-      <link>https://huggingface.co/papers/2603.27813</link>
-      <description>By Shijian Wang, Jiarui Jin, Runhao Fu, Zexuan Yan, Xingjian Wang, et al.
-
-Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal reasoning agent that enhances decision-making by extending the capabilities of research agents to disc...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.27813</guid>
-      <pubDate>Sun, 29 Mar 2026 18:54:31 +0000</pubDate>
-    </item>
-    <item>
       <title>CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence</title>
       <link>https://huggingface.co/papers/2603.28032</link>
       <description>By Tianle Zeng, Hanxuan Chen, Yanci Wen, Hong Zhang
@@ -260,15 +287,6 @@ Research agents have recently achieved significant progress in information seeki
 The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground agents within a single physically coherent environment. Existing open-source platforms remain domain...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28032</guid>
       <pubDate>Mon, 30 Mar 2026 04:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>MolmoPoint: Better Pointing for VLMs with Grounding Tokens</title>
-      <link>https://huggingface.co/papers/2603.28069</link>
-      <description>By Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, Jieyu Zhang, et al.
-
-Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated coordinate system and results in a high token count. Instead, we propose a more intuitive pointing me...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28069</guid>
-      <pubDate>Mon, 30 Mar 2026 06:15:06 +0000</pubDate>
     </item>
     <item>
       <title>GEMS: Agent-Native Multimodal Generation with Memory and Skills</title>
@@ -289,15 +307,6 @@ LiDAR has become an essential sensing modality in autonomous driving, robotics, 
       <pubDate>Mon, 30 Mar 2026 09:46:55 +0000</pubDate>
     </item>
     <item>
-      <title>HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention</title>
-      <link>https://huggingface.co/papers/2603.28458</link>
-      <description>By Yufei Xu, Fanxu Meng, Fan Jiang, Yuxuan Wang, Ruijie Zhou, et al.
-
-Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer, and then computing attention only over the selected subset. While the downstream sparse attention ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28458</guid>
-      <pubDate>Mon, 30 Mar 2026 13:59:51 +0000</pubDate>
-    </item>
-    <item>
       <title>INSID3: Training-Free In-Context Segmentation with DINOv3</title>
       <link>https://huggingface.co/papers/2603.28480</link>
       <description>By Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Carlo Masone, et al.
@@ -316,15 +325,6 @@ The rapid evolution of video generation has enabled models to simulate complex p
       <pubDate>Mon, 30 Mar 2026 14:23:45 +0000</pubDate>
     </item>
     <item>
-      <title>GEditBench v2: A Human-Aligned Benchmark for General Image Editing</title>
-      <link>https://huggingface.co/papers/2603.28547</link>
-      <description>By Zhangqi Jiang, Zheng Sun, Xianfang Zeng, Yufeng Yang, Xuanyang Zhang, et al.
-
-Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow task coverage, while standard metrics fail to adequately capture visual consistency, i.e., the preser...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28547</guid>
-      <pubDate>Mon, 30 Mar 2026 15:08:32 +0000</pubDate>
-    </item>
-    <item>
       <title>MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models</title>
       <link>https://huggingface.co/papers/2603.28590</link>
       <description>By Han Wang, Yifan Sun, Brian Ko, Mann Talati, Jiawen Gong, et al.
@@ -332,15 +332,6 @@ Recent advances in image editing have enabled models to handle complex instructi
 Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects the decision-critical factors driving the model's behavior, leading to the reduced CoT monitorabilit...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28590</guid>
       <pubDate>Mon, 30 Mar 2026 15:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Superintelligence and Law</title>
-      <link>https://huggingface.co/papers/2603.28669</link>
-      <description>By Noam Kolt
-
-The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. Operating autonomously or under only limited human oversight, AI agents will assume a growing range ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28669</guid>
-      <pubDate>Mon, 30 Mar 2026 16:51:51 +0000</pubDate>
     </item>
     <item>
       <title>AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding</title>
@@ -395,6 +386,15 @@ Continual pre-training is widely used to adapt LLMs to target languages and doma
 Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks, sketches, or edge maps. This multimodal fusion enables controllable synthesis aligned with both hig...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.29029</guid>
       <pubDate>Mon, 30 Mar 2026 21:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrajectoryMover: Generative Movement of Object Trajectories in Videos</title>
+      <link>https://huggingface.co/papers/2603.29092</link>
+      <description>By Kiran Chhatre, Hyeonho Jeong, Yulia Gryaditskaya, Christopher E. Peters, Chun-Hao Paul Huang, et al.
+
+Generative video editing has enabled several intuitive editing operations for short video clips that would previously have been difficult to achieve, especially for non-expert editors. Existing methods focus on prescribing an object's 3D or 2D motion trajectory in a video, or on altering the appeara...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.29092</guid>
+      <pubDate>Tue, 31 Mar 2026 00:15:36 +0000</pubDate>
     </item>
     <item>
       <title>Extend3D: Town-Scale 3D Generation</title>
