@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:44:28 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -17,6 +17,15 @@
 We present Dynin-Omni, the first masked-diffusion-based omnimodal foundation model that unifies text, image, and speech understanding and generation, together with video understanding, within a single architecture. Unlike autoregressive unified models that serialize heterogeneous modalities, or comp...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00007</guid>
       <pubDate>Mon, 09 Mar 2026 13:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
+      <link>https://huggingface.co/papers/2604.00025</link>
+      <description>By MD Azizul Hakim
+
+Standard evaluation protocols reveal a counterintuitive phenomenon: on 7.7% of benchmark problems spanning five datasets, larger language models underperform smaller ones by 28.4 percentage points despite 10-100x more parameters. Through systematic evaluation of 31 models (0.5B-405B parameters) acro...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00025</guid>
+      <pubDate>Wed, 11 Mar 2026 06:47:41 +0000</pubDate>
     </item>
     <item>
       <title>Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data</title>
@@ -278,15 +287,6 @@ Modern large language models (LLMs) increasingly depends on efficient long-conte
 Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavioral analysis of the ``car wash problem'' across six models reveals approximately context-independent ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.29025</guid>
       <pubDate>Mon, 30 Mar 2026 21:36:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation</title>
-      <link>https://huggingface.co/papers/2603.29029</link>
-      <description>By Bharath Krishnamurthy, Ajita Rattani
-
-Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks, sketches, or edge maps. This multimodal fusion enables controllable synthesis aligned with both hig...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29029</guid>
-      <pubDate>Mon, 30 Mar 2026 21:44:18 +0000</pubDate>
     </item>
     <item>
       <title>WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation</title>
