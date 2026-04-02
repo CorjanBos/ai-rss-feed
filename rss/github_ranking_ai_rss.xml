@@ -8,202 +8,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:24:22 +0000</lastBuildDate>
+    <item>
+      <title>[LLM] open-webui</title>
+      <link>https://github.com/open-webui/open-webui</link>
+      <description>📉 Rank: #7 → #8 (↓1)
+
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+Language: Python
+
+Category: LLM
+Stars: 129,590 | Forks: 18,352</description>
+      <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
+    </item>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 120,877 → 128,159 (+7,282)
+      <description>📈 Rank: #8 → #7 (↑1) | ⭐ Stars: 128,159 → 131,701 (+3,542)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: LLM
-Stars: 128,159 | Forks: 17,854</description>
+Stars: 131,701 | Forks: 18,928</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] ui-ux-pro-max-skill</title>
-      <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
-      <description>📉 Rank: #9 → #10 (↓1)
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-Language: Python
-
-Category: Claude
-Stars: 56,064 | Forks: 5,457</description>
-      <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] gstack</title>
-      <link>https://github.com/garrytan/gstack</link>
-      <description>📉 Rank: #8 → #9 (↓1) | ⭐ Stars: 58,259 → 59,877 (+1,618)
-
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-Language: TypeScript
-
-Category: Claude
-Stars: 59,877 | Forks: 7,870</description>
-      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] lobehub</title>
-      <link>https://github.com/lobehub/lobehub</link>
-      <description>📉 Rank: #7 → #8 (↓1)
-
-The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
-
-Language: TypeScript
-
-Category: Claude
-Stars: 74,577 | Forks: 14,836</description>
-      <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] NextChat</title>
-      <link>https://github.com/ChatGPTNextWeb/NextChat</link>
-      <description>📉 Rank: #5 → #6 (↓1)
-
-✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-Language: TypeScript
-
-Category: Claude
-Stars: 87,603 | Forks: 59,960</description>
-      <guid isPermaLink="true">https://github.com/ChatGPTNextWeb/NextChat</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude] everything-claude-code</title>
-      <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 120,878 → 128,162 (+7,284)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-Language: JavaScript
-
-Category: Claude
-Stars: 128,162 | Forks: 17,856</description>
-      <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
-      <description>📈 Rank: #6 → #5 (↑1) | ⭐ Stars: 84,750 → 94,017 (+9,267)
+      <description>⭐ Stars: 94,017 → 102,621 (+8,604)
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 Language: Shell
 
 Category: Claude
-Stars: 94,017 | Forks: 13,279</description>
+Stars: 102,621 | Forks: 16,095</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
-      <title>[Claude] claw-code</title>
-      <link>https://github.com/instructkr/claw-code</link>
-      <description>🆕 NEW ENTRY - Ranked #7 in Claude
+      <title>[Claude] everything-claude-code</title>
+      <link>https://github.com/affaan-m/everything-claude-code</link>
+      <description>⭐ Stars: 128,162 → 131,703 (+3,541)
 
-The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex.
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-Language: Rust
+Language: JavaScript
 
 Category: Claude
-Stars: 80,280 | Forks: 78,902</description>
-      <guid isPermaLink="true">https://github.com/instructkr/claw-code</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+Stars: 131,703 | Forks: 18,928</description>
+      <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
-      <title>[Chatbot] chatbot-ui</title>
-      <link>https://github.com/mckaywrigley/chatbot-ui</link>
-      <description>🆕 NEW ENTRY - Ranked #10 in Chatbot
+      <title>[Claude] ui-ux-pro-max-skill</title>
+      <link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link>
+      <description>📈 Rank: #10 → #9 (↑1)
 
-AI chat for any model.
-
-Language: TypeScript
-
-Category: Chatbot
-Stars: 33,137 | Forks: 9,436</description>
-      <guid isPermaLink="true">https://github.com/mckaywrigley/chatbot-ui</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI Agents] ragflow</title>
-      <link>https://github.com/infiniflow/ragflow</link>
-      <description>📉 Rank: #9 → #10 (↓1)
-
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 Language: Python
 
-Category: AI Agents
-Stars: 76,755 | Forks: 8,603</description>
-      <guid isPermaLink="true">https://github.com/infiniflow/ragflow</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+Category: Claude
+Stars: 56,797 | Forks: 5,547</description>
+      <guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
-      <title>[AI Agents] browser-use</title>
-      <link>https://github.com/browser-use/browser-use</link>
-      <description>📉 Rank: #8 → #9 (↓1)
+      <title>[Claude] gstack</title>
+      <link>https://github.com/garrytan/gstack</link>
+      <description>📈 Rank: #9 → #8 (↑1) | ⭐ Stars: 59,877 → 61,131 (+1,254)
 
-🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+
+Language: TypeScript
+
+Category: Claude
+Stars: 61,131 | Forks: 8,082</description>
+      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] lobehub</title>
+      <link>https://github.com/lobehub/lobehub</link>
+      <description>📈 Rank: #8 → #7 (↑1)
+
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+Language: TypeScript
+
+Category: Claude
+Stars: 74,633 | Forks: 14,845</description>
+      <guid isPermaLink="true">https://github.com/lobehub/lobehub</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude] awesome-claude-skills</title>
+      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
+      <description>🆕 NEW ENTRY - Ranked #10 in Claude
+
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 Language: Python
 
-Category: AI Agents
-Stars: 85,379 | Forks: 9,893</description>
-      <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+Category: Claude
+Stars: 50,332 | Forks: 5,242</description>
+      <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
-      <title>[AI Agents] gemini-cli</title>
-      <link>https://github.com/google-gemini/gemini-cli</link>
-      <description>📉 Rank: #7 → #8 (↓1)
+      <title>[ChatGPT] OpenHands</title>
+      <link>https://github.com/OpenHands/OpenHands</link>
+      <description>🆕 NEW ENTRY - Ranked #10 in ChatGPT
 
-An open-source AI agent that brings the power of Gemini directly into your terminal.
+🙌 OpenHands: AI-Driven Development
 
-Language: TypeScript
+Language: Python
 
-Category: AI Agents
-Stars: 99,787 | Forks: 12,792</description>
-      <guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI Agents] firecrawl</title>
-      <link>https://github.com/firecrawl/firecrawl</link>
-      <description>🆕 NEW ENTRY - Ranked #7 in AI Agents
-
-🔥 The Web Data API for AI - Power AI agents with clean web data
-
-Language: TypeScript
-
-Category: AI Agents
-Stars: 102,102 | Forks: 6,747</description>
-      <guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+Category: ChatGPT
+Stars: 70,401 | Forks: 8,815</description>
+      <guid isPermaLink="true">https://github.com/OpenHands/OpenHands</guid>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 342,109 → 343,529 (+1,420)
+      <description>⭐ Stars: 343,529 → 344,939 (+1,410)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 343,529 | Forks: 68,012</description>
+Stars: 344,939 | Forks: 68,501</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Wed, 01 Apr 2026 23:43:16 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 07:24:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

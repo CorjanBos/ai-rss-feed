@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:24:20 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -62,6 +62,15 @@ Patient education materials for solid-organ transplantation vary substantially a
 Flicker artifacts, arising from unstable illumination and row-wise exposure inconsistencies, pose a significant challenge in short-exposure photography, severely degrading image quality. Unlike typical artifacts, e.g., noise and low-light, flicker is a structured degradation with specific spatial-te...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22794</guid>
       <pubDate>Tue, 24 Mar 2026 04:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers</title>
+      <link>https://huggingface.co/papers/2603.24414</link>
+      <description>By Songyang Liu, Chaozhuo Li, Chenxu Wang, Jinyu Hou, Zejian Chen, et al.
+
+OpenClaw has rapidly established itself as a leading open-source autonomous agent runtime, offering powerful capabilities including tool integration, local file access, and shell command execution. However, these broad operational privileges introduce critical security vulnerabilities, transforming ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.24414</guid>
+      <pubDate>Wed, 25 Mar 2026 15:27:54 +0000</pubDate>
     </item>
     <item>
       <title>MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation</title>
@@ -145,15 +154,6 @@ Transformer architectures, particularly Diffusion Transformers (DiTs), have beco
       <pubDate>Fri, 27 Mar 2026 12:30:10 +0000</pubDate>
     </item>
     <item>
-      <title>VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward</title>
-      <link>https://huggingface.co/papers/2603.26599</link>
-      <description>By Zhaochong An, Orest Kupyn, Théo Uscidda, Andrea Colaco, Karan Ahuja, et al.
-
-Large-scale video diffusion models achieve impressive visual quality, yet often fail to preserve geometric consistency. Prior approaches improve consistency either by augmenting the generator with additional modules or applying geometry-aware alignment. However, architectural modifications can compr...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.26599</guid>
-      <pubDate>Fri, 27 Mar 2026 16:57:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification</title>
       <link>https://huggingface.co/papers/2603.26648</link>
       <description>By Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, et al.
@@ -226,15 +226,6 @@ The performance of large language model (LLM) systems depends not only on model 
       <pubDate>Mon, 30 Mar 2026 05:33:50 +0000</pubDate>
     </item>
     <item>
-      <title>GEMS: Agent-Native Multimodal Generation with Memory and Skills</title>
-      <link>https://huggingface.co/papers/2603.28088</link>
-      <description>By Zefeng He, Siyuan Huang, Xiaoye Qu, Yafu Li, Tong Zhu, et al.
-
-Recent multimodal generation models have achieved remarkable progress on general-purpose generation tasks, yet continue to struggle with complex instructions and specialized downstream tasks. Inspired by the success of advanced agent frameworks such as Claude Code, we propose GEMS (Agent-Native Mult...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28088</guid>
-      <pubDate>Mon, 30 Mar 2026 06:42:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal</title>
       <link>https://huggingface.co/papers/2603.28224</link>
       <description>By Kazuma Ikeda, Ryosei Hara, Rokuto Nagata, Ozora Sako. Zihao Ding, Takahiro Kado, et al.
@@ -269,6 +260,15 @@ Large language models (LLMs) can generate chains of thought (CoTs) that are not 
 Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are either real, with manually annotated 3D geometry and limited scale, or synthetic, rendered from 3D engine...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28763</guid>
       <pubDate>Mon, 30 Mar 2026 17:59:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference</title>
+      <link>https://huggingface.co/papers/2603.29002</link>
+      <description>By Zifan He, Rui Ma, Yizhou Sun, Jason Cong
+
+Modern large language models (LLMs) increasingly depends on efficient long-context processing and generation mechanisms, including sparse attention, retrieval-augmented generation (RAG), and compressed contextual memory, to support complex reasoning. We show that these optimizations can be unified i...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.29002</guid>
+      <pubDate>Mon, 30 Mar 2026 21:03:39 +0000</pubDate>
     </item>
     <item>
       <title>The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning</title>
@@ -307,6 +307,15 @@ Generative video editing has enabled several intuitive editing operations for sh
       <pubDate>Tue, 31 Mar 2026 00:15:36 +0000</pubDate>
     </item>
     <item>
+      <title>MemRerank: Preference Memory for Personalized Product Reranking</title>
+      <link>https://huggingface.co/papers/2603.29247</link>
+      <description>By Zhiyuan Peng, Xuyang Wu, Huaixiao Tou, Yi Fang, Yi Gong
+
+LLM-based shopping agents increasingly rely on long purchase histories and multi-turn interactions for personalization, yet naively appending raw history to prompts is often ineffective due to noise, length, and relevance mismatch. We propose MemRerank, a preference memory framework that distills us...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.29247</guid>
+      <pubDate>Tue, 31 Mar 2026 04:16:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Extend3D: Town-Scale 3D Generation</title>
       <link>https://huggingface.co/papers/2603.29387</link>
       <description>By Seungwoo Yoon, Jinmo Kim, Jaesik Park
@@ -332,24 +341,6 @@ Accurate privacy evaluation of textual data remains a critical challenge in priv
 Scientific idea generation (SIG) is critical to AI-driven autonomous research, yet existing approaches are often constrained by a static retrieval-then-generation paradigm, leading to homogeneous and insufficiently divergent ideas. In this work, we propose FlowPIE, a tightly coupled retrieval-genera...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.29557</guid>
       <pubDate>Tue, 31 Mar 2026 10:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis</title>
-      <link>https://huggingface.co/papers/2603.29620</link>
-      <description>By Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, et al.
-
-Unified multimodal models provide a natural and promising architecture for understanding diverse and complex real-world knowledge while generating high-quality images. However, they still rely primarily on frozen parametric knowledge, which makes them struggle with real-world image generation involv...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29620</guid>
-      <pubDate>Tue, 31 Mar 2026 11:41:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>CutClaw: Agentic Hours-Long Video Editing via Music Synchronization</title>
-      <link>https://huggingface.co/papers/2603.29664</link>
-      <description>By Shifang Zhao, Yihan Hu, Ying Shan, Yunchao Wei, Xiaodong Cun
-
-Editing the video content with audio alignment forms a digital human-made art in current social media. However, the time-consuming and repetitive nature of manual video editing has long been a challenge for filmmakers and professional content creators alike. In this paper, we introduce CutClaw, an a...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29664</guid>
-      <pubDate>Tue, 31 Mar 2026 12:25:53 +0000</pubDate>
     </item>
     <item>
       <title>Terminal Agents Suffice for Enterprise Automation</title>
@@ -395,6 +386,15 @@ Recent studies have demonstrated that Reinforcement Learning (RL), notably Group
 3D Visual Grounding (3D-VG) aims to localize objects in 3D scenes via natural language descriptions. While recent advancements leveraging Vision-Language Models (VLMs) have explored zero-shot possibilities, they typically suffer from a static workflow relying on preprocessed 3D point clouds, essenti...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00528</guid>
       <pubDate>Wed, 01 Apr 2026 06:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems</title>
+      <link>https://huggingface.co/papers/2604.00590</link>
+      <description>By Mingming Ha, Guanchen Wang, Linxun Chen, Xuan Rao, Yuexin Shi, et al.
+
+In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there are three mainstream architectures for achieving scaling in recommendation models, namely attention...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00590</guid>
+      <pubDate>Wed, 01 Apr 2026 07:57:40 +0000</pubDate>
     </item>
     <item>
       <title>Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants</title>
