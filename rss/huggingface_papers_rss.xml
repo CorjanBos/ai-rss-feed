@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 15:05:32 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -35,15 +35,6 @@ Standard evaluation protocols reveal a counterintuitive phenomenon: on 7.7% of b
 Accurate diagnosis of Alzheimer's disease (AD) requires handling tabular biomarker data, yet such data are often small and incomplete, where deep learning models frequently fail to outperform classical methods. Pretrained large language models (LLMs) offer few-shot generalization, structured reasoni...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.17191</guid>
       <pubDate>Tue, 17 Mar 2026 22:43:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation</title>
-      <link>https://huggingface.co/papers/2603.19195</link>
-      <description>By Ke-Han Lu, Szu-Wei Fu, Chao-Han Huck Yang, Zhehuai Chen, Sung-Feng Huang, et al.
-
-Large language models (LLMs) have been widely used as knowledge backbones of Large Audio Language Models (LALMs), yet how much auditory knowledge they encode through text-only pre-training and how this affects downstream performance remains unclear. We study this gap by comparing different LLMs unde...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19195</guid>
-      <pubDate>Thu, 19 Mar 2026 17:50:07 +0000</pubDate>
     </item>
     <item>
       <title>When Documents Disagree: Measuring Institutional Variation in Transplant Guidance with Retrieval-Augmented Language Models</title>
@@ -404,6 +395,15 @@ Proactive agents that anticipate user needs and autonomously execute tasks hold 
 2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality settings, such systems must recognize completed and ongoing steps from the camera feed and align them w...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00913</guid>
       <pubDate>Wed, 01 Apr 2026 13:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do Phone-Use Agents Respect Your Privacy?</title>
+      <link>https://huggingface.co/papers/2604.00986</link>
+      <description>By Zhengyang Tang, Ke Ji, Xidong Wang, Zihan Ye, Xinyuan Wang, et al.
+
+We study whether phone-use agents respect privacy while completing benign mobile tasks. This question has remained hard to answer because privacy-compliant behavior is not operationalized for phone-use agents, and ordinary apps do not reveal exactly what data agents type into which form entries duri...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00986</guid>
+      <pubDate>Wed, 01 Apr 2026 14:50:50 +0000</pubDate>
     </item>
     <item>
       <title>Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines</title>
