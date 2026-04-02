@@ -4,90 +4,90 @@
     "repo_name": "anthropics / claude-code",
     "repo_url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "stars": 103434,
-    "stars_text": "103,434",
-    "forks": 16303,
+    "stars": 104114,
+    "stars_text": "104,114",
+    "forks": 16440,
     "language": "Shell",
     "today_stars": "10,749 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-02T07:24:21.960970+00:00"
+    "fetched_at": "2026-04-02T09:09:08.013337+00:00"
   },
   "microsoft/VibeVoice": {
     "repo_path": "microsoft/VibeVoice",
     "repo_name": "microsoft / VibeVoice",
     "repo_url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
-    "stars": 34751,
-    "stars_text": "34,751",
-    "forks": 3952,
+    "stars": 34833,
+    "stars_text": "34,833",
+    "forks": 3961,
     "language": "Python",
     "today_stars": "1,685 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-02T07:24:21.961539+00:00"
+    "fetched_at": "2026-04-02T09:09:08.013916+00:00"
   },
   "google-research/timesfm": {
     "repo_path": "google-research/timesfm",
     "repo_name": "google-research / timesfm",
     "repo_url": "https://github.com/google-research/timesfm",
     "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "stars": 12567,
-    "stars_text": "12,567",
-    "forks": 1037,
+    "stars": 12653,
+    "stars_text": "12,653",
+    "forks": 1045,
     "language": "Python",
     "today_stars": "380 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-02T07:24:21.962038+00:00"
+    "fetched_at": "2026-04-02T09:09:08.014407+00:00"
   },
   "luongnv89/claude-howto": {
     "repo_path": "luongnv89/claude-howto",
     "repo_name": "luongnv89 / claude-howto",
     "repo_url": "https://github.com/luongnv89/claude-howto",
     "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "stars": 16173,
-    "stars_text": "16,173",
-    "forks": 1880,
+    "stars": 16337,
+    "stars_text": "16,337",
+    "forks": 1897,
     "language": "Python",
     "today_stars": "3,301 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-02T07:24:21.962675+00:00"
+    "fetched_at": "2026-04-02T09:09:08.015043+00:00"
   },
   "axios/axios": {
     "repo_path": "axios/axios",
     "repo_name": "axios / axios",
     "repo_url": "https://github.com/axios/axios",
     "description": "Promise based HTTP client for the browser and node.js",
-    "stars": 108920,
-    "stars_text": "108,920",
+    "stars": 108936,
+    "stars_text": "108,936",
     "forks": 11589,
     "language": "JavaScript",
     "today_stars": "93 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-02T07:24:21.963304+00:00"
+    "fetched_at": "2026-04-02T09:09:08.015647+00:00"
   },
   "openai/codex": {
     "repo_path": "openai/codex",
     "repo_name": "openai / codex",
     "repo_url": "https://github.com/openai/codex",
     "description": "Lightweight coding agent that runs in your terminal",
-    "stars": 72144,
-    "stars_text": "72,144",
-    "forks": 10086,
+    "stars": 72250,
+    "stars_text": "72,250",
+    "forks": 10101,
     "language": "Rust",
     "today_stars": "2,390 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-02T07:24:21.963790+00:00"
+    "fetched_at": "2026-04-02T09:09:08.016140+00:00"
   },
   "f/prompts.chat": {
     "repo_path": "f/prompts.chat",
     "repo_name": "f / prompts.chat",
     "repo_url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-    "stars": 156339,
-    "stars_text": "156,339",
-    "forks": 20522,
+    "stars": 156423,
+    "stars_text": "156,423",
+    "forks": 20534,
     "language": "HTML",
     "today_stars": "398 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-02T07:24:21.964416+00:00"
+    "fetched_at": "2026-04-02T09:09:08.016746+00:00"
   }
 }

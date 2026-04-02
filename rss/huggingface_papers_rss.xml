@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:09:06 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -37,15 +37,6 @@ Large language models (LLMs) have been widely used as knowledge backbones of Lar
       <pubDate>Thu, 19 Mar 2026 17:50:07 +0000</pubDate>
     </item>
     <item>
-      <title>FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization</title>
-      <link>https://huggingface.co/papers/2603.19835</link>
-      <description>By Chiyu Ma, Shuo Yang, Kexin Huang, Jinda Lu, Haoming Meng, et al.
-
-We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales effectively, it typically relies on outcome-based rewards (ORM) that distribute a global advantage unif...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.19835</guid>
-      <pubDate>Fri, 20 Mar 2026 10:24:50 +0000</pubDate>
-    </item>
-    <item>
       <title>When Documents Disagree: Measuring Institutional Variation in Transplant Guidance with Retrieval-Augmented Language Models</title>
       <link>https://huggingface.co/papers/2603.21460</link>
       <description>By Yubo Li, Ramayya Krishnan, Rema Padman
@@ -62,6 +53,15 @@ Patient education materials for solid-organ transplantation vary substantially a
 Flicker artifacts, arising from unstable illumination and row-wise exposure inconsistencies, pose a significant challenge in short-exposure photography, severely degrading image quality. Unlike typical artifacts, e.g., noise and low-light, flicker is a structured degradation with specific spatial-te...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.22794</guid>
       <pubDate>Tue, 24 Mar 2026 04:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Generalisation Gap In Comorbid Sleep Disorder Staging</title>
+      <link>https://huggingface.co/papers/2603.23582</link>
+      <description>By Saswata Bose, Suvadeep Maiti, Shivam Kumar Sharma, Mythirayee S, Tapabrata Chakraborti, et al.
+
+Accurate sleep staging is essential for diagnosing OSA and hypopnea in stroke patients. Although PSG is reliable, it is costly, labor-intensive, and manually scored. While deep learning enables automated EEG-based sleep staging in healthy subjects, our analysis shows poor generalization to clinical ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.23582</guid>
+      <pubDate>Tue, 24 Mar 2026 15:02:35 +0000</pubDate>
     </item>
     <item>
       <title>ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers</title>
@@ -316,15 +316,6 @@ LLM-based shopping agents increasingly rely on long purchase histories and multi
       <pubDate>Tue, 31 Mar 2026 04:16:18 +0000</pubDate>
     </item>
     <item>
-      <title>Extend3D: Town-Scale 3D Generation</title>
-      <link>https://huggingface.co/papers/2603.29387</link>
-      <description>By Seungwoo Yoon, Jinmo Kim, Jaesik Park
-
-In this paper, we propose Extend3D, a training-free pipeline for 3D scene generation from a single image, built upon an object-centric 3D generative model. To overcome the limitations of fixed-size latent spaces in object-centric models for representing wide scenes, we extend the latent space in the...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29387</guid>
-      <pubDate>Tue, 31 Mar 2026 07:55:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models</title>
       <link>https://huggingface.co/papers/2603.29497</link>
       <description>By Gabriel Loiseau, Damien Sileo, Damien Riquet, Maxime Meyer, Marc Tommasi
@@ -332,15 +323,6 @@ In this paper, we propose Extend3D, a training-free pipeline for 3D scene genera
 Accurate privacy evaluation of textual data remains a critical challenge in privacy-preserving natural language processing. Recent work has shown that large language models (LLMs) can serve as reliable privacy evaluators, achieving strong agreement with human judgments; however, their computational ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.29497</guid>
       <pubDate>Tue, 31 Mar 2026 09:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration</title>
-      <link>https://huggingface.co/papers/2603.29557</link>
-      <description>By Qiyao Wang, Hongbo Wang, Longze Chen, Zhihao Yang, Guhong Chen, et al.
-
-Scientific idea generation (SIG) is critical to AI-driven autonomous research, yet existing approaches are often constrained by a static retrieval-then-generation paradigm, leading to homogeneous and insufficiently divergent ideas. In this work, we propose FlowPIE, a tightly coupled retrieval-genera...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29557</guid>
-      <pubDate>Tue, 31 Mar 2026 10:37:47 +0000</pubDate>
     </item>
     <item>
       <title>Terminal Agents Suffice for Enterprise Automation</title>
@@ -397,6 +379,15 @@ In recent years, the scaling laws of recommendation models have attracted increa
       <pubDate>Wed, 01 Apr 2026 07:57:40 +0000</pubDate>
     </item>
     <item>
+      <title>A Survey of On-Policy Distillation for Large Language Models</title>
+      <link>https://huggingface.co/papers/2604.00626</link>
+      <description>By Mingyang Song, Mao Zheng
+
+Knowledge distillation has become a primary mechanism for transferring reasoning and domain expertise from frontier Large Language Models (LLMs) to smaller, deployable students. However, the dominant paradigm remains off-policy: students train on static teacher-generated data and never encounter the...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00626</guid>
+      <pubDate>Wed, 01 Apr 2026 08:32:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants</title>
       <link>https://huggingface.co/papers/2604.00842</link>
       <description>By Deepak Nathani, Cheng Zhang, Chang Huan, Jiaming Shan, Yinfei Yang, et al.
@@ -431,6 +422,15 @@ Multi-LLM revision pipelines, in which a second model reviews and improves a dra
 This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing concern, rigorous evaluation of the quality and potential risks of AI-written papers remains limited, an...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01128</guid>
       <pubDate>Wed, 01 Apr 2026 16:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Shift: How Context Silently Shortens LLM Reasoning</title>
+      <link>https://huggingface.co/papers/2604.01161</link>
+      <description>By Gleb Rodionov
+
+Large language models (LLMs) exhibiting test-time scaling behavior, such as extended reasoning traces and self-verification, have demonstrated remarkable performance on complex, long-term reasoning tasks. However, the robustness of these reasoning behaviors remains underexplored. To investigate this...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01161</guid>
+      <pubDate>Wed, 01 Apr 2026 17:14:18 +0000</pubDate>
     </item>
     <item>
       <title>Embarrassingly Simple Self-Distillation Improves Code Generation</title>
