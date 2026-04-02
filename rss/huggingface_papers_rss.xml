@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 19:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 20:42:45 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -73,6 +73,15 @@ OpenClaw has rapidly established itself as a leading open-source autonomous agen
       <pubDate>Wed, 25 Mar 2026 15:27:54 +0000</pubDate>
     </item>
     <item>
+      <title>Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy</title>
+      <link>https://huggingface.co/papers/2603.25764</link>
+      <description>By Aman Mehta
+
+As LLM-based agents are deployed in production systems, understanding their behavioral consistency (whether they produce similar action sequences when given identical tasks) becomes critical for reliability. We study consistency in the context of SWE-bench, a challenging software engineering benchma...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.25764</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation</title>
       <link>https://huggingface.co/papers/2603.25406</link>
       <description>By Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang, Wenxuan Song, et al.
@@ -98,15 +107,6 @@ Early screening via colonoscopy is critical for colon cancer prevention, yet dev
 Recent advances in image generation models have expanded their applications beyond aesthetic imagery toward practical visual content creation. However, existing benchmarks mainly focus on natural image synthesis and fail to systematically evaluate models under the structured and multi-constraint req...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25732</guid>
       <pubDate>Thu, 26 Mar 2026 17:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions</title>
-      <link>https://huggingface.co/papers/2603.25791</link>
-      <description>By Zikai Wang, Zhilu Zhang, Yiqing Wang, Hui Li, Wangmeng Zuo
-
-Existing hand-object interactions (HOI) methods are largely limited to rigid objects, while 4D reconstruction methods of articulated objects generally require pre-scanning the object or even multi-view videos. It remains an unexplored but significant challenge to reconstruct 4D human-articulated-obj...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25791</guid>
-      <pubDate>Thu, 26 Mar 2026 18:00:17 +0000</pubDate>
     </item>
     <item>
       <title>ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?</title>
@@ -179,15 +179,6 @@ We introduce PerceptionComp, a manually annotated benchmark for complex, long-ho
 Most recent advances in 3D generative modeling rely on diffusion or flow-matching formulations. We instead explore a fully autoregressive alternative and introduce GaussianGPT, a transformer-based model that directly generates 3D Gaussians via next-token prediction, thus facilitating full 3D scene g...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26661</guid>
       <pubDate>Fri, 27 Mar 2026 17:58:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>daVinci-LLM:Towards the Science of Pretraining</title>
-      <link>https://huggingface.co/papers/2603.27164</link>
-      <description>By Yiwei Qin, Yixiu Liu, Tiantian Mi, Muhang Xie, Zhen Huang, et al.
-
-The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations established during pretraining, yet it remains critically under-explored. This stems from a structural paradox: organizations with computational resources operate...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.27164</guid>
-      <pubDate>Sat, 28 Mar 2026 07:00:49 +0000</pubDate>
     </item>
     <item>
       <title>Falcon Perception</title>
@@ -440,6 +431,15 @@ Using roughly 48 execution-verified HumanEval training solutions, tuning a singl
 Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or reinforcement learning? We answer in the affirmative with simple self-distillation (SSD): sample solutions from the model with certain temperature and truncation config...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01193</guid>
       <pubDate>Wed, 01 Apr 2026 17:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgentWatcher: A Rule-based Prompt Injection Monitor</title>
+      <link>https://huggingface.co/papers/2604.01194</link>
+      <description>By Yanting Wang, Wei Zou, Runpeng Geng, Jinyuan Jia
+
+Large language models (LLMs) and their applications, such as agents, are highly vulnerable to prompt injection attacks. State-of-the-art prompt injection detection methods have the following limitations: (1) their effectiveness degrades significantly as context length increases, and (2) they lack ex...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01194</guid>
+      <pubDate>Wed, 01 Apr 2026 17:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Universal YOCO for Efficient Depth Scaling</title>
