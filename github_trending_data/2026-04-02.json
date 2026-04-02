@@ -1,0 +1,93 @@
+{
+  "anthropics/claude-code": {
+    "repo_path": "anthropics/claude-code",
+    "repo_name": "anthropics / claude-code",
+    "repo_url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 101797,
+    "stars_text": "101,797",
+    "forks": 15850,
+    "language": "Shell",
+    "today_stars": "10,749 stars today",
+    "rank": 1,
+    "fetched_at": "2026-04-02T02:55:11.910650+00:00"
+  },
+  "microsoft/VibeVoice": {
+    "repo_path": "microsoft/VibeVoice",
+    "repo_name": "microsoft / VibeVoice",
+    "repo_url": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "stars": 34545,
+    "stars_text": "34,545",
+    "forks": 3933,
+    "language": "Python",
+    "today_stars": "1,685 stars today",
+    "rank": 2,
+    "fetched_at": "2026-04-02T02:55:11.911235+00:00"
+  },
+  "google-research/timesfm": {
+    "repo_path": "google-research/timesfm",
+    "repo_name": "google-research / timesfm",
+    "repo_url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "stars": 12252,
+    "stars_text": "12,252",
+    "forks": 1008,
+    "language": "Python",
+    "today_stars": "380 stars today",
+    "rank": 3,
+    "fetched_at": "2026-04-02T02:55:11.911758+00:00"
+  },
+  "luongnv89/claude-howto": {
+    "repo_path": "luongnv89/claude-howto",
+    "repo_name": "luongnv89 / claude-howto",
+    "repo_url": "https://github.com/luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "stars": 15817,
+    "stars_text": "15,817",
+    "forks": 1829,
+    "language": "Python",
+    "today_stars": "3,301 stars today",
+    "rank": 4,
+    "fetched_at": "2026-04-02T02:55:11.912383+00:00"
+  },
+  "axios/axios": {
+    "repo_path": "axios/axios",
+    "repo_name": "axios / axios",
+    "repo_url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "stars": 108883,
+    "stars_text": "108,883",
+    "forks": 11587,
+    "language": "JavaScript",
+    "today_stars": "93 stars today",
+    "rank": 5,
+    "fetched_at": "2026-04-02T02:55:11.913015+00:00"
+  },
+  "openai/codex": {
+    "repo_path": "openai/codex",
+    "repo_name": "openai / codex",
+    "repo_url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "stars": 71892,
+    "stars_text": "71,892",
+    "forks": 10046,
+    "language": "Rust",
+    "today_stars": "2,390 stars today",
+    "rank": 6,
+    "fetched_at": "2026-04-02T02:55:11.913507+00:00"
+  },
+  "f/prompts.chat": {
+    "repo_path": "f/prompts.chat",
+    "repo_name": "f / prompts.chat",
+    "repo_url": "https://github.com/f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+    "stars": 156132,
+    "stars_text": "156,132",
+    "forks": 20500,
+    "language": "HTML",
+    "today_stars": "398 stars today",
+    "rank": 7,
+    "fetched_at": "2026-04-02T02:55:11.914142+00:00"
+  }
+}
