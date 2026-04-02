@@ -8,90 +8,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:09:41 +0000</lastBuildDate>
     <item>
       <title>anthropics / claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
-      <description>⭐ Stars: 100,484 → 101,797 (+1313) | Ranked #1
+      <description>⭐ Stars: 100,484 → 102,615 (+2131) | Ranked #1
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 Language: Shell
 10,749 stars today</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / VibeVoice</title>
       <link>https://github.com/microsoft/VibeVoice</link>
-      <description>⭐ Stars: 34,381 → 34,545 (+164) | Ranked #2
+      <description>⭐ Stars: 34,381 → 34,640 (+259) | Ranked #2
 
 Open-Source Frontier Voice AI
 
 Language: Python
 1,685 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>google-research / timesfm</title>
       <link>https://github.com/google-research/timesfm</link>
-      <description>⭐ Stars: 12,043 → 12,252 (+209) | Ranked #3
+      <description>⭐ Stars: 12,043 → 12,410 (+367) | Ranked #3
 
 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 
 Language: Python
 380 stars today</description>
       <guid isPermaLink="true">https://github.com/google-research/timesfm</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>luongnv89 / claude-howto</title>
       <link>https://github.com/luongnv89/claude-howto</link>
-      <description>⭐ Stars: 15,507 → 15,817 (+310) | Ranked #4
+      <description>⭐ Stars: 15,507 → 15,992 (+485) | Ranked #4
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 Language: Python
 3,301 stars today</description>
       <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>axios / axios</title>
       <link>https://github.com/axios/axios</link>
-      <description>⭐ Stars: 108,856 → 108,883 (+27) | Ranked #5
+      <description>⭐ Stars: 108,856 → 108,903 (+47) | Ranked #5
 
 Promise based HTTP client for the browser and node.js
 
 Language: JavaScript
 93 stars today</description>
       <guid isPermaLink="true">https://github.com/axios/axios</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>openai / codex</title>
       <link>https://github.com/openai/codex</link>
-      <description>⭐ Stars: 71,658 → 71,892 (+234) | Ranked #6
+      <description>⭐ Stars: 71,658 → 72,010 (+352) | Ranked #6
 
 Lightweight coding agent that runs in your terminal
 
 Language: Rust
 2,390 stars today</description>
       <guid isPermaLink="true">https://github.com/openai/codex</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
     <item>
       <title>f / prompts.chat</title>
       <link>https://github.com/f/prompts.chat</link>
-      <description>⭐ Stars: 155,976 → 156,132 (+156) | Ranked #7
+      <description>⭐ Stars: 155,976 → 156,237 (+261) | Ranked #7
 
 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 Language: HTML
 398 stars today</description>
       <guid isPermaLink="true">https://github.com/f/prompts.chat</guid>
-      <pubDate>Thu, 02 Apr 2026 02:55:11 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 05:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

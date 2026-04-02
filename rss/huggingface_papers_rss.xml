@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:55:10 +0000</lastBuildDate>
-    <item>
-      <title>Learn2Fold: Structured Origami Generation with World Model Planning</title>
-      <link>https://huggingface.co/papers/2603.29585</link>
-      <description>By Yanjia Huang, Yunuo Chen, Ying Jiang, Jinru Han, Zhengzhong Tu, et al.
-
-The ability to transform a flat sheet into a complex three-dimensional structure is a fundamental test of physical intelligence. Unlike cloth manipulation, origami is governed by strict geometric axioms and hard kinematic constraints, where a single invalid crease or collision can invalidate the ent...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29585</guid>
-      <pubDate>Mon, 02 Feb 2026 11:24:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</title>
-      <link>https://huggingface.co/papers/2603.29852</link>
-      <description>By Juan Rodriguez, Haotian Zhang, Abhay Puri, Tianyang Zhang, Rishav Pramanik, et al.
-
-We introduce VectorGym, a comprehensive benchmark suite for Scalable Vector Graphics (SVG) that spans generation from text and sketches, complex editing, and visual understanding. VectorGym addresses the lack of realistic, challenging benchmarks aligned with professional design workflows. Our benchm...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29852</guid>
-      <pubDate>Sun, 22 Feb 2026 10:39:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 05:09:40 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -82,15 +64,6 @@ Flicker artifacts, arising from unstable illumination and row-wise exposure inco
       <pubDate>Tue, 24 Mar 2026 04:32:16 +0000</pubDate>
     </item>
     <item>
-      <title>Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells</title>
-      <link>https://huggingface.co/papers/2603.25240</link>
-      <description>By Han Zhang, Guo-Hua Yuan, Chaohao Yuan, Tingyang Xu, Tian Bian, et al.
-
-Modeling cellular states and predicting their responses to perturbations are central challenges in computational biology and the development of virtual cells. Existing foundation models for single-cell transcriptomics provide powerful static representations, but they do not explicitly model the dist...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25240</guid>
-      <pubDate>Thu, 26 Mar 2026 09:46:27 +0000</pubDate>
-    </item>
-    <item>
       <title>MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation</title>
       <link>https://huggingface.co/papers/2603.25406</link>
       <description>By Yang Liu, Pengxiang Ding, Tengyue Jiang, Xudong Wang, Wenxuan Song, et al.
@@ -136,6 +109,15 @@ Beneath the stunning visual fidelity of modern AIGC models lies a "logical deser
       <pubDate>Thu, 26 Mar 2026 18:40:09 +0000</pubDate>
     </item>
     <item>
+      <title>QuitoBench: A High-Quality Open Time Series Forecasting Benchmark</title>
+      <link>https://huggingface.co/papers/2603.26017</link>
+      <description>By Siqiao Xue, Zhaoyang Zhu, Wei Zhang, Rongyao Cai, Rui Wang, et al.
+
+Time series forecasting is critical across finance, healthcare, and cloud computing, yet progress is constrained by a fundamental bottleneck: the scarcity of large-scale, high-quality benchmarks. To address this gap, we introduce QuitoBench, a regime-balanced benchmark for time series forecasting wi...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26017</guid>
+      <pubDate>Fri, 27 Mar 2026 02:24:34 +0000</pubDate>
+    </item>
+    <item>
       <title>CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions</title>
       <link>https://huggingface.co/papers/2603.26174</link>
       <description>By Chonghuinan Wang, Zihan Chen, Yuxiang Wei, Tianyi Jiang, Xiaohe Wu, et al.
@@ -163,15 +145,6 @@ Transformer architectures, particularly Diffusion Transformers (DiTs), have beco
       <pubDate>Fri, 27 Mar 2026 12:30:10 +0000</pubDate>
     </item>
     <item>
-      <title>AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing</title>
-      <link>https://huggingface.co/papers/2603.26546</link>
-      <description>By Tianyu Liu, Weitao Xiong, Kunming Luo, Manyuan Zhang, Peng Liu, et al.
-
-Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather scenarios. While 3D-aware editing methods alleviate these data constraints by augmenting existing video...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.26546</guid>
-      <pubDate>Fri, 27 Mar 2026 15:56:47 +0000</pubDate>
-    </item>
-    <item>
       <title>VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward</title>
       <link>https://huggingface.co/papers/2603.26599</link>
       <description>By Zhaochong An, Orest Kupyn, Théo Uscidda, Andrea Colaco, Karan Ahuja, et al.
@@ -179,6 +152,15 @@ Generative video models have significantly advanced the photorealistic synthesis
 Large-scale video diffusion models achieve impressive visual quality, yet often fail to preserve geometric consistency. Prior approaches improve consistency either by augmenting the generator with additional modules or applying geometry-aware alignment. However, architectural modifications can compr...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26599</guid>
       <pubDate>Fri, 27 Mar 2026 16:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification</title>
+      <link>https://huggingface.co/papers/2603.26648</link>
+      <description>By Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, et al.
+
+Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we introduce Vision2Web, a hierarchical benchmark for visual website development, spanning from static ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26648</guid>
+      <pubDate>Fri, 27 Mar 2026 17:50:45 +0000</pubDate>
     </item>
     <item>
       <title>PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning</title>
@@ -235,15 +217,6 @@ We present TokenDial, a framework for continuous, slider-style attribute control
       <pubDate>Sun, 29 Mar 2026 05:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>LongCat-Next: Lexicalizing Modalities as Discrete Tokens</title>
-      <link>https://huggingface.co/papers/2603.27538</link>
-      <description>By Meituan LongCat Team, Bin Xiao, Chao Wang, Chengjiang Li, Chi Zhang, et al.
-
-The prevailing Next-Token Prediction (NTP) paradigm has driven the success of large language models through discrete autoregressive modeling. However, contemporary multimodal systems remain language-centric, often treating non-linguistic modalities as external attachments, leading to fragmented arch...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.27538</guid>
-      <pubDate>Sun, 29 Mar 2026 06:35:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Meta-Harness: End-to-End Optimization of Model Harnesses</title>
       <link>https://huggingface.co/papers/2603.28052</link>
       <description>By Yoonho Lee, Roshen Nair, Qizheng Zhang, Kangwook Lee, Omar Khattab, et al.
@@ -271,6 +244,15 @@ LiDAR has become an essential sensing modality in autonomous driving, robotics, 
       <pubDate>Mon, 30 Mar 2026 09:46:55 +0000</pubDate>
     </item>
     <item>
+      <title>MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome</title>
+      <link>https://huggingface.co/papers/2603.28407</link>
+      <description>By Fangda Ye, Yuxin Hu, Pengxiang Zhu, Yibo Li, Ziqi Jin, et al.
+
+Recent progress in deep research systems has been impressive, but evaluation still lags behind real user needs. Existing benchmarks predominantly assess final reports using fixed rubrics, failing to evaluate the underlying research process. Most also offer limited multimodal coverage, rely on synthe...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28407</guid>
+      <pubDate>Mon, 30 Mar 2026 13:16:03 +0000</pubDate>
+    </item>
+    <item>
       <title>MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models</title>
       <link>https://huggingface.co/papers/2603.28590</link>
       <description>By Han Wang, Yifan Sun, Brian Ko, Mann Talati, Jiawen Gong, et al.
@@ -287,15 +269,6 @@ Large language models (LLMs) can generate chains of thought (CoTs) that are not 
 Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are either real, with manually annotated 3D geometry and limited scale, or synthetic, rendered from 3D engine...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28763</guid>
       <pubDate>Mon, 30 Mar 2026 17:59:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training</title>
-      <link>https://huggingface.co/papers/2603.28858</link>
-      <description>By Haiyue Song, Masao Utiyama
-
-Continual pre-training is widely used to adapt LLMs to target languages and domains, yet the mixture ratio of training data remains a sensitive hyperparameter that is expensive to tune: they must be fixed before training begins, and a suboptimal choice can waste weeks of compute. In this work, we pr...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.28858</guid>
-      <pubDate>Mon, 30 Mar 2026 18:00:02 +0000</pubDate>
     </item>
     <item>
       <title>The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning</title>
@@ -388,15 +361,6 @@ There has been growing interest in building agents that can interact with digita
       <pubDate>Tue, 31 Mar 2026 14:14:47 +0000</pubDate>
     </item>
     <item>
-      <title>Think Anywhere in Code Generation</title>
-      <link>https://huggingface.co/papers/2603.29957</link>
-      <description>By Xue Jiang, Tianyu Zhang, Ge Li, Mengyang Liu, Taozhi Chen, et al.
-
-Recent advances in reasoning Large Language Models (LLMs) have primarily relied on upfront thinking, where reasoning occurs before final answer. However, this approach suffers from critical limitations in code generation, where upfront thinking is often insufficient as problems' full complexity only...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29957</guid>
-      <pubDate>Tue, 31 Mar 2026 16:24:03 +0000</pubDate>
-    </item>
-    <item>
       <title>OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation</title>
       <link>https://huggingface.co/papers/2603.30045</link>
       <description>By Yuheng Liu, Xin Lin, Xinke Li, Baihan Yang, Chen Wang, et al.
@@ -431,6 +395,42 @@ Recent studies have demonstrated that Reinforcement Learning (RL), notably Group
 3D Visual Grounding (3D-VG) aims to localize objects in 3D scenes via natural language descriptions. While recent advancements leveraging Vision-Language Models (VLMs) have explored zero-shot possibilities, they typically suffer from a static workflow relying on preprocessed 3D point clouds, essenti...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00528</guid>
       <pubDate>Wed, 01 Apr 2026 06:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants</title>
+      <link>https://huggingface.co/papers/2604.00842</link>
+      <description>By Deepak Nathani, Cheng Zhang, Chang Huan, Jiaming Shan, Yinfei Yang, et al.
+
+Proactive agents that anticipate user needs and autonomously execute tasks hold great promise as digital assistants, yet the lack of realistic user simulation frameworks hinders their development. Existing approaches model apps as flat tool-calling APIs, failing to capture the stateful and sequentia...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00842</guid>
+      <pubDate>Wed, 01 Apr 2026 12:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment</title>
+      <link>https://huggingface.co/papers/2604.00913</link>
+      <description>By Zhuchenyang Liu, Yao Zhang, Yu Xiao
+
+2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality settings, such systems must recognize completed and ongoing steps from the camera feed and align them w...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00913</guid>
+      <pubDate>Wed, 01 Apr 2026 13:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines</title>
+      <link>https://huggingface.co/papers/2604.01029</link>
+      <description>By Jingjie Ning, Xueqi Li, Chengyu Yu
+
+Multi-LLM revision pipelines, in which a second model reviews and improves a draft produced by a first, are widely assumed to derive their gains from genuine error correction. We question this assumption with a controlled decomposition experiment that uses four matched conditions to separate second-...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01029</guid>
+      <pubDate>Wed, 01 Apr 2026 15:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers</title>
+      <link>https://huggingface.co/papers/2604.01128</link>
+      <description>By Atsuyuki Miyai, Mashiro Toyooka, Zaiying Zhao, Kenta Watanabe, Toshihiko Yamasaki, et al.
+
+This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing concern, rigorous evaluation of the quality and potential risks of AI-written papers remains limited, an...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01128</guid>
+      <pubDate>Wed, 01 Apr 2026 16:48:04 +0000</pubDate>
     </item>
     <item>
       <title>Embarrassingly Simple Self-Distillation Improves Code Generation</title>
