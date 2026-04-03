@@ -4,26 +4,26 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 17424,
-    "stars_text": "17,424",
-    "forks": 1186,
+    "stars": 17559,
+    "stars_text": "17,559",
+    "forks": 1195,
     "language": "TypeScript",
-    "today_stars": "2,573 stars today",
+    "today_stars": "2,855 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-03T13:20:11.546769+00:00"
+    "fetched_at": "2026-04-03T14:53:00.466049+00:00"
   },
   "Yeachan-Heo/oh-my-codex": {
     "repo_path": "Yeachan-Heo/oh-my-codex",
     "repo_name": "Yeachan-Heo / oh-my-codex",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "stars": 13248,
-    "stars_text": "13,248",
-    "forks": 1214,
+    "stars": 13433,
+    "stars_text": "13,433",
+    "forks": 1234,
     "language": "TypeScript",
-    "today_stars": "2,867 stars today",
+    "today_stars": "2,984 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-03T13:20:11.545159+00:00"
+    "fetched_at": "2026-04-03T14:53:00.464428+00:00"
   },
   "asgeirtj/system_prompts_leaks": {
     "repo_path": "asgeirtj/system_prompts_leaks",
@@ -43,64 +43,64 @@
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 77997,
-    "stars_text": "77,997",
-    "forks": 9123,
+    "stars": 78086,
+    "stars_text": "78,086",
+    "forks": 9127,
     "language": "Python",
     "today_stars": "1,230 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-03T13:20:11.548537+00:00"
+    "fetched_at": "2026-04-03T14:53:00.467821+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 22637,
-    "stars_text": "22,637",
-    "forks": 3048,
+    "stars": 22754,
+    "stars_text": "22,754",
+    "forks": 3062,
     "language": "Python",
     "today_stars": "1,872 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-03T13:20:11.545737+00:00"
+    "fetched_at": "2026-04-03T14:53:00.464993+00:00"
   },
   "google-research/timesfm": {
     "repo_path": "google-research/timesfm",
     "repo_name": "google-research / timesfm",
     "repo_url": "https://github.com/google-research/timesfm",
     "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "stars": 13748,
-    "stars_text": "13,748",
-    "forks": 1172,
+    "stars": 13804,
+    "stars_text": "13,804",
+    "forks": 1178,
     "language": "Python",
     "today_stars": "912 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-03T13:20:11.546248+00:00"
+    "fetched_at": "2026-04-03T14:53:00.465544+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
     "repo_name": "dmtrKovalenko / fff.nvim",
     "repo_url": "https://github.com/dmtrKovalenko/fff.nvim",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "stars": 2999,
-    "stars_text": "2,999",
-    "forks": 118,
+    "stars": 3050,
+    "stars_text": "3,050",
+    "forks": 121,
     "language": "Rust",
     "today_stars": "767 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-03T13:20:11.547403+00:00"
+    "fetched_at": "2026-04-03T14:53:00.466691+00:00"
   },
   "f/prompts.chat": {
     "repo_path": "f/prompts.chat",
     "repo_name": "f / prompts.chat",
     "repo_url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-    "stars": 156914,
-    "stars_text": "156,914",
-    "forks": 20577,
+    "stars": 156962,
+    "stars_text": "156,962",
+    "forks": 20581,
     "language": "HTML",
     "today_stars": "369 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-03T13:20:11.548029+00:00"
+    "fetched_at": "2026-04-03T14:53:00.467325+00:00"
   }
 }

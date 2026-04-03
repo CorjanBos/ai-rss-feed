@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 13:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 14:52:59 +0000</lastBuildDate>
     <item>
       <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
       <link>https://huggingface.co/papers/2604.00025</link>
@@ -44,6 +44,15 @@ OpenClaw has rapidly established itself as a leading open-source autonomous agen
 As LLM-based agents are deployed in production systems, understanding their behavioral consistency (whether they produce similar action sequences when given identical tasks) becomes critical for reliability. We study consistency in the context of SWE-bench, a challenging software engineering benchma...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.25764</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models</title>
+      <link>https://huggingface.co/papers/2603.26259</link>
+      <description>By Antoine Edy, Max Conti, Quentin Macé
+
+While Late Interaction models exhibit strong retrieval performance, many of their underlying dynamics remain understudied, potentially hiding performance bottlenecks. In this work, we focus on two topics in Late Interaction retrieval: a length bias that arises when using multi-vector scoring, and th...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.26259</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models</title>
@@ -89,15 +98,6 @@ Vision-Language Models (VLMs) often yield inconsistent descriptions of the same 
 We introduce Multilingual Document Parsing Benchmark, the first benchmark for multilingual digital and photographed document parsing. Document parsing has made remarkable strides, yet almost exclusively on clean, digital, well-formatted pages in a handful of dominant languages. No systematic benchma...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.28130</guid>
       <pubDate>Mon, 30 Mar 2026 07:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference</title>
-      <link>https://huggingface.co/papers/2603.29002</link>
-      <description>By Zifan He, Rui Ma, Yizhou Sun, Jason Cong
-
-Modern large language models (LLMs) increasingly depends on efficient long-context processing and generation mechanisms, including sparse attention, retrieval-augmented generation (RAG), and compressed contextual memory, to support complex reasoning. We show that these optimizations can be unified i...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29002</guid>
-      <pubDate>Mon, 30 Mar 2026 21:03:39 +0000</pubDate>
     </item>
     <item>
       <title>ASI-Evolve: AI Accelerates AI</title>
@@ -224,15 +224,6 @@ Knowledge distillation has become a primary mechanism for transferring reasoning
 Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and small UI elements demand high-resolution inputs that produce tens of thousands of visual tokens. We ob...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00886</guid>
       <pubDate>Wed, 01 Apr 2026 13:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment</title>
-      <link>https://huggingface.co/papers/2604.00913</link>
-      <description>By Zhuchenyang Liu, Yao Zhang, Yu Xiao
-
-2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality settings, such systems must recognize completed and ongoing steps from the camera feed and align them w...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00913</guid>
-      <pubDate>Wed, 01 Apr 2026 13:55:28 +0000</pubDate>
     </item>
     <item>
       <title>Do Phone-Use Agents Respect Your Privacy?</title>
@@ -457,6 +448,15 @@ Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic ima
 
 Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.02330</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NearID: Identity Representation Learning via Near-identity Distractors</title>
+      <link>https://huggingface.co/papers/2604.01973</link>
+      <description>By Aleksandar Cvejic, Rameen Abdal, Abdelrahman Eldesokey, Bernard Ghanem, Peter Wonka
+
+When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representations and metrics. We introduce the first principled framework to address this vulnerability using Near...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01973</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
