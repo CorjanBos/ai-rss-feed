@@ -4,26 +4,26 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 17634,
-    "stars_text": "17,634",
-    "forks": 1196,
+    "stars": 17719,
+    "stars_text": "17,719",
+    "forks": 1200,
     "language": "TypeScript",
     "today_stars": "2,855 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-03T15:45:59.598927+00:00"
+    "fetched_at": "2026-04-03T16:51:55.017168+00:00"
   },
   "Yeachan-Heo/oh-my-codex": {
     "repo_path": "Yeachan-Heo/oh-my-codex",
     "repo_name": "Yeachan-Heo / oh-my-codex",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "stars": 13539,
-    "stars_text": "13,539",
-    "forks": 1241,
+    "stars": 13657,
+    "stars_text": "13,657",
+    "forks": 1251,
     "language": "TypeScript",
     "today_stars": "2,984 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-03T15:45:59.597280+00:00"
+    "fetched_at": "2026-04-03T16:51:55.015622+00:00"
   },
   "asgeirtj/system_prompts_leaks": {
     "repo_path": "asgeirtj/system_prompts_leaks",
@@ -43,64 +43,64 @@
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 78134,
-    "stars_text": "78,134",
-    "forks": 9131,
+    "stars": 78206,
+    "stars_text": "78,206",
+    "forks": 9138,
     "language": "Python",
     "today_stars": "1,230 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-03T15:45:59.600675+00:00"
+    "fetched_at": "2026-04-03T16:51:55.018892+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 22829,
-    "stars_text": "22,829",
-    "forks": 3071,
+    "stars": 22928,
+    "stars_text": "22,928",
+    "forks": 3076,
     "language": "Python",
     "today_stars": "1,872 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-03T15:45:59.597873+00:00"
+    "fetched_at": "2026-04-03T16:51:55.016167+00:00"
   },
   "google-research/timesfm": {
     "repo_path": "google-research/timesfm",
     "repo_name": "google-research / timesfm",
     "repo_url": "https://github.com/google-research/timesfm",
     "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "stars": 13840,
-    "stars_text": "13,840",
-    "forks": 1182,
+    "stars": 13889,
+    "stars_text": "13,889",
+    "forks": 1188,
     "language": "Python",
     "today_stars": "912 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-03T15:45:59.598433+00:00"
+    "fetched_at": "2026-04-03T16:51:55.016683+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
     "repo_name": "dmtrKovalenko / fff.nvim",
     "repo_url": "https://github.com/dmtrKovalenko/fff.nvim",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "stars": 3073,
-    "stars_text": "3,073",
-    "forks": 122,
+    "stars": 3125,
+    "stars_text": "3,125",
+    "forks": 124,
     "language": "Rust",
     "today_stars": "767 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-03T15:45:59.599577+00:00"
+    "fetched_at": "2026-04-03T16:51:55.017789+00:00"
   },
   "f/prompts.chat": {
     "repo_path": "f/prompts.chat",
     "repo_name": "f / prompts.chat",
     "repo_url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-    "stars": 156984,
-    "stars_text": "156,984",
-    "forks": 20586,
+    "stars": 157023,
+    "stars_text": "157,023",
+    "forks": 20589,
     "language": "HTML",
     "today_stars": "369 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-03T15:45:59.600200+00:00"
+    "fetched_at": "2026-04-03T16:51:55.018417+00:00"
   }
 }

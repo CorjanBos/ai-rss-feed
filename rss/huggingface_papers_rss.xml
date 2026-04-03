@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 15:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 16:51:53 +0000</lastBuildDate>
     <item>
       <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
       <link>https://huggingface.co/papers/2604.00025</link>
@@ -88,6 +88,15 @@ Recent advances in diffusion-based controllable visual generation have led to re
 
 Vision-Language Models (VLMs) often yield inconsistent descriptions of the same object across viewpoints, hindering the ability of embodied agents to construct consistent semantic representations over time. Previous methods resolved inconsistencies using offline multi-view aggregation or multi-stage...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24257</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines</title>
+      <link>https://huggingface.co/papers/2603.06679</link>
+      <description>By Ryan Po, David Junhao Zhang, Amir Hertz, Gordon Wetzstein, Neal Wadhwa, et al.
+
+Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the environment for reproducible, editable experiences, and shared inference where players hold influence over...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.06679</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -197,15 +206,6 @@ The rise of large language models for code has reshaped software development. Au
 Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yields inefficient designs, and misses critical insights. This tutorial presents Bayesian Optimisation ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01328</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems</title>
-      <link>https://huggingface.co/papers/2604.00590</link>
-      <description>By Mingming Ha, Guanchen Wang, Linxun Chen, Xuan Rao, Yuexin Shi, et al.
-
-In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there are three mainstream architectures for achieving scaling in recommendation models, namely attention...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00590</guid>
-      <pubDate>Wed, 01 Apr 2026 07:57:40 +0000</pubDate>
     </item>
     <item>
       <title>A Survey of On-Policy Distillation for Large Language Models</title>
