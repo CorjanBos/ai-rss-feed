@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 10:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 11:42:41 +0000</lastBuildDate>
     <item>
       <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
       <link>https://huggingface.co/papers/2604.00025</link>
@@ -46,24 +46,6 @@ As LLM-based agents are deployed in production systems, understanding their beha
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?</title>
-      <link>https://huggingface.co/papers/2603.25823</link>
-      <description>By Haonan Han, Jiancheng Huang, Xiaopeng Sun, Junyan He, Rui Yang, et al.
-
-Beneath the stunning visual fidelity of modern AIGC models lies a "logical desert", where systems fail tasks that require physical, causal, or complex spatial reasoning. Current evaluations largely rely on superficial metrics or fragmented benchmarks, creating a ``performance mirage'' that overlooks...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25823</guid>
-      <pubDate>Thu, 26 Mar 2026 18:40:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuitoBench: A High-Quality Open Time Series Forecasting Benchmark</title>
-      <link>https://huggingface.co/papers/2603.26017</link>
-      <description>By Siqiao Xue, Zhaoyang Zhu, Wei Zhang, Rongyao Cai, Rui Wang, et al.
-
-Time series forecasting is critical across finance, healthcare, and cloud computing, yet progress is constrained by a fundamental bottleneck: the scarcity of large-scale, high-quality benchmarks. To address this gap, we introduce QuitoBench, a regime-balanced benchmark for time series forecasting wi...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.26017</guid>
-      <pubDate>Fri, 27 Mar 2026 02:24:34 +0000</pubDate>
-    </item>
-    <item>
       <title>DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models</title>
       <link>https://huggingface.co/papers/2603.26164</link>
       <description>By Hao Liang, Zhengyang Zhao, Meiyi Qiang, Mingrui Chen, Lu Ma, et al.
@@ -98,6 +80,15 @@ Recent advances in diffusion-based controllable visual generation have led to re
 Vision-Language Models (VLMs) often yield inconsistent descriptions of the same object across viewpoints, hindering the ability of embodied agents to construct consistent semantic representations over time. Previous methods resolved inconsistencies using offline multi-view aggregation or multi-stage...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.24257</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios</title>
+      <link>https://huggingface.co/papers/2603.28130</link>
+      <description>By Zhang Li, Zhibo Lin, Qiang Liu, Ziyang Zhang, Shuo Zhang, et al.
+
+We introduce Multilingual Document Parsing Benchmark, the first benchmark for multilingual digital and photographed document parsing. Document parsing has made remarkable strides, yet almost exclusively on clean, digital, well-formatted pages in a handful of dominant languages. No systematic benchma...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.28130</guid>
+      <pubDate>Mon, 30 Mar 2026 07:47:46 +0000</pubDate>
     </item>
     <item>
       <title>MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome</title>
@@ -190,6 +181,15 @@ The rise of large language models for code has reshaped software development. Au
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</title>
+      <link>https://huggingface.co/papers/2604.01328</link>
+      <description>By Zhongwei Yu, Rasul Tutunov, Alexandre Max Maraval, Zikai Xie, Zhenzhi Tan, et al.
+
+Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yields inefficient designs, and misses critical insights. This tutorial presents Bayesian Optimisation ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01328</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems</title>
       <link>https://huggingface.co/papers/2604.00590</link>
       <description>By Mingming Ha, Guanchen Wang, Linxun Chen, Xuan Rao, Yuexin Shi, et al.
@@ -253,15 +253,6 @@ Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for eva
       <pubDate>Wed, 01 Apr 2026 15:17:45 +0000</pubDate>
     </item>
     <item>
-      <title>Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines</title>
-      <link>https://huggingface.co/papers/2604.01029</link>
-      <description>By Jingjie Ning, Xueqi Li, Chengyu Yu
-
-Multi-LLM revision pipelines, in which a second model reviews and improves a draft produced by a first, are widely assumed to derive their gains from genuine error correction. We question this assumption with a controlled decomposition experiment that uses four matched conditions to separate second-...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.01029</guid>
-      <pubDate>Wed, 01 Apr 2026 15:39:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers</title>
       <link>https://huggingface.co/papers/2604.01128</link>
       <description>By Atsuyuki Miyai, Mashiro Toyooka, Zaiying Zhao, Kenta Watanabe, Toshihiko Yamasaki, et al.
@@ -269,6 +260,15 @@ Multi-LLM revision pipelines, in which a second model reviews and improves a dra
 This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing concern, rigorous evaluation of the quality and potential risks of AI-written papers remains limited, an...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01128</guid>
       <pubDate>Wed, 01 Apr 2026 16:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning</title>
+      <link>https://huggingface.co/papers/2604.01152</link>
+      <description>By Mohammad R. Abu Ayyash
+
+We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared frozen base at inference. Five interlocking components: (1) MoE-LoRA with Shazeer-style noisy top-2 ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01152</guid>
+      <pubDate>Wed, 01 Apr 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
       <title>Reasoning Shift: How Context Silently Shortens LLM Reasoning</title>
@@ -296,15 +296,6 @@ Using roughly 48 execution-verified HumanEval training solutions, tuning a singl
 Large language models (LLMs) and their applications, such as agents, are highly vulnerable to prompt injection attacks. State-of-the-art prompt injection detection methods have the following limitations: (1) their effectiveness degrades significantly as context length increases, and (2) they lack ex...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01194</guid>
       <pubDate>Wed, 01 Apr 2026 17:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Universal YOCO for Efficient Depth Scaling</title>
-      <link>https://huggingface.co/papers/2604.01220</link>
-      <description>By Yutao Sun, Li Dong, Tianzhu Ye, Shaohan Huang, Jianyong Wang, et al.
-
-The rise of test-time scaling has remarkably boosted the reasoning and agentic proficiency of Large Language Models (LLMs). Yet, standard Transformers struggle to scale inference-time compute efficiently, as conventional looping strategies suffer from high computational overhead and a KV cache that ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.01220</guid>
-      <pubDate>Wed, 01 Apr 2026 17:58:21 +0000</pubDate>
     </item>
     <item>
       <title>SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization</title>
@@ -457,6 +448,15 @@ Recent multimodal large language models have achieved strong performance in unif
 
 Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies reveal vulnerabilities through language perturbations and 2D visual attacks, but these attack surfaces ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01618</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steerable Visual Representations</title>
+      <link>https://huggingface.co/papers/2604.02327</link>
+      <description>By Jona Ruthardt, Manu Gaur, Deva Ramanan, Makarand Tapaswi, Yuki M. Asano
+
+Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. However, such representations tend to focus on the most salient visual cues in the image, with no way ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.02327</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
