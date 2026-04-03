@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 02:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 05:12:35 +0000</lastBuildDate>
     <item>
       <title>Dynin-Omni: Omnimodal Unified Large Diffusion Language Model</title>
       <link>https://huggingface.co/papers/2604.00007</link>
@@ -26,15 +26,6 @@ We present Dynin-Omni, the first masked-diffusion-based omnimodal foundation mod
 Standard evaluation protocols reveal a counterintuitive phenomenon: on 7.7% of benchmark problems spanning five datasets, larger language models underperform smaller ones by 28.4 percentage points despite 10-100x more parameters. Through systematic evaluation of 31 models (0.5B-405B parameters) acro...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00025</guid>
       <pubDate>Wed, 11 Mar 2026 06:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Documents Disagree: Measuring Institutional Variation in Transplant Guidance with Retrieval-Augmented Language Models</title>
-      <link>https://huggingface.co/papers/2603.21460</link>
-      <description>By Yubo Li, Ramayya Krishnan, Rema Padman
-
-Patient education materials for solid-organ transplantation vary substantially across U.S. centers, yet no systematic method exists to quantify this heterogeneity at scale. We introduce a framework that grounds the same patient questions in different centers' handbooks using retrieval-augmented lang...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.21460</guid>
-      <pubDate>Mon, 23 Mar 2026 00:42:40 +0000</pubDate>
     </item>
     <item>
       <title>AI Generalisation Gap In Comorbid Sleep Disorder Staging</title>
@@ -100,15 +91,6 @@ Data-centric training has emerged as a promising direction for improving large l
       <pubDate>Fri, 27 Mar 2026 08:28:02 +0000</pubDate>
     </item>
     <item>
-      <title>MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model</title>
-      <link>https://huggingface.co/papers/2603.26357</link>
-      <description>By Quan Dao, Dimitris Metaxas
-
-Transformer architectures, particularly Diffusion Transformers (DiTs), have become widely used in diffusion and flow-matching models due to their strong performance compared to convolutional UNets. However, the isotropic design of DiTs processes the same number of patchified tokens in every block, l...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.26357</guid>
-      <pubDate>Fri, 27 Mar 2026 12:30:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification</title>
       <link>https://huggingface.co/papers/2603.26648</link>
       <description>By Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, et al.
@@ -136,13 +118,13 @@ Most recent advances in 3D generative modeling rely on diffusion or flow-matchin
       <pubDate>Fri, 27 Mar 2026 17:58:05 +0000</pubDate>
     </item>
     <item>
-      <title>TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets</title>
-      <link>https://huggingface.co/papers/2603.27520</link>
-      <description>By Zhixuan Liu, Peter Schaldenbrand, Yijun Li, Long Mai, Aniruddha Mahapatra, et al.
+      <title>Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers</title>
+      <link>https://huggingface.co/papers/2603.27666</link>
+      <description>By Yuhe Liu, Zhenxiong Tan, Yujia Hu, Songhua Liu, Xinchao Wang
 
-We present TokenDial, a framework for continuous, slider-style attribute control in pretrained text-to-video generation models. While modern generators produce strong holistic videos, they offer limited control over how much an attribute changes (e.g., effect intensity or motion magnitude) without d...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.27520</guid>
-      <pubDate>Sun, 29 Mar 2026 05:07:41 +0000</pubDate>
+Recent advances in diffusion-based controllable visual generation have led to remarkable improvements in image quality. However, these powerful models are typically deployed on cloud servers due to their large computational demands, raising serious concerns about user data privacy. To enable secure ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27666</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Meta-Harness: End-to-End Optimization of Model Harnesses</title>
@@ -172,24 +154,6 @@ Modern large language models (LLMs) increasingly depends on efficient long-conte
       <pubDate>Mon, 30 Mar 2026 21:03:39 +0000</pubDate>
     </item>
     <item>
-      <title>The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning</title>
-      <link>https://huggingface.co/papers/2603.29025</link>
-      <description>By Yubo Li, Lu Zhang, Tianchong Jiang, Ramayya Krishnan, Rema Padman
-
-Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavioral analysis of the ``car wash problem'' across six models reveals approximately context-independent ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29025</guid>
-      <pubDate>Mon, 30 Mar 2026 21:36:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation</title>
-      <link>https://huggingface.co/papers/2603.29089</link>
-      <description>By Amogh Joshi, Julian Ost, Felix Heide
-
-Unbounded 3D world generation is emerging as a foundational task for scene modeling in computer vision, graphics, and robotics. In this work, we present WorldFlow3D, a novel method capable of generating unbounded 3D worlds. Building upon a foundational property of flow matching - namely, defining a ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29089</guid>
-      <pubDate>Tue, 31 Mar 2026 00:08:17 +0000</pubDate>
-    </item>
-    <item>
       <title>MemRerank: Preference Memory for Personalized Product Reranking</title>
       <link>https://huggingface.co/papers/2603.29247</link>
       <description>By Zhiyuan Peng, Xuyang Wu, Huaixiao Tou, Yi Fang, Yi Gong
@@ -206,15 +170,6 @@ LLM-based shopping agents increasingly rely on long purchase histories and multi
 There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents built on abstractions such as Model Context Protocol (MCP) and web agents that operate through grap...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00073</guid>
       <pubDate>Tue, 31 Mar 2026 14:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation</title>
-      <link>https://huggingface.co/papers/2603.30045</link>
-      <description>By Yuheng Liu, Xin Lin, Xinke Li, Baihan Yang, Chen Wang, et al.
-
-Modeling scenes using video generation models has garnered growing research interest in recent years. However, most existing approaches rely on perspective video models that synthesize only limited observations of a scene, leading to issues of completeness and global consistency. We propose OmniRoam...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.30045</guid>
-      <pubDate>Tue, 31 Mar 2026 17:59:33 +0000</pubDate>
     </item>
     <item>
       <title>RawGen: Learning Camera Raw Image Generation</title>
@@ -241,6 +196,24 @@ As LLM agents transition from short, static problem solving to executing complex
 
 We introduce EgoSim, a closed-loop egocentric world simulator that generates spatially consistent interaction videos and persistently updates the underlying 3D scene state for continuous simulation. Existing egocentric simulators either lack explicit 3D grounding, causing structural drift under view...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01001</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation</title>
+      <link>https://huggingface.co/papers/2604.00829</link>
+      <description>By Patrick Amadeus Irawan, Erland Hilman Fuadi, Shanu Kumar, Alham Fikri Aji, Yova Kementchedjhieva
+
+Adapting pretrained language models (LMs) into vision-language models (VLMs) can degrade their native linguistic capability due to representation shift and cross-modal interference introduced during multimodal adaptation. Such loss is difficult to recover, even with targeted task-specific fine-tunin...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00829</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models</title>
+      <link>https://huggingface.co/papers/2604.01404</link>
+      <description>By Itay Yona, Dan Barzilay, Michael Karasik, Mor Geva
+
+Language models can answer many entity-centric factual questions, but it remains unclear which internal mechanisms are involved in this process. We study this question across multiple language models. We localize entity-selective MLP neurons using templated prompts about each entity, and then valida...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01404</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -457,6 +430,33 @@ AI agents increasingly operate over extended time horizons, yet their ability to
 
 Vision-Language-Action (VLA) models have recently emerged in autonomous driving, with the promise of leveraging rich world knowledge to improve the cognitive capabilities of driving systems. However, adapting such models for driving tasks currently faces a critical dilemma between spatial perception...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.02190</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model</title>
+      <link>https://huggingface.co/papers/2604.02097</link>
+      <description>By Jiachun Jin, Zetong Zhou, Xiao Yang, Hao Zhang, Pengfei Liu, et al.
+
+Unified models (UMs) hold promise for their ability to understand and generate content across heterogeneous modalities. Compared to merely generating visual content, the use of UMs for interleaved cross-modal reasoning is more promising and valuable, e.g., for solving understanding problems that req...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.02097</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning</title>
+      <link>https://huggingface.co/papers/2604.02007</link>
+      <description>By Rafael Pardinas, Ehsan Kamalloo, David Vazquez, Alexandre Drouin
+
+Building general-purpose reasoning models using reinforcement learning with verifiable rewards (RLVR) across diverse domains has been widely adopted by frontier open-weight models. However, their training recipes and domain mixtures are often not disclosed. Joint optimization across domains poses si...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.02007</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woosh: A Sound Effects Foundation Model</title>
+      <link>https://huggingface.co/papers/2604.01929</link>
+      <description>By Gaëtan Hadjeres, Marc Ferras, Khaled Koutini, Benno Weck, Alexandre Bittar, et al.
+
+The audio research community depends on open generative models as foundational tools for building novel approaches and establishing baselines. In this report, we present Woosh, Sony AI's publicly released sound effect foundation model, detailing its architecture, training process, and an evaluation ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01929</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

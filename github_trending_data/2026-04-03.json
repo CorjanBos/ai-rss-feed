@@ -4,51 +4,51 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 16169,
-    "stars_text": "16,169",
-    "forks": 1103,
+    "stars": 16406,
+    "stars_text": "16,406",
+    "forks": 1118,
     "language": "TypeScript",
     "today_stars": "2,573 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-03T02:57:24.999827+00:00"
+    "fetched_at": "2026-04-03T05:12:37.026601+00:00"
   },
   "Yeachan-Heo/oh-my-codex": {
     "repo_path": "Yeachan-Heo/oh-my-codex",
     "repo_name": "Yeachan-Heo / oh-my-codex",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "stars": 12008,
-    "stars_text": "12,008",
-    "forks": 1113,
+    "stars": 12257,
+    "stars_text": "12,257",
+    "forks": 1125,
     "language": "TypeScript",
     "today_stars": "2,867 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-03T02:57:25.000535+00:00"
+    "fetched_at": "2026-04-03T05:12:37.027286+00:00"
   },
   "asgeirtj/system_prompts_leaks": {
     "repo_path": "asgeirtj/system_prompts_leaks",
     "repo_name": "asgeirtj / system_prompts_leaks",
     "repo_url": "https://github.com/asgeirtj/system_prompts_leaks",
     "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-    "stars": 36513,
-    "stars_text": "36,513",
-    "forks": 6037,
+    "stars": 36641,
+    "stars_text": "36,641",
+    "forks": 6059,
     "language": "",
     "today_stars": "306 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-03T02:57:25.001159+00:00"
+    "fetched_at": "2026-04-03T05:12:37.027938+00:00"
   },
   "sherlock-project/sherlock": {
     "repo_path": "sherlock-project/sherlock",
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 77377,
-    "stars_text": "77,377",
-    "forks": 9075,
+    "stars": 77534,
+    "stars_text": "77,534",
+    "forks": 9085,
     "language": "Python",
     "today_stars": "827 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-03T02:57:25.001666+00:00"
+    "fetched_at": "2026-04-03T05:12:37.028448+00:00"
   }
 }
