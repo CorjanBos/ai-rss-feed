@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 16:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:41:27 +0000</lastBuildDate>
     <item>
       <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
       <link>https://huggingface.co/papers/2604.00025</link>
@@ -26,15 +26,6 @@ Standard evaluation protocols reveal a counterintuitive phenomenon: on 7.7% of b
 Accurate sleep staging is essential for diagnosing OSA and hypopnea in stroke patients. Although PSG is reliable, it is costly, labor-intensive, and manually scored. While deep learning enables automated EEG-based sleep staging in healthy subjects, our analysis shows poor generalization to clinical ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.23582</guid>
       <pubDate>Tue, 24 Mar 2026 15:02:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers</title>
-      <link>https://huggingface.co/papers/2603.24414</link>
-      <description>By Songyang Liu, Chaozhuo Li, Chenxu Wang, Jinyu Hou, Zejian Chen, et al.
-
-OpenClaw has rapidly established itself as a leading open-source autonomous agent runtime, offering powerful capabilities including tool integration, local file access, and shell command execution. However, these broad operational privileges introduce critical security vulnerabilities, transforming ...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.24414</guid>
-      <pubDate>Wed, 25 Mar 2026 15:27:54 +0000</pubDate>
     </item>
     <item>
       <title>Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy</title>
@@ -127,13 +118,13 @@ Although image generation has boosted various applications via its rapid evoluti
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MemRerank: Preference Memory for Personalized Product Reranking</title>
-      <link>https://huggingface.co/papers/2603.29247</link>
-      <description>By Zhiyuan Peng, Xuyang Wu, Huaixiao Tou, Yi Fang, Yi Gong
+      <title>Video Models Reason Early: Exploiting Plan Commitment for Maze Solving</title>
+      <link>https://huggingface.co/papers/2603.30043</link>
+      <description>By Kaleb Newman, Tyler Zhu, Olga Russakovsky
 
-LLM-based shopping agents increasingly rely on long purchase histories and multi-turn interactions for personalization, yet naively appending raw history to prompts is often ineffective due to noise, length, and relevance mismatch. We propose MemRerank, a preference memory framework that distills us...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.29247</guid>
-      <pubDate>Tue, 31 Mar 2026 04:16:18 +0000</pubDate>
+Video diffusion models exhibit emergent reasoning capabilities like solving mazes and puzzles, yet little is understood about how they reason during generation. We take a first step towards understanding this and study the internal planning dynamics of video models using 2D maze solving as a control...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.30043</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation</title>
@@ -457,6 +448,15 @@ Recent advances in video diffusion have enabled the development of "world models
 
 When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representations and metrics. We introduce the first principled framework to address this vulnerability using Near...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01973</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Therefore I am. I Think</title>
+      <link>https://huggingface.co/papers/2604.01202</link>
+      <description>By Esakkivel Esakkiraja, Sai Rajeswar, Denis Akhiyarov, Rajagopal Venkatesaramani
+
+We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectable, early-encoded decisions shape chain-of-thought in reasoning models. Specifically, we show that a ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.01202</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
