@@ -8,90 +8,116 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 23:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 06:05:56 +0000</lastBuildDate>
     <item>
-      <title>[LLM] langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description>📉 Rank: #6 → #7 (↓1)
+      <title>[LLaMA] llama</title>
+      <link>https://github.com/meta-llama/llama</link>
+      <description>📉 Rank: #5 → #6 (↓1)
 
-The agent engineering platform
+Inference code for Llama models
 
 Language: Python
 
+Category: LLaMA
+Stars: 59,291 | Forks: 9,827</description>
+      <guid isPermaLink="true">https://github.com/meta-llama/llama</guid>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LLaMA] unsloth</title>
+      <link>https://github.com/unslothai/unsloth</link>
+      <description>📈 Rank: #6 → #5 (↑1)
+
+Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+
+Language: Python
+
+Category: LLaMA
+Stars: 59,308 | Forks: 5,023</description>
+      <guid isPermaLink="true">https://github.com/unslothai/unsloth</guid>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LLM] dify</title>
+      <link>https://github.com/langgenius/dify</link>
+      <description>📉 Rank: #5 → #6 (↓1)
+
+Production-ready platform for agentic workflow development.
+
+Language: TypeScript
+
 Category: LLM
-Stars: 132,155 | Forks: 21,795</description>
-      <guid isPermaLink="true">https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+Stars: 135,685 | Forks: 21,142</description>
+      <guid isPermaLink="true">https://github.com/langgenius/dify</guid>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
     <item>
       <title>[LLM] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>📈 Rank: #7 → #6 (↑1) | ⭐ Stars: 131,701 → 134,097 (+2,396)
+      <description>📈 Rank: #6 → #5 (↑1) | ⭐ Stars: 134,097 → 136,385 (+2,288)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: LLM
-Stars: 134,097 | Forks: 19,511</description>
+Stars: 136,385 | Forks: 20,167</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
     <item>
-      <title>[Claude] gstack</title>
-      <link>https://github.com/garrytan/gstack</link>
-      <description>⭐ Stars: 61,131 → 62,485 (+1,354)
+      <title>[Claude] system-prompts-and-models-of-ai-tools</title>
+      <link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link>
+      <description>📉 Rank: #3 → #4 (↓1)
 
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-Language: TypeScript
+FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models
 
 Category: Claude
-Stars: 62,485 | Forks: 8,336</description>
-      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+Stars: 134,268 | Forks: 33,830</description>
+      <guid isPermaLink="true">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
-      <description>⭐ Stars: 102,621 → 106,988 (+4,367)
+      <description>⭐ Stars: 106,988 → 108,221 (+1,233)
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 Language: Shell
 
 Category: Claude
-Stars: 106,988 | Forks: 17,286</description>
+Stars: 108,221 | Forks: 17,723</description>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
     <item>
       <title>[Claude] everything-claude-code</title>
       <link>https://github.com/affaan-m/everything-claude-code</link>
-      <description>⭐ Stars: 131,703 → 134,100 (+2,397)
+      <description>📈 Rank: #4 → #3 (↑1) | ⭐ Stars: 134,100 → 136,386 (+2,286)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 Language: JavaScript
 
 Category: Claude
-Stars: 134,100 | Forks: 19,513</description>
+Stars: 136,386 | Forks: 20,167</description>
       <guid isPermaLink="true">https://github.com/affaan-m/everything-claude-code</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
     <item>
       <title>[AI] openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
-      <description>⭐ Stars: 344,939 → 346,316 (+1,377)
+      <description>⭐ Stars: 346,316 → 347,397 (+1,081)
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 Language: TypeScript
 
 Category: AI
-Stars: 346,316 | Forks: 68,952</description>
+Stars: 347,397 | Forks: 69,318</description>
       <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
-      <pubDate>Fri, 03 Apr 2026 23:41:27 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 06:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
