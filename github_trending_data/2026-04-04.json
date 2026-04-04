@@ -4,26 +4,26 @@
     "repo_name": "Yeachan-Heo / oh-my-codex",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "stars": 15051,
-    "stars_text": "15,051",
-    "forks": 1407,
+    "stars": 15137,
+    "stars_text": "15,137",
+    "forks": 1416,
     "language": "TypeScript",
     "today_stars": "1,803 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-04T14:40:00.313534+00:00"
+    "fetched_at": "2026-04-04T15:39:33.750363+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 23814,
-    "stars_text": "23,814",
-    "forks": 3187,
+    "stars": 23873,
+    "stars_text": "23,873",
+    "forks": 3191,
     "language": "Python",
     "today_stars": "1,212 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-04T14:40:00.312952+00:00"
+    "fetched_at": "2026-04-04T15:39:33.749711+00:00"
   },
   "google-research/timesfm": {
     "repo_path": "google-research/timesfm",
@@ -43,13 +43,13 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 19026,
-    "stars_text": "19,026",
-    "forks": 1306,
+    "stars": 19096,
+    "stars_text": "19,096",
+    "forks": 1309,
     "language": "TypeScript",
     "today_stars": "1,600 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-04T14:40:00.313960+00:00"
+    "fetched_at": "2026-04-04T15:39:33.750852+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
@@ -82,64 +82,64 @@
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 78994,
-    "stars_text": "78,994",
-    "forks": 9218,
+    "stars": 79042,
+    "stars_text": "79,042",
+    "forks": 9223,
     "language": "Python",
     "today_stars": "993 stars today",
     "rank": 8,
-    "fetched_at": "2026-04-04T14:40:00.315648+00:00"
+    "fetched_at": "2026-04-04T15:39:33.752826+00:00"
   },
   "Blaizzy/mlx-vlm": {
     "repo_path": "Blaizzy/mlx-vlm",
     "repo_name": "Blaizzy / mlx-vlm",
     "repo_url": "https://github.com/Blaizzy/mlx-vlm",
     "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-    "stars": 3414,
-    "stars_text": "3,414",
-    "forks": 375,
+    "stars": 3428,
+    "stars_text": "3,428",
+    "forks": 378,
     "language": "Python",
     "today_stars": "499 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-04T14:40:00.312443+00:00"
+    "fetched_at": "2026-04-04T15:39:33.749156+00:00"
   },
   "telegramdesktop/tdesktop": {
     "repo_path": "telegramdesktop/tdesktop",
     "repo_name": "telegramdesktop / tdesktop",
     "repo_url": "https://github.com/telegramdesktop/tdesktop",
     "description": "Telegram Desktop messaging app",
-    "stars": 30716,
-    "stars_text": "30,716",
-    "forks": 6505,
+    "stars": 30734,
+    "stars_text": "30,734",
+    "forks": 6506,
     "language": "C++",
     "today_stars": "282 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-04T14:40:00.314392+00:00"
+    "fetched_at": "2026-04-04T15:39:33.751367+00:00"
   },
   "block/goose": {
     "repo_path": "block/goose",
     "repo_name": "block / goose",
     "repo_url": "https://github.com/block/goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "stars": 35376,
-    "stars_text": "35,376",
-    "forks": 3319,
+    "stars": 35410,
+    "stars_text": "35,410",
+    "forks": 3323,
     "language": "Rust",
     "today_stars": "947 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-04T14:40:00.314809+00:00"
+    "fetched_at": "2026-04-04T15:39:33.751848+00:00"
   },
   "microsoft/agent-framework": {
     "repo_path": "microsoft/agent-framework",
     "repo_name": "microsoft / agent-framework",
     "repo_url": "https://github.com/microsoft/agent-framework",
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-    "stars": 8554,
-    "stars_text": "8,554",
-    "forks": 1426,
+    "stars": 8578,
+    "stars_text": "8,578",
+    "forks": 1428,
     "language": "Python",
     "today_stars": "66 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-04T14:40:00.315219+00:00"
+    "fetched_at": "2026-04-04T15:39:33.752348+00:00"
   }
 }
