@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 20:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 21:39:02 +0000</lastBuildDate>
     <item>
       <title>Blaizzy / mlx-vlm</title>
       <link>https://github.com/Blaizzy/mlx-vlm</link>
@@ -19,7 +19,7 @@ MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL
 Language: Python
 316 stars today</description>
       <guid isPermaLink="true">https://github.com/Blaizzy/mlx-vlm</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>telegramdesktop / tdesktop</title>
@@ -31,7 +31,7 @@ Telegram Desktop messaging app
 Language: C++
 282 stars today</description>
       <guid isPermaLink="true">https://github.com/telegramdesktop/tdesktop</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>block / goose</title>
@@ -43,7 +43,7 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 Language: Rust
 947 stars today</description>
       <guid isPermaLink="true">https://github.com/block/goose</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / agent-framework</title>
@@ -55,55 +55,55 @@ A framework for building, orchestrating and deploying AI agents and multi-agent 
 Language: Python
 66 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/agent-framework</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>onyx-dot-app / onyx</title>
       <link>https://github.com/onyx-dot-app/onyx</link>
-      <description>⭐ Stars: 23,219 → 24,089 (+870) | Ranked #2
+      <description>⭐ Stars: 23,219 → 24,120 (+901) | Ranked #2
 
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
 Language: Python
 1,212 stars today</description>
       <guid isPermaLink="true">https://github.com/onyx-dot-app/onyx</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>Yeachan-Heo / oh-my-codex</title>
       <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
-      <description>📉 Rank: #1 → #3 (↓2) | ⭐ Stars: 14,056 → 15,471 (+1415)
+      <description>📉 Rank: #1 → #3 (↓2) | ⭐ Stars: 14,056 → 15,512 (+1456)
 
 OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 Language: TypeScript
 1,803 stars today</description>
       <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-codex</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>siddharthvaddem / openscreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
-      <description>⭐ Stars: 18,125 → 19,428 (+1303) | Ranked #4
+      <description>⭐ Stars: 18,125 → 19,495 (+1370) | Ranked #4
 
 Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 Language: TypeScript
 1,600 stars today</description>
       <guid isPermaLink="true">https://github.com/siddharthvaddem/openscreen</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
     <item>
       <title>sherlock-project / sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
-      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 78,474 → 79,246 (+772)
+      <description>📉 Rank: #7 → #8 (↓1) | ⭐ Stars: 78,474 → 79,279 (+805)
 
 Hunt down social media accounts by username across social networks
 
 Language: Python
 993 stars today</description>
       <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Sat, 04 Apr 2026 20:41:41 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 21:39:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
