@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 23:41:24 +0000</lastBuildDate>
-    <item>
-      <title>Brevity Constraints Reverse Performance Hierarchies in Language Models</title>
-      <link>https://huggingface.co/papers/2604.00025</link>
-      <description>By MD Azizul Hakim
-
-Standard evaluation protocols reveal a counterintuitive phenomenon: on 7.7% of benchmark problems spanning five datasets, larger language models underperform smaller ones by 28.4 percentage points despite 10-100x more parameters. Through systematic evaluation of 31 models (0.5B-405B parameters) acro...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00025</guid>
-      <pubDate>Wed, 11 Mar 2026 06:47:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 02:48:02 +0000</lastBuildDate>
     <item>
       <title>Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy</title>
       <link>https://huggingface.co/papers/2603.25764</link>
@@ -53,6 +44,15 @@ Data-centric training has emerged as a promising direction for improving large l
 As Large Language Model (LLM) agents are increasingly deployed in open-ended domains like software engineering, they frequently encounter underspecified instructions that lack crucial context. While human developers naturally resolve underspecification by asking clarifying questions, current agents ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26233</guid>
       <pubDate>Fri, 27 Mar 2026 09:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model</title>
+      <link>https://huggingface.co/papers/2603.27449</link>
+      <description>By Quankai Gao, Jiawei Yang, Qiangeng Xu, Le Chen, Yue Wang
+
+Learning human-object manipulation presents significant challenges due to its fine-grained and contact-rich nature of the motions involved. Traditional physics-based animation requires extensive modeling and manual setup, and more importantly, it neither generalizes well across diverse object morpho...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.27449</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers</title>
@@ -208,6 +208,15 @@ Anticipating supply chain disruptions before they materialize is a core challeng
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Signals: Trajectory Sampling and Triage for Agentic Interactions</title>
+      <link>https://huggingface.co/papers/2604.00356</link>
+      <description>By Shuguang Chen, Adil Hafeez, Salman Paracha
+
+Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deployed at scale, improving them post-deployment remains challenging. Agent trajectories are voluminous an...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.00356</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding</title>
       <link>https://huggingface.co/papers/2604.00886</link>
       <description>By Nan Wang, Zhiwei Jin, Chen Chen, Haonan Lu
@@ -215,15 +224,6 @@ Anticipating supply chain disruptions before they materialize is a core challeng
 Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and small UI elements demand high-resolution inputs that produce tens of thousands of visual tokens. We ob...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.00886</guid>
       <pubDate>Wed, 01 Apr 2026 13:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do Phone-Use Agents Respect Your Privacy?</title>
-      <link>https://huggingface.co/papers/2604.00986</link>
-      <description>By Zhengyang Tang, Ke Ji, Xidong Wang, Zihan Ye, Xinyuan Wang, et al.
-
-We study whether phone-use agents respect privacy while completing benign mobile tasks. This question has remained hard to answer because privacy-compliant behavior is not operationalized for phone-use agents, and ordinary apps do not reveal exactly what data agents type into which form entries duri...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00986</guid>
-      <pubDate>Wed, 01 Apr 2026 14:50:50 +0000</pubDate>
     </item>
     <item>
       <title>AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration</title>
