@@ -4,90 +4,90 @@
     "repo_name": "Yeachan-Heo / oh-my-codex",
     "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "stars": 14471,
-    "stars_text": "14,471",
-    "forks": 1332,
+    "stars": 14594,
+    "stars_text": "14,594",
+    "forks": 1350,
     "language": "TypeScript",
     "today_stars": "3,047 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-04T06:05:55.601192+00:00"
+    "fetched_at": "2026-04-04T07:52:15.347003+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 23485,
-    "stars_text": "23,485",
-    "forks": 3150,
+    "stars": 23538,
+    "stars_text": "23,538",
+    "forks": 3158,
     "language": "Python",
     "today_stars": "1,852 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-04T06:05:55.601745+00:00"
+    "fetched_at": "2026-04-04T07:52:15.347566+00:00"
   },
   "google-research/timesfm": {
     "repo_path": "google-research/timesfm",
     "repo_name": "google-research / timesfm",
     "repo_url": "https://github.com/google-research/timesfm",
     "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "stars": 14246,
-    "stars_text": "14,246",
-    "forks": 1226,
+    "stars": 14298,
+    "stars_text": "14,298",
+    "forks": 1232,
     "language": "Python",
     "today_stars": "916 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-04T06:05:55.602267+00:00"
+    "fetched_at": "2026-04-04T07:52:15.348093+00:00"
   },
   "siddharthvaddem/openscreen": {
     "repo_path": "siddharthvaddem/openscreen",
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 18449,
-    "stars_text": "18,449",
-    "forks": 1268,
+    "stars": 18570,
+    "stars_text": "18,570",
+    "forks": 1277,
     "language": "TypeScript",
     "today_stars": "2,771 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-04T06:05:55.602784+00:00"
+    "fetched_at": "2026-04-04T07:52:15.348603+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
     "repo_name": "dmtrKovalenko / fff.nvim",
     "repo_url": "https://github.com/dmtrKovalenko/fff.nvim",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "stars": 3340,
-    "stars_text": "3,340",
-    "forks": 134,
+    "stars": 3377,
+    "stars_text": "3,377",
+    "forks": 140,
     "language": "Rust",
     "today_stars": "750 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-04T06:05:55.603395+00:00"
+    "fetched_at": "2026-04-04T07:52:15.349240+00:00"
   },
   "f/prompts.chat": {
     "repo_path": "f/prompts.chat",
     "repo_name": "f / prompts.chat",
     "repo_url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-    "stars": 157276,
-    "stars_text": "157,276",
-    "forks": 20607,
+    "stars": 157314,
+    "stars_text": "157,314",
+    "forks": 20611,
     "language": "HTML",
     "today_stars": "375 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-04T06:05:55.604020+00:00"
+    "fetched_at": "2026-04-04T07:52:15.349884+00:00"
   },
   "sherlock-project/sherlock": {
     "repo_path": "sherlock-project/sherlock",
     "repo_name": "sherlock-project / sherlock",
     "repo_url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
-    "stars": 78681,
-    "stars_text": "78,681",
-    "forks": 9193,
+    "stars": 78737,
+    "stars_text": "78,737",
+    "forks": 9199,
     "language": "Python",
     "today_stars": "1,192 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-04T06:05:55.604506+00:00"
+    "fetched_at": "2026-04-04T07:52:15.350386+00:00"
   }
 }
