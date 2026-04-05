@@ -4,26 +4,26 @@
     "repo_name": "Blaizzy / mlx-vlm",
     "repo_url": "https://github.com/Blaizzy/mlx-vlm",
     "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-    "stars": 3841,
-    "stars_text": "3,841",
-    "forks": 413,
+    "stars": 3860,
+    "stars_text": "3,860",
+    "forks": 416,
     "language": "Python",
     "today_stars": "408 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-05T17:39:06.460393+00:00"
+    "fetched_at": "2026-04-05T18:56:22.393673+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 24823,
-    "stars_text": "24,823",
-    "forks": 3323,
+    "stars": 24862,
+    "stars_text": "24,862",
+    "forks": 3325,
     "language": "Python",
     "today_stars": "960 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-05T17:39:06.461972+00:00"
+    "fetched_at": "2026-04-05T18:56:22.395259+00:00"
   },
   "Yeachan-Heo/oh-my-codex": {
     "repo_path": "Yeachan-Heo/oh-my-codex",
@@ -43,39 +43,39 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 22105,
-    "stars_text": "22,105",
-    "forks": 1483,
+    "stars": 22209,
+    "stars_text": "22,209",
+    "forks": 1489,
     "language": "TypeScript",
     "today_stars": "2,692 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-05T17:39:06.460958+00:00"
+    "fetched_at": "2026-04-05T18:56:22.394240+00:00"
   },
   "telegramdesktop/tdesktop": {
     "repo_path": "telegramdesktop/tdesktop",
     "repo_name": "telegramdesktop / tdesktop",
     "repo_url": "https://github.com/telegramdesktop/tdesktop",
     "description": "Telegram Desktop messaging app",
-    "stars": 31011,
-    "stars_text": "31,011",
-    "forks": 6534,
+    "stars": 31026,
+    "stars_text": "31,026",
+    "forks": 6535,
     "language": "C++",
     "today_stars": "265 stars today",
     "rank": 9,
-    "fetched_at": "2026-04-05T17:39:06.464234+00:00"
+    "fetched_at": "2026-04-05T18:56:22.397551+00:00"
   },
   "block/goose": {
     "repo_path": "block/goose",
     "repo_name": "block / goose",
     "repo_url": "https://github.com/block/goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "stars": 36584,
-    "stars_text": "36,584",
-    "forks": 3472,
+    "stars": 36685,
+    "stars_text": "36,685",
+    "forks": 3490,
     "language": "Rust",
     "today_stars": "866 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-05T17:39:06.461478+00:00"
+    "fetched_at": "2026-04-05T18:56:22.394774+00:00"
   },
   "microsoft/agent-framework": {
     "repo_path": "microsoft/agent-framework",
@@ -108,64 +108,64 @@
     "repo_name": "google-ai-edge / gallery",
     "repo_url": "https://github.com/google-ai-edge/gallery",
     "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-    "stars": 16674,
-    "stars_text": "16,674",
-    "forks": 1518,
+    "stars": 16737,
+    "stars_text": "16,737",
+    "forks": 1523,
     "language": "Kotlin",
     "today_stars": "495 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-05T17:39:06.459654+00:00"
+    "fetched_at": "2026-04-05T18:56:22.392968+00:00"
   },
   "badlogic/pi-mono": {
     "repo_path": "badlogic/pi-mono",
     "repo_name": "badlogic / pi-mono",
     "repo_url": "https://github.com/badlogic/pi-mono",
     "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "stars": 31790,
-    "stars_text": "31,790",
-    "forks": 3463,
+    "stars": 31815,
+    "stars_text": "31,815",
+    "forks": 3466,
     "language": "TypeScript",
     "today_stars": "340 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-05T17:39:06.462603+00:00"
+    "fetched_at": "2026-04-05T18:56:22.395890+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
     "repo_name": "dmtrKovalenko / fff.nvim",
     "repo_url": "https://github.com/dmtrKovalenko/fff.nvim",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "stars": 3600,
-    "stars_text": "3,600",
+    "stars": 3620,
+    "stars_text": "3,620",
     "forks": 148,
     "language": "Rust",
     "today_stars": "111 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-05T17:39:06.463209+00:00"
+    "fetched_at": "2026-04-05T18:56:22.396517+00:00"
   },
   "google-ai-edge/LiteRT-LM": {
     "repo_path": "google-ai-edge/LiteRT-LM",
     "repo_name": "google-ai-edge / LiteRT-LM",
     "repo_url": "https://github.com/google-ai-edge/LiteRT-LM",
     "description": "",
-    "stars": 1432,
-    "stars_text": "1,432",
-    "forks": 177,
+    "stars": 1453,
+    "stars_text": "1,453",
+    "forks": 179,
     "language": "C++",
     "today_stars": "193 stars today",
     "rank": 8,
-    "fetched_at": "2026-04-05T17:39:06.463741+00:00"
+    "fetched_at": "2026-04-05T18:56:22.397046+00:00"
   },
   "freeCodeCamp/freeCodeCamp": {
     "repo_path": "freeCodeCamp/freeCodeCamp",
     "repo_name": "freeCodeCamp / freeCodeCamp",
     "repo_url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "stars": 441344,
-    "stars_text": "441,344",
-    "forks": 44091,
+    "stars": 441389,
+    "stars_text": "441,389",
+    "forks": 44096,
     "language": "TypeScript",
     "today_stars": "292 stars today",
     "rank": 10,
-    "fetched_at": "2026-04-05T17:39:06.464850+00:00"
+    "fetched_at": "2026-04-05T18:56:22.398152+00:00"
   }
 }
