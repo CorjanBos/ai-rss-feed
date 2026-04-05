@@ -8,102 +8,102 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 05:48:11 +0000</lastBuildDate>
     <item>
       <title>Blaizzy / mlx-vlm</title>
       <link>https://github.com/Blaizzy/mlx-vlm</link>
-      <description>⭐ Stars: 3,588 → 3,639 (+51) | Ranked #1
+      <description>⭐ Stars: 3,588 → 3,680 (+92) | Ranked #1
 
 MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 
 Language: Python
 343 stars today</description>
       <guid isPermaLink="true">https://github.com/Blaizzy/mlx-vlm</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>onyx-dot-app / onyx</title>
       <link>https://github.com/onyx-dot-app/onyx</link>
-      <description>⭐ Stars: 24,203 → 24,346 (+143) | Ranked #2
+      <description>⭐ Stars: 24,203 → 24,428 (+225) | Ranked #2
 
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
 Language: Python
 1,197 stars today</description>
       <guid isPermaLink="true">https://github.com/onyx-dot-app/onyx</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>Yeachan-Heo / oh-my-codex</title>
       <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
-      <description>⭐ Stars: 15,589 → 15,765 (+176) | Ranked #3
+      <description>⭐ Stars: 15,589 → 15,892 (+303) | Ranked #3
 
 OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 Language: TypeScript
 1,789 stars today</description>
       <guid isPermaLink="true">https://github.com/Yeachan-Heo/oh-my-codex</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>siddharthvaddem / openscreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
-      <description>⭐ Stars: 19,652 → 20,262 (+610) | Ranked #4
+      <description>⭐ Stars: 19,652 → 20,598 (+946) | Ranked #4
 
 Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 Language: TypeScript
 1,591 stars today</description>
       <guid isPermaLink="true">https://github.com/siddharthvaddem/openscreen</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>telegramdesktop / tdesktop</title>
       <link>https://github.com/telegramdesktop/tdesktop</link>
-      <description>⭐ Stars: 30,827 → 30,851 (+24) | Ranked #5
+      <description>⭐ Stars: 30,827 → 30,871 (+44) | Ranked #5
 
 Telegram Desktop messaging app
 
 Language: C++
 249 stars today</description>
       <guid isPermaLink="true">https://github.com/telegramdesktop/tdesktop</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>block / goose</title>
       <link>https://github.com/block/goose</link>
-      <description>⭐ Stars: 35,662 → 35,755 (+93) | Ranked #6
+      <description>⭐ Stars: 35,662 → 35,810 (+148) | Ranked #6
 
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 Language: Rust
 935 stars today</description>
       <guid isPermaLink="true">https://github.com/block/goose</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>microsoft / agent-framework</title>
       <link>https://github.com/microsoft/agent-framework</link>
-      <description>⭐ Stars: 8,691 → 8,737 (+46) | Ranked #7
+      <description>⭐ Stars: 8,691 → 8,770 (+79) | Ranked #7
 
 A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 
 Language: Python
 72 stars today</description>
       <guid isPermaLink="true">https://github.com/microsoft/agent-framework</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
     <item>
       <title>sherlock-project / sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
-      <description>⭐ Stars: 79,332 → 79,431 (+99) | Ranked #8
+      <description>⭐ Stars: 79,332 → 79,516 (+184) | Ranked #8
 
 Hunt down social media accounts by username across social networks
 
 Language: Python
 994 stars today</description>
       <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Sun, 05 Apr 2026 03:25:21 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 05:48:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
