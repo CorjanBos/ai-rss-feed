@@ -4,26 +4,26 @@
     "repo_name": "Blaizzy / mlx-vlm",
     "repo_url": "https://github.com/Blaizzy/mlx-vlm",
     "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-    "stars": 3751,
-    "stars_text": "3,751",
+    "stars": 3758,
+    "stars_text": "3,758",
     "forks": 410,
     "language": "Python",
     "today_stars": "343 stars today",
     "rank": 2,
-    "fetched_at": "2026-04-05T10:43:46.917270+00:00"
+    "fetched_at": "2026-04-05T11:37:28.781345+00:00"
   },
   "onyx-dot-app/onyx": {
     "repo_path": "onyx-dot-app/onyx",
     "repo_name": "onyx-dot-app / onyx",
     "repo_url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "stars": 24589,
-    "stars_text": "24,589",
-    "forks": 3295,
+    "stars": 24623,
+    "stars_text": "24,623",
+    "forks": 3300,
     "language": "Python",
     "today_stars": "1,197 stars today",
     "rank": 5,
-    "fetched_at": "2026-04-05T10:43:46.918621+00:00"
+    "fetched_at": "2026-04-05T11:37:28.782943+00:00"
   },
   "Yeachan-Heo/oh-my-codex": {
     "repo_path": "Yeachan-Heo/oh-my-codex",
@@ -43,39 +43,39 @@
     "repo_name": "siddharthvaddem / openscreen",
     "repo_url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "stars": 21311,
-    "stars_text": "21,311",
-    "forks": 1449,
+    "stars": 21435,
+    "stars_text": "21,435",
+    "forks": 1453,
     "language": "TypeScript",
     "today_stars": "1,591 stars today",
     "rank": 3,
-    "fetched_at": "2026-04-05T10:43:46.917770+00:00"
+    "fetched_at": "2026-04-05T11:37:28.781916+00:00"
   },
   "telegramdesktop/tdesktop": {
     "repo_path": "telegramdesktop/tdesktop",
     "repo_name": "telegramdesktop / tdesktop",
     "repo_url": "https://github.com/telegramdesktop/tdesktop",
     "description": "Telegram Desktop messaging app",
-    "stars": 30918,
-    "stars_text": "30,918",
+    "stars": 30927,
+    "stars_text": "30,927",
     "forks": 6527,
     "language": "C++",
     "today_stars": "249 stars today",
     "rank": 9,
-    "fetched_at": "2026-04-05T10:43:46.920563+00:00"
+    "fetched_at": "2026-04-05T11:37:28.785280+00:00"
   },
   "block/goose": {
     "repo_path": "block/goose",
     "repo_name": "block / goose",
     "repo_url": "https://github.com/block/goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "stars": 35990,
-    "stars_text": "35,990",
-    "forks": 3389,
+    "stars": 36080,
+    "stars_text": "36,080",
+    "forks": 3401,
     "language": "Rust",
     "today_stars": "935 stars today",
     "rank": 4,
-    "fetched_at": "2026-04-05T10:43:46.918195+00:00"
+    "fetched_at": "2026-04-05T11:37:28.782444+00:00"
   },
   "microsoft/agent-framework": {
     "repo_path": "microsoft/agent-framework",
@@ -108,64 +108,64 @@
     "repo_name": "google-ai-edge / gallery",
     "repo_url": "https://github.com/google-ai-edge/gallery",
     "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-    "stars": 16330,
-    "stars_text": "16,330",
-    "forks": 1485,
+    "stars": 16368,
+    "stars_text": "16,368",
+    "forks": 1488,
     "language": "Kotlin",
     "today_stars": "286 stars today",
     "rank": 1,
-    "fetched_at": "2026-04-05T10:43:46.916683+00:00"
+    "fetched_at": "2026-04-05T11:37:28.780638+00:00"
   },
   "badlogic/pi-mono": {
     "repo_path": "badlogic/pi-mono",
     "repo_name": "badlogic / pi-mono",
     "repo_url": "https://github.com/badlogic/pi-mono",
     "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "stars": 31631,
-    "stars_text": "31,631",
-    "forks": 3453,
+    "stars": 31644,
+    "stars_text": "31,644",
+    "forks": 3455,
     "language": "TypeScript",
     "today_stars": "340 stars today",
     "rank": 6,
-    "fetched_at": "2026-04-05T10:43:46.919147+00:00"
+    "fetched_at": "2026-04-05T11:37:28.783589+00:00"
   },
   "dmtrKovalenko/fff.nvim": {
     "repo_path": "dmtrKovalenko/fff.nvim",
     "repo_name": "dmtrKovalenko / fff.nvim",
     "repo_url": "https://github.com/dmtrKovalenko/fff.nvim",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "stars": 3492,
-    "stars_text": "3,492",
+    "stars": 3500,
+    "stars_text": "3,500",
     "forks": 147,
     "language": "Rust",
     "today_stars": "443 stars today",
     "rank": 7,
-    "fetched_at": "2026-04-05T10:43:46.919683+00:00"
+    "fetched_at": "2026-04-05T11:37:28.784234+00:00"
   },
   "google-ai-edge/LiteRT-LM": {
     "repo_path": "google-ai-edge/LiteRT-LM",
     "repo_name": "google-ai-edge / LiteRT-LM",
     "repo_url": "https://github.com/google-ai-edge/LiteRT-LM",
     "description": "",
-    "stars": 1290,
-    "stars_text": "1,290",
+    "stars": 1300,
+    "stars_text": "1,300",
     "forks": 171,
     "language": "C++",
     "today_stars": "113 stars today",
     "rank": 8,
-    "fetched_at": "2026-04-05T10:43:46.920134+00:00"
+    "fetched_at": "2026-04-05T11:37:28.784770+00:00"
   },
   "freeCodeCamp/freeCodeCamp": {
     "repo_path": "freeCodeCamp/freeCodeCamp",
     "repo_name": "freeCodeCamp / freeCodeCamp",
     "repo_url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "stars": 441083,
-    "stars_text": "441,083",
-    "forks": 44069,
+    "stars": 441114,
+    "stars_text": "441,114",
+    "forks": 44071,
     "language": "TypeScript",
     "today_stars": "292 stars today",
     "rank": 10,
-    "fetched_at": "2026-04-05T10:43:46.921089+00:00"
+    "fetched_at": "2026-04-05T11:37:28.785899+00:00"
   }
 }
