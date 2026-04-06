@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:26:26 +0000</lastBuildDate>
     <item>
       <title>abhigyanpatwari / GitNexus</title>
       <link>https://github.com/abhigyanpatwari/GitNexus</link>
@@ -19,7 +19,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 Language: TypeScript
 837 stars today</description>
       <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>immich-app / immich</title>
@@ -31,7 +31,7 @@ High performance self-hosted photo and video management solution.
 Language: TypeScript
 155 stars today</description>
       <guid isPermaLink="true">https://github.com/immich-app/immich</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>KeygraphHQ / shannon</title>
@@ -43,7 +43,7 @@ Shannon Lite is an autonomous, white-box AI pentester for web applications and A
 Language: TypeScript
 703 stars today</description>
       <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>NousResearch / hermes-agent</title>
@@ -55,7 +55,7 @@ The agent that grows with you
 Language: Python
 1,251 stars today</description>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>tobi / qmd</title>
@@ -67,7 +67,7 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 Language: TypeScript
 298 stars today</description>
       <guid isPermaLink="true">https://github.com/tobi/qmd</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>TelegramMessenger / Telegram-iOS</title>
@@ -79,7 +79,7 @@ Telegram-iOS
 Language: Swift
 14 stars today</description>
       <guid isPermaLink="true">https://github.com/TelegramMessenger/Telegram-iOS</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>kepano / obsidian-skills</title>
@@ -89,7 +89,7 @@ Language: Swift
 Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 281 stars today</description>
       <guid isPermaLink="true">https://github.com/kepano/obsidian-skills</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>ollama / ollama</title>
@@ -101,7 +101,7 @@ Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm
 Language: Go
 164 stars today</description>
       <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>ggml-org / llama.cpp</title>
@@ -113,7 +113,7 @@ LLM inference in C/C++
 Language: C++
 244 stars today</description>
       <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA / personaplex</title>
@@ -125,55 +125,55 @@ PersonaPlex code.
 Language: Python
 295 stars today</description>
       <guid isPermaLink="true">https://github.com/NVIDIA/personaplex</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>google-ai-edge / gallery</title>
       <link>https://github.com/google-ai-edge/gallery</link>
-      <description>📉 Rank: #1 → #2 (↓1) | ⭐ Stars: 16,889 → 17,472 (+583)
+      <description>📉 Rank: #1 → #2 (↓1) | ⭐ Stars: 16,889 → 17,539 (+650)
 
 A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
 Language: Kotlin
-389 stars today</description>
+1,109 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/gallery</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>block / goose</title>
       <link>https://github.com/block/goose</link>
-      <description>📈 Rank: #4 → #3 (↑1) | ⭐ Stars: 36,962 → 37,593 (+631)
+      <description>📈 Rank: #4 → #3 (↑1) | ⭐ Stars: 36,962 → 37,667 (+705)
 
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 Language: Rust
-882 stars today</description>
+1,514 stars today</description>
       <guid isPermaLink="true">https://github.com/block/goose</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>google-ai-edge / LiteRT-LM</title>
       <link>https://github.com/google-ai-edge/LiteRT-LM</link>
-      <description>📈 Rank: #8 → #4 (↑4) | ⭐ Stars: 1,539 → 1,778 (+239)
+      <description>📈 Rank: #8 → #4 (↑4) | ⭐ Stars: 1,539 → 1,815 (+276)
 
 
 
 Language: C++
-124 stars today</description>
+487 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/LiteRT-LM</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
     <item>
       <title>siddharthvaddem / openscreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
-      <description>📉 Rank: #3 → #13 (↓10) | ⭐ Stars: 22,467 → 23,297 (+830)
+      <description>📉 Rank: #3 → #13 (↓10) | ⭐ Stars: 22,467 → 23,403 (+936)
 
 Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 Language: TypeScript
-2,749 stars today</description>
+1,823 stars today</description>
       <guid isPermaLink="true">https://github.com/siddharthvaddem/openscreen</guid>
-      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 13:26:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

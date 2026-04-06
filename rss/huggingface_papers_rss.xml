@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:26:24 +0000</lastBuildDate>
     <item>
       <title>Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models</title>
       <link>https://huggingface.co/papers/2603.26259</link>
@@ -217,6 +217,15 @@ With the rise of personalized, persistent LLM agent frameworks such as OpenClaw,
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Do World Action Models Generalize Better than VLAs? A Robustness Study</title>
+      <link>https://huggingface.co/papers/2603.22078</link>
+      <description>By Zhanguang Zhang, Zhiyuan Li, Behnam Rahmati, Rui Heng Yang, Yintao Ma, et al.
+
+Robot action planning in the real world is challenging as it requires not only understanding the current state of the environment but also predicting how it will evolve in response to actions. Vision-language-action (VLA), which repurpose large-scale vision-language models for robot action generatio...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2603.22078</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration</title>
       <link>https://huggingface.co/papers/2604.01014</link>
       <description>By Ruhao Liu, Weiqi Huang, Qi Li, Xinchao Wang
@@ -233,15 +242,6 @@ Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for eva
 We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared frozen base at inference. Five interlocking components: (1) MoE-LoRA with Shazeer-style noisy top-2 ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01152</guid>
       <pubDate>Wed, 01 Apr 2026 17:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative World Renderer</title>
-      <link>https://huggingface.co/papers/2604.02329</link>
-      <description>By Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan, Ruihan Yu, Yidan Zhang, et al.
-
-Scaling generative inverse and forward rendering to real-world scenarios is bottlenecked by the limited realism and temporal coherence of existing synthetic datasets. To bridge this persistent domain gap, we introduce a large-scale, dynamic dataset curated from visually complex AAA games. Using a no...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.02329</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification</title>
