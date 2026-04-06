@@ -8,126 +8,172 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:53:27 +0000</lastBuildDate>
+    <item>
+      <title>abhigyanpatwari / GitNexus</title>
+      <link>https://github.com/abhigyanpatwari/GitNexus</link>
+      <description>🆕 NEW ENTRY - Ranked #1
+
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+
+Language: TypeScript
+837 stars today</description>
+      <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>immich-app / immich</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description>🆕 NEW ENTRY - Ranked #5
+
+High performance self-hosted photo and video management solution.
+
+Language: TypeScript
+155 stars today</description>
+      <guid isPermaLink="true">https://github.com/immich-app/immich</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>KeygraphHQ / shannon</title>
+      <link>https://github.com/KeygraphHQ/shannon</link>
+      <description>🆕 NEW ENTRY - Ranked #6
+
+Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+
+Language: TypeScript
+703 stars today</description>
+      <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>NousResearch / hermes-agent</title>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <description>🆕 NEW ENTRY - Ranked #7
+
+The agent that grows with you
+
+Language: Python
+1,251 stars today</description>
+      <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>tobi / qmd</title>
+      <link>https://github.com/tobi/qmd</link>
+      <description>🆕 NEW ENTRY - Ranked #8
+
+mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+
+Language: TypeScript
+298 stars today</description>
+      <guid isPermaLink="true">https://github.com/tobi/qmd</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>TelegramMessenger / Telegram-iOS</title>
+      <link>https://github.com/TelegramMessenger/Telegram-iOS</link>
+      <description>🆕 NEW ENTRY - Ranked #9
+
+Telegram-iOS
+
+Language: Swift
+14 stars today</description>
+      <guid isPermaLink="true">https://github.com/TelegramMessenger/Telegram-iOS</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>kepano / obsidian-skills</title>
+      <link>https://github.com/kepano/obsidian-skills</link>
+      <description>🆕 NEW ENTRY - Ranked #10
+
+Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+281 stars today</description>
+      <guid isPermaLink="true">https://github.com/kepano/obsidian-skills</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ollama / ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>🆕 NEW ENTRY - Ranked #11
+
+Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+Language: Go
+164 stars today</description>
+      <guid isPermaLink="true">https://github.com/ollama/ollama</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ggml-org / llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <description>🆕 NEW ENTRY - Ranked #12
+
+LLM inference in C/C++
+
+Language: C++
+244 stars today</description>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA / personaplex</title>
+      <link>https://github.com/NVIDIA/personaplex</link>
+      <description>🆕 NEW ENTRY - Ranked #14
+
+PersonaPlex code.
+
+Language: Python
+295 stars today</description>
+      <guid isPermaLink="true">https://github.com/NVIDIA/personaplex</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
+    </item>
     <item>
       <title>google-ai-edge / gallery</title>
       <link>https://github.com/google-ai-edge/gallery</link>
-      <description>⭐ Stars: 16,889 → 17,419 (+530) | Ranked #1
+      <description>📉 Rank: #1 → #2 (↓1) | ⭐ Stars: 16,889 → 17,472 (+583)
 
 A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
 Language: Kotlin
 389 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/gallery</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blaizzy / mlx-vlm</title>
-      <link>https://github.com/Blaizzy/mlx-vlm</link>
-      <description>⭐ Stars: 3,907 → 4,062 (+155) | Ranked #2
-
-MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-
-Language: Python
-416 stars today</description>
-      <guid isPermaLink="true">https://github.com/Blaizzy/mlx-vlm</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>siddharthvaddem / openscreen</title>
-      <link>https://github.com/siddharthvaddem/openscreen</link>
-      <description>⭐ Stars: 22,467 → 23,201 (+734) | Ranked #3
-
-Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-
-Language: TypeScript
-2,749 stars today</description>
-      <guid isPermaLink="true">https://github.com/siddharthvaddem/openscreen</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
     </item>
     <item>
       <title>block / goose</title>
       <link>https://github.com/block/goose</link>
-      <description>⭐ Stars: 36,962 → 37,487 (+525) | Ranked #4
+      <description>📈 Rank: #4 → #3 (↑1) | ⭐ Stars: 36,962 → 37,593 (+631)
 
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 Language: Rust
 882 stars today</description>
       <guid isPermaLink="true">https://github.com/block/goose</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>onyx-dot-app / onyx</title>
-      <link>https://github.com/onyx-dot-app/onyx</link>
-      <description>⭐ Stars: 24,993 → 25,292 (+299) | Ranked #5
-
-Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-Language: Python
-998 stars today</description>
-      <guid isPermaLink="true">https://github.com/onyx-dot-app/onyx</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>badlogic / pi-mono</title>
-      <link>https://github.com/badlogic/pi-mono</link>
-      <description>⭐ Stars: 31,902 → 32,134 (+232) | Ranked #6
-
-AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
-
-Language: TypeScript
-355 stars today</description>
-      <guid isPermaLink="true">https://github.com/badlogic/pi-mono</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>dmtrKovalenko / fff.nvim</title>
-      <link>https://github.com/dmtrKovalenko/fff.nvim</link>
-      <description>⭐ Stars: 3,680 → 3,800 (+120) | Ranked #7
-
-The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-
-Language: Rust
-76 stars today</description>
-      <guid isPermaLink="true">https://github.com/dmtrKovalenko/fff.nvim</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
     </item>
     <item>
       <title>google-ai-edge / LiteRT-LM</title>
       <link>https://github.com/google-ai-edge/LiteRT-LM</link>
-      <description>⭐ Stars: 1,539 → 1,743 (+204) | Ranked #8
+      <description>📈 Rank: #8 → #4 (↑4) | ⭐ Stars: 1,539 → 1,778 (+239)
 
 
 
 Language: C++
 124 stars today</description>
       <guid isPermaLink="true">https://github.com/google-ai-edge/LiteRT-LM</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
     </item>
     <item>
-      <title>telegramdesktop / tdesktop</title>
-      <link>https://github.com/telegramdesktop/tdesktop</link>
-      <description>⭐ Stars: 31,060 → 31,163 (+103) | Ranked #9
+      <title>siddharthvaddem / openscreen</title>
+      <link>https://github.com/siddharthvaddem/openscreen</link>
+      <description>📉 Rank: #3 → #13 (↓10) | ⭐ Stars: 22,467 → 23,297 (+830)
 
-Telegram Desktop messaging app
-
-Language: C++
-287 stars today</description>
-      <guid isPermaLink="true">https://github.com/telegramdesktop/tdesktop</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>freeCodeCamp / freeCodeCamp</title>
-      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description>⭐ Stars: 441,482 → 441,817 (+335) | Ranked #10
-
-freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 Language: TypeScript
-335 stars today</description>
-      <guid isPermaLink="true">https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Mon, 06 Apr 2026 10:16:18 +0000</pubDate>
+2,749 stars today</description>
+      <guid isPermaLink="true">https://github.com/siddharthvaddem/openscreen</guid>
+      <pubDate>Mon, 06 Apr 2026 11:53:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
