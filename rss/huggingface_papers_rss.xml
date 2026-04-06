@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 23:41:38 +0000</lastBuildDate>
-    <item>
-      <title>Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy</title>
-      <link>https://huggingface.co/papers/2603.25764</link>
-      <description>By Aman Mehta
-
-As LLM-based agents are deployed in production systems, understanding their behavioral consistency (whether they produce similar action sequences when given identical tasks) becomes critical for reliability. We study consistency in the context of SWE-bench, a challenging software engineering benchma...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2603.25764</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 03:28:23 +0000</lastBuildDate>
     <item>
       <title>Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models</title>
       <link>https://huggingface.co/papers/2603.26259</link>
@@ -25,6 +16,15 @@ As LLM-based agents are deployed in production systems, understanding their beha
 
 While Late Interaction models exhibit strong retrieval performance, many of their underlying dynamics remain understudied, potentially hiding performance bottlenecks. In this work, we focus on two topics in Late Interaction retrieval: a length bias that arises when using multi-vector scoring, and th...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2603.26259</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation</title>
+      <link>https://huggingface.co/papers/2604.02368</link>
+      <description>By Xue Liu, Xin Ma, Yuxin Ma, Yongchang Peng, Duo Wang, et al.
+
+As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on genera...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.02368</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -127,15 +127,6 @@ Video diffusion models exhibit emergent reasoning capabilities like solving maze
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation</title>
-      <link>https://huggingface.co/papers/2604.00892</link>
-      <description>By Henry Peng Zou, Chunyu Miao, Wei-Chieh Huang, Yankai Chen, Yue Zhou, et al.
-
-As LLM agents transition from short, static problem solving to executing complex, long-horizon tasks in dynamic environments, the ability to handle user interruptions, such as adding requirement or revising goals, during mid-task execution is becoming a core requirement for realistic deployment. How...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00892</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>EgoSim: Egocentric World Simulator for Embodied Interaction Generation</title>
       <link>https://huggingface.co/papers/2604.01001</link>
       <description>By Jinkun Hao, Mingda Jia, Ruiyan Wang, Xihui Liu, Ran Yi, et al.
@@ -217,15 +208,6 @@ Agentic applications based on large language models increasingly rely on multi-s
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding</title>
-      <link>https://huggingface.co/papers/2604.00886</link>
-      <description>By Nan Wang, Zhiwei Jin, Chen Chen, Haonan Lu
-
-Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and small UI elements demand high-resolution inputs that produce tens of thousands of visual tokens. We ob...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.00886</guid>
-      <pubDate>Wed, 01 Apr 2026 13:33:27 +0000</pubDate>
-    </item>
-    <item>
       <title>AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration</title>
       <link>https://huggingface.co/papers/2604.01014</link>
       <description>By Ruhao Liu, Weiqi Huang, Qi Li, Xinchao Wang
@@ -242,33 +224,6 @@ Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for eva
 We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared frozen base at inference. Five interlocking components: (1) MoE-LoRA with Shazeer-style noisy top-2 ...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01152</guid>
       <pubDate>Wed, 01 Apr 2026 17:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models</title>
-      <link>https://huggingface.co/papers/2604.01168</link>
-      <description>By Jack Young
-
-Using roughly 48 execution-verified HumanEval training solutions, tuning a single initial state matrix per recurrent layer, with zero inference overhead, outperforms LoRA by +10.8 pp (p &lt; 0.001) on HumanEval. The method, which we call S0 tuning, optimizes one state matrix per recurrent layer while f...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.01168</guid>
-      <pubDate>Wed, 01 Apr 2026 17:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgentWatcher: A Rule-based Prompt Injection Monitor</title>
-      <link>https://huggingface.co/papers/2604.01194</link>
-      <description>By Yanting Wang, Wei Zou, Runpeng Geng, Jinyuan Jia
-
-Large language models (LLMs) and their applications, such as agents, are highly vulnerable to prompt injection attacks. State-of-the-art prompt injection detection methods have the following limitations: (1) their effectiveness degrades significantly as context length increases, and (2) they lack ex...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.01194</guid>
-      <pubDate>Wed, 01 Apr 2026 17:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization</title>
-      <link>https://huggingface.co/papers/2604.02268</link>
-      <description>By Zhengxi Lu, Zhiyuan Yao, Jinyang Wu, Chengcheng Han, Qi Gu, et al.
-
-Agent skills, structured packages of procedural knowledge and executable resources that agents dynamically load at inference time, have become a reliable mechanism for augmenting LLM agents. Yet inference-time skill augmentation is fundamentally limited: retrieval noise introduces irrelevant guidanc...</description>
-      <guid isPermaLink="true">https://huggingface.co/papers/2604.02268</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook</title>
@@ -458,6 +413,51 @@ We consider the question: when a large language reasoning model makes a choice, 
 Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on fixed heuristics and hard-coded exploration rules, which limit the autonomy of LLM agents. We prese...</description>
       <guid isPermaLink="true">https://huggingface.co/papers/2604.01658</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>InCoder-32B-Thinking: Industrial Code World Model for Thinking</title>
+      <link>https://huggingface.co/papers/2604.03144</link>
+      <description>By Jian Yang, Wei Zhang, Jiajun Wu, Junhang Cheng, Tuney Zheng, et al.
+
+Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. In this work, we propose InCoder-32B-Thinking, trained on the data from the Error-driven Chain-of-Tho...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.03144</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning</title>
+      <link>https://huggingface.co/papers/2604.03231</link>
+      <description>By Ankan Deria, Komal Kumar, Xilin He, Imran Razzak, Hisham Cholakkal, et al.
+
+Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective for cross-modal alignment and retrieval, self-supervised visual encoders often capture richer dense ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.03231</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents</title>
+      <link>https://huggingface.co/papers/2604.02947</link>
+      <description>By Yunhao Feng, Yifan Ding, Yingshui Tan, Xingjun Ma, Yige Li, et al.
+
+Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and translate intermediate outputs into concrete actions. This creates a distinct safety challenge in that ...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.02947</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?</title>
+      <link>https://huggingface.co/papers/2604.03016</link>
+      <description>By Qianshan Wei, Yishan Yang, Siyi Wang, Jinglin Chen, Binyu Wang, et al.
+
+Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web search). However, existing evaluations fall short: they lack flexible tool integration, test visual and...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.03016</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Distilled RLVR</title>
+      <link>https://huggingface.co/papers/2604.03128</link>
+      <description>By Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, et al.
+
+On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled trajectory, in contrast to reinforcement learning with verifiable rewards (RLVR), which only obtains s...</description>
+      <guid isPermaLink="true">https://huggingface.co/papers/2604.03128</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
